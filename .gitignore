@@ -6,11 +6,12 @@
 *.html
 *.tgz
 *.txt
+!groundtruth/*
+!original/*
 *.json
 test*
 papers/
 paper/
-test/
 distinct/
 truth/
 writings/
@@ -19,3 +20,12 @@ rexa_coref_datav0.5/
 non-author/
 disambiguation/
 distinct-intermediate/
+wikipedia/*
+!wikipedia/*.pl
+wikipedia/test*.pl
+!wikipedia/*.pm
+!wikipedia/csmathling-full.txt
+!wikipedia/csmathling.txt
+!wikipedia/ic.txt
+!wikipedia/morpha
+!wikipedia/verbstem.list
