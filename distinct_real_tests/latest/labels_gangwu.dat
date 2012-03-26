@@ -1,0 +1,160 @@
+
+
+
+Cluster 0, 19 tuples (ECE, UCSB)
+yi-leh wu, long jiao, gang wu, edward y. chang, yuanfang wang,    "conf/avss/wujwcw03"   AVSS, 2003
+edward y. chang, beitao li, gang wu, kingshy goh,    "conf/icip/changlwg03"   ICIP, 2003
+gang wu, edward y. chang,    "conf/icml/wuc03"   ICML, 2003
+gang wu, yi-leh wu, long jiao, yuanfang wang, edward y. chang,    "conf/mm/wuwjwc03"   ACM Multimedia, 2003
+yi wu, edward y. chang, gang wu,    "conf/spiesr/wucw03"   Storage and Retrieval for Media Databases, 2003
+edward y. chang, kingshy goh, gerard sychay, gang wu,    "journals/tcsv/changgsw03"   IEEE Trans. Circuits Syst. Video Techn., 2003
+gang wu, edward y. chang,    "conf/icdm/wuc04"   ICDM, 2004
+long jiao, yi-leh wu, gang wu, edward y. chang, yuanfang wang,    "journals/mms/jiaowwcw04"   Multimedia Syst., 2004
+mei-chen yeh, i-hsiang lee, gang wu, yi wu, edward y. chang,    "conf/icmcs/yehlwwc05"   ICME, 2005
+gang wu, edward y. chang, navneet panda,    "conf/kdd/wucp05"   KDD, 2005
+gang wu, edward y. chang, navneet panda,    "conf/mm/wucp05"   ACM Multimedia, 2005
+gang wu, edward y. chang, zhihua zhang,    "conf/mm/wucz05"   ACM Multimedia, 2005
+gang wu, zhihua zhang, edward y. chang,    "conf/sdm/wuzc05"   SDM, 2005
+gang wu, edward y. chang,    "journals/tkde/wuc05"   IEEE Trans. Knowl. Data Eng., 2005
+gang wu, amir rahimi, edward y. chang, kingshy goh, tomy tsai, ankur jain, yuanfang wang,    "conf/cvpr/wurcgtjw06"   CVPR, 2006
+navneet panda, edward y. chang, gang wu,    "conf/icml/pandacw06"   ICML, 2006
+gang wu, edward y. chang, yen-kuang chen, christopher j. hughes,    "conf/kdd/wucch06"   KDD, 2006
+zhihua zhang, gang wu, edward y. chang,    "journals/tnn/zhangwc07"   IEEE Transactions on Neural Networks, 2007
+ching-yung lin, xiaodan song, gang wu,    "conf/spiesr/linsw05"   Storage and Retrieval Methods and Applications for Multimedia, 2005
+
+Cluster 1, 13 tuples (UESTC, China)
+lei zhang, gang wu, shaoqian li,    "conf/fgcn/zhangwl07a"   FGCN, 2007
+qi wu, haiyang huang, gang wu, xia lei, shaoqian li,    "conf/fgcn/wuhwll07"   FGCN, 2007
+xiaoyin fang, gang wu, haiyang huang, xia lei, shaoqian li,    "conf/fgcn/fangwhll07"   FGCN, 2007
+tao luo, yong liang guan, gang wu, shaoqian li, choi look law,    "conf/fgcn/luogwll07"   FGCN, 2007
+wei lin, gang wu, lei zhang, shaoqian li,    "conf/hpcc/linwzl08"   HPCC, 2008
+su hu, gang wu, shaoqian li,    "journals/jnw/huwl09"   JNW, 2009
+lilin dan, yue xiao, peng cheng, gang wu, shaoqian li,    "journals/chinaf/danxcwl09"   Science in China Series F, 2009
+xin xia, gang wu, jing liu, shaoqian li,    "journals/chinaf/xiawll09"   Science in China Series F, 2009
+chuanfu chen, kai sun, gang wu, qiong tang, jian qin, kuei chiu, yushuang fu, xiaofang wang, jing liu,    "journals/scientometrics/chenswtqcfwl09"   Scientometrics, 2009
+chuanfu chen, yushuang fu, dan wu, congjing ran, kai sun, gang wu,    "conf/interaction/chenfwrsw09"   Int. Conf. Interaction Sciences, 2009
+lu lu, ming xiao, mikael skoglund, lars k. rasmussen, gang wu, shaoqian li,    "conf/wcnc/luxsrwl10"   WCNC, 2010
+su hu, gang wu, teng li, yue xiao, shaoqian li,    "journals/ieicet/huwlxl10"   IEICE Transactions, 2010
+deli jia, gang wu, wei lin, shaoqian li,    "journals/jcm/jiawll10"   JCM, 2010
+
+Cluster 2, 10 tuples (NOKIA, Shanghai)
+feng hu, hua zhang, xiaohu you, haifeng wang, gang wu,    "conf/vtc/huzyww09"   VTC Spring, 2009
+feng hu, hua zhang, xiaohu you, haifeng wang, gang wu,    "conf/wcnc/huzyww09"   WCNC, 2009
+wei yang, lihua li, gang wu, haifeng wang, ying wang,    "conf/vtc/yanglwww10"   VTC Fall, 2010
+lei song, lihua li, gang wu, chaowei wang, haifeng wang,    "conf/vtc/songlwww10"   VTC Fall, 2010
+hua zhang, xiaohu you, gang wu, haifeng wang,    "conf/globecom/zhangyww10"   GLOBECOM, 2010
+gang wu, zhenhong li, haifeng wang, wei zou,    "conf/wcnc/wulwz10"   WCNC, 2010
+zhenhong li, haifeng wang, gang wu, ting zhou,    "conf/pimrc/liwwz10"   PIMRC, 2010
+wei yang, lihua li, gang wu, haifeng wang,    "conf/isita/yanglww10"   ISITA, 2010
+wei yang, lihua li, gang wu, haifeng wang, ying wang,    "journals/corr/abs-1009-0068"   CoRR, 2010
+wei yang, lihua li, gang wu, haifeng wang,    "journals/corr/abs-1009-0072"   CoRR, 2010
+
+Cluster 3, 10 tuples (University of Alberta, Canada)
+gang wu, guohui lin, jiahuai you,    "conf/ictai/wuly04"   ICTAI, 2004
+gang wu, guohui lin, jiahuai you, xiaomeng wu,    "conf/apbc/wulyw05"   APBC, 2005
+gang wu, jiahuai you, guohui lin,    "conf/csb/wuyl05"   CSB Workshops, 2005
+gang wu, jiahuai you, guohui lin,    "conf/lpnmr/wuyl05"   LPNMR, 2005
+gang wu, jiahuai you, guohui lin,    "conf/wabi/wuyl05"   WABI, 2005
+gang wu, jiahuai you, guohui lin,    "journals/ipl/wuyl06"   Inf. Process. Lett., 2006
+xiaomeng wu, xiufeng wan, gang wu, dong xu, guohui lin,    "journals/ijbra/wuwwxl06"   IJBRA, 2006
+gang wu, jiahuai you, guohui lin,    "journals/tcbb/wuyl07"   IEEE/ACM Trans. Comput. Biology Bioinform., 2007
+gang wu, mingyang kao, guohui lin, jiahuai you,    "journals/almob/wukly08"   Algorithms for Molecular Biology, 2008
+gang wu, irene cheng,    "conf/icmcs/wuc07a"   ICME, 2007
+
+Cluster 4, 8 tuples (Southeast University, China)
+gang wu, kuo zhang, can liu, juanzi li,    "conf/dasfaa/wuzll06"   DASFAA, 2006
+kuo zhang, gang wu, juanzi li,    "conf/www/kuogj06"   WWW, 2006
+kuo zhang, juanzi li, gang wu, kehong wang,    "conf/pakdd/zhanglww08"   PAKDD, 2008
+gang wu, juanzi li, ling feng, kehong wang,    "conf/semweb/wulfw08"   International Semantic Web Conference, 2008
+gang wu, juanzi li, jianqiang hu, kehong wang,    "conf/waim/wulhw08"   WAIM, 2008
+gang wu, juanzi li, kehong wang,    "conf/www/wulw08"   WWW, 2008
+gang wu, juanzi li, jianqiang hu, kehong wang,    "journals/jcst/wulhw09"   J. Comput. Sci. Technol., 2009
+gang wu, mengdong yang, ke wu, guilin qi, yuzhong qu,    "conf/www/wuywqq10"   WWW, 2010
+
+Cluster 5, 5 tuples (Department of Automation, USTC, China)
+qing ling, gang wu, qiuping wang,    "conf/cec/lingww05"   Congress on Evolutionary Computation, 2005
+qing ling, gang wu, qiuping wang,    "series/sci/lingww07"   Evolutionary Computation in Dynamic and Uncertain Environments, 2007
+qing ling, gang wu, zaiyue yang, qiuping wang,    "journals/asc/lingwyw08"   Appl. Soft Comput., 2008
+juchao zhuo, jun li, gang wu, liyue zhu,    "conf/csse/zhuolwz08"   CSSE, 2008
+juchao zhuo, jun li, gang wu,    "conf/gecco/zhuolw09"   GEC Summit, 2009
+
+Cluster 6, 4 tuples (Department of Chemistry, New York University)
+ruojie sha, xiaoping zhang, shiping liao, pamela e. constantinou, baoquan ding, tong wang, alejandra v. garibotti, hong zhong, lisa b. israel, xing wang, gang wu, banani chakraborty, junghuei chen, yuwen zhang, hao yan, zhiyong shen, wanqiu shen, phiset sa-ardyen, jens kopatsch, jiwen zheng, philip s. lukeman, william b. sherman, chengde mao, natasa jonoska, nadrian c. seeman,    "conf/uc/shazlcdwgziwwcczyssskzlsmjs05"   UC, 2005
+gang wu, nadrian c. seeman,    "journals/nc/wus06"   Natural Computing, 2006
+natasa jonoska, nadrian c. seeman, gang wu,    "journals/tcs/jonoskasw09"   Theor. Comput. Sci., 2009
+gang wu, natasha jonoska, nadrian c. seeman,    "journals/biosystems/wujs09"   Biosystems, 2009
+
+Cluster 7, 3 tuples (Fair Isaac Corporation, San Diego)
+gang wu, edwin k. p. chong, robert givan,    "conf/infocom/wucg01"   INFOCOM, 2001
+gang wu, edwin k. p. chong, robert givan,    "conf/mse/wucg02"   ISMSE, 2002
+gang wu, edwin k. p. chong, robert givan,    "journals/cn/wucg06"   Computer Networks, 2006
+
+Cluster 8, 3 tuples (University of Toronto)
+gang wu, james g. mainprize, martin j. yaffe,    "conf/mammo/wumy08"   Digital Mammography / IWDM, 2008
+gang wu, james g. mainprize, martin j. yaffe,    "conf/mammo/wumy10"   Digital Mammography / IWDM, 2010
+xinying wang, james g. mainprize, gang wu, martin j. yaffe,    "conf/mammo/wangmwy10"   Digital Mammography / IWDM, 2010
+
+Cluster 9, 3 tuples (University of Maryland at Baltimore County)
+gang wu, nabila bashir-bello, stephen j. freeland,    "conf/csb/wubf05"   CSB Workshops, 2005
+gang wu, yuanpu zheng, imran qureshi, htar thant zin, tyler beck, blazej bulka, stephen j. freeland,    "journals/nar/wuzqzbbf07"   Nucleic Acids Research, 2007
+lei nie, gang wu, fred j. brockman, weiwen zhang,    "journals/bioinformatics/niewbz06"   Bioinformatics, 2006
+
+Cluster 10, 3 tuples (National University of Defense Technology, China)
+gang wu, quanyuan wu, huaimin wang,    "conf/tools/wuww00"   TOOLS, 2000
+gang wu, huaimin wang, xinjun mao, quanyuan wu,    "conf/pdpta/wuhxq02"   PDPTA, 2002
+xinjun mao, gang wu, huaimin wang,    "conf/sac/maoww04"   SAC, 2004
+
+Cluster 11, 3 tuples (Stony Brook University)
+gang wu, tzi-cker chiueh,    "conf/mswim/wuc07"   MSWiM, 2007
+gang wu, fanglu guo, tzi-cker chiueh,    "conf/nca/wugc07"   NCA, 2007
+gang wu, sathyanarayana singh, tzi-cker chiueh,    "conf/wicon/wusc08"   WICON, 2008
+
+Cluster 12, 3 tuples (Xuzhou Normal University)
+gang wu, yimin wei,    "journals/tois/wuw10"   ACM Trans. Inf. Syst., 2010
+gang wu,    "journals/amc/wu04a"   Applied Mathematics and Computation, 2004
+wei jiang, gang wu,    "journals/cma/jiangw10"   Computers & Mathematics with Applications, 2010
+
+Cluster 13, 3 tuples (Communications Research Laboratory, Yokosuka, Japan)
+paul j. m. havinga, gerard j. m. smit, lars kristian vognild, gang wu,    "conf/ic/havingasvw01"   International Conference on Internet Computing, 2001
+hiroshi harada, gang wu, kazumasa taira, yoshihiro hase, hideichi sasaoka,    "conf/icc/haradawths97"   ICC, 1997
+m. hasegawa, gang wu, m. mizuni,    "conf/iscas/hasegawawm01"   ISCAS, 2001
+
+Cluster 14, 2 tuples (Shanghai Jiao Tong University)
+shanshan wang, gang wu, xiaochong cao,    "conf/icpads/wangwc10"   ICPADS, 2010
+jing deng, meikang qiu, gang wu,    "conf/nas/dengqw10"   NAS, 2010
+
+Cluster 15, 2 tuples (Philips Research Asia, Shanghai)
+min huang, wei miao, gang wu, shidong zhou, jing wang,    "conf/wcnc/huangmwzw08"   WCNC, 2008
+gang wu, shixin cheng,    "journals/wicomm/wuc04"   Wireless Communications and Mobile Computing, 2004
+
+Cluster 16, 2 tuples (Institute of Automation, CAS, China)
+gang wu, chunhong pan, veronique prinet, songde ma,    "conf/icip/wuppm04"   ICIP, 2004
+chunhong pan, gang wu, veronique prinet, qing yang, songde ma,    "conf/cvpr/panwpym05"   CVPR, 2005
+
+Cluster 17, 1 tuples (Key Laboratory of Computational Biology, CAS-MPG PICB)
+darong lai, xinyi yang, gang wu, yuanhua liu, christine nardini,    "journals/bioinformatics/laiywln11"   Bioinformatics, 2011
+
+Cluster 18, 1 tuples (Tsinghua University)
+bin xu, tao li, zhifeng gu, gang wu,    "conf/wecwis/xulgw06"   CEC/EEE, 2006
+
+Cluster 19, 1 tuples (Beijing University of Technology)
+gang wu, jianli liu,    "conf/gcc/wul05"   GCC, 2005
+
+Cluster 20, 1 tuples (University of New South Wales)
+roger m. kerr, gang wu,    "conf/ifip5-5/kerrw03"   PRO-VE, 2003
+
+Cluster 21, 1 tuples (Northeastern University)
+yaxin yu, guoren wang, ge yu, gang wu, junan hu, nan tang,    "conf/compsac/yuwywht03"   COMPSAC, 2003
+
+Cluster 22, 1 tuples (Panasonic R&D Center of China, Beijing Laboratory)
+gang wu, weijie liu, xiaohui xie, qiang wei,    "conf/icip/wulxw07"   ICIP, 2007
+
+Cluster 23, 1 tuples (USTC)
+zhihua diao, chunjiang zhao, xiaojun qiao, cheng wang, gang wu, xin zhang,    "conf/ifip12/diaozqwwz07"   CCTA, 2007
+
+Cluster 24, 1 tuples (Fudan)
+gang wu, zhiqiang tang, shiliang tu,    "conf/icess/wutt04"   ICESS, 2004
+
+Cluster 25, 1 tuples (Microsoft adCenter)
+gang wu, brendan kitts,    "conf/kdd/wuk08"   KDD, 2008
+

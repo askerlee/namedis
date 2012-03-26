@@ -1,0 +1,60 @@
+
+
+
+Cluster 0, 49 tuples (UMass)
+david jensen, jennifer neville,    "conf/icml/jensenn02"   ICML, 2002
+david jensen, jennifer neville,    "conf/ilp/jensenn02"   ILP, 2002
+david jensen, matthew j. rattigan, hannah blau,    "conf/kdd/jensenrb03"   KDD, 2003
+jennifer neville, david jensen, brian gallagher,    "conf/icdm/nevillejg03"   ICDM, 2003
+david jensen, jennifer neville, michael hay,    "conf/icml/jensennh03"   ICML, 2003
+jennifer neville, david jensen, lisa friedland, michael hay,    "conf/kdd/nevillejfh03"   KDD, 2003
+amy mcgovern, lisa friedland, michael hay, brian gallagher, andrew fast, jennifer neville, david jensen,    "journals/sigkdd/mcgovernfhgfnj03"   SIGKDD Explorations, 2003
+amy mcgovern, david jensen,    "conf/icml/mcgovernj03"   ICML, 2003
+jennifer neville, david jensen,    "conf/icdm/nevillej04"   ICDM, 2004
+david jensen, jennifer neville, brian gallagher,    "conf/kdd/jensenng04"   KDD, 2004
+andrew fast, david jensen, brian neil levine,    "conf/kdd/fastjl05"   KDD, 2005
+jennifer neville, david jensen,    "conf/dagstuhl/nevillej05"   Probabilistic, 2005
+jennifer neville, david jensen,    "conf/icdm/nevillej05"   ICDM, 2005
+jennifer neville, ozgur simsek, david jensen, john komoroske, kelly palmer, henry g. goldberg,    "conf/kdd/nevillesjkpg05"   KDD, 2005
+ozgur simsek, david jensen,    "conf/ijcai/simsekj05"   IJCAI, 2005
+george dean bissias, marc liberatore, david jensen, brian neil levine,    "conf/pet/bissiasljl05"   Privacy Enhancing Technologies, 2005
+matthew j. rattigan, david jensen,    "journals/sigkdd/rattiganj05"   SIGKDD Explorations, 2005
+matthew j. rattigan, marc maier, david jensen,    "conf/kdd/rattiganmj06"   KDD, 2006
+john burgess, brian gallagher, david jensen, brian neil levine,    "conf/infocom/burgessgjl06"   INFOCOM, 2006
+matthew j. rattigan, marc maier, david jensen, bin wu, xin pei, jianbin tan, yi wang,    "conf/icdm/rattiganmjwptw07"   ICDM Workshops, 2007
+matthew j. rattigan, marc maier, david jensen,    "conf/icml/rattiganmj07"   ICML, 2007
+andrew fast, lisa friedland, marc maier, brian taylor, david jensen, henry g. goldberg, john komoroske,    "conf/kdd/fastfmtjgk07"   KDD, 2007
+jennifer neville, david jensen,    "conf/ilp/nevillej07"   ILP, 2007
+lisa friedland, david jensen,    "conf/kdd/friedlandj07"   KDD, 2007
+andrew fast, david jensen,    "conf/icdm/fastj08"   ICDM, 2008
+jennifer neville, david jensen,    "journals/ml/nevillej08"   Machine Learning, 2008
+amy mcgovern, david jensen,    "journals/prl/mcgovernj08"   Pattern Recognition Letters, 2008
+michael hay, gerome miklau, david jensen, donald f. towsley, philipp weis,    "journals/pvldb/haymjtw08"   PVLDB, 2008
+michael hay, chao li, gerome miklau, david jensen,    "conf/icdm/haylmj09"   ICDM, 2009
+marc maier, brian taylor, huseyin oktay, david jensen,    "conf/aaai/maiertoj10"   AAAI, 2010
+matthew j. rattigan, david jensen,    "conf/icdm/rattiganj10"   ICDM, 2010
+michael hay, gerome miklau, david jensen, donald f. towsley, chao li,    "journals/vldb/haymjtl10"   VLDB J., 2010
+tim oates, david jensen,    "conf/icml/oatesj97"   ICML, 1997
+david jensen, tim oates, paul r. cohen,    "conf/ida/jensenoc97"   IDA, 1997
+tim oates, david jensen,    "conf/kdd/oatesj98"   KDD, 1998
+tim oates, david jensen,    "conf/aaai/oatesj99"   AAAI/IAAI, 1999
+foster j. provost, david jensen, tim oates,    "conf/kdd/provostjo99"   KDD, 1999
+david jensen, matthew d. schmill,    "conf/kdd/jensens97"   KDD, 1997
+victor lavrenko, matthew d. schmill, dawn lawrie, paul ogilvie, david jensen, james allan,    "conf/cikm/lavrenkosloja00"   CIKM, 2000
+chirag shah, w. bruce croft, david jensen,    "conf/cikm/shahcj06"   CIKM, 2006
+trevor strohman, w. bruce croft, david jensen,    "conf/sigir/strohmancj07"   SIGIR, 2007
+stephen hart, roderic a. grupen, david jensen,    "conf/aaai/hartgj05"   AAAI, 2005
+david jensen, michael atighetchi, regis vincent, victor r. lesser,    "conf/aaai/jensenavl99"   AAAI/IAAI, 1999
+david jensen,    "conf/gd/jensen00"   Graph Drawing, 2000
+ravi kumar, alexander tuzhilin, christos faloutsos, david jensen, gueorgi kossinets, jure leskovec, andrew tomkins,    "conf/kdd/kumartfjklt08"   KDD, 2008
+david jensen, yulin dong, barbara staudt lerner, eric k. mccall, leon j. osterweil, stanley m. sutton jr., alexander e. wise,    "conf/wacc/jensendlmosw99"   WACC, 1999
+david jensen,    "conf/ic3k/jensen09"   KDIR, 2009
+hendrik blockeel, david jensen, stefan kramer,    "journals/ml/blockeeljk06"   Machine Learning, 2006
+david jensen,    "journals/sigkdd/jensen00"   SIGKDD Explorations, 2000
+
+Cluster 1, 1 tuples (IBM Thomas J. Watson Research Center)
+francisco barahona, david jensen,    "journals/mp/barahonaj98"   Math. Program., 1998
+
+Cluster 2, 1 tuples (Rockwell Collins [a supplier to the military])
+bita gorjiara, pai h. chou, nader bagherzadeh, mehrdad reshadi, david jensen,    "conf/aspdac/gorji-aracbrj04"   ASP-DAC, 2004
+

@@ -1,0 +1,601 @@
+mots	semgram	lemfreq	surfreq	répartition
+être	(verbe.)	14083		163
+avoir		11552		163
+de		10503		163
+je		7905		162
+il	(ou ils)	7515		160
+ce	(pronom)	6846		163
+la	(article)	5374		163
+pas	(négation)	5308		158
+à	(prépos.)	5236		163
+et		5082		161
+le	(article)	4957		163
+on		4266		128
+vous		4202		154
+un	(article)	4188		162
+ça	(pronom démonstratif)	3972		159
+les	(article)	3815		162
+que	(conj.)	3537		162
+ne		3283		150
+faire		3174		162
+qui	(relatif)	3096		160
+oui		2935		154
+alors		2854		155
+une	(article)	2780		163
+mais		2768		159
+des	(article indéfini)	2646		161
+elle	(ou elles)	2462		134
+en	(prépos.)	2405		161
+dire		2391		160
+y		2391		143
+pour		2076		161
+dans		2066		162
+me		2014		152
+se		1993		161
+aller		1876		161
+bien	(adv.)	1697		163
+du		1658		154
+tu		1536		105
+en	(pronom-adv.)	1501		153
+au		1490		161
+là		1468		153
+l'	(article le)	1465		158
+comme		1452		153
+voir		1439		153
+non		1435		139
+savoir		1432		150
+nous		1386		141
+puis		1384		136
+ah		1373		139
+l'	(article la)	1319		156
+oh		1258		141
+moi		1218		143
+tout	(adj.)	1205		149
+très		1189		141
+que	(relatif)	1136		157
+pouvoir	(verbe.)	1131		157
+parce que		1126		148
+avec		1087		152
+lui		1066		128
+falloir		1001		151
+enfin		1001		142
+par		965		153
+quand		964		143
+le	(pronom)	894		140
+vouloir		881		146
+petit		863		143
+si	(conditionnel)	837		141
+plus	(comparatif)	832		135
+même		810		148
+sur	(prépos.)	801		139
+ce	(déterminatif)	705		142
+ou	(conj.)	705		137
+autre		695		145
+deux		689		139
+mon		675		133
+ben		620		111
+venir		613		136
+prendre		608		143
+tout	(pronom)	608		130
+arriver		568		133
+beaucoup		561		130
+croire		555		135
+heure		545		117
+rien		541		124
+jour		538		132
+mettre		530		125
+passer		483		136
+un peu		481		120
+chose		411		121
+les	(pronom)	475		120
+devoir	(verbe.)	472		124
+l'	(pronom le)	458		102
+aussi		454		126
+encore		452		138
+des	(de les)	452		95
+trois		450		113
+parler		447		118
+hein		447		74
+toujours		443		117
+cette		439		130
+trouver		439		123
+quoi	(exclamatif)	437		85
+ma		432		107
+grand	(adj.)	428		118
+temps		426		130
+donner		426		128
+après		425		120
+fois		423		121
+eh bien		417		104
+te		413		86
+an		407		111
+son	(possessif)	407		103
+où	(relatif)	406		131
+sa		401		113
+cent		397		92
+comprendre		393		94
+maintenant		391		125
+bon	(adj.)	384		123
+tout	(adv.)	381		110
+quand même		368		97
+chez		365		108
+plus	(temporel)	355		117
+moment		337		114
+vingt		335		101
+qu'est-ce que		328		115
+que	(après comparaison)	328		106
+la	(pronom)	328		105
+comment		327		106
+jamais		325		108
+moins		322		106
+quatre		322		105
+connaître		316		107
+monsieur	(messieurs)	316		92
+ces		314		107
+vraiment		314		101
+dix		311		97
+franc	(monnaie)	311		68
+cinq		310		109
+votre	(déterminatif)	306		86
+partir		305		100
+enfant		305		84
+voilà		304		95
+assez		302		107
+madame	(mesdames)	299		70
+demander		291		108
+trop		286		109
+d'ailleurs		283		98
+tenir		281		106
+maison		278		93
+femme		275		74
+peut-être		273		114
+aimer		267		94
+gens		265		87
+mois		262		78
+penser		258		102
+là-bas		257		76
+mille		257		70
+quelque chose		255		105
+soir		253		91
+rester		250		100
+sans		249		117
+année		247		91
+donc		243		95
+exemple		242		94
+déjà		241		107
+premier		240		96
+manger		240		60
+côté		239		96
+quel		238		100
+ses		238		90
+aux		237		92
+beau		229		82
+mieux		227		96
+matin		223		82
+que	(dans : ne... que)	219		86
+ici		218		83
+appeler		216		87
+surtout		216		86
+sortir		215		96
+mes		215		71
+huit		207		85
+leur	(pronom personnel)	206		78
+six		206		75
+n'est-ce pas		206		62
+évidemment		205		76
+travailler		204		63
+VRAI		202		83
+peu	(adv.)	200		96
+l'	(pronom la)	200		69
+jusque		192		93
+est-ce que		192		65
+vieux		192		71
+leur	(possessif)	191		78
+avant		189		86
+travail		189		76
+seul	(ou seule)	184		78
+histoire		184		66
+seulement		183		94
+mal	(adv.)	183		83
+voiture		182		46
+pendant		181		84
+école		178		63
+acheter		178		61
+français	(nom. et adj.)	178		58
+près		176		97
+laisser		175		86
+quelques		175		84
+écouter		175		75
+entendre		174		85
+un	(pronom)	171		56
+gros		165		77
+rentrer		165		72
+depuis		164		83
+pourquoi		163		90
+commencer		163		85
+marcher		163		68
+regarder		162		71
+un	(numéral)	161		58
+rendre		160		73
+fille		160		58
+revenir		157		81
+dernier		157		79
+tellement		154		78
+trente		154		70
+type		151		47
+lire		151		45
+monter		150		65
+payer		149		53
+sûr	(adj. et adv.)	147		65
+si	(affirmatif)	146		69
+bon	(interjection)	146		58
+chercher		144		78
+eux		144		67
+toi		144		59
+absolument		143		66
+c'est-à-dire		142		73
+coup		142		69
+mot		142		45
+intéressant		141		57
+jouer		139		48
+neuf	(nombre)	137		54
+demi		136		66
+vie		135		67
+sept		135		64
+eau		135		49
+paraître		134		61
+attendre		133		67
+perdre		132		72
+point	(nom.)	132		63
+souvent		132		61
+film		132		17
+si	(intensif)	131		71
+personne	(substantif)	131		61
+homme		131		55
+cher		130		56
+si	(interrogatif)	129		67
+père		129		49
+finir		125		71
+tout le monde		125		70
+naturellement		124		50
+place		120		58
+ville		120		47
+rue		119		95
+façon		119		58
+descendre		118		54
+certain		117		58
+bois		117		37
+tout de même		116		64
+quinze		116		62
+rappeler		116		56
+cheval		116		30
+arrêter		115		59
+guerre		115		28
+raconter		113		55
+apprendre		113		52
+ami		112		54
+justement		111		66
+d'abord		111		59
+général	(adj.)	111		55
+longtemps		110		69
+quoi	(interrogatif)	110		65
+bout		110		58
+gosse		110		50
+notre		109		63
+prix		108		48
+question		108		47
+mari		108		45
+cet		107		59
+quelqu'un		107		55
+main		107		53
+service		106		52
+mère		106		49
+route		104		34
+jeune	(nom. et adj.)	103		55
+dimanche		103		51
+changer		102		59
+journée		102		55
+occuper		102		52
+garçon		102		47
+foi		102		37
+cinquante		101		48
+sentir		101		47
+presque		99		58
+idée		99		55
+tomber		99		55
+loin		99		52
+vers	(prépos.)	99		48
+puisque		98		48
+argent		98		42
+train		98		39
+vendre		98		32
+long		97		55
+servir		97		54
+essayer		97		51
+compte		97		50
+chambre		97		43
+pièce		97		36
+entre		96		56
+semaine		96		47
+vacances		96		38
+professeur		96		28
+appareil		96		26
+combien		95		59
+compter		95		58
+sous	(prépos.)	95		57
+plutôt		95		56
+pied		95		53
+part		94		54
+tête		94		47
+pays		94		44
+quarante		93		50
+mètre		93		43
+une	(numéral)	92		38
+tout de suite		91		60
+écrire		91		51
+remarquer		91		51
+dedans		91		49
+ton	(possessif)	90		41
+drôle	(nom. et adj.)	89		56
+monde		89		53
+nom		89		45
+mauvais		88		54
+obliger		88		51
+devant	(adv. et prépos.)	88		49
+impression		88		45
+gars		88		23
+tout à fait		87		54
+vivre		87		47
+intéresser		87		46
+malade		87		38
+valoir		86		56
+nuit		86		37
+besoin		85		51
+content		85		51
+certainement		85		46
+nouveau		84		54
+famille		84		45
+chaque		83		61
+que	(interrogatif)	83		40
+mal	(nom.)	83		38
+soixante		83		36
+d'accord		82		38
+partout		82		35
+celui		81		48
+ensuite		81		43
+minute		81		43
+pauvre		81		41
+coucher		81		40
+café		81		31
+nos		80		52
+métier		80		38
+etc		80		30
+exactement		79		49
+docteur		79		39
+tourner		79		36
+conduire		79		24
+fin	(nom.)	78		48
+plaire		78		48
+plein		78		47
+somme	(fém.)	78		46
+peur		78		42
+maman		78		37
+marier		78		35
+préciosité		78		1
+fond		77		44
+simple		77		41
+truc		77		39
+terre		77		37
+difficile		76		45
+classe		76		36
+pareil		75		49
+recevoir		75		49
+complètement		75		42
+tel	(telle)	75		39
+client		75		27
+ceux		74		47
+répondre		74		44
+une	(pronom)	74		40
+dieu		74		37
+cinéma		74		28
+autrement		73		51
+cas		73		47
+partie		73		46
+vite		73		46
+fait	(nom.)	72		43
+simplement		72		43
+porter		72		42
+quelquefois		72		41
+gagner		72		39
+plusieurs		71		47
+normal		71		39
+oeil		71		31
+journal		71		30
+gare		71		22
+âge		70		38
+vos		70		37
+froid		70		33
+dormir		70		29
+tandis que		69		45
+dame	(personne)	69		43
+possible		69		42
+fils		69		39
+apporter		69		37
+boire		69		30
+pourtant		68		44
+lit		68		31
+anglais	(nom. et adj.)	68		24
+ni		67		38
+dont		66		45
+amener		66		43
+autant		66		42
+garder		66		41
+lendemain		66		40
+parents	(père et mère)	66		37
+affaire		65		51
+peine		65		45
+ouvrir		65		43
+cela		65		39
+habiter		65		39
+formidable		65		34
+papier		65		29
+ferme	(nom.)	65		15
+reprendre		64		40
+envoyer		64		38
+kilomètre		64		28
+foutre		64		25
+américain	(nom et adj.)	64		22
+vin		64		21
+bas	(adj. et adv.)	63		44
+présenter		63		36
+soeur		63		32
+copain		63		24
+sens		62		39
+couper		62		32
+tour	(masc.)	62		29
+mourir		62		26
+tant		61		44
+aucun		61		43
+continuer		61		41
+gentil		61		41
+après-midi		61		36
+joli		61		35
+derrière	(adv. et prépos.)	61		33
+du tout		61		32
+chaud		61		31
+dur		61		31
+étude		61		29
+précieux		61		2
+genre		60		43
+plaisir		60		42
+personne	(pronom)	60		39
+toucher	(verbe.)	60		34
+espèce		60		33
+fatiguer		60		31
+région		60		27
+livre	(masc.)	60		15
+ensemble	(adv.)	59		42
+table		59		30
+forcément		59		28
+haut		58		45
+midi		58		41
+fort	(adj.)	58		39
+souvenir	(se)	58		37
+merci		58		35
+hier		58		34
+tirer		58		33
+car	(conj.)	58		31
+celle		57		42
+raison		57		35
+où	(interrogation)	57		32
+fil		57		15
+entrer		56		43
+poser		56		33
+dessus		56		28
+installer		56		27
+ta		56		25
+village		56		24
+patron		56		21
+coin		55		41
+devenir		55		36
+tout à l'heure		55		36
+état		55		33
+cuisine		55		32
+préparer		55		28
+eh		55		25
+chien		55		19
+médecin		55		18
+en train de		54		39
+enlever		54		38
+dehors		54		35
+porte		54		34
+droit	(nom.)	54		33
+endroit		54		33
+lever		54		32
+permettre		54		32
+air	(atmosphère)	54		25
+samedi		54		25
+chanter		54		15
+pour que		53		40
+coeur		53		29
+meilleur		52		38
+quoi	(relatif)	52		38
+habitude		52		37
+tas		52		36
+prochain	(adj.)	52		34
+camarade		52		31
+amuser	(et s'amuser)	52		30
+bureau		52		28
+campagne		52		28
+rire		52		28
+boîte	(sens propre)	52		22
+remettre		51		38
+deuxième		51		33
+quart		51		33
+montrer		51		33
+hiver		51		28
+frère		51		27
+ceci		51		19
+attention		50		38
+retrouver		50		35
+asseoir		50		34
+effet		50		33
+juste	(adv.)	50		32
+retourner		50		30
+là-dedans		50		29
+chacun		50		28
+chef		50		22
+théâtre		50		22
+public		50		17
+aujourd'hui		49		33
+milieu		49		32
+intérieur		49		30
+expliquer		49		27
+quartier		49		25
+voyage		49		24
+sorte		48		36
+n'importe		48		32
+l'	(dans : l'on)	48		28
+machine		48		23
+magasin		48		15
+animal	(nom.)	48		10
+moyen	(nom.)	47		36
+autour		47		30
+noir		47		30
+différent		47		29
+emmener		47		27
+particulier		47		27
+micro		47		23
+hôtel		47		22
+repas		47		22
+voix		47		11
+suite		46		35
+heureux		46		30
+chauffer		46		18
+mademoiselle		46		16
+lieu		45		33
+blanc	(nom. et adj.)	45		30
+air	(avoir l'air)	45		29
+quatorze		45		26
+papa		45		23
+lundi		45		21
+disque		45		18
+neige		45		18
+instituteur		45		17
+musique		45		13
+manquer		44		33
+aider		44		28
+dépendre		44		28
+jardin		44		28
+fou	(nom. et adj.)	44		24
+moderne		44		23
+italien	(nom. et adj.)	44		20
+directeur		44		19
+tuer		44		18
+confiance		44		17
+réussir		43		31
+pas du tout		43		28
+cours		43		28
+curieux		43		26
+onze		43		26
+appartement		43		25

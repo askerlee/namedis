@@ -1,0 +1,23 @@
+Cluster 0, 6 tuples (IBM India Research Laboratory)
+shree raman, mukesh k. mohania, manish bhide, mukul joshi, ajay gupta,    "conf/icac/bhidegjmr04"   icac, 2004
+mukesh k. mohania, upendra sharma, vishal s. batra, jaijit bhattacharya, ajay gupta,    "conf/policy/batrabcgms02"   policy, 2002
+sandeep pandey, mukesh k. mohania, manish bhide, ajay gupta,    "conf/icde/bhidepgm03"   icde, 2003
+ajay gupta, manish bhide, mukesh k. mohania,    "conf/icde/guptabm03"   icde, 2003
+ajay gupta, manish bhide, mukesh k. mohania,    "conf/ecweb/guptabm04"   ec-web, 2004
+mukul joshi, ajay gupta, mukesh k. mohania, manish bhide,    "conf/dexa/bhidegjm04"   dexa, 2004
+
+Cluster 1, 3 tuples (Stony Brook)
+r. sekar, ajay gupta,    "conf/raid/guptas03"   raid, 2003
+ajay gupta, daniel c. duvarney,    "conf/acsac/guptad04"   acsac, 2004
+r. sekar, ajay gupta, s. zhou, h. yang,    "conf/ccs/sekargfstyz02"   acm conference on computer and communications security, 2002
+
+Cluster 2, 5 tuples (Western Michigan University)
+patricia ealy, elise de doncker, ajay gupta,    "conf/hpcn/donckereg96"   hpcn, 1996
+patricia ealy, ajay gupta, elise de doncker,    "conf/hpcn/donckerger95"   hpcn, 1995
+ajay gupta, elise de doncker, jay ball, patricia ealy,    "conf/pdpta/donckergeb96"   pdpta, 1996
+jay ball, patricia ealy, elise de doncker, alan genz, ajay gupta,    "conf/ics/donckergbeg96"   international conference on supercomputing, 1996
+ajay gupta, elise de doncker,    "journals/pc/donckerg98"   parallel computing, 1998
+
+Cluster 3, 2 tuples
+chris preist, ajay gupta, yossi lichtenstein,    "conf/iaai/allredlpbg91"   iaai, 1991
+yossi lichtenstein, bob welham, ajay gupta,    "conf/alpuk/lichtensteinwg91"   alpuk, 1991
