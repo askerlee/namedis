@@ -1,0 +1,688 @@
+69 clusters.
+
+Cluster 3, 71 papers:	UIC
+Post-Analysis of Learned Rules
+bing liu, wynne hsu
+1996. AAAI/IAAI. key: conf/aaai/LiuH96
+Discovering Interesting Holes in Data
+bing liu, liangping ku, wynne hsu
+1997. IJCAI. key: conf/ijcai/LiuKH97
+Using General Impressions to Analyze Discovered Classification Rules
+bing liu, wynne hsu, shu chen
+1997. KDD. key: conf/kdd/LiuHC97
+Integrating Classification and Association Rule Mining
+bing liu, wynne hsu, yiming ma
+1998. KDD. key: conf/kdd/LiuHM98
+Interestingness-Based Interval Merger for Numeric Association Rules
+ke wang, soon hock william tay, bing liu
+1998. KDD. key: conf/kdd/WangTL98
+Using Decision Tree Induction for Discovering Holes in Data
+bing liu, ke wang, lai-fun mun, xinzhi qi
+1998. PRICAI. key: conf/pricai/LiuWMQ98
+Concurrent Discretization of Multiple Attributes
+ke wang, bing liu
+1998. PRICAI. key: conf/pricai/WangL98
+Pruning and Summarizing the Discovered Associations
+bing liu, wynne hsu, yiming ma
+1999. KDD. key: conf/kdd/LiuHM99
+Mining Association Rules with Multiple Minimum Supports
+bing liu, wynne hsu, yiming ma
+1999. KDD. key: conf/kdd/LiuHM99a
+Mining Interesting Knowledge Using DM-II
+bing liu, wynne hsu, yiming ma, shu chen
+1999. KDD. key: conf/kdd/LiuHMC99
+Visually Aided Exploration of Interesting Association Rules
+bing liu, wynne hsu, ke wang, shu chen
+1999. PAKDD. key: conf/pakdd/LiuHWC99
+Clustering Transactions Using Large Items
+ke wang, chu xu, bing liu
+1999. CIKM. key: conf/cikm/WangXL99
+Finding Interesting Patterns Using User Expectations
+bing liu, wynne hsu, lai-fun mun, hing-yan lee
+1999. IEEE Trans. Knowl. Data Eng.. key: journals/tkde/LiuHML99
+Intuitive Representation of Decision Trees Using General Rules and Exceptions
+bing liu, minqing hu, wynne hsu
+2000. AAAI/IAAI. key: conf/aaai/LiuHH00
+Clustering Through Decision Tree Construction
+bing liu, yiyuan xia, philip s. yu
+2000. CIKM. key: conf/cikm/LiuXY00
+Mining Changes for Real-Life Applications
+bing liu, wynne hsu, heng-siew han, yiyuan xia
+2000. DaWaK. key: conf/dawak/LiuHHX00
+Exploration mining in diabetic patients databases: findings and conclusions
+wynne hsu, mong-li lee, bing liu, tok wang ling
+2000. KDD. key: conf/kdd/HsuLLL00
+Multi-level organization and summarization of the discovered rules
+bing liu, minqing hu, wynne hsu
+2000. KDD. key: conf/kdd/LiuHH00
+Web for Data Mining Applications
+bing liu, yiming ma, ching kian wong
+2000. COMPSAC. key: conf/compsac/LiuMW00
+Targeting the right students using data mining
+yiming ma, bing liu, ching kian wong, philip s. yu, shuik ming lee
+2000. KDD. key: conf/kdd/MaLWYL00
+Improving an Association Rule Based Classifier
+bing liu, yiming ma, ching kian wong
+2000. PKDD. key: conf/pkdd/LiuMW00
+Conceptual design: issues and challenges
+wynne hsu, bing liu
+2000. Computer-Aided Design. key: journals/cad/HsuL00
+Analyzing the Subjective Interestingness of Association Rules
+bing liu, wynne hsu, shu chen, yiming ma
+2000. IEEE Intelligent Systems. key: journals/expert/LiuHCM00
+Web for Data Mining: Organizing and Interpreting the Discovered Rules using the Web
+yiming ma, bing liu, ching kian wong
+2000. SIGKDD Explorations. key: journals/sigkdd/MaLW00
+Identifying non-actionable association rules
+bing liu, wynne hsu, yiming ma
+2001. KDD. key: conf/kdd/LiuHM01
+Analyzing the Interestingness of Association Rules from the Temporal Dimension
+bing liu, yiming ma, ronnie lee
+2001. ICDM. key: conf/icdm/LiuML01
+Discovering the set of fundamental rule changes
+bing liu, wynne hsu, yiming ma
+2001. KDD. key: conf/kdd/LiuHM01a
+Discovering unexpected information from your competitors' web sites
+bing liu, yiming ma, philip s. yu
+2001. KDD. key: conf/kdd/LiuMY01
+Using micro information units for internet search
+xiaoli li, tong-heng phang, minqing hu, bing liu
+2002. CIKM. key: conf/cikm/LiPHL02
+Speed-up Iterative Frequent Itemset Mining with Constraint Changes
+gao cong, bing liu
+2002. ICDM. key: conf/icdm/CongL02
+Partially Supervised Classification of Text Documents
+bing liu, wee sun lee, philip s. yu, xiaoli li
+2002. ICML. key: conf/icml/LiuLYL02
+A refinement approach to handling model misfit in text categorization
+haoran wu, tong-heng phang, bing liu, xiaoli li
+2002. KDD. key: conf/kdd/WuPLL02
+Discovering Frequent Substructures from Hierarchical Semi-structured Data
+gao cong, lan yi, bing liu, ke wang
+2002. SDM. key: conf/sdm/CongYLW02
+Visualizing web site comparisons
+bing liu, kaidi zhao, lan yi
+2002. WWW. key: conf/www/LiuZY02
+Building Text Classifiers Using Positive and Unlabeled Examples
+bing liu, yang dai, xiaoli li, wee sun lee, philip s. yu
+2003. ICDM. key: conf/icdm/LiuDLLY03
+Learning with Positive and Unlabeled Examples Using Weighted Logistic Regression
+wee sun lee, bing liu
+2003. ICML. key: conf/icml/LeeL03
+Learning to Classify Texts Using Positive and Unlabeled Data
+xiaoli li, bing liu
+2003. IJCAI. key: conf/ijcai/LiL03
+Detecting Patterns of Change Using Enhanced Parallel Coordinates Visualization
+kaidi zhao, bing liu, thomas m. tirpak, andreas schaller
+2003. ICDM. key: conf/icdm/ZhaoLTS03
+Eliminating noisy information in Web pages for data mining
+lan yi, bing liu, xiaoli li
+2003. KDD. key: conf/kdd/YiLL03
+Web Page Cleaning for Web Mining through Feature Weighting
+lan yi, bing liu
+2003. IJCAI. key: conf/ijcai/YiL03
+Scoring the Data Using Association Rules
+bing liu, yiming ma, ching kian wong, philip s. yu
+2003. Appl. Intell.. key: journals/apin/LiuMWY03
+Mining Opinion Features in Customer Reviews
+minqing hu, bing liu
+2004. AAAI. key: conf/aaai/HuL04
+Text Classification by Labeling Words
+bing liu, xiaoli li, wee sun lee, philip s. yu
+2004. AAAI. key: conf/aaai/LiuLLY04
+Semi-supervised Text Classification Using Partitioned EM
+gao cong, wee sun lee, haoran wu, bing liu
+2004. DASFAA. key: conf/dasfaa/CongLWL04
+Mining and summarizing customer reviews
+minqing hu, bing liu
+2004. KDD. key: conf/kdd/HuL04
+V-Miner: using enhanced parallel coordinates to mine product design and test data
+kaidi zhao, bing liu, thomas m. tirpak, andreas schaller
+2004. KDD. key: conf/kdd/ZhaoLTS04
+Dealing with different distributions in learning from
+xiaoli li, bing liu
+2004. WWW. key: conf/www/LiL04
+On the temporal dimension of search
+philip s. yu, xin li, bing liu
+2004. WWW. key: conf/www/YuLL04
+Learning from Positive and Unlabeled Examples with Different Data Distributions
+xiaoli li, bing liu
+2005. ECML. key: conf/ecml/LiL05
+Mining community structure of named entities from free text
+xin li, bing liu
+2005. CIKM. key: conf/cikm/LiL05
+Opportunity map: a visualization framework for fast identification of actionable knowledge
+kaidi zhao, bing liu, thomas m. tirpak, weimin xiao
+2005. CIKM. key: conf/cikm/ZhaoLTX05
+A Visual Data Mining Framework for Convenient Identification of Useful Knowledge
+kaidi zhao, bing liu, thomas m. tirpak, weimin xiao
+2005. ICDM. key: conf/icdm/ZhaoLTX05
+Adding the Temporal Dimension to Search - A Case Study in Publication Search
+philip s. yu, xin li, bing liu
+2005. Web Intelligence. key: conf/webi/YuLL05
+Opinion observer: analyzing and comparing opinions on the Web
+bing liu, minqing hu, junsheng cheng
+2005. WWW. key: conf/www/LiuHC05
+Guest Editors' Introduction: Special Section on Intelligent Data Preparation
+chengqi zhang, qiang yang, bing liu
+2005. IEEE Trans. Knowl. Data Eng.. key: journals/tkde/ZhangYL05
+Opinion Extraction and Summarization on the Web
+minqing hu, bing liu
+2006. AAAI. key: conf/aaai/HuL06
+Rule interestingness analysis using OLAP operations
+bing liu, kaidi zhao, jeffrey benkler, weimin xiao
+2006. KDD. key: conf/kdd/LiuZBX06
+Opportunity map: identifying causes of failure - a deployed data mining system
+kaidi zhao, bing liu, jeffrey benkler, weimin xiao
+2006. KDD. key: conf/kdd/ZhaoLBX06
+Discovering Overlapping Communities of Named Entities
+xin li, bing liu, philip s. yu
+2006. PKDD. key: conf/pkdd/LiLY06
+Learning to Classify Documents with Only a Small Positive Training Set
+xiaoli li, bing liu, see-kiong ng
+2007. ECML. key: conf/ecml/LiLN07
+Learning to Identify Unexpected Instances in the Test Set
+xiaoli li, bing liu, see-kiong ng
+2007. IJCAI. key: conf/ijcai/LiLN07
+The utility of linguistic rules in opinion mining
+xiaowen ding, bing liu
+2007. SIGIR. key: conf/sigir/DingL07
+Time Sensitive Ranking with Application to Publication Search
+xin li, bing liu, philip s. yu
+2008. ICDM. key: conf/icdm/LiLY08
+A holistic lexicon-based approach to opinion mining
+xiaowen ding, bing liu, philip s. yu
+2008. WSDM. key: conf/wsdm/DingLY08
+Top 10 algorithms in data mining
+xindong wu, vipin kumar, j. ross quinlan, joydeep ghosh, qiang yang, hiroshi motoda, geoffrey j. mclachlan, angus f. m. ng, bing liu, philip s. yu, zhihua zhou, michael steinbach, david j. hand, dan steinberg
+2008. Knowl. Inf. Syst.. key: journals/kais/WuKQGYMMNLYZSHS08
+Finding Actionable Knowledge via Automated Comparison
+lei zhang, bing liu, jeffrey benkler, chi zhou
+2009. ICDE. key: conf/icde/ZhangLBZ09
+Entity discovery and assignment for opinion mining applications
+xiaowen ding, bing liu, lei zhang
+2009. KDD. key: conf/kdd/DingLZ09
+Positive Unlabeled Learning for Data Stream Classification
+xiaoli li, philip s. yu, bing liu, see-kiong ng
+2009. SDM. key: conf/sdm/LiYLN09
+Dynamics of a two-species Lotka-Volterra competition system in a polluted environment with pulse toxicant input
+bing liu, lei zhang
+2009. Applied Mathematics and Computation. key: journals/amc/LiuZ09a
+Distributional Similarity vs. PU Learning for Entity Set Expansion
+xiaoli li, lei zhang, bing liu, see-kiong ng
+2010. ACL. key: conf/acl/LiZLN10
+Negative Training Data Can be Harmful to Text Classification
+xiaoli li, bing liu, see-kiong ng
+2010. EMNLP. key: conf/emnlp/LiLN10
+
+Cluster 6, 11 papers:	UIC
+Mining data records in Web pages
+bing liu, robert l. grossman, yanhong zhai
+2003. KDD. key: conf/kdd/LiuGZ03
+Experimental Studies of the Universal Chemical Key (UCK)Algorithm on the NCI Database of Chemical Compounds
+robert l. grossman, pavan kasturi, donald hamelberg, bing liu
+2003. CSB. key: conf/csb/GrossmanKHL03
+Mining Web Pages for Data Records
+bing liu, robert l. grossman, yanhong zhai
+2004. IEEE Intelligent Systems. key: journals/expert/LiuGZ04
+An Empirical Study of the Universal Chemical Key Algorithm for Assigning Unique Keys to Chemical Compounds
+robert l. grossman, pavan kasturi, donald hamelberg, bing liu
+2004. J. Bioinformatics and Computational Biology. key: journals/jbcb/GrossmanKHL04
+Assigning Unique Keys to Chemical Compounds for Data Integration: Some Interesting Counter Examples
+greeshma neglur, robert l. grossman, bing liu
+2005. DILS. key: conf/dils/NeglurGL05
+NET - A System for Extracting Web Data from Flat and Nested Data Records
+bing liu, yanhong zhai
+2005. WISE. key: conf/wise/LiuZ05
+Extracting Web Data Using Instance-Based Learning
+yanhong zhai, bing liu
+2005. WISE. key: conf/wise/ZhaiL05
+Web data extraction based on partial tree alignment
+yanhong zhai, bing liu
+2005. WWW. key: conf/www/ZhaiL05
+Automatic Wrapper Generation Using Tree Matching and Partial Tree Alignment
+yanhong zhai, bing liu
+2006. AAAI. key: conf/aaai/ZhaiL06
+Structured Data Extraction from the Web Based on Partial Tree Alignment
+yanhong zhai, bing liu
+2006. IEEE Trans. Knowl. Data Eng.. key: journals/tkde/ZhaiL06
+Extracting Web Data Using Instance-Based Learning
+yanhong zhai, bing liu
+2007. WWW. key: conf/www/ZhaiL07
+
+Cluster 2, 10 papers:	Department of Computing and Information Technology, Fudan University
+Controlling FD and MVD Inferences in MLS.
+yan heping, bing liu, xiaoming yang, wei wang, baile shi, genxing yang
+2005. CIT. key: conf/IEEEcit/HepingLYWSY05
+Incorporating with Recursive Model Training in Time Series Clustering
+jiangjiao duan, wei wang, bing liu, yongsheng xue, haofeng zhou, baile shi
+2005. CIT. key: conf/IEEEcit/DuanWLXZS05
+A Formal Specification for Web Services Composition and Verification
+yuliang shi, liang zhang, bing liu, fangfang liu, lili lin, baile shi
+2005. CIT. key: conf/IEEEcit/ShiZLLLS05
+Non-Almost-Derivable Frequent Itemsets Mining
+xiaoming yang, zhibin wang, bing liu, shouzhi zhang, wei wang, bole shi
+2005. CIT. key: conf/IEEEcit/YangWLZWS05
+A Bottom-Up Distance-Based Index Tree for Metric Space
+bing liu, zhihui wang, xiaoming yang, wei wang, baile shi
+2006. RSKT. key: conf/rskt/LiuWYWS06
+Subsequence Similarity Search Under Time Shifting
+bing liu, jianjun xu, zhihui wang, wei wang, baile shi
+2006. RSKT. key: conf/rskt/LiuXWWS06
+Dynamic Incremental Data Summarization for Hierarchical Clustering
+bing liu, yuliang shi, zhihui wang, wei wang, baile shi
+2006. WAIM. key: conf/waim/LiuSWWS06
+Tight Bounds on the Estimation Distance Using Wavelet
+bing liu, zhihui wang, jingtao li, wei wang, baile shi
+2006. WAIM. key: conf/waim/LiuWLWS06
+A Reputation Management Scheme Based on Global Trust Model for Peer-to-Peer Virtual Communities
+jingtao li, xueping wang, bing liu, qian wang, gendu zhang
+2006. WAIM. key: conf/waim/LiWLWZ06
+An Effective Approach for Hiding Sensitive Knowledge in Data Publishing
+zhihui wang, bing liu, wei wang, haofeng zhou, baile shi
+2006. WAIM. key: conf/waim/WangLWZS06
+
+Cluster 4, 8 papers:	UIC
+Mining Comparative Sentences and Relations
+nitin jindal, bing liu
+2006. AAAI. key: conf/aaai/JindalL06
+Identifying comparative sentences in text documents
+nitin jindal, bing liu
+2006. SIGIR. key: conf/sigir/JindalL06
+Analyzing and Detecting Review Spam
+nitin jindal, bing liu
+2007. ICDM. key: conf/icdm/JindalL07
+Review spam detection
+nitin jindal, bing liu
+2007. WWW. key: conf/www/JindalL07
+Opinion spam and analysis
+nitin jindal, bing liu
+2008. WSDM. key: conf/wsdm/JindalL08
+Finding unusual review patterns using unexpected rules
+nitin jindal, bing liu, ee-peng lim
+2010. CIKM. key: conf/cikm/JindalLL10
+Detecting product review spammers using rating behaviors
+ee-peng lim, viet-an nguyen, nitin jindal, bing liu, hady wirawan lauw
+2010. CIKM. key: conf/cikm/LimNJLL10
+A Generalized Tree Matching Algorithm Considering Nested Lists for Web Data Extraction
+nitin jindal, bing liu
+2010. SDM. key: conf/sdm/JindalL10
+
+Cluster 50, 5 papers:	Institute of Automation, CAS
+A Neural Network Approach to Shape from Shading
+tianzi jiang, bing liu, yingli lu, david j. evans
+2003. Int. J. Comput. Math.. key: journals/ijcm/JiangLLE03
+Esub8: A novel tool to predict protein subcellular localizations in eukaryotic organisms
+qinghua cui, tianzi jiang, bing liu, songde ma
+2004. BMC Bioinformatics. key: journals/bmcbi/CuiJLM04
+A combinational feature selection and ensemble neural network method for classification of gene expression data
+bing liu, qinghua cui, tianzi jiang, songde ma
+2004. BMC Bioinformatics. key: journals/bmcbi/LiuCJM04
+Characterizing the dynamic connectivity between genes by variable parameter regression and Kalman filtering based on temporal gene expression data
+qinghua cui, bing liu, tianzi jiang, songde ma
+2005. Bioinformatics. key: journals/bioinformatics/CuiLJM05
+Systematic benchmarking of microarray data feature extraction and classification
+jing zhang, tianzi jiang, bing liu, xingpeng jiang, huizhi zhao
+2008. Int. J. Comput. Math.. key: journals/ijcm/ZhangJLJZ08
+
+Cluster 9, 4 papers:	EEE, NTU
+A Novel RBF Neural Network with Fast Training and Accurate Generalization
+lipo wang, bing liu, chunru wan
+2004. CIS. key: conf/cis/WangLW04
+A Novel Fuzzy Neural Network with Fast Training and Accurate Generalization
+lipo wang, bing liu, chunru wan
+2004. ISNN. key: conf/isnn/WangLW04
+On the Universal Approximation Theorem of Fuzzy Neural Networks with Random Membership Function Parameters
+lipo wang, bing liu, chunru wan
+2005. ISNN. key: conf/isnn/WangLW05
+Classification using support vector machines with graded resolution
+lipo wang, bing liu, chunru wan
+2005. GrC. key: conf/grc/WangLW05
+
+Cluster 28, 2 papers:	Information Sciences Institute, USC
+Selector: A Language Construct for Developing Dynamic Applications
+pedro c. diniz, bing liu
+2002. LCPC. key: conf/lcpc/DinizL02
+ECO: An Empirical-Based Compilation and Optimization System
+nastaran baradaran, jacqueline chame, chun chen, pedro c. diniz, mary w. hall, yoon-ju lee, bing liu, robert f. lucas
+2003. IPDPS. key: conf/ipps/BaradaranCCDHLLL03
+
+Cluster 5, 2 papers:	UIC
+Using Constraints to Model Disjunctions in Rule-Based Reasoning
+bing liu, joxan jaffar
+1996. AAAI/IAAI. key: conf/aaai/LiuJ96
+Forward and Backward Chaining in Constraint Programming (Abstract
+joxan jaffar, bing liu, roland h. c. yap
+1997. LPNMR. key: conf/lpnmr/Jaffar97
+
+Cluster 13, 2 papers:	UIC
+Efficiently Determine the Starting Sample Size for Progressive Sampling
+baohua gu, bing liu, feifang hu, huan liu
+2001. DMKD. key: conf/dmkd/GuLHL01
+Efficiently Determining the Starting Sample Size for Progressive Sampling
+baohua gu, bing liu, feifang hu, huan liu
+2001. ECML. key: conf/ecml/GuLHL01
+
+Cluster 19, 2 papers:	Software Center, Northeastern University, China
+Content-based Index and Retrieval Method of Chinese Document Images
+yaodong he, zao jiang, bing liu, hong zhao
+1999. ICDAR. key: conf/icdar/HeJLZ99
+Global-local-global method for logical structure extraction of form document image
+hong zhao, bing liu, zao jiang, tobias ostgathe
+2000. J. Electronic Imaging. key: journals/jei/ZhaoLJO00
+
+Cluster 23, 2 papers:	Virginia Polytechnic Institute and State University
+SyD: A Middleware Testbed for Collaborative Applications over Small Heterogeneous Devices and Data Stores
+sushil k. prasad, vijay k. madisetti, shamkant b. navathe, raj sunderraman, erdogan dogdu, anu g. bourgeois, michael weeks, bing liu, janaka balasooriya, arthi hariharan, wanxia xie, praveen madiraju, srilaxmi malladi, raghupathy sivakumar, alexander zelikovsky, yanqing zhang, yi pan, saeid belkasim
+2004. Middleware. key: conf/middleware/PrasadMNSDBWLBHXMMSZZPB04
+A Small Listener for Heterogeneous Mobile Devices: A Service Enabler with a Uniform Web Object View
+bing liu, sushil k. prasad, erdogan dogdu
+2005. ICWS. key: conf/icws/LiuPD05
+
+Cluster 30, 2 papers:	UIC
+Querying multiple sets of discovered rules
+alexander tuzhilin, bing liu
+2002. KDD. key: conf/kdd/TuzhilinL02
+Managing large collections of data mining models
+bing liu, alexander tuzhilin
+2008. Commun. ACM. key: journals/cacm/LiuT08
+
+Cluster 31, 2 papers:	UIC
+Hierarchical Web-Page Clustering via In-Page and Cross-Page Link Structures
+cindy xide lin, yintao yu, jiawei han, bing liu
+2010. PAKDD. key: conf/pakdd/LinYHL10
+Entity relation discovery from web tables and links
+cindy xide lin, bo zhao, tim weninger, jiawei han, bing liu
+2010. WWW. key: conf/www/LinZWHL10
+
+Cluster 32, 2 papers:	UIC
+Semantic Text Classification of Emergent Disease Reports
+yi zhang, bing liu
+2007. PKDD. key: conf/pkdd/ZhangL07
+Semantic text classification of disease reporting
+yi zhang, bing liu
+2007. SIGIR. key: conf/sigir/ZhangL07
+
+Cluster 43, 2 papers:	Wuhan Polytechnic University
+A Heuristic Greedy Optimum Algorithm for Target Coverage in Wireless Sensor Networks
+hongwu zhang, hongyuan wang, hongcai feng, bing liu, bingxiang gui
+2009. PACCS. key: conf/paccs/ZhangWFLG09
+An New Global Dynamic Scheduling Algorithm with Multi-Hop Path Splitting and Multi-Pathing Using GridFTP
+bingxiang gui, bing liu
+2009. PACCS. key: conf/paccs/GuiL09
+
+Cluster 51, 2 papers:	UIC
+Business applications of data mining
+chidanand apte, bing liu, edwin p. d. pednault, padhraic smyth
+2002. Commun. ACM. key: journals/cacm/ApteLPS02
+KDD Cup and workshop 2007
+james bennett, charles elkan, bing liu, padhraic smyth, domonkos tikk
+2007. SIGKDD Explorations. key: journals/sigkdd/BennettELST07
+
+Cluster 60, 2 papers:	Xinjiang University
+The dynamics of a prey-dependent consumption model concerning impulsive control strategy
+bing liu, lansun chen, yujuan zhang
+2005. Applied Mathematics and Computation. key: journals/amc/LiuCZ05
+Dynamic Complexities in a Lotka-volterra Predator-prey Model Concerning impulsive Control Strategy
+bing liu, yujuan zhang, lansun chen
+2005. I. J. Bifurcation and Chaos. key: journals/ijbc/LiuZC05
+
+Cluster 1, 1 papers:	UIC
+Web Data Mining: Exploring Hyperlinks, Contents, and Usage Data
+bing liu
+2007. . key: books/sp/dcsa/Liu07
+
+Cluster 7, 1 papers:	Tongji University
+Towards a Multi-agent Model for Planning and Design of Exposition Spaces
+ivan blecic, arnaldo cecchini, giuseppe a. trunfio, jian zhou, wei zang, bing liu
+2008. ACRI. key: conf/acri/BlecicCTZZL08
+
+Cluster 8, 1 papers:	UIC
+What's behind topic formation and development: a perspective of community core groups
+tieyun qian, qing li, bing liu, hui xiong, jaideep srivastava, phillip c.-y. sheu
+2009. CIKM. key: conf/cikm/QianLLXSS09
+
+Cluster 10, 1 papers:	UIC
+WePS3 Evaluation Campaign: Overview of the On-line Reputation Management Task
+enrique amigo, javier artiles, julio gonzalo, damiano spina, bing liu, adolfo corujo
+2010. CLEF. key: conf/clef/AmigoAGSLC10
+
+Cluster 11, 1 papers:	NUS
+Probabilistic Approximations of Signaling Pathway Dynamics
+bing liu, p. s. thiagarajan, david hsu
+2009. CMSB. key: conf/cmsb/LiuTH09
+
+Cluster 12, 1 papers:	UIC
+Mining Opinions in Comparative Sentences
+murthy ganapathibhotla, bing liu
+2008. COLING. key: conf/coling/GanapathibhotlaL08
+
+Cluster 14, 1 papers:	UIC
+A Reinforcement Approach to Schelduling
+bing liu
+1988. ECAI. key: conf/ecai/Liu88
+
+Cluster 15, 1 papers:	UIC
+Intelligent Route Finding: Combining Knowledge and Cases and an Efficient Search Algorithm
+bing liu
+1996. ECAI. key: conf/ecai/Liu96
+
+Cluster 16, 1 papers:	Wuhan Polytechnic University
+An Ontology-Based Approach to Knowledge Management
+bing liu
+2009. FSKD. key: conf/fskd/Liu09
+
+Cluster 17, 1 papers:	UIC
+Towards the SocioScope: an information system for the study of social dynamics through digital traces
+andrea vaccari, francesco calabrese, bing liu, carlo ratti
+2009. GIS. key: conf/gis/VaccariCLR09
+
+Cluster 18, 1 papers:	Nankai University
+A Remote Mirroring Architecture with Adaptively Cooperative Pipelining
+yongzhi song, zhenhai zhao, bing liu, tingting qin, gang wang, xiaoguang liu
+2010. ICA3PP. key: conf/ica3pp/SongZLQWL10
+
+Cluster 20, 1 papers:	UIC
+Multivariate Time Series Prediction via Temporal Classification
+bing liu, jing liu
+2002. ICDE. key: conf/icde/LiuL02
+
+Cluster 21, 1 papers:	UIC
+Mining Latent Associations of Objects Using a Typed Mixture Model--A Case Study on Expert/Expertise Mining
+shenghua bao, yunbo cao, bing liu, yong yu, hang li
+2006. ICDM. key: conf/icdm/BaoCLYL06
+
+Cluster 22, 1 papers:	UIC
+Integrating Rules and Constraints
+bing liu
+1994. ICTAI. key: conf/ictai/Liu94
+
+Cluster 24, 1 papers:	UIC
+A Refinement Approach to Search and Constraint Satisfaction Problem
+bing liu
+1995. IEA/AIE. key: conf/ieaaie/Liu95
+
+Cluster 25, 1 papers:	UIC
+Intelligent Air Travel and Tourist Information Systems
+bing liu
+1995. IEA/AIE. key: conf/ieaaie/Liu95a
+
+Cluster 26, 1 papers:	UIC
+Using Knowledge to Isolate Search in Route Finding
+bing liu
+1995. IJCAI. key: conf/ijcai/Liu95
+
+Cluster 27, 1 papers:	UIC
+Increasing Functional Constraints Need to Be Checked Only Once
+bing liu
+1995. IJCAI. key: conf/ijcai/Liu95a
+
+Cluster 29, 1 papers:	Department of Automation, Tsinghua University
+A speed-up algorithm for Poisson Propagation
+bing liu, mingjie qian
+2009. IJCNN. key: conf/ijcnn/LiuQ09
+
+Cluster 33, 1 papers:	UIC
+An Improved Generic Arc Consistency Algorithm and Its Specializations
+bing liu
+1996. PRICAI. key: conf/pricai/Liu96
+
+Cluster 34, 1 papers:	(bingl@ccs.neu.edu) Northeastern University
+Recognition of 3D Objects from 2D Images - Some Issues
+bing liu, p. wang
+1996. SSPR. key: conf/sspr/LiuW96
+
+Cluster 35, 1 papers:	HKUST
+A highly linear wide dynamic range detector for cell recording with microelectrode arrays
+jing guo, bing liu, jie yuan
+2010. VLSI-SoC. key: conf/vlsi/GuoLY10
+
+Cluster 36, 1 papers:	UIC
+An EM Based Training Algorithm for Cross-Language Text Categorization
+leonardo rigutini, marco maggini, bing liu
+2005. Web Intelligence. key: conf/webi/RigutiniML05
+
+Cluster 37, 1 papers:	UIC
+WISE-2005 Tutorial: Web Content Mining
+bing liu
+2005. WISE. key: conf/wise/Liu05
+
+Cluster 38, 1 papers:	UIC
+Mining topic-specific concepts and definitions on the web
+bing liu, chee wee chin, hwee tou ng
+2003. WWW. key: conf/www/LiuCN03
+
+Cluster 39, 1 papers:	UIC
+Clustering product features for opinion mining
+zhongwu zhai, bing liu, hua xu, peifa jia
+2011. WSDM. key: conf/wsdm/ZhaiLXJ11
+
+Cluster 40, 1 papers:	UIC
+Sentiment Analysis of Conditional Sentences
+ramanathan narayanan, bing liu, alok n. choudhary
+2009. EMNLP. key: conf/emnlp/NarayananLC09
+
+Cluster 41, 1 papers:	UIC
+Improving Gender Classification of Blog Authors
+arjun mukherjee, bing liu
+2010. EMNLP. key: conf/emnlp/MukherjeeL10
+
+Cluster 42, 1 papers:	Shandong University of Science and Technology
+Semantic-Based Remote Sensing Images Intelligent Service on Grid Environment
+naixia mou, bing liu, xiushan lu, lingxian zhang, wenbao liu
+2009. DBTA. key: conf/dbta/MouLLZL09
+
+Cluster 44, 1 papers:	Shanghai Ocean University
+A Discuss of the Application of Project Management in the Non-project-involved Organizations
+yonggui liu, bing liu
+2010. ICEE. key: conf/icee/LiuL10b
+
+Cluster 45, 1 papers:	UIC
+Scheduling via reinforcement
+bing liu
+1988. AI in Engineering. key: journals/aei/Liu88
+
+Cluster 46, 1 papers:	Huazhong University of Science and Technology
+Positive solutions of three-point boundary value problems for the one-dimensional p-laplacian with infinitely many singularities
+bing liu
+2004. Appl. Math. Lett.. key: journals/appml/Liu04
+
+Cluster 47, 1 papers:	Huazhong University of Science and Technology
+Existence and uniqueness of solutionsto first-order multipoint boundary value problems
+bing liu
+2004. Appl. Math. Lett.. key: journals/appml/Liu04d
+
+Cluster 48, 1 papers:	Huazhong University of Science and Technology
+Note on third-order boundary value problem for differential equations with deviating arguments
+bing liu, jian she yu
+2002. Appl. Math. Lett.. key: journals/appml/LiuY02
+
+Cluster 49, 1 papers:	Saginaw Valley State University
+A singular integral of the composite operator
+shusen ding, bing liu
+2009. Appl. Math. Lett.. key: journals/appml/DingL09
+
+Cluster 52, 1 papers:	School of Software, Dalian University of Technology
+Dynamical Jumping Real-Time Fault-Tolerant Routing Protocol for Wireless Sensor Networks
+guowei wu, chi lin, feng xia, lin yao, he zhang, bing liu
+2010. CoRR. key: journals/corr/abs-1004-2322
+
+Cluster 53, 1 papers:	UIC
+Finding the Shortest Route Using Cases, Knowledge, and Djikstra's Algorithm
+bing liu, siew-hwee choo, shee-ling lok, sing-meng leong, soo-chee lee, foong-ping poon, hwee-har tan
+1994. IEEE Expert. key: journals/expert/LiuCLLLPT94
+
+Cluster 54, 1 papers:	Institute of Process Engineering, CAS
+SARS-CoV protease inhibitors design using virtual screening method from natural products libraries
+bing liu, jiaju zhou
+2005. Journal of Computational Chemistry. key: journals/jcc/LiuZ05
+
+Cluster 55, 1 papers:	UIC
+Editorial: special issue on web content mining
+bing liu, kevin chen-chuan chang
+2004. SIGKDD Explorations. key: journals/sigkdd/LiuC04
+
+Cluster 56, 1 papers:	UIC
+WebKDD 2004: web mining and web usage analysis post-workshop report
+olfa nasraoui, bamshad mobasher, brij m. masand, bing liu
+2004. SIGKDD Explorations. key: journals/sigkdd/NasraouiMML04
+
+Cluster 57, 1 papers:	UIC
+Research Activities in Database Management and Information Retrieval at the University of Illinois at Chicago
+isabel f. cruz, ashfaq a. khokhar, bing liu, a. prasad sistla, ouri wolfson, clement t. yu
+2002. SIGMOD Record. key: journals/sigmod/CruzKLSWY02
+
+Cluster 58, 1 papers:	UIC
+ConstraintLisp: an object-oriented constraint programming language
+bing liu, yuen-wah ku
+1992. SIGPLAN Notices. key: journals/sigplan/LiuK92
+
+Cluster 59, 1 papers:	UIC
+Guest Editors' Introduction: Special Section on Mining and Searching the Web
+bing liu, soumen chakrabarti
+2004. IEEE Trans. Knowl. Data Eng.. key: journals/tkde/LiuC04
+
+Cluster 61, 1 papers:	Huazhong University of Science and Technology
+Positive solutions of a nonlinear four-point boundary value problems
+bing liu
+2004. Applied Mathematics and Computation. key: journals/amc/Liu04
+
+Cluster 62, 1 papers:	Huazhong University of Science and Technology
+A note on a nonlocal boundary value problems
+bing liu
+2004. Applied Mathematics and Computation. key: journals/amc/Liu04a
+
+Cluster 63, 1 papers:	Department of Mathematics, Anshan Normal University
+The dynamics of pest control pollution model with age structure and time delay
+bing liu, qian zhang, yinghui gao
+2010. Applied Mathematics and Computation. key: journals/amc/LiuZG10
+
+Cluster 64, 1 papers:	Harbin Institute of Technology
+Compressive Sensing Signal Detection Algorithm Based on Location Information of Sparse Coefficients
+bing liu, ping fu, shengwei meng, lunping guo
+2010. JDCTA. key: journals/jdcta/LiuFMG10
+
+Cluster 65, 1 papers:	N/A (no info source)
+Guest editorial
+srinivasan parthasarathy, bing liu
+2008. Statistical Analysis and Data Mining. key: journals/sadm/ParthasarathyL08
+
+Cluster 66, 1 papers:	Department of Mathematics, Anshan Normal University
+The Optimal Pulse harvesting Policy on a Single-Species Population Model with Birth Pulses in a polluted Environment
+bing liu, fengmei tao
+2007. Advances in Complex Systems. key: journals/advcs/LiuT07
+
+Cluster 67, 1 papers:	N/A (no info source)
+Classification by Association Rule Analysis
+bing liu
+2009. Encyclopedia of Database Systems. key: reference/db/Liu09b
+
+Cluster 68, 1 papers:	UIC
+Opinion Mining
+bing liu
+2009. Encyclopedia of Database Systems. key: reference/db/Liu09d
+
+Cluster 69, 1 papers:	UIC
+Expanding Domain Sentiment Lexicon through Double Propagation
+guang qiu, bing liu, jiajun bu, chun chen
+2009. IJCAI. key: conf/ijcai/QiuLBC09

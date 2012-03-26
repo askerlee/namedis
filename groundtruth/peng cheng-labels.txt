@@ -1,0 +1,183 @@
+17 clusters.
+
+Cluster 6, 13 papers:	GRASP lab, University of Pennsylvania
+Resolution Complete Rapidly-Exploring Random Trees.
+peng cheng, steven m. lavalle
+2002. ICRA. key: conf/icra/ChengL02
+Improving the Performance of Sampling-based Planners by using a Symmetry-exploiting Gap Reduction Algorithm.
+peng cheng, emilio frazzoli, steven m. lavalle
+2004. ICRA. key: conf/icra/ChengFL04
+RoboTrikke: A Novel Undulatory Locomotion System.
+sachin chitta, peng cheng, emilio frazzoli, vijay kumar
+2005. ICRA. key: conf/icra/ChittaCFK05
+Motion Planning for the Roller Racer with a Sticking/Slipping Switching Model.
+peng cheng, emilio frazzoli, vijay kumar
+2006. ICRA. key: conf/icra/ChengFK06
+Sampling-Based Falsification and Verification of Controllers for Continuous Dynamic Systems.
+peng cheng, vijay kumar
+2006. WAFR. key: conf/wafr/ChengK06
+Decidability of Motion Planning with Differential Constraints.
+peng cheng, george j. pappas, vijay kumar
+2007. ICRA. key: conf/icra/ChengPK07
+Planning and Control of Meso-scale Manipulation Tasks with Uncertainties.
+peng cheng, david j. cappelleri, bogdan gavrea, vijay kumar
+2007. Robotics. key: conf/rss/ChengCGK07
+An almost communication-less approach to task allocation for multiple Unmanned Aerial Vehicles.
+peng cheng, vijay kumar
+2008. ICRA. key: conf/icra/ChengK08
+Meso-scale manipulation: System, modeling, planning and control.
+david j. cappelleri, peng cheng, jonathan fink, bogdan gavrea, vijay kumar
+2008. ICRA. key: conf/icra/CappelleriCFGK08
+Cooperative Towing with Multiple Robots.
+peng cheng, jonathan fink, soonkyum kim, vijay kumar
+2008. WAFR. key: conf/wafr/ChengFKK08
+Time-optimal UAV trajectory planning for 3D urban structure coverage.
+peng cheng, james f. keller, vijay kumar
+2008. IROS. key: conf/iros/ChengKK08
+Sampling-based Falsification and Verification of Controllers for Continuous Dynamic Systems.
+peng cheng, vijay kumar
+2008. I. J. Robotic Res.. key: journals/ijrr/ChengK08
+Improving the Performance of Sampling-Based Motion Planning With Symmetry-Based Gap Reduction.
+peng cheng, emilio frazzoli, steven m. lavalle
+2008. IEEE Transactions on Robotics. key: journals/trob/ChengFL08
+
+Cluster 5, 12 papers:	Institute of Information and Communication Engineering, Zhejiang University
+Cross-Layer Performance Analysis of Two-Hop Wireless Links with Adaptive Modulation.
+peng cheng, guanding yu, zhaoyang zhang, huiling jia, hsiao-hwa chen, peiliang qiu
+2006. PIMRC. key: conf/pimrc/ChengYZJCQ06
+Study on Network Selection for Next-Generation Heterogeneous Wireless Networks.
+huiling jia, zhaoyang zhang, peng cheng, hsiao-hwa chen, shiju li
+2006. PIMRC. key: conf/pimrc/JiaZCCL06
+On the Maximum Sum-rate Capacity of Cognitive Multiple Access Channel
+peng cheng, guanding yu, zhaoyang zhang, hsiao-hwa chen, peiliang qiu
+2006. CoRR. key: journals/corr/abs-cs-0612024
+Analysis and Optimization of Power Control in Multiuser Cognitive Wireless Networks.
+peng cheng, guanding yu, zhaoyang zhang, peiliang qiu
+2007. ICC. key: conf/icc/ChengYZQ07
+On the Performance of IEEE 802.16 OFDMA System Under Different Frequency Reuse and Subcarrier Permutation Patterns.
+huiling jia, zhaoyang zhang, guanding yu, peng cheng, shiju li
+2007. ICC. key: conf/icc/JiaZYCL07
+A Cross-Layer Design Method for Multiple Realtime Video Streams in Multi-Hop Wireless Networks.
+peng cheng, zhaoyang zhang, guanding yu, peiliang qiu
+2007. GLOBECOM. key: conf/globecom/ChengZYQ07
+A Distributed Algorithm for Optimal Resource Allocation in Cognitive OFDMA Systems.
+peng cheng, zhaoyang zhang, hui huang, peiliang qiu
+2008. ICC. key: conf/icc/ChengZHQ08
+A framework of cross-layer design for multiple video streams in wireless mesh networks.
+peng cheng, zhaoyang zhang, hsiao-hwa chen, peiliang qiu
+2008. Computer Communications. key: journals/comcom/ChengZCQ08
+Opportunistic Spectrum Access in Cognitive Radio System Employing Cooperative Spectrum Sensing.
+hui huang, zhaoyang zhang, peng cheng, peiliang qiu
+2009. VTC Spring. key: conf/vtc/HuangZCQ09
+Cross-layer bandwidth and power allocation for a two-hop link in wireless mesh network.
+peng cheng, zhaoyang zhang, guanding yu, hsiao-hwa chen, peiliang qiu
+2009. Wireless Communications and Mobile Computing. key: journals/wicomm/ChengZYCQ09
+System synchronization and channel estimation analysis for IEEE 802.16e OFDMA downlink system.
+zhaoyang zhang, peng cheng, xiangwei zhou, peiliang qiu
+2009. Int. J. Communication Systems. key: journals/ijcomsys/ZhangCZQ09
+Cooperative spectrum sensing in cognitive radio systems with limited sensing ability.
+hui huang, zhaoyang zhang, peng cheng, aiping huang, peiliang qiu
+2010. Journal of Zhejiang University - Science C. key: journals/jzusc/HuangZCHQ10
+
+Cluster 9, 5 papers:	EE, Shanghai Jiao Tong University
+A Modified Partial Transmit Sequence Scheme for PAPR Reduction in OFDM System.
+qingsong wen, yue xiao, peng cheng, lilin dan, shaoqian li
+2008. VTC Fall. key: conf/vtc/WenXCDL08
+A Low Complexity User Grouping Scheme for PAPR reduction in MC-CDMA Systems using Joint Spreading and IFFT.
+lilin dan, peng cheng, yue xiao, shaoqian li
+2009. VTC Fall. key: conf/vtc/DanCXL09
+A Low Complexity Peak Estimation Scheme for PAPR Reduction in OFDM Systems.
+lilin dan, peng cheng, yue xiao, shaoqian li
+2009. PACCS. key: conf/paccs/DanCXL09
+A low-complexity multiple signal representation scheme in downlink OFDM-CDMA.
+lilin dan, yue xiao, peng cheng, gang wu, shaoqian li
+2009. Science in China Series F. key: journals/chinaf/DanXCWL09
+Improved IFDMA Transmission Structure on SISO and MISO Channels.
+yue xiao, peng cheng, xu he, shaoqian li
+2010. IEICE Transactions. key: journals/ieicet/XiaoCHL10
+
+Cluster 14, 4 papers:	Nagoya Gakuin University
+A Lower Bound of the Expected Maximum Number of Edge-disjoint S-t Paths on Probabilistic Graphs.
+peng cheng, shigeru masuyama
+1995. Discrete Applied Mathematics. key: journals/dam/ChengM95
+Inequalities on the Number of Connected Spanning Subgraphs in a Multigraph.
+peng cheng, shigeru masuyama
+2008. IEICE Transactions. key: journals/ieicet/ChengM08
+Formulas for Counting the Numbers of Connected Spanning Subgraphs with at Most n+1 Edges in a Complete Graph Kn.
+peng cheng, shigeru masuyama
+2008. IEICE Transactions. key: journals/ieicet/ChengM08a
+A proof of unimodality on the numbers of connected spanning subgraphs in an n-vertex graph with at least ... edges.
+peng cheng, shigeru masuyama
+2010. Discrete Applied Mathematics. key: journals/dam/ChengM10
+
+Cluster 1, 2 papers:	Southwest University, China
+Applying Multi-objective Evolutionary Algorithms to QoS-Aware Web Service Composition.
+li li, peng cheng, ling ou, zili zhang
+2010. ADMA. key: conf/adma/LiCOZ10
+Genetic Algorithm-Based Multi-objective Optimisation for QoS-Aware Web Services Composition.
+li li, pengyi yang, ling ou, zili zhang, peng cheng
+2010. KSEM. key: conf/ksem/LiYOZC10
+
+Cluster 11, 2 papers:	Department of Information Technology and Media, Mid Sweden University
+Analysis of the IEEE 802.15.4 Standard for a Wireless Closed Loop Control System for Heavy Duty Cranes.
+fredrik linnarsson, peng cheng, bengt oelmann
+2007. SIES. key: conf/sies/LinnarssonCO07
+Joint-Angle Measurement Using Accelerometers and Gyroscopes - A Survey.
+peng cheng, bengt oelmann
+2010. IEEE T. Instrumentation and Measurement. key: journals/tim/ChengO10
+
+Cluster 2, 1 papers:	Harbin Engineering University
+Calculation and Analysis of Double-Fed VSCF Induction Generator Operating Performance.
+peng cheng, weili li, wenbiao chen, deyuan xia
+2007. CIS. key: conf/cis/ChengLCX07
+
+Cluster 3, 1 papers:	University of Wollongong
+Greedy Approximation of Kernel PCA by Minimizing the Mapping Error.
+peng cheng, wanqing li, philip ogunbona
+2009. DICTA. key: conf/dicta/ChengLO09
+
+Cluster 4, 1 papers:	Huazhong Normal University
+A New Multi-Agent Approach to Adaptive E-Education.
+jing chen, peng cheng
+2007. I3E. key: conf/i3e/ChenC07
+
+Cluster 7, 1 papers:	UIUC
+Iteratively Locating Voronoi Vertices for Dispersion Estimation.
+stephen r. lindemann, peng cheng
+2005. ICRA. key: conf/icra/LindemannC05
+
+Cluster 8, 1 papers:	Department of Automation, Tsinghua
+A Neural Network Based Application Layer Multicast Routing Protocol.
+peng cheng, qionghai dai, qiufeng wu
+2006. ISNN. key: conf/isnn/ChengDW06
+
+Cluster 10, 1 papers:	EE, Shanghai Jiao Tong University
+Spectrum Trading in Cognitive Radio Network: An Agent-Based Model under Demand Uncertainty.
+tian chu, peng cheng, lin gao, xinbing wang, hui yu, xiaoying gan
+2010. GLOBECOM. key: conf/globecom/ChuCGWYG10
+
+Cluster 12, 1 papers:	Changchun Taxation College
+3rd Party E-business Architechure and Model in Grid Computing Environment.
+jianhua jiang, peng cheng, ming ma, gaochao xu, xiaohui wei
+2010. ICEE. key: conf/icee/JiangCMXW10
+
+Cluster 13, 1 papers:	EE, Shanghai Jiao Tong University
+A New SLNR-based Linear Precoding for Downlink Multi-User Multi-Stream MIMO Systems
+peng cheng, meixia tao, wenjun zhang
+2010. CoRR. key: journals/corr/abs-1008-0730
+
+Cluster 15, 1 papers:	Department of Automation, Tsinghua
+Dynamic network flow model for short-term air traffic flow management.
+zhengping ma, deguang cui, peng cheng
+2004. IEEE Transactions on Systems. key: journals/tsmc/MaCC04
+
+Cluster 16, 1 papers:	Department of Automatic Control, Beihang
+Reduced-order controller design for the general Hinfinity control problem.
+jianping zeng, du lin, peng cheng
+2006. Int. J. Systems Science. key: journals/ijsysc/ZengLC06
+
+Cluster 17, 1 papers:	Institute of Industrial Process Control, Zhejiang University
+Strong gammak-gamma cl Hinfinity stabilization with a new slack variable approach.
+peng cheng, yongyan cao, youxian sun
+2009. Automatica. key: journals/automatica/ChengCS09
+
