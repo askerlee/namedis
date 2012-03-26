@@ -1,0 +1,58 @@
+4 clusters.
+
+Cluster 0, 6 papers:	(IBM India Research Laboratory)
+Policy Driven Data Administration.
+vishal s. batra, jaijit bhattacharya, harish chauhan, ajay gupta, mukesh k. mohania, upendra sharma
+2002. POLICY. key: conf/policy/BatraBCGMS02
+Dynamic Access Control Framework Based On Events.
+manish bhide, sandeep pandey, ajay gupta, mukesh k. mohania
+2003. ICDE. key: conf/icde/BhidePGM03
+Towards Bringing Database Management Task in the Realm of IT non-Experts.
+ajay gupta, manish bhide, mukesh k. mohania
+2003. ICDE. key: conf/icde/GuptaBM03
+Optimal Deployment of Triggers for Detecting Events.
+manish bhide, ajay gupta, mukul joshi, mukesh k. mohania
+2004. DEXA. key: conf/dexa/BhideGJM04
+Web Page Ranking Based on Events.
+ajay gupta, manish bhide, mukesh k. mohania
+2004. EC-Web. key: conf/ecweb/GuptaBM04
+Policy Framework for Autonomic Data Managemen.
+manish bhide, ajay gupta, mukul joshi, mukesh k. mohania, shree raman
+2004. ICAC. key: conf/icac/BhideGJMR04
+
+Cluster 1, 3 papers:	(Stony Brook)
+Using Predators to Combat Worms and Viruses: A Simulation-Based Study.
+ajay gupta, daniel c. duvarney
+2004. ACSAC. key: conf/acsac/GuptaD04
+Specification-based anomaly detection: a new approach for detecting network intrusions.
+r. sekar, ajay gupta, j. frullo, t. shanbhag, a. tiwari, h. yang, s. zhou
+2002. ACM Conference on Computer and Communications Security. key: conf/ccs/SekarGFSTYZ02
+An Approach for Detecting Self-propagating Email Using Anomaly Detection.
+ajay gupta, r. sekar
+2003. RAID. key: conf/raid/GuptaS03
+
+Cluster 2, 5 papers:	(Western Michigan University)
+Two Methods for Load Balanced Distributed Adaptive Integration.
+elise de doncker, patricia ealy, ajay gupta
+1996. HPCN Europe. key: conf/hpcn/DonckerEG96
+Development of a parallel and distributed integration package - PART 1.
+elise de doncker, ajay gupta, patricia ealy, kyle rathbun
+1995. HPCN Europe. key: conf/hpcn/DonckerGER95
+ParInt: A Software Package for Parallel Integration.
+elise de doncker, ajay gupta, jay ball, patricia ealy, alan genz
+1996. International Conference on Supercomputing. key: conf/ics/DonckerGBEG96
+Preconditioned Conjugate Gradient Solver for Large Sparse Systems on MPI.
+elise de doncker, ajay gupta, patricia ealy, jay ball
+1996. PDPTA. key: conf/pdpta/DonckerGEB96
+Multivariate Integration on Hypercubic and Mesh Networks.
+elise de doncker, ajay gupta
+1998. Parallel Computing. key: journals/pc/DonckerG98
+
+Cluster 3, 2 papers:	yin's cluster 3
+Time Representation in Prolog Circuit Modelling.
+yossi lichtenstein, bob welham, ajay gupta
+1991. ALPUK. key: conf/alpuk/LichtensteinWG91
+AGATHA: An Integrated Expert System to Test and Diagnose Complex Personal Computer Boards.
+daryl allred, yossi lichtenstein, chris preist, michael a. bennett, ajay gupta
+1991. IAAI. key: conf/iaai/AllredLPBG91
+
