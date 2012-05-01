@@ -1,0 +1,9 @@
+real_tests/labels_ajaygupta.dat	ajay gupta-labels.txt	ajay k. gupta.txt
+real_tests/labels_bingliu.dat	bing liu-labels.txt
+real_tests/labels_binyu.dat	bin yu-labels.txt
+real_tests/labels_huifang.dat	hui fang-labels.txt
+real_tests/labels_jimsmith.dat	jim smith-labels.txt
+real_tests/labels_leiwang.dat	lei wang-labels.txt
+real_tests/labels_michaelwagner.dat	michael wagner-labels.txt
+real_tests/labels_rakeshkumar.dat	rakesh kumar-labels.txt
+real_tests/labels_weiwang.dat	wei wang-labels.txt

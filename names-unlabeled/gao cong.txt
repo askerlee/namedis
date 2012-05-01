@@ -1,0 +1,167 @@
+Mining Sequential Patterns and Tree Patterns to Detect Erroneous Sentences.
+Guihua Sun,Gao Cong,Xiaohua Liu,Chin-Yew Lin,Ming Zhou
+2007. inproceedings: AAAI. key: conf/aaai/SunCLLZ07
+
+Detecting Erroneous Sentences using Automatically Mined Sequential Patterns.
+Guihua Sun,Xiaohua Liu,Gao Cong,Ming Zhou,Zhongyang Xiong,John Lee,Chin-Yew Lin
+2007. inproceedings: ACL. key: conf/acl/SunLCZXLL07
+
+Using Conditional Random Fields to Extract Contexts and Answers of Questions from Online Forums.
+Shilin Ding,Gao Cong,Chin-Yew Lin,Xiaoyan Zhu
+2008. inproceedings: ACL. key: conf/acl/DingCLZ08
+
+Annotation propagation revisited for key preserving views.
+Gao Cong,Wenfei Fan,Floris Geerts
+2006. inproceedings: CIKM. key: conf/cikm/CongFG06
+
+The use of categorization information in language models for question retrieval.
+Xin Cao,Gao Cong,Bin Cui,Christian S. Jensen,Ce Zhang
+2009. inproceedings: CIKM. key: conf/cikm/CaoCCJZ09
+
+Exploring domain-specific term weight in archived question search.
+Zhaoyan Ming,Tat-Seng Chua,Gao Cong
+2010. inproceedings: CIKM. key: conf/cikm/MingCC10
+
+Summarizing Frequent Patterns Using Profiles.
+Gao Cong,Bin Cui,Yingxin Li,Zonghong Zhang
+2006. inproceedings: DASFAA. key: conf/dasfaa/CongCLZ06
+
+Semi-supervised Text Classification Using Partitioned EM.
+Gao Cong,Wee Sun Lee,Haoran Wu,Bing Liu
+2004. inproceedings: DASFAA. key: conf/dasfaa/CongLWL04
+
+A Revisit of Query Expansion with Different Semantic Levels.
+Ce Zhang,Bin Cui,Gao Cong,Yu-Jing Wang
+2009. inproceedings: DASFAA. key: conf/dasfaa/ZhangCCW09
+
+ISIS: A New Approach for Efficient Similarity Search in Sparse Databases.
+Bin Cui,Jiakui Zhao,Gao Cong
+2010. inproceedings: DASFAA (2). key: conf/dasfaa/CuiZC10
+
+On Effective E-mail Classification via Neural Networks.
+Bin Cui,Anirban Mondal,Jialie Shen,Gao Cong,Kian-Lee Tan
+2005. inproceedings: DEXA. key: conf/dexa/CuiMSCT05
+
+Using Transactional Data from ERP Systems for Expert Finding.
+Lars K. Schunk,Gao Cong
+2010. inproceedings: DEXA (2). key: conf/dexa/SchunkC10
+
+Query and Update Through XML Views.
+Gao Cong
+2007. inproceedings: DNIS. key: conf/dnis/Cong07
+
+Go Green: Recycle and Reuse Frequent Patterns.
+Gao Cong,Beng Chin Ooi,Kian-Lee Tan,Anthony K. H. Tung
+2004. inproceedings: ICDE. key: conf/icde/CongOTT04
+
+An Estimation System for XPath Expressions.
+Hanyu Li,Mong-Li Lee,Wynne Hsu,Gao Cong
+2006. inproceedings: ICDE. key: conf/icde/LiLHC06
+
+Updating Recursive XML Views of Relations.
+Byron Choi,Gao Cong,Wenfei Fan,Stratis Viglas
+2007. inproceedings: ICDE. key: conf/icde/ChoiCFV07
+
+Routing Questions to the Right Users in Online Communities.
+Yanhong Zhou,Gao Cong,Bin Cui,Christian S. Jensen,Junjie Yao
+2009. inproceedings: ICDE. key: conf/icde/ZhouCCJY09
+
+Speed-up Iterative Frequent Itemset Mining with Constraint Changes.
+Gao Cong,Bing Liu
+2002. inproceedings: ICDM. key: conf/icdm/CongL02
+
+Mining Frequent Closed Patterns in Microarray Data.
+Gao Cong,Kian-Lee Tan,Anthony K. H. Tung,Feng Pan
+2004. inproceedings: ICDM. key: conf/icdm/CongTTP04
+
+Efficient Algorithm for Computing Link-Based Similarity in Real World Networks.
+Yuanzhe Cai,Gao Cong,Xu Jia,Hongyan Liu,Jun He,Jiaheng Lu,Xiaoyong Du
+2009. inproceedings: ICDM. key: conf/icdm/CaiCJLHLD09
+
+Incremental maintenance of quotient cube for median.
+Cuiping Li,Gao Cong,Anthony K. H. Tung,Shan Wang
+2004. inproceedings: KDD. key: conf/kdd/LiCTW04
+
+Carpenter: finding closed patterns in long biological datasets.
+Feng Pan,Gao Cong,Anthony K. H. Tung,Jiong Yang,Mohammed Javeed Zaki
+2003. inproceedings: KDD. key: conf/kdd/PanCTYZ03
+
+Community-based greedy algorithm for mining top-K influential nodes in mobile social networks.
+Yu Wang,Gao Cong,Guojie Song,Kunqing Xie
+2010. inproceedings: KDD. key: conf/kdd/WangCSX10
+
+Exploring composite acoustic features for efficient music similarity query.
+Bin Cui,Jialie Shen,Gao Cong,Heng Tao Shen,Cui Yu
+2006. inproceedings: ACM Multimedia. key: conf/mm/CuiSCSY06
+
+Discovering Frequent Substructures from Hierarchical Semi-structured Data.
+Gao Cong,Lan Yi,Bing Liu,Ke Wang
+2002. inproceedings: SDM. key: conf/sdm/CongYLW02
+
+Finding question-answer pairs from online forums.
+Gao Cong,Long Wang,Chin-Yew Lin,Young-In Song,Yueheng Sun
+2008. inproceedings: SIGIR. key: conf/sigir/CongWLSS08
+
+Content-enriched classifier for web video classification.
+Bin Cui,Ce Zhang,Gao Cong
+2010. inproceedings: SIGIR. key: conf/sigir/CuiZC10
+
+Mining Top-k Covering Rule Groups for Gene Expression Data.
+Gao Cong,Kian-Lee Tan,Anthony K. H. Tung,Xin Xu
+2005. inproceedings: SIGMOD Conference. key: conf/sigmod/CongTTX05
+
+FARMER: Finding Interesting Rule Groups in Microarray Datasets.
+Gao Cong,Anthony K. H. Tung,Xin Xu,Feng Pan,Jiong Yang
+2004. inproceedings: SIGMOD Conference. key: conf/sigmod/CongXPTY04
+
+Querying xml with update syntax.
+Wenfei Fan,Gao Cong,Philip Bohannon
+2007. inproceedings: SIGMOD Conference. key: conf/sigmod/FanCB07
+
+Distributed query evaluation with performance guarantees.
+Gao Cong,Wenfei Fan,Anastasios Kementsietsidis
+2007. inproceedings: SIGMOD Conference. key: conf/sigmod/CongFK07
+
+COBBLER: Combining Column and Row Enumeration for Closed Pattern Discovery.
+Feng Pan,Anthony K. H. Tung,Gao Cong,Xin Xu
+2004. inproceedings: SSDBM. key: conf/ssdbm/PanTCX04
+
+Using Partial Evaluation in Distributed Query Evaluation.
+Peter Buneman,Gao Cong,Wenfei Fan,Anastasios Kementsietsidis
+2006. inproceedings: VLDB. key: conf/vldb/BunemanCFK06
+
+Semantic Mining and Analysis of Gene Expression Data.
+Xin Xu,Gao Cong,Beng Chin Ooi,Kian-Lee Tan,Anthony K. H. Tung
+2004. inproceedings: VLDB. key: conf/vldb/XuCOTH04
+
+Improving Data Quality: Consistency and Accuracy.
+Gao Cong,Wenfei Fan,Floris Geerts,Xibei Jia,Shuai Ma
+2007. inproceedings: VLDB. key: conf/vldb/CongFGJM07
+
+Evolutionary Taxonomy Construction from Dynamic Tag Space.
+Bin Cui,Junjie Yao,Gao Cong,Yuxin Huang
+2010. inproceedings: WISE. key: conf/wise/CuiYCH10
+
+Semantic similarity based on compact concept ontology.
+Ce Zhang,Yu-Jing Wang,Bin Cui,Gao Cong
+2008. inproceedings: WWW. key: conf/www/ZhangWCC08
+
+A generalized framework of exploring category information for question retrieval in community question answer archives.
+Xin Cao,Gao Cong,Bin Cui,Christian S. Jensen
+2010. inproceedings: WWW. key: conf/www/CaoCCJ10
+
+Updating Recursive XML Views of Relations.
+Byron Choi,Gao Cong,Wenfei Fan,Stratis Viglas
+2008. article: J. Comput. Sci. Technol.. key: journals/jcst/ChoiCFV08
+
+Efficient Retrieval of the Top-k Most Relevant Spatial Web Objects.
+Gao Cong,Christian S. Jensen,Dingming Wu
+2009. article: PVLDB. key: journals/pvldb/CongJW09
+
+Retrieving Top-k Prestige-Based Relevant Spatial Web Objects.
+Xin Cao,Gao Cong,Christian S. Jensen
+2010. article: PVLDB. key: journals/pvldb/CaoCJ10
+
+Mining Significant Semantic Locations From GPS Data.
+Xin Cao,Gao Cong,Christian S. Jensen
+2010. article: PVLDB. key: journals/pvldb/CaoCJ10a

@@ -1,0 +1,850 @@
+64 clusters.
+
+Cluster 1, 117 papers:	CS, Berkeley
+Behavior of Database Production Rules: Termination, Confluence, and Observable Determinism.
+alexander aiken, jennifer widom, joseph hellerstein
+1992. SIGMOD Conference. key: conf/sigmod/AikenWH92
+Extensible/Rule Based Query Rewrite Optimization in Starburst.
+hamid pirahesh, joseph hellerstein, waqar hasan
+1992. SIGMOD Conference. key: conf/sigmod/PiraheshHH92
+Predicate Migration: Optimizing Queries with Expensive Predicates.
+joseph hellerstein, michael stonebraker
+1993. SIGMOD Conference. key: conf/sigmod/HellersteinS93
+Generalized Search Trees for Database Systems.
+joseph hellerstein, jeffrey f. naughton, avi pfeffer
+1995. VLDB. key: conf/vldb/HellersteinNP95
+Static Analysis Techniques for Predicting the Behavior of Active Database Rules.
+alexander aiken, joseph hellerstein, jennifer widom
+1995. ACM Trans. Database Syst.. key: journals/tods/AikenHW95
+Cost-Based Optimization for Magic: Algebra and Implementation.
+praveen seshadri, joseph hellerstein, hamid pirahesh, t. y. cliff leung, raghu ramakrishnan, divesh srivastava, peter j. stuckey, s. sudarshan
+1996. SIGMOD Conference. key: conf/sigmod/SeshadriHPLRSSS96
+Query Execution Techniques for Caching Expensive Methods.
+joseph hellerstein, jeffrey f. naughton
+1996. SIGMOD Conference. key: conf/sigmod/HellersteinN96
+Concurrency and Recovery in Generalized Search Trees.
+marcel kornacker, c. mohan, joseph hellerstein
+1997. SIGMOD Conference. key: conf/sigmod/KornackerMH97
+High-Performance Sorting on Networks of Workstations.
+andrea c. arpaci-dusseau, remzi h. arpaci-dusseau, david e. culler, joseph hellerstein, david a. patterson
+1997. SIGMOD Conference. key: conf/sigmod/Arpaci-DusseauACHP97
+Online Aggregation.
+joseph hellerstein, peter j. haas, helen j. wang
+1997. SIGMOD Conference. key: conf/sigmod/HellersteinHW97
+The New Jersey Data Reduction Report.
+daniel barbara, william dumouchel, christos faloutsos, peter j. haas, joseph hellerstein, yannis e. ioannidis, h. v. jagadish, theodore johnson, raymond t. ng, viswanath poosala, kenneth a. ross, kenneth c. sevcik
+1997. IEEE Data Eng. Bull.. key: journals/debu/BarbaraDFHHIJJNPRS97
+Readings in Database Systems, Third Edition
+michael stonebraker, joseph hellerstein
+1998. . key: books/mk/Stonebraker98
+VIQING: Visual Interactive Querying.
+chris olston, michael stonebraker, alexander aiken, joseph hellerstein
+1998. VL. key: conf/vl/OlstonSAH98
+CONTROL: Continuous Output and Navigation Technology with Refinement On-Line.
+ron avnur, joseph hellerstein, bruce lo, chris olston, bhaskaran raman, vijayshankar raman, tali roth, kirk wylie
+1998. SIGMOD Conference. key: conf/sigmod/AvnurHLORRRW98
+amdb: An Access Method Debugging Tool.
+marcel kornacker, mehul a. shah, joseph hellerstein
+1998. SIGMOD Conference. key: conf/sigmod/KornackerSH98
+The Architectural Costs of Streaming I/O: A Comparison of Workstations, Clusters, and SMPs.
+remzi h. arpaci-dusseau, andrea c. arpaci-dusseau, david e. culler, joseph hellerstein, david a. patterson
+1998. HPCA. key: conf/hpca/Arpaci-DusseauACHP98
+The Asilomar Report on Database Research
+philip a. bernstein, michael l. brodie, stefano ceri, david j. dewitt, michael j. franklin, hector garcia-molina, jim gray, gerald held, joseph hellerstein, h. v. jagadish, michael lesk, david maier, jeffrey f. naughton, hamid pirahesh, michael stonebraker, jeffrey d. ullman
+1998. CoRR. key: journals/corr/cs-DB-9811013
+The Asilomar Report on Database Research.
+philip a. bernstein, michael l. brodie, stefano ceri, david j. dewitt, michael j. franklin, hector garcia-molina, jim gray, gerald held, joseph hellerstein, h. v. jagadish, michael lesk, david maier, jeffrey f. naughton, hamid pirahesh, michael stonebraker, jeffrey d. ullman
+1998. SIGMOD Record. key: journals/sigmod/BernsteinBCDFGGHHJLMNPSU98
+A Case for Intelligent Disks (IDISKs).
+kimberly keeton, david a. patterson, joseph hellerstein
+1998. SIGMOD Record. key: journals/sigmod/KeetonPH98
+Scalable Spreadsheets for Interactive Data Analysis.
+vijayshankar raman, andy chou, joseph hellerstein
+1999. 1999 ACM SIGMOD Workshop on Research Issues in Data Mining and Knowledge Discovery. key: conf/dmkd/RamanCH99
+Cluster I/O with River: Making the Fast Case Common.
+remzi h. arpaci-dusseau, eric anderson, noah treuhaft, david e. culler, joseph hellerstein, david a. patterson, katherine a. yelick
+1999. IOPADS. key: conf/iopads/Arpaci-DusseauATCHPY99
+Amdb: A Visual Access Method Development Tool.
+mehul a. shah, marcel kornacker, joseph hellerstein
+1999. UIDIS. key: conf/uidis/ShahKH99
+Online Dynamic Reordering for Interactive Data Processing.
+vijayshankar raman, bhaskaran raman, joseph hellerstein
+1999. VLDB. key: conf/vldb/RamanRH99
+Interactive data Analysis: The Control Project.
+joseph hellerstein, ron avnur, andy chou, christian hidber, chris olston, vijayshankar raman, tali roth, peter j. haas
+1999. IEEE Computer. key: journals/computer/HellersteinACHORRH99
+Ripple Joins for Online Aggregation.
+peter j. haas, joseph hellerstein
+1999. SIGMOD Conference. key: conf/sigmod/HaasH99
+Independent, Open Enterprise Data Integration.
+joseph hellerstein, michael stonebraker, rick caccia
+1999. IEEE Data Eng. Bull.. key: journals/debu/HellersteinSC99
+Eddies: Continuously Adaptive Query Processing
+ron avnur, joseph hellerstein
+2000. SIGMOD Conference. key: conf/sigmod/HellersteinA00
+Scalable, Distributed Data Structures for Internet Service Construction.
+steven d. gribble, eric a. brewer, joseph hellerstein, david e. culler
+2000. OSDI. key: conf/osdi/GribbleBHC00
+Informix under CONTROL: Online Query Processing.
+joseph hellerstein, ron avnur, vijayshankar raman
+2000. Data Min. Knowl. Discov.. key: journals/datamine/HellersteinAR00
+Adaptive Query Processing: Technology in Evolution.
+joseph hellerstein, michael j. franklin, sirish chandrasekaran, amol deshpande, kris hildrum, samuel madden, vijayshankar raman, mehul a. shah
+2000. IEEE Data Eng. Bull.. key: journals/debu/HellersteinFCDHMRS00
+Online dynamic reordering.
+vijayshankar raman, bhaskaran raman, joseph hellerstein
+2000. VLDB J.. key: journals/vldb/RamanRH00
+Content Integration for E-Business.
+michael stonebraker, joseph hellerstein
+2001. SIGMOD Conference. key: conf/sigmod/StonebrakerH01
+Potter's Wheel: An Interactive Data Cleaning System.
+vijayshankar raman, joseph hellerstein
+2001. VLDB. key: conf/vldb/RamanH01
+Online Query Processing.
+peter j. haas, joseph hellerstein
+2001. SIGMOD Conference. key: conf/sigmod/HaasH01
+Java Support for Data-Intensive Systems: Experiences Building the Telegraph Dataflow System.
+mehul a. shah, samuel madden, michael j. franklin, joseph hellerstein
+2001. SIGMOD Record. key: journals/sigmod/ShahMFH01
+Decoupled Query Optimization for Federated Database Systems.
+amol deshpande, joseph hellerstein
+2002. ICDE. key: conf/icde/DeshpandeH02
+Complex Queries in DHT-based Peer-to-Peer Networks.
+matthew harren, joseph hellerstein, ryan huebsch, boon thau loo, scott shenker, ion stoica
+2002. IPTPS. key: conf/iptps/HarrenHHLSS02
+TAG: A Tiny AGgregation Service for Ad-Hoc Sensor Networks.
+samuel madden, michael j. franklin, joseph hellerstein, wei hong
+2002. OSDI. key: conf/osdi/MaddenFHH02
+Data streams: fresh current or stagnant backwater? (panel).
+joseph hellerstein, jennifer widom
+2002. SIGMOD Conference. key: conf/sigmod/HellersteinW02
+Distributing queries over low-power wireless sensor networks.
+samuel madden, joseph hellerstein
+2002. SIGMOD Conference. key: conf/sigmod/MaddenH02
+Continuously adaptive continuous queries over streams.
+samuel madden, mehul a. shah, joseph hellerstein, vijayshankar raman
+2002. SIGMOD Conference. key: conf/sigmod/MaddenSHR02
+Partial results for online query processing.
+vijayshankar raman, joseph hellerstein
+2002. SIGMOD Conference. key: conf/sigmod/RamanH02
+TelegraphCQ: Continuous Dataflow Processing for an Uncertain World.
+sirish chandrasekaran, owen cooper, amol deshpande, michael j. franklin, joseph hellerstein, wei hong, sailesh krishnamurthy, samuel madden, vijayshankar raman, frederick reiss, mehul a. shah
+2003. CIDR. key: conf/cidr/ChandrasekaranDFHHKMRRS03
+Using State Modules for Adaptive Query Processing.
+vijayshankar raman, amol deshpande, joseph hellerstein
+2003. ICDE. key: conf/icde/RamanDH03
+Flux: An Adaptive Partitioning Operator for Continuous Query Systems.
+mehul a. shah, joseph hellerstein, sirish chandrasekaran, michael j. franklin
+2003. ICDE. key: conf/icde/ShahHCF03
+Beyond Average: Toward Sophisticated Sensing with Queries.
+joseph hellerstein, wei hong, samuel madden, kyle stanek
+2003. IPSN. key: conf/ipsn/HellersteinHMS03
+On the Feasibility of Peer-to-Peer Web Indexing and Search.
+jinyang li, boon thau loo, joseph hellerstein, m. frans kaashoek, david r. karger, robert morris
+2003. IPTPS. key: conf/iptps/LiLHKKM03
+TelegraphCQ: Continuous Dataflow Processing.
+sirish chandrasekaran, owen cooper, amol deshpande, michael j. franklin, joseph hellerstein, wei hong, sailesh krishnamurthy, samuel madden, frederick reiss, mehul a. shah
+2003. SIGMOD Conference. key: conf/sigmod/ChandrasekaranCDFHHKMRS03
+The Design of an Acquisitional Query Processor For Sensor Networks.
+samuel madden, michael j. franklin, joseph hellerstein, wei hong
+2003. SIGMOD Conference. key: conf/sigmod/MaddenFHH03
+Querying the Internet with PIER.
+ryan huebsch, joseph hellerstein, nick lanham, boon thau loo, scott shenker, ion stoica
+2003. VLDB. key: conf/vldb/HuebschHLLSS03
+The Lowell Database Research Self Assessment
+serge abiteboul, rakesh agrawal, philip a. bernstein, michael j. carey, stefano ceri, w. bruce croft, david j. dewitt, michael j. franklin, hector garcia-molina, dieter gawlick, jim gray, laura m. haas, alon y. halevy, joseph hellerstein, yannis e. ioannidis, martin l. kersten, michael j. pazzani, michael lesk, david maier, jeffrey f. naughton, hans-jorg schek, timos k. sellis, avi silberschatz, michael stonebraker, richard t. snodgrass, jeffrey d. ullman, gerhard weikum, jennifer widom, stanley b. zdonik
+2003. CoRR. key: journals/corr/cs-DB-0310006
+Amdb: A Design Tool for Access Methods.
+marcel kornacker, mehul a. shah, joseph hellerstein
+2003. IEEE Data Eng. Bull.. key: journals/debu/KornackerSH03
+TelegraphCQ: An Architectural Status Report.
+sailesh krishnamurthy, sirish chandrasekaran, owen cooper, amol deshpande, michael j. franklin, joseph hellerstein, wei hong, samuel madden, frederick reiss, mehul a. shah
+2003. IEEE Data Eng. Bull.. key: journals/debu/KrishnamurthyCCDFHHMRS03
+The sensor spectrum: technology, trends, and requirements.
+joseph hellerstein, wei hong, samuel madden
+2003. SIGMOD Record. key: journals/sigmod/HellersteinHM03
+The Case for a Hybrid P2P Search Infrastructure.
+boon thau loo, ryan huebsch, ion stoica, joseph hellerstein
+2004. IPTPS. key: conf/iptps/LooHSH04
+Brief announcement: prefix hash tree.
+sriram ramabhadran, sylvia ratnasamy, joseph hellerstein, scott shenker
+2004. PODC. key: conf/podc/RamabhadranRHS04
+Querying at Internet-Scale.
+brent n. chun, joseph hellerstein, ryan huebsch, shawn r. jeffery, boon thau loo, sam mardanbeigi, timothy roscoe, sean c. rhea, scott shenker, ion stoica
+2004. SIGMOD Conference. key: conf/sigmod/ChunRHHJLMRSS04
+Highly-Available, Fault-Tolerant, Parallel Dataflows.
+mehul a. shah, joseph hellerstein, eric a. brewer
+2004. SIGMOD Conference. key: conf/sigmod/ShahHB04
+Lifting the Burden of History from Adaptive Query Processing.
+amol deshpande, joseph hellerstein
+2004. VLDB. key: conf/vldb/DeshpandeH04
+Model-Driven Data Acquisition in Sensor Networks.
+amol deshpande, carlos guestrin, samuel madden, joseph hellerstein, wei hong
+2004. VLDB. key: conf/vldb/DeshpandeGMHH04
+The Case for Precision Sharing.
+sailesh krishnamurthy, michael j. franklin, joseph hellerstein, garrett jacobson
+2004. VLDB. key: conf/vldb/KrishnamurthyFHJ04
+Enhancing P2P File-Sharing with an Internet-Scale Query Processor.
+boon thau loo, joseph hellerstein, ryan huebsch, scott shenker, ion stoica
+2004. VLDB. key: conf/vldb/LooHHSS04
+Guest Editorial to the special issue on data stream processing.
+johannes gehrke, joseph hellerstein
+2004. VLDB J.. key: journals/vldb/GehrkeH04
+TASK: sensor network in a box.
+philip buonadonna, david gay, joseph hellerstein, wei hong, samuel madden
+2005. EWSN. key: conf/ewsn/BuonadonnaGHHM05
+Data Triage: An Adaptive Architecture for Load Shedding in TelegraphCQ.
+frederick reiss, joseph hellerstein
+2005. ICDE. key: conf/icde/ReissH05
+The Architecture of PIER: an Internet-Scale Query Processor.
+ryan huebsch, brent n. chun, joseph hellerstein, boon thau loo, petros maniatis, timothy roscoe, scott shenker, ion stoica, aydan r. yumerefendi
+2005. CIDR. key: conf/cidr/HuebschCHLMRSSY05
+A case study in building layered DHT applications.
+yatin chawathe, sriram ramabhadran, sylvia ratnasamy, anthony lamarca, scott shenker, joseph hellerstein
+2005. SIGCOMM. key: conf/sigcomm/ChawatheRRLSH05
+Declarative routing: extensible routing with declarative queries.
+boon thau loo, joseph hellerstein, ion stoica, raghu ramakrishnan
+2005. SIGCOMM. key: conf/sigcomm/LooHSR05
+Control Considerations for Scalable Event Processing.
+wei xu, joseph hellerstein, bill kramer, david a. patterson
+2005. DSOM. key: conf/dsom/XuHKP05
+Implementing declarative overlays.
+boon thau loo, tyson condie, joseph hellerstein, petros maniatis, timothy roscoe, ion stoica
+2005. SOSP. key: conf/sosp/LooCHMRS05
+The Lowell database research self-assessment.
+serge abiteboul, rakesh agrawal, philip a. bernstein, michael j. carey, stefano ceri, w. bruce croft, david j. dewitt, michael j. franklin, hector garcia-molina, dieter gawlick, jim gray, laura m. haas, alon y. halevy, joseph hellerstein, yannis e. ioannidis, martin l. kersten, michael j. pazzani, michael lesk, david maier, jeffrey f. naughton, hans-jorg schek, timos k. sellis, avi silberschatz, michael stonebraker, richard t. snodgrass, jeffrey d. ullman, gerhard weikum, jennifer widom, stanley b. zdonik
+2005. Commun. ACM. key: journals/cacm/AbiteboulABCCCDFGGGHHHIKPLMNSSSSSUWWZ05
+The Network Oracle.
+joseph hellerstein, vern paxson, larry l. peterson, timothy roscoe, scott shenker, david wetherall
+2005. IEEE Data Eng. Bull.. key: journals/debu/HellersteinPPRSW05
+Stonebraker receives IEEE John von Neumann Medal.
+david j. dewitt, michael j. carey, joseph hellerstein
+2005. SIGMOD Record. key: journals/sigmod/DeWittCH05
+Falling Off the Cliff: When Systems Go Nonlinear.
+yvonne coady, russ cox, john detreville, peter druschel, joseph hellerstein, andrew hume, kimberly keeton, thu nguyen, christopher small, lex stein, andrew warfield
+2005. HotOS. key: conf/hotos/CoadyCDDHHKNSSW05
+TinyDB: an acquisitional query processing system for sensor networks.
+samuel madden, michael j. franklin, joseph hellerstein, wei hong
+2005. ACM Trans. Database Syst.. key: journals/tods/MaddenFHH05
+Model-based approximate querying in sensor networks.
+amol deshpande, carlos guestrin, samuel madden, joseph hellerstein, wei hong
+2005. VLDB J.. key: journals/vldb/DeshpandeGMHH05
+Approximate Data Collection in Sensor Networks using Probabilistic Models.
+david chu, amol deshpande, joseph hellerstein, wei hong
+2006. ICDE. key: conf/icde/ChuDHH06
+Declarative Network Monitoring with an Underprovisioned Query Processor.
+frederick reiss, joseph hellerstein
+2006. ICDE. key: conf/icde/ReissH06
+Sdlib: a sensor network data and communications library for rapid and robust application development.
+david chu, kaisen lin, alexandre linares, giang nguyen, joseph hellerstein
+2006. IPSN. key: conf/ipsn/ChuLLNH06
+Data gathering tours in sensor networks.
+alexandra meliou, david chu, joseph hellerstein, carlos guestrin, wei hong
+2006. IPSN. key: conf/ipsn/MeliouCHGH06
+Induced Churn as Shelter from Routing-Table Poisoning.
+tyson condie, varun kacholia, sriram sank, joseph hellerstein, petros maniatis
+2006. NDSS. key: conf/ndss/CondieKSHM06
+Adaptive query processing: why, how, when, what next.
+amol deshpande, joseph hellerstein, vijayshankar raman
+2006. SIGMOD Conference. key: conf/sigmod/DeshpandeHR06
+Declarative networking: language, execution and optimization.
+boon thau loo, tyson condie, minos n. garofalakis, david e. gay, joseph hellerstein, petros maniatis, raghu ramakrishnan, timothy roscoe, ion stoica
+2006. SIGMOD Conference. key: conf/sigmod/LooCGGHMRRS06
+Entirely Declarative Sensor Network Systems.
+david chu, arsalan tavakoli, lucian popa, joseph hellerstein
+2006. VLDB. key: conf/vldb/ChuT0H06
+Compact Histograms for Hierarchical Identifiers.
+frederick reiss, minos n. garofalakis, joseph hellerstein
+2006. VLDB. key: conf/vldb/ReissGH06
+Toward sophisticated detection with distributed triggers.
+ling huang, minos n. garofalakis, joseph hellerstein, anthony d. joseph, nina taft
+2006. MineNet. key: conf/minenet/HuangGHJT06
+Probabilistic Data Management for Pervasive Computing: The Data Furnace Project.
+minos n. garofalakis, kurt p. brown, michael j. franklin, joseph hellerstein, daisy zhe wang, eirinaios michelakis, liviu tancau, eugene wu, shawn r. jeffery, ryan aipperspach
+2006. IEEE Data Eng. Bull.. key: journals/debu/GarofalakisBFHWMT0JA06
+Public Health for the Internet (PHI).
+joseph hellerstein, tyson condie, minos n. garofalakis, boon thau loo, petros maniatis, timothy roscoe, nina taft
+2007. CIDR. key: conf/cidr/HellersteinCGLMRT07
+Proof Sketches: Verifiable In-Network Aggregation.
+minos n. garofalakis, joseph hellerstein, petros maniatis
+2007. ICDE. key: conf/icde/GarofalakisHM07
+Granularity Conscious Modeling for Probabilistic Databases.
+eirinaios michelakis, daisy zhe wang, minos n. garofalakis, joseph hellerstein
+2007. ICDM Workshops. key: conf/icdm/MichelakisWGH07
+Communication-Efficient Online Detection of Network-Wide Anomalies.
+ling huang, xuanlong nguyen, minos n. garofalakis, joseph hellerstein, michael i. jordan, anthony d. joseph, nina taft
+2007. INFOCOM. key: conf/infocom/HuangNGHJJT07
+Nonmyopic Informative Path Planning in Spatio-Temporal Models.
+alexandra meliou, andreas krause, carlos guestrin, joseph hellerstein
+2007. AAAI. key: conf/aaai/MeliouKGH07
+The design and implementation of a declarative sensor network system.
+david chu, lucian popa, arsalan tavakoli, joseph hellerstein, philip levis, scott shenker, ion stoica
+2007. SenSys. key: conf/sensys/ChuPTHLSS07
+Sharing aggregate computation for distributed queries.
+ryan huebsch, minos n. garofalakis, joseph hellerstein, ion stoica
+2007. SIGMOD Conference. key: conf/sigmod/HuebschGHS07
+Enabling Real-Time Querying of Live and Historical Stream Data.
+frederick reiss, kurt stockinger, kesheng wu, arie shoshani, joseph hellerstein
+2007. SSDBM. key: conf/ssdbm/ReissSWSH07
+Thinking Big About Tiny Databases.
+michael j. franklin, joseph hellerstein, samuel madden
+2007. IEEE Data Eng. Bull.. key: journals/debu/FranklinHM07
+Architecture of a Database System.
+joseph hellerstein, michael stonebraker, james r. hamilton
+2007. Foundations and Trends in Databases. key: journals/ftdb/HellersteinSH07
+Optimizing declarative sensornets.
+david chu, joseph hellerstein, tsung-te lai
+2008. SenSys. key: conf/sensys/ChuHL08
+The Claremont report on database research.
+rakesh agrawal, anastasia ailamaki, philip a. bernstein, eric a. brewer, michael j. carey, surajit chaudhuri, anhai doan, daniela florescu, michael j. franklin, hector garcia-molina, johannes gehrke, le gruenwald, laura m. haas, alon y. halevy, joseph hellerstein, yannis e. ioannidis, henry f. korth, donald kossmann, samuel madden, roger magoulas, beng chin ooi, tim o'reilly, raghu ramakrishnan, sunita sarawagi, michael stonebraker, alexander s. szalay, gerhard weikum
+2008. SIGMOD Record. key: journals/sigmod/AgrawalABBCCDFFGGGHHHIKKMMOORSSSW08
+Evita raced: metacompilation for declarative networks.
+tyson condie, david chu, joseph hellerstein, petros maniatis
+2008. PVLDB. key: journals/pvldb/CondieCHM08
+BayesStore: managing large, uncertain data repositories with probabilistic graphical models.
+daisy zhe wang, eirinaios michelakis, minos n. garofalakis, joseph hellerstein
+2008. PVLDB. key: journals/pvldb/WangMGH08
+Approximating sensor network queries using in-network summaries.
+alexandra meliou, carlos guestrin, joseph hellerstein
+2009. IPSN. key: conf/ipsn/MeliouGH09
+Automating rendezvous and proxy selection in sensornets.
+david chu, joseph hellerstein
+2009. IPSN. key: conf/ipsn/ChuH09
+The Claremont report on database research.
+rakesh agrawal, anastasia ailamaki, philip a. bernstein, eric a. brewer, michael j. carey, surajit chaudhuri, anhai doan, daniela florescu, michael j. franklin, hector garcia-molina, johannes gehrke, le gruenwald, laura m. haas, alon y. halevy, joseph hellerstein, yannis e. ioannidis, henry f. korth, donald kossmann, samuel madden, roger magoulas, beng chin ooi, tim o'reilly, raghu ramakrishnan, sunita sarawagi, michael stonebraker, alexander s. szalay, gerhard weikum
+2009. Commun. ACM. key: journals/cacm/AgrawalABBCCDFFGGGHHHIKKMMOORSSSW09
+Declarative networking.
+boon thau loo, tyson condie, minos n. garofalakis, david e. gay, joseph hellerstein, petros maniatis, raghu ramakrishnan, timothy roscoe, ion stoica
+2009. Commun. ACM. key: journals/cacm/LooCGGHMRRS09
+I do declare: consensus in a logic language.
+peter alvaro, tyson condie, neil conway, joseph hellerstein, russell sears
+2009. Operating Systems Review. key: journals/sigops/AlvaroCCHS09
+How Best to Build Web-Scale Data Managers? A Panel Discussion.
+daniel j. abadi, michael j. cafarella, joseph hellerstein, donald kossmann, samuel madden, philip a. bernstein
+2009. PVLDB. key: journals/pvldb/AbadiCHKMB09
+Probabilistic declarative information extraction.
+daisy zhe wang, eirinaios michelakis, michael j. franklin, minos n. garofalakis, joseph hellerstein
+2010. ICDE. key: conf/icde/WangMFGH10
+MapReduce Online.
+tyson condie, neil conway, peter alvaro, joseph hellerstein, khaled elmeleegy, russell sears
+2010. NSDI. key: conf/nsdi/CondieCAHES10
+USHER: Improving data quality with dynamic forms.
+kuang chen, harr chen, neil conway, joseph hellerstein, tapan s. parikh
+2010. ICDE. key: conf/icde/ChenCCHP10
+Online aggregation and continuous query support in MapReduce.
+tyson condie, neil conway, peter alvaro, joseph hellerstein, john gerth, justin talbot, khaled elmeleegy, russell sears
+2010. SIGMOD Conference. key: conf/sigmod/CondieCAHGTES10
+Designing adaptive feedback for improving data entry accuracy.
+kuang chen, joseph hellerstein, tapan s. parikh
+2010. UIST. key: conf/uist/ChenHP10
+Boom analytics: exploring data-centric, declarative programming for the cloud.
+peter alvaro, tyson condie, neil conway, khaled elmeleegy, joseph hellerstein, russell sears
+2010. EuroSys. key: conf/eurosys/AlvaroCCEHS10
+Multiresolution Cube Estimators for Sensor Network Aggregate Queries.
+alexandra meliou, carlos guestrin, joseph hellerstein
+2010. AMW. key: conf/amw/MeliouGH10
+GraphLab: A New Framework for Parallel Machine Learning
+yucheng low, joseph gonzalez, aapo kyrola, danny bickson, carlos guestrin, joseph hellerstein
+2010. CoRR. key: journals/corr/abs-1006-4990
+Multiresolution Cube Estimators for Sensor Network Aggregate Queries
+alexandra meliou, carlos guestrin, joseph hellerstein
+2010. CoRR. key: journals/corr/abs-1007-3781
+Querying Probabilistic Information Extraction.
+daisy zhe wang, michael j. franklin, minos n. garofalakis, joseph hellerstein
+2010. PVLDB. key: journals/pvldb/WangFGH10
+
+Cluster 2, 31 papers:	Google, Inc [was in IBM T. J. Watson Research Center]
+Recognizing End-User Transactions in Performance Management.
+joseph hellerstein, t. s. jayram, irina rish
+2000. AAAI/IAAI. key: conf/aaai/HellersteinJR00
+Analysis of Large-Scale Distributed Information Systems.
+joseph hellerstein, t. s. jayram, mark s. squillante
+2000. MASCOTS. key: conf/mascots/HellersteinJS00
+Managing the Performance of Lotus Notes: A Control Theoretic Approach.
+joseph hellerstein, neha gandhi, sujay s. parekh
+2001. Int. CMG Conference. key: conf/cmg/HellersteinGP01
+Using Control Theory to Achieve Service Level Objectives In Performance Management.
+sujay s. parekh, neha gandhi, joseph hellerstein, dawn m. tilbury, t. s. jayram, joseph p. bigus
+2002. Real-Time Systems. key: journals/rts/ParekhGHTJB02
+Optimizing Quality of Service Using Fuzzy Control.
+yixin diao, joseph hellerstein, sujay s. parekh
+2002. DSOM. key: conf/dsom/DiaoHP02
+Using MIMO feedback control to enforce policies for interrelated metrics with application to the Apache Web server.
+yixin diao, neha gandhi, joseph hellerstein, sujav parekh, dawn m. tilbury
+2002. NOMS. key: conf/noms/DiaoGHPT02
+Managing dynamic services: a contract based approach to a conceptual architecture.
+alexander keller, gautam kar, heiko ludwig, asit dan, joseph hellerstein
+2002. NOMS. key: conf/noms/KellerKLDH02
+Using fuzzy control to maximize profits in service level management.
+yixin diao, joseph hellerstein, sujay s. parekh
+2002. IBM Systems Journal. key: journals/ibmsj/DiaoHP02
+Generic Online Optimization of Multiple Configuration Parameters with Application to a Database Server.
+yixin diao, frank eskesen, steve froehlich, joseph hellerstein, lisa spainhower, maheswaran surendra
+2003. DSOM. key: conf/dsom/DiaoEFHSS03
+Managing the Performance Impact of Administrative Utilities.
+sujay s. parekh, kevin rose, joseph hellerstein, sam lightstone, matthew huras, victor chang
+2003. DSOM. key: conf/dsom/ParekhRHLHC03
+Dynamic Surge Protection: An Approach to Handling Unexpected Workload Surges with Resource Actions that Have Lead Times.
+ed lassettre, david w. coleman, yixin diao, steve froehlich, joseph hellerstein, lawrence s. hsiung, todd w. mummert, mukund raghavachari, geoffrey parker, lance russell, maheswaran surendra, veronica tseng, noshir wadia, pery ye
+2003. DSOM. key: conf/dsom/LassettreCDFHHMRPRSTWY03
+Generic On-Line Discovery of Quantitative Models for Service Level Management.
+yixin diao, frank eskesen, steve froehlich, joseph hellerstein, alexander keller, lisa spainhower, maheswaran surendra
+2003. Integrated Network Management. key: conf/im/DiaoEFHKSS03
+Online Response Time Optimization of Apache Web Server.
+xue liu, lui sha, yixin diao, steve froehlich, joseph hellerstein, sujay s. parekh
+2003. IWQoS. key: conf/iwqos/LiuSDFHP03
+Managing Web server performance with AutoTune agents.
+yixin diao, joseph hellerstein, sujay s. parekh, joseph p. bigus
+2003. IBM Systems Journal. key: journals/ibmsj/DiaoHPB03
+Benchmarking Autonomic Capabilities: Promises and Pitfalls.
+aaron b. brown, joseph hellerstein, matt hogstrom, tony lau, sam lightstone, peter shum, mary peterson yost
+2004. ICAC. key: conf/icac/BrownHHLLSY04
+Incorporating Cost of Control into the Design of a Load Balancing Controller.
+yixin diao, joseph hellerstein, adam j. storm, maheswaran surendra, sam lightstone, sujay s. parekh, christian garcia-arellano
+2004. IEEE Real-Time and Embedded Technology and Applications Symposium. key: conf/rtas/DiaoHSSLPG04
+An approach to benchmarking configuration complexity.
+aaron b. brown, joseph hellerstein
+2004. ACM SIGOPS European Workshop. key: conf/sigopsE/BrownH04
+The CHAMPS system: change management with planning and scheduling.
+alexander keller, joseph hellerstein, joel l. wolf, kun-lung wu, vijaya krishnan
+2004. NOMS. key: conf/noms/KellerHWWK04
+Self-Managing Systems: A Control Theory Foundation.
+yixin diao, joseph hellerstein, sujay s. parekh, rean griffith, gail e. kaiser, dan b. phung
+2005. ECBS. key: conf/ecbs/DiaoHPGKP05
+Reducing the Cost of IT Operations - Is Automation Always the Answer?
+aaron b. brown, joseph hellerstein
+2005. HotOS. key: conf/hotos/BrownH05
+A model of configuration complexity and its application to a change management system.
+aaron b. brown, alexander keller, joseph hellerstein
+2005. Integrated Network Management. key: conf/im/BrownKH05
+A framework for applying inventory control to capacity management for utility computing.
+joseph hellerstein, kaan katircioglu, maheswaran surendra
+2005. Integrated Network Management. key: conf/im/HellersteinKS05
+A control theory foundation for self-managing computing systems.
+yixin diao, joseph hellerstein, sujay s. parekh, rean griffith, gail e. kaiser, dan b. phung
+2005. IEEE Journal on Selected Areas in Communications. key: journals/jsac/DiaoHPGKP05
+An on-line, business-oriented optimization of performance and availability for utility computing.
+joseph hellerstein, kaan katircioglu, maheswaran surendra
+2005. IEEE Journal on Selected Areas in Communications. key: journals/jsac/HellersteinKS05
+Towards an Understanding of Decision Complexity in IT Configuration.
+bin lin, aaron b. brown, joseph hellerstein
+2006. ICAC. key: conf/icac/LinBH06
+Controlling Quality of Service in Multi-Tier Web Applications.
+yixin diao, joseph hellerstein, sujay s. parekh, hidayatullah shaikh, maheswaran surendra
+2006. ICDCS. key: conf/icdcs/DiaoHPSS06
+Dynamic Adaptation of Temporal Event Correlation for QoS Management in Distributed Systems.
+rean griffith, joseph hellerstein, gail e. kaiser, yixin diao
+2006. IWQoS. key: conf/iwqos/GriffithHKD06
+Modeling Differentiated Services of Multi-Tier Web Applications.
+yixin diao, joseph hellerstein, sujay s. parekh, hidayatullah shaikh, maheswaran surendra, asser n. tantawi
+2006. MASCOTS. key: conf/mascots/DiaoHPSST06
+Engineering Performance Using Control Theory.
+joseph hellerstein, yixin diao
+2007. Int. CMG Conference. key: conf/cmg/HellersteinD07
+Control Theory: a Foundational Technique for Self Managing Databases.
+sam lightstone, maheswaran surendra, yixin diao, sujay s. parekh, joseph hellerstein, kevin rose, adam j. storm, christian garcia-arellano
+2007. ICDE Workshops. key: conf/icde/LightstoneSDPHRSG07
+Towards an understanding of decision complexity in IT configuration.
+bin lin, aaron b. brown, joseph hellerstein
+2007. CHIMIT. key: conf/chimit/LinBH07
+
+Cluster 3, 13 papers:	Google, Inc [was in IBM T. J. Watson Research Center]
+EventBrowser: A Flexible Tool for Scalable Analysis of Event Data.
+sheng ma, joseph hellerstein
+1999. DSOM. key: conf/dsom/MaH99
+Mining Event Data for Actionable Patterns.
+joseph hellerstein, sheng ma
+2000. Int. CMG Conference. key: conf/cmg/HellersteinM00
+Scalable Visualization of Event Data.
+david j. taylor, nagui halim, joseph hellerstein, sheng ma
+2000. DSOM. key: conf/dsom/TaylorHHM00
+Mining Partially Periodic Event Patterns with Unknown Periods.
+sheng ma, joseph hellerstein
+2001. ICDE. key: conf/icde/MaH01
+Mining Mutually Dependent Patterns.
+sheng ma, joseph hellerstein
+2001. ICDM. key: conf/icdm/MaH01
+FARM: A Framework for Exploring Mining Spaces with Multiple Attributes.
+chang-shing perng, haixun wang, sheng ma, joseph hellerstein
+2001. ICDM. key: conf/icdm/PerngWMH01
+Progressive and Interactive Analysis of Event Data Using Event Miner.
+sheng ma, joseph hellerstein, chang-shing perng, genady grabarnik
+2002. ICDM. key: conf/icdm/MaHPG02
+User-directed Exploration of Mining Space with Multiple Attributes.
+chang-shing perng, haixun wang, sheng ma, joseph hellerstein
+2002. ICDM. key: conf/icdm/PerngWMH02
+Discovering Fully Dependent Patterns.
+feng liang, sheng ma, joseph hellerstein
+2002. SDM. key: conf/sdm/LiangMH02
+Discovering actionable patterns in event data.
+joseph hellerstein, sheng ma, chang-shing perng
+2002. IBM Systems Journal. key: journals/ibmsj/HellersteinMP02
+Predictive algorithms in the management of computer systems.
+ricardo vilalta, chidanand apte, joseph hellerstein, sheng ma, sholom m. weiss
+2002. IBM Systems Journal. key: journals/ibmsj/VilaltaAHMW02
+Discovery in multi-attribute data with user-defined constraints.
+chang-shing perng, haixun wang, sheng ma, joseph hellerstein
+2002. SIGKDD Explorations. key: journals/sigkdd/PerngWMH02
+Data-driven validation, completion and construction of event relationship networks.
+chang-shing perng, david thoenen, genady grabarnik, sheng ma, joseph hellerstein
+2003. KDD. key: conf/kdd/PerngTGMH03
+
+Cluster 4, 8 papers:	Google, Inc [was in IBM T. J. Watson Research Center]
+Analyzing VM Performance: A Worksheet Based Approach.
+robert f. berry, joseph hellerstein
+1988. Int. CMG Conference. key: conf/cmg/BerryH88
+Estimating the Utilization of Shared DASD: A Performance Management Perspective.
+robert f. berry, joseph hellerstein
+1989. Int. CMG Conference. key: conf/cmg/BerryH89
+Expert Systems for Capacity Management.
+robert f. berry, joseph hellerstein
+1990. Int. CMG Conference. key: conf/cmg/BerryH90
+An Object-Oriented Data Model for the Automation of Computer Performance Management.
+robert f. berry, joseph hellerstein, paul van leer
+1991. Int. CMG Conference. key: conf/cmg/BerryHL91
+Choosing a Service Level Indicator - Why not Queue Length?
+joseph hellerstein, paul van leer, robert f. berry
+1991. Int. CMG Conference. key: conf/cmg/HellersteinLB91
+An Approach to Detecting Changes in the Factors Affecting the Performance of Computer Systems.
+robert f. berry, joseph hellerstein
+1991. SIGMETRICS. key: conf/sigmetrics/BerryH91
+Characterizing and Interpreting Periodic Behavior in Computer Systems.
+robert f. berry, joseph hellerstein
+1992. SIGMETRICS. key: conf/sigmetrics/BerryH92
+Characterizing and Interpreting Periodic Behavior in Computer Systems.
+joseph hellerstein, robert f. berry
+1997. Int. CMG Conference. key: conf/cmg/HellersteinB97
+
+Cluster 5, 4 papers:	Google, Inc [was in IBM T. J. Watson Research Center]
+Some potential deadlocks in layered communications architectures.
+joseph hellerstein, wesley w. chu
+1981. AFIPS National Computer Conference. key: conf/afips/HellersteinC81
+The Exclusive-Writer Protocol: A Low Cost Approach for Updating Replicated Files in Distributed Real Time Systems.
+wesley w. chu, joseph hellerstein, min-tsung lan
+1982. ICDCS. key: conf/icdcs/ChuHL82
+Estimation of Intermodule Communication (IMC) and Its Applications in Distributed Processing Systems.
+wesley w. chu, min-tsung lan, joseph hellerstein
+1984. IEEE Trans. Computers. key: journals/tc/ChuLH84
+The Exclusive-Writer Approach to Updating Replicated Files in Distributed Processing Systems.
+wesley w. chu, joseph hellerstein
+1985. IEEE Trans. Computers. key: journals/tc/ChuH85
+
+Cluster 6, 3 papers:	Google, Inc [was in IBM T. J. Watson Research Center]
+YSCOPE: A Shell for Building Expert Systems for Solving Computer-Performance Problems.
+joseph hellerstein, hugo m. van woerkom
+1985. Int. CMG Conference. key: conf/cmg/HellersteinW85
+YES/MVS and the Automation of Operations for Large Computer Complexes.
+keith r. milliken, anthony v. cruise, robert l. ennis, allan j. finkel, joseph hellerstein, david j. loeb, david a. klein, miriam j. masullo, hugo m. van woerkom, norman b. waite
+1986. IBM Systems Journal. key: journals/ibmsj/MillikenCEFHLKMWW86
+Expert Systems in Data Processing Applications Using IBM Knowledge Tool.
+joseph hellerstein, david a. klein, keith r. milliken
+1989. Int. CMG Conference. key: conf/cmg/HellersteinKM89
+
+Cluster 7, 3 papers:	Google, Inc [was in IBM T. J. Watson Research Center]
+Characterizing Normal Operation of a Web Server: Application to Workload Forecasting and Problem Determination.
+joseph hellerstein, fan zhang, perwez shahabuddin
+1998. Int. CMG Conference. key: conf/cmg/HellersteinZS98
+An Approach to On-Line Predictive Detection.
+fan zhang, joseph hellerstein
+2000. MASCOTS. key: conf/mascots/ZhangH00
+A statistical approach to predictive detection.
+joseph hellerstein, fan zhang, perwez shahabuddin
+2001. Computer Networks. key: journals/cn/HellersteinZS01
+
+Cluster 8, 3 papers:	CS, Berkeley
+Blobworld: A System for Region-Based Image Indexing and Retrieval.
+chad carson, megan thomas, serge belongie, joseph hellerstein, jitendra malik
+1999. VISUAL. key: conf/visual/CarsonTBHM99
+Creating a Customized Access Method for Blobworld.
+megan thomas, chad carson, joseph hellerstein
+2000. ICDE. key: conf/icde/ThomasCH00
+Boolean Bounding Predicates for Spatial Access Methods.
+megan thomas, joseph hellerstein
+2002. DEXA. key: conf/dexa/ThomasH02
+
+Cluster 9, 2 papers:	Google, Inc [was in IBM T. J. Watson Research Center]
+ETE: A Customizable Approach to Measuring End-to-End Response Times and Their Components in Distributed Systems.
+joseph hellerstein, mark m. maccabee, w. nathaniel mills iii, john turek
+1999. ICDCS. key: conf/icdcs/HellersteinMMT99
+Metrics for Performance Tuning of Web-Based Applications.
+joseph hellerstein, w. nathaniel mills iii
+2000. Int. CMG Conference. key: conf/cmg/HellersteinM00a
+
+Cluster 10, 2 papers:	CS, Berkeley
+On the Analysis of Indexing Schemes.
+joseph hellerstein, elias koutsoupias, christos h. papadimitriou
+1997. PODS. key: conf/pods/HellersteinKP97
+On a model of indexability and its bounds for range queries.
+joseph hellerstein, elias koutsoupias, daniel p. miranker, christos h. papadimitriou, vasilis samoladas
+2002. J. ACM. key: journals/jacm/HellersteinKMPS02
+
+Cluster 11, 1 papers:	Google, Inc [was in IBM T. J. Watson Research Center]
+Obtaining Quantitative Predictions from Monotone Relationships.
+joseph hellerstein
+1990. AAAI. key: conf/aaai/Hellerstein90
+
+Cluster 12, 1 papers:	Google, Inc [was in IBM T. J. Watson Research Center]
+An Intuitive Approach to Performance Prediction with Application to Workload Management in VM SP/HPO.
+joseph hellerstein
+1987. Int. CMG Conference. key: conf/cmg/Hellerstein87
+
+Cluster 13, 1 papers:	Google, Inc [was in IBM T. J. Watson Research Center]
+What's-Different Analysis and its Application to Performance Management in VM SP/HPO.
+joseph hellerstein
+1988. Int. CMG Conference. key: conf/cmg/Hellerstein88
+
+Cluster 14, 1 papers:	Google, Inc [was in IBM T. J. Watson Research Center]
+Controlling CPU Allocations In UNIX Systems.
+joseph hellerstein
+1992. Int. CMG Conference. key: conf/cmg/Hellerstein92
+
+Cluster 15, 1 papers:	Google, Inc [was in IBM T. J. Watson Research Center]
+How Expert is Your Expert System for Performance Management?
+joseph hellerstein
+1994. Int. CMG Conference. key: conf/cmg/Hellerstein94
+
+Cluster 16, 1 papers:	Google, Inc [was in IBM T. J. Watson Research Center]
+Automating Performance Management Using Case-Based Reasoning.
+joseph hellerstein
+1995. Int. CMG Conference. key: conf/cmg/Hellerstein95
+
+Cluster 17, 1 papers:	Google, Inc [was in IBM T. J. Watson Research Center]
+Rules Of Thumb For Selecting Metrics For Detecting Performance Problems.
+joseph hellerstein
+1996. Int. CMG Conference. key: conf/cmg/Hellerstein96
+
+Cluster 18, 1 papers:	Google, Inc [was in IBM T. J. Watson Research Center]
+Automated Tuning Systems: Beyond Decision Support.
+joseph hellerstein
+1997. Int. CMG Conference. key: conf/cmg/Hellerstein97
+
+Cluster 19, 1 papers:	Google, Inc [was in IBM T. J. Watson Research Center]
+Automated Drill Down: An Approach to Automated Problem Isolation for Performance Management.
+joseph hellerstein, david hart, po yue
+1999. Int. CMG Conference. key: conf/cmg/HellersteinHY99
+
+Cluster 20, 1 papers:	Google, Inc [was in IBM T. J. Watson Research Center]
+Engineering autonomic systems.
+joseph hellerstein
+2009. ICAC. key: conf/icac/Hellerstein09
+
+Cluster 21, 1 papers:	CS, Berkeley
+On the Generation of 2-Dimensional Index Workloads.
+joseph hellerstein, lisa hellerstein, george kollios
+1999. ICDT. key: conf/icdt/HellersteinHK99
+
+Cluster 22, 1 papers:	Google, Inc [was in IBM T. J. Watson Research Center]
+Introduction to control theory for computer scientists.
+joseph hellerstein
+2005. Integrated Network Management. key: conf/im/Hellerstein05a
+
+Cluster 23, 1 papers:	N/A (panel session summary, not a paper)
+Is policy-based management possible?
+joseph hellerstein
+2005. Integrated Network Management. key: conf/im/Hellerstein05
+
+Cluster 24, 1 papers:	Google, Inc [was in IBM T. J. Watson Research Center]
+Configuring resource managers using model fuzzing: A case study of the .NET thread pool.
+joseph hellerstein
+2009. Integrated Network Management. key: conf/im/Hellerstein09
+
+Cluster 25, 1 papers:	Google, Inc [was in IBM T. J. Watson Research Center]
+Self-Managing Systems: A Control Theory Foundation.
+joseph hellerstein
+2004. LCN. key: conf/lcn/Hellerstein04
+
+Cluster 26, 1 papers:	Google, Inc [was in IBM T. J. Watson Research Center]
+The Response to IT Complexity: Autonomic Computing.
+alan g. ganek, cristiane p. hilkner, john w. sweitzer, brent a. miller, joseph hellerstein
+2004. NCA. key: conf/nca/GanekHSMH04
+
+Cluster 27, 1 papers:	CS, Berkeley
+Towards a Crystal Ball for Data Retrieval.
+joseph hellerstein
+1997. NGITS. key: conf/ngits/Hellerstein97
+
+Cluster 28, 1 papers:	CS, Berkeley
+Datalog redux: experience and conjecture.
+joseph hellerstein
+2010. PODS. key: conf/pods/Hellerstein10
+
+Cluster 29, 1 papers:	Google, Inc [was in IBM T. J. Watson Research Center]
+The Role of Quantitative Models in Building Scalable Cloud Infrastructures.
+joseph hellerstein
+2010. QEST. key: conf/qest/Hellerstein10
+
+Cluster 30, 1 papers:	Google, Inc [was in IBM T. J. Watson Research Center]
+A Statistical Approach to Diagnosing Intermittent Performance-Problems Using Monotone Relationships.
+joseph hellerstein
+1989. SIGMETRICS. key: conf/sigmetrics/Hellerstein89
+
+Cluster 31, 1 papers:	Google, Inc [was in IBM T. J. Watson Research Center]
+An Introduction to Modeling Dynamic Behavior with Time Series Analysis.
+joseph hellerstein
+1993. Performance/SIGMETRICS Tutorials. key: conf/sigmetrics/Hellerstein93
+
+Cluster 32, 1 papers:	Google, Inc [was in IBM T. J. Watson Research Center]
+A Comparison of Techniques for Diagnosing Performance Problems In Information Systems.
+joseph hellerstein
+1994. SIGMETRICS. key: conf/sigmetrics/Hellerstein94
+
+Cluster 33, 1 papers:	Google, Inc [was in IBM T. J. Watson Research Center]
+An Approach to Selecting Metrics for detecting Performance Problems in Information Systems.
+joseph hellerstein
+1996. SIGMETRICS. key: conf/sigmetrics/Hellerstein96
+
+Cluster 34, 1 papers:	CS, Berkeley
+Index Research: Forest or Trees? (Panel Abstract).
+joseph hellerstein
+2000. SIGMOD Conference. key: conf/sigmod/Hellerstein00
+
+Cluster 35, 1 papers:	CS, Berkeley
+Practical Predicate Placement.
+joseph hellerstein
+1994. SIGMOD Conference. key: conf/sigmod/Hellerstein94
+
+Cluster 36, 1 papers:	CS, Berkeley
+Parallelizing extensible query optimizers.
+florian m. waas, joseph hellerstein
+2009. SIGMOD Conference. key: conf/sigmod/WaasH09
+
+Cluster 37, 1 papers:	CS, Berkeley
+Out-of-core build of a topological data structure from polygon soup.
+sara mcmains, joseph hellerstein, carlo h. sequin
+2001. Symposium on Solid Modeling and Applications. key: conf/sma/McMainsHS01
+
+Cluster 38, 1 papers:	CS, Berkeley
+Architectures and Algorithms for Internet-Scale (P2P) Data Management.
+joseph hellerstein
+2004. VLDB. key: conf/vldb/Hellerstein04
+
+Cluster 39, 1 papers:	Google, Inc [was in IBM T. J. Watson Research Center]
+Engineering Self-Organizing Systems.
+joseph hellerstein
+2007. IWSOS. key: conf/iwsos/Hellerstein07
+
+Cluster 40, 1 papers:	CS, Berkeley
+Clock Skew Based Node Identification in Wireless Sensor Networks.
+dingjie huang, wei-chung teng, chih-yuan wang, hsuan-yu huang, joseph hellerstein
+2008. GLOBECOM. key: conf/globecom/HuangTWHH08
+
+Cluster 41, 1 papers:	CS, Berkeley
+Optimization of in-network data reduction.
+joseph hellerstein, wei wang
+2004. DMSN. key: conf/dmsn/HellersteinW04
+
+Cluster 42, 1 papers:	Google, Inc [was in IBM T. J. Watson Research Center]
+Predictive models for proactive network management: application to a production Web server.
+dongxu shen, joseph hellerstein
+2000. NOMS. key: conf/noms/ShenH00
+
+Cluster 43, 1 papers:	Google, Inc [was in IBM T. J. Watson Research Center]
+Optimizing software packages for application management.
+joseph hellerstein
+2008. NOMS. key: conf/noms/Hellerstein08
+
+Cluster 44, 1 papers:	N/A (not a paper & fulltext unavailable)
+Editorial.
+metin feridun, joseph hellerstein
+2010. Computer Networks. key: journals/cn/FeridunH10
+
+Cluster 45, 1 papers:	N/A (not a paper & fulltext unavailable)
+Letter from the Special Issue Editor.
+joseph hellerstein
+1996. IEEE Data Eng. Bull.. key: journals/debu/Hellerstein96
+
+Cluster 46, 1 papers:	CS, Berkeley
+Online Processing Redux.
+joseph hellerstein
+1997. IEEE Data Eng. Bull.. key: journals/debu/Hellerstein97
+
+Cluster 47, 1 papers:	N/A (not a paper & fulltext unavailable)
+Letter from the Special Issue Editor.
+joseph hellerstein
+1997. IEEE Data Eng. Bull.. key: journals/debu/Hellerstein97a
+
+Cluster 48, 1 papers:	Google, Inc [was in IBM T. J. Watson Research Center]
+Applicaitons Management -- Current Practices, Research Results, and Future Directions.
+paul brasil, joseph hellerstein, hanan lutfiyya
+1998. J. Network Syst. Manage.. key: journals/jnsm/BrasilHL98
+
+Cluster 49, 1 papers:	Google, Inc [was in IBM T. J. Watson Research Center]
+A General-Purpose Algorithm for Quantitative Diagnosis of Performance Problems.
+joseph hellerstein
+2003. J. Network Syst. Manage.. key: journals/jnsm/Hellerstein03
+
+Cluster 50, 1 papers:	Google, Inc [was in IBM T. J. Watson Research Center]
+Management of Integrated End-to-End Communications and Services - Report on NOMS 2006.
+joseph hellerstein, burkhard stiller
+2006. J. Network Syst. Manage.. key: journals/jnsm/HellersteinS06
+
+Cluster 51, 1 papers:	Google, Inc [was in IBM T. J. Watson Research Center]
+Recent advances in autonomic communications [Guest Editorial].
+raouf boutaba, jean-philippe martin-flatin, joseph hellerstein, randy h. katz, george pavlou, chin-tau lea
+2010. IEEE Journal on Selected Areas in Communications. key: journals/jsac/BoutabaMHKPL10
+
+Cluster 52, 1 papers:	Google, Inc [was in IBM T. J. Watson Research Center]
+Applying control theory in the real world: experience with building a controller for the .NET thread pool.
+joseph hellerstein, vance morrison, eric eilebrecht
+2009. SIGMETRICS Performance Evaluation Review. key: journals/sigmetrics/HellersteinME09
+
+Cluster 53, 1 papers:	Google, Inc [was in IBM T. J. Watson Research Center]
+Towards characterizing cloud backend workloads: insights from Google compute clusters.
+asit k. mishra, joseph hellerstein, walfredo cirne, chita r. das
+2010. SIGMETRICS Performance Evaluation Review. key: journals/sigmetrics/MishraHCD10
+
+Cluster 54, 1 papers:	CS, Berkeley
+Exposing undergraduate students to database system internals.
+anastassia ailamaki, joseph hellerstein
+2003. SIGMOD Record. key: journals/sigmod/AilamakiH03
+
+Cluster 55, 1 papers:	CS, Berkeley
+Toward network data independence.
+joseph hellerstein
+2003. SIGMOD Record. key: journals/sigmod/Hellerstein03
+
+Cluster 56, 1 papers:	CS, Berkeley
+The declarative imperative: experiences and conjectures in distributed logic.
+joseph hellerstein
+2010. SIGMOD Record. key: journals/sigmod/Hellerstein10
+
+Cluster 57, 1 papers:	Google, Inc [was in IBM T. J. Watson Research Center]
+Constructing Quantitative Models Using Monotone Relationships.
+joseph hellerstein
+1995. IEEE Trans. Knowl. Data Eng.. key: journals/tkde/Hellerstein95
+
+Cluster 58, 1 papers:	CS, Berkeley
+Optimization Techniques for Queries with Expensive Methods.
+joseph hellerstein
+1998. ACM Trans. Database Syst.. key: journals/tods/Hellerstein98
+
+Cluster 59, 1 papers:	Google, Inc [was in IBM T. J. Watson Research Center]
+Achieving Service Rate Objectives with Decay Usage Scheduling.
+joseph hellerstein
+1993. IEEE Trans. Software Eng.. key: journals/tse/Hellerstein93
+
+Cluster 60, 1 papers:	CS, Berkeley
+Data visualization & social data analysis.
+jeffrey heer, joseph hellerstein
+2009. PVLDB. key: journals/pvldb/HeerH09
+
+Cluster 61, 1 papers:	CS, Berkeley
+MAD Skills: New Analysis Practices for Big Data.
+jeffrey cohen, brian dolan, mark dunlap, joseph hellerstein, caleb welton
+2009. PVLDB. key: journals/pvldb/CohenDDHW09
+
+Cluster 62, 1 papers:	N/A (not a paper)
+Letter from the General PC Co-Chair.
+joseph hellerstein
+2010. PVLDB. key: journals/pvldb/Hellerstein10
+
+Cluster 63, 1 papers:	CS, Berkeley
+Optimization and Execution Techniques for Queries With Expensive Methods
+joseph hellerstein
+1995. . key: phd/Hellerstein95
+
+Cluster 64, 1 papers:	CS, Berkeley
+Generalized Search Tree.
+joseph hellerstein
+2009. Encyclopedia of Database Systems. key: reference/db/Hellerstein09
+

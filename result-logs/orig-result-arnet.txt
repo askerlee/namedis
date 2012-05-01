@@ -1,0 +1,920 @@
+shaohua@lsh:/media/tough/namedis$ bash competitors-scripts/alignarnet.sh -p original-10 
+ajay gupta:
+Groundtruth file path prefix: 'original-10/'
+Open groundtruth file 'original-10/ajay gupta-labels.txt' to process...
+16 publications of 4 authors loaded
+[IBM India Research Laboratory]: 6 | [Western Michigan University]: 5 | [Stony Brook]: 3 | yin's cluster 3: 2
+Groundtruth total pairs: 29
+
+Open Arnetminer file 'arnet/ajay gupta-arnet.txt' to process...
+WiSe Lab Department of Computer Science Western Michigan University [1230697]:
+11 pubs read, 5 unmatched. 6 matched, distribution:
+[IBM India Research Laboratory]: 6
+
+[1230705]:
+9 pubs read, 9 unmatched. 0 matched, distribution:
+
+
+Hewlett-Packard Labs, Bangalore, India [1230703]:
+3 pubs read, 3 unmatched. 0 matched, distribution:
+
+
+[1230698]:
+2 pubs read, 0 unmatched. 2 matched, distribution:
+yin's cluster 3: 2
+
+[1230701]:
+1 pubs read, 1 unmatched. 0 matched, distribution:
+
+
+26 pubs of 5 Arnet authors loaded. Matched:
+WiSe Lab Department of Computer Science Western Michigan University [1230697]: 6 | [1230698]: 2
+Correspond to 2 true authors:
+[IBM India Research Laboratory]: 6 | yin's cluster 3: 2
+
+16 groundtruth publications, 8 matched, 8 matched title-year pair
+Groundtruth pairs total: 29, between matched pubs: 16
+Arnet total pairs: 16
+Arnet total correct pairs: 16
+Summary:
+Prec: 1. Recall: 1. F1: 1
+
+
+bing liu:
+Groundtruth file path prefix: 'original-10/'
+Open groundtruth file 'original-10/bing liu-labels.txt' to process...
+89 publications of 6 authors loaded
+[UIC]: 75 | [Fudan U]: 4 | [Huazhong U of Sci and Tech]: 3 | [Nanyang Tech U]: 3 | [Virginia Polytechnic Institute and State University]: 2 | [Chinese Acad of Sci]: 2
+Groundtruth total pairs: 2789
+
+Open Arnetminer file 'arnet/bing liu-arnet.txt' to process...
+Department of Computer Science,, University of Illinois at Chicago [UIC] [64027]:
+153 pubs read, 81 unmatched. 72 matched, distribution:
+[UIC]: 67 | [Fudan U]: 4 | [Chinese Acad of Sci]: 1
+
+[64041]:
+40 pubs read, 33 unmatched. 7 matched, distribution:
+[UIC]: 3 | [Huazhong U of Sci and Tech]: 2 | [Virginia Polytechnic Institute and State University]: 2
+
+[64028]:
+10 pubs read, 8 unmatched. 2 matched, distribution:
+[UIC]: 2
+
+Inf. Sci. Inst., Univ. of Southern California, Marina del Rey, CA, USA [64039]:
+4 pubs read, 3 unmatched. 1 matched, distribution:
+[UIC]: 1
+
+Coll. of Inf. Eng., Xiangtan Univ., China [64036]:
+4 pubs read, 1 unmatched. 3 matched, distribution:
+[Nanyang Tech U]: 3
+
+[64037]:
+3 pubs read, 1 unmatched. 2 matched, distribution:
+[UIC]: 2
+
+National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences Beijing 100080, People's Republic of China [64031]:
+3 pubs read, 2 unmatched. 1 matched, distribution:
+[Chinese Acad of Sci]: 1
+
+Lehrstuhl fÃ¼r Informatik V, UniversitÃ¤t Mannheim, Mannheim, Germany D-68131 [64032]:
+2 pubs read, 2 unmatched. 0 matched, distribution:
+
+
+Software Center, Northeast Univ. of Technol., Shenyang [64033]:
+2 pubs read, 2 unmatched. 0 matched, distribution:
+
+
+Department of Mathematics, Anshan Normal University, Anshan, Liaoning, PR China and College of Mathematics and System Sciences, Xinjiang University, Urumqi, Xinjiang, PR China [64038]:
+2 pubs read, 2 unmatched. 0 matched, distribution:
+
+
+Beijing University of Posts and Telecommunications, China [64029]:
+2 pubs read, 2 unmatched. 0 matched, distribution:
+
+
+[64034]:
+2 pubs read, 2 unmatched. 0 matched, distribution:
+
+
+[1571551]:
+2 pubs read, 2 unmatched. 0 matched, distribution:
+
+
+Department of Mathematics, Huazhong University of Science and Technology, Wuhan 430074, People's Republic of China, College of Mathematics and Statistics, Wuhan University, Wuhan 430072, People's Republic of China [64040]:
+1 pubs read, 0 unmatched. 1 matched, distribution:
+[Huazhong U of Sci and Tech]: 1
+
+[1569814]:
+1 pubs read, 1 unmatched. 0 matched, distribution:
+
+
+bogus [64035]:
+1 pubs read, 1 unmatched. 0 matched, distribution:
+
+
+232 pubs of 16 Arnet authors loaded. Matched:
+Department of Computer Science,, University of Illinois at Chicago [UIC] [64027]: 72 | [64041]: 7 | Coll. of Inf. Eng., Xiangtan Univ., China [64036]: 3 | [64028]: 2 | [64037]: 2 | Inf. Sci. Inst., Univ. of Southern California, Marina del Rey, CA, USA [64039]: 1 | National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences Beijing 100080, People's Republic of China [64031]: 1 | Department of Mathematics, Huazhong University of Science and Technology, Wuhan 430074, People's Republic of China, College of Mathematics and Statistics, Wuhan University, Wuhan 430072, People's Republic of China [64040]: 1
+Correspond to 6 true authors:
+[UIC]: 75 | [Fudan U]: 4 | [Nanyang Tech U]: 3 | [Huazhong U of Sci and Tech]: 3 | [Chinese Acad of Sci]: 2 | [Virginia Polytechnic Institute and State University]: 2
+
+89 groundtruth publications, 89 matched, 89 matched title-year pair
+Groundtruth pairs total: 2789, between matched pubs: 2789
+Arnet total pairs: 2582
+Arnet total correct pairs: 2227
+Summary:
+Prec: 0.8625. Recall: 0.7985. F1: 0.8293
+
+
+bin yu:
+Groundtruth file path prefix: 'original-10/'
+Open groundtruth file 'original-10/bin yu-labels.txt' to process...
+44 publications of 5 authors loaded
+yin's cluster 0: 16 | [postdoc at CMU, PhD from NCSU]: 13 | [MSU]: 7 | [CS UIUC]: 6 | [Dalian U of Tech]: 2
+Groundtruth total pairs: 235
+
+Open Arnetminer file 'arnet/bin yu-arnet.txt' to process...
+School of Computer Science, Carnegie Mellon University [652766]:
+27 pubs read, 11 unmatched. 16 matched, distribution:
+yin's cluster 0: 16
+
+School of Computer Science at Carnegie Mellon University [652767]:
+24 pubs read, 11 unmatched. 13 matched, distribution:
+[postdoc at CMU, PhD from NCSU]: 13
+
+Univ. of Illinois at Urbana, Champaign, IL, Dept. of Comput. Sci., Michigan State Univ., East Lansing, MI, University of Illinois at Urbana-Champaign, Dept. of Comput. Sci., Illinois Univ., Urbana, IL, USA, Electroglas Inc., Santa Clara, CA [652774]:
+17 pubs read, 6 unmatched. 11 matched, distribution:
+[MSU]: 6 | [CS UIUC]: 5
+
+[652779]:
+13 pubs read, 13 unmatched. 0 matched, distribution:
+
+
+University of California, Berkeley [652778]:
+11 pubs read, 11 unmatched. 0 matched, distribution:
+
+
+Institute of Transportation Engineering, Dalian Maritime University, Dalian, PR China [652768]:
+7 pubs read, 5 unmatched. 2 matched, distribution:
+[Dalian U of Tech]: 2
+
+Brunel University, UK [652776]:
+7 pubs read, 7 unmatched. 0 matched, distribution:
+
+
+Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, Inst. of Inf. Sci., Northern Jiaotong Univ., Beijing [652769]:
+5 pubs read, 3 unmatched. 2 matched, distribution:
+[CS UIUC]: 1 | [MSU]: 1
+
+Inst. of Comput. Theor. & Technol., Xidian Univ., Xi'an [652773]:
+3 pubs read, 3 unmatched. 0 matched, distribution:
+
+
+Inst. of Electron. Technol., Inf. Eng. Univ., China [652775]:
+2 pubs read, 2 unmatched. 0 matched, distribution:
+
+
+[652772]:
+2 pubs read, 2 unmatched. 0 matched, distribution:
+
+
+School of Mathematics and Physics, Qingdao University of Science and Technology, Qingdao 266061, China [652771]:
+1 pubs read, 1 unmatched. 0 matched, distribution:
+
+
+119 pubs of 12 Arnet authors loaded. Matched:
+School of Computer Science, Carnegie Mellon University [652766]: 16 | School of Computer Science at Carnegie Mellon University [652767]: 13 | Univ. of Illinois at Urbana, Champaign, IL, Dept. of Comput. Sci., Michigan State Univ., East Lansing, MI, University of Illinois at Urbana-Champaign, Dept. of Comput. Sci., Illinois Univ., Urbana, IL, USA, Electroglas Inc., Santa Clara, CA [652774]: 11 | Institute of Transportation Engineering, Dalian Maritime University, Dalian, PR China [652768]: 2 | Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, Inst. of Inf. Sci., Northern Jiaotong Univ., Beijing [652769]: 2
+Correspond to 5 true authors:
+yin's cluster 0: 16 | [postdoc at CMU, PhD from NCSU]: 13 | [MSU]: 7 | [CS UIUC]: 6 | [Dalian U of Tech]: 2
+
+44 groundtruth publications, 44 matched, 44 matched title-year pair
+Groundtruth pairs total: 235, between matched pubs: 235
+Arnet total pairs: 255
+Arnet total correct pairs: 224
+Summary:
+Prec: 0.8784. Recall: 0.9532. F1: 0.9143
+
+
+hui fang:
+Groundtruth file path prefix: 'original-10/'
+Open groundtruth file 'original-10/hui fang-labels.txt' to process...
+9 publications of 3 authors loaded
+[UIUC, student of C. Zhai]: 4 | [U of Bradford]: 3 | [UIUC, student of J. C. Hart]: 2
+Groundtruth total pairs: 10
+
+Open Arnetminer file 'arnet/hui fang-arnet.txt' to process...
+Electrical and Computer Engineering, University of Delaware [1310077]:
+40 pubs read, 34 unmatched. 6 matched, distribution:
+[UIUC, student of C. Zhai]: 4 | [UIUC, student of J. C. Hart]: 2
+
+Department of Computing and Mathematics, Manchester Metropolitan University, UK M1 5GD [1310078]:
+9 pubs read, 9 unmatched. 0 matched, distribution:
+
+
+School of Informatics, University of Bradford, Richmond Road, Bradford, West Yorkshire BD7 1DP, UK [1310080]:
+6 pubs read, 3 unmatched. 3 matched, distribution:
+[U of Bradford]: 3
+
+[1310084]:
+4 pubs read, 4 unmatched. 0 matched, distribution:
+
+
+Singapore-MIT Alliance, Nanyang Technological University, Singapore 637460 [1310082]:
+3 pubs read, 3 unmatched. 0 matched, distribution:
+
+
+College of Biosystems Engineering and Food Science, Zhejiang University, Hangzhou 310029, PR China [1310083]:
+2 pubs read, 2 unmatched. 0 matched, distribution:
+
+
+University of Jinan, School of Control Science and Engineering, 250022, Jinan, People&#x2019;s Republic of China [1310081]:
+1 pubs read, 1 unmatched. 0 matched, distribution:
+
+
+Key Laboratory of Underwater Acoustic Communication and Marine Information Technology, Ministry of Education, Xiamen, China [1310079]:
+1 pubs read, 1 unmatched. 0 matched, distribution:
+
+
+66 pubs of 8 Arnet authors loaded. Matched:
+Electrical and Computer Engineering, University of Delaware [1310077]: 6 | School of Informatics, University of Bradford, Richmond Road, Bradford, West Yorkshire BD7 1DP, UK [1310080]: 3
+Correspond to 3 true authors:
+[UIUC, student of C. Zhai]: 4 | [U of Bradford]: 3 | [UIUC, student of J. C. Hart]: 2
+
+9 groundtruth publications, 9 matched, 9 matched title-year pair
+Groundtruth pairs total: 10, between matched pubs: 10
+Arnet total pairs: 18
+Arnet total correct pairs: 10
+Summary:
+Prec: 0.5556. Recall: 1. F1: 0.7143
+
+
+jim smith:
+Groundtruth file path prefix: 'original-10/'
+Open groundtruth file 'original-10/jim smith-labels.txt' to process...
+19 publications of 3 authors loaded
+[University of Newcastle upon Tyne]: 11 | [U of the west England]: 6 | [Somewhere in Austrilia]: 2
+Groundtruth total pairs: 71
+
+Open Arnetminer file 'arnet/jim smith-arnet.txt' to process...
+Electrical and Computer Engineerin Computer Sciences [1190390]:
+20 pubs read, 9 unmatched. 11 matched, distribution:
+[University of Newcastle upon Tyne]: 11
+
+University of the West of England, Bristol, United Kingdom [1190394]:
+15 pubs read, 15 unmatched. 0 matched, distribution:
+
+
+[1190396]:
+12 pubs read, 9 unmatched. 3 matched, distribution:
+[U of the west England]: 3
+
+[1190395]:
+6 pubs read, 4 unmatched. 2 matched, distribution:
+[U of the west England]: 2
+
+[1190391]:
+3 pubs read, 2 unmatched. 1 matched, distribution:
+[U of the west England]: 1
+
+[1190392]:
+2 pubs read, 0 unmatched. 2 matched, distribution:
+[Somewhere in Austrilia]: 2
+
+58 pubs of 6 Arnet authors loaded. Matched:
+Electrical and Computer Engineerin Computer Sciences [1190390]: 11 | [1190396]: 3 | [1190395]: 2 | [1190392]: 2 | [1190391]: 1
+Correspond to 3 true authors:
+[University of Newcastle upon Tyne]: 11 | [U of the west England]: 6 | [Somewhere in Austrilia]: 2
+
+19 groundtruth publications, 19 matched, 19 matched title-year pair
+Groundtruth pairs total: 71, between matched pubs: 71
+Arnet total pairs: 60
+Arnet total correct pairs: 60
+Summary:
+Prec: 1. Recall: 0.8451. F1: 0.916
+
+
+joseph hellerstein:
+Groundtruth file path prefix: 'original-10/'
+Open groundtruth file 'original-10/joseph hellerstein-labels.txt' to process...
+WARN: Two papers are with the same title/year:
+The Asilomar Report on Database Research
+philip a. bernstein, michael l. brodie, stefano ceri, david j. dewitt, michael j. franklin, hector garcia-molina, jim gray, gerald held, joseph hellerstein, h. v. jagadish, michael lesk, david maier, jeffrey f. naughton, hamid pirahesh, michael stonebraker, jeffrey d. ullman
+1998. CoRR. key: journals/corr/cs-DB-9811013
+The Asilomar Report on Database Research
+philip a. bernstein, michael l. brodie, stefano ceri, david j. dewitt, michael j. franklin, hector garcia-molina, jim gray, gerald held, joseph hellerstein, h. v. jagadish, michael lesk, david maier, jeffrey f. naughton, hamid pirahesh, michael stonebraker, jeffrey d. ullman
+1998. SIGMOD Record. key: journals/sigmod/BernsteinBCDFGGHHJLMNPSU98
+
+151 publications of 2 authors loaded
+CS, Berkeley: 85 | Google, Inc [was in IBM T. J. Watson Research Center]: 66
+Groundtruth total pairs: 5715
+
+Open Arnetminer file 'arnet/joseph hellerstein-arnet.txt' to process...
+EECS Computer Science Division, UC Berkeley [1170134]:
+161 pubs read, 76 unmatched. 85 matched, distribution:
+CS, Berkeley: 84 | Google, Inc [was in IBM T. J. Watson Research Center]: 1
+
+[1153653]:
+103 pubs read, 37 unmatched. 66 matched, distribution:
+Google, Inc [was in IBM T. J. Watson Research Center]: 65 | CS, Berkeley: 1
+
+264 pubs of 2 Arnet authors loaded. Matched:
+EECS Computer Science Division, UC Berkeley [1170134]: 85 | [1153653]: 66
+Correspond to 2 true authors:
+CS, Berkeley: 85 | Google, Inc [was in IBM T. J. Watson Research Center]: 66
+
+151 groundtruth publications, 151 matched, 150 matched title-year pair
+Groundtruth pairs total: 5715, between matched pubs: 5715
+Arnet total pairs: 5715
+Arnet total correct pairs: 5566
+Summary:
+Prec: 0.9739. Recall: 0.9739. F1: 0.9739
+
+
+lei wang:
+Groundtruth file path prefix: 'original-10/'
+Open groundtruth file 'original-10/lei wang-labels.txt' to process...
+55 publications of 13 authors loaded
+[Nanyang Tech U]: 16 | yin's cluster 24: 9 | [UT Dallas]: 6 | [Xi'an U of tech]: 4 | yin's cluster 28: 4 | [USC]: 2 | yin's cluster 4: 2 | [WUSTL, from Harvard]: 2 | [UNC]: 2 | [PKU]: 2 | yin's cluster 25: 2 | yin's cluster 27: 2 | [U of Cincinnati]: 2
+Groundtruth total pairs: 191
+
+Open Arnetminer file 'arnet/lei wang-arnet.txt' to process...
+College of Engineering and Computer Science [CECS], The Australian National University [ANU] [505277]:
+204 pubs read, 182 unmatched. 22 matched, distribution:
+[Nanyang Tech U]: 16 | yin's cluster 28: 4 | yin's cluster 25: 2
+
+[505327]:
+82 pubs read, 80 unmatched. 2 matched, distribution:
+yin's cluster 24: 1 | [Xi'an U of tech]: 1
+
+Bond University, Queensland, Australia [505278]:
+45 pubs read, 45 unmatched. 0 matched, distribution:
+
+
+Inst. of Intell. Inf. Process., Xidian Univ., Xi'an, Comput. Sch., Beijing Univ. of Aeronaut. & Astronaut., Beijing, School of Computer Science & Technology, Soochow University, Suzhou, 215006, China, Department of Computer Science, University of Texas at Dallas, Richardson, USA 75083, School of Computer Science and Engineering, University of Electronic Science and Technology of China, Chengdu, Si Chuan 610054, China, School of Economics Information Engineering, Southwest University of Finance and Economics, Chengdu, China 610074 and Research Center of China Payment System, Southwest University of Finance and Economics, Chengdu, China 610074, Xi'an University of Technology, Xi'an, China, Dept. of Comput. Sci., Univ. of Texas at Dallas, Dallas, TX, Sch. of Comput. Sci. & Eng., BeiHang Univ., Beijing, School of Computer Science & Engineering, University of Electronic Science & Technology of China, Chengdu, 610054, P.R. China, Sch. of Econ. Inf. Eng., Southwestern Univ. of Finance & Econ., Chengdu, Beijing University of Aeronautics and Astronautics [505290]:
+39 pubs read, 30 unmatched. 9 matched, distribution:
+[UT Dallas]: 6 | [Xi'an U of tech]: 3
+
+Department of Applied Mathematics, Dalian University of Technology, Dalian, 116024, PR China, Digital Enterprise Res. Inst., Nat. Univ. of Ireland, Galway, Ireland [505316]:
+29 pubs read, 29 unmatched. 0 matched, distribution:
+
+
+University of Connecticut, Storrs, CT, USA, Univ. of Connecticut, Storrs, CT [505325]:
+26 pubs read, 26 unmatched. 0 matched, distribution:
+
+
+The University of Electro-Communications,, The author is with the School of Electronic, Information and Electrical Engineering, Shanghai Jiao Tong University, P.R.China., [505319]:
+24 pubs read, 24 unmatched. 0 matched, distribution:
+
+
+Sch. of Mech. & Autom. Eng., Shanghai Inst. of Technol., Shanghai, Tongji University, China [505284]:
+15 pubs read, 15 unmatched. 0 matched, distribution:
+
+
+College of Computer Science, Zhejiang University [505321]:
+9 pubs read, 1 unmatched. 8 matched, distribution:
+yin's cluster 24: 8
+
+Shenzhen Graduate School of Peking University, Shenzhen, China [505285]:
+9 pubs read, 7 unmatched. 2 matched, distribution:
+[PKU]: 2
+
+Communications Research Group, Department of Electronics, The University of York, York YO10 5DD, UK, Dept. of Electron., Univ. of York, York [505299]:
+8 pubs read, 8 unmatched. 0 matched, distribution:
+
+
+Department of Mathematics, Georgia Institute of Technology, Atlanta, GA [505293]:
+8 pubs read, 8 unmatched. 0 matched, distribution:
+
+
+Queensland University of Technology, Brisbane Qld, Australia [505282]:
+6 pubs read, 6 unmatched. 0 matched, distribution:
+
+
+Brigham Young Univ. Provo, Provo, Computer Science Department, Brigham Young University, Provo, UT 84602-6576, USA [505300]:
+6 pubs read, 6 unmatched. 0 matched, distribution:
+
+
+[505289]:
+6 pubs read, 6 unmatched. 0 matched, distribution:
+
+
+Coordinated Science Laboratory, Department of Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, 1308 West Main Street, Urbana, IL, Coordinated Sci. Lab., Illinois Univ., Urbana, IL, Microprocessor Technol. Labs., Hewlett-Packard Co., Fort Collins, CO, USA, Microprocessor Technology Laboratories, Hewlett-Packard Company, Fort Collins, CO [505306]:
+5 pubs read, 5 unmatched. 0 matched, distribution:
+
+
+Dept. of Electr. & Comput. Eng., Univ. of Houston, Houston, TX [505292]:
+5 pubs read, 5 unmatched. 0 matched, distribution:
+
+
+Multimedia Center, Beijing Univ. of Posts Telecommun. [505322]:
+5 pubs read, 5 unmatched. 0 matched, distribution:
+
+
+Department of Computer Science, Hunan University, Hunan, Changsha, P.R. China, wanglei@hnu.cn, Fujian University of Technology, China [505323]:
+4 pubs read, 4 unmatched. 0 matched, distribution:
+
+
+Dept. of Electr. & Comput. Eng., Univ. of Waterloo, Ont., Canada [505310]:
+3 pubs read, 3 unmatched. 0 matched, distribution:
+
+
+[505303]:
+3 pubs read, 3 unmatched. 0 matched, distribution:
+
+
+Dept. of Informatics, Fribourg Univ., Switzerland [505309]:
+3 pubs read, 1 unmatched. 2 matched, distribution:
+yin's cluster 27: 2
+
+SmartOps Corporation, Pittsburgh, Pennsylvania 15212 [505313]:
+3 pubs read, 3 unmatched. 0 matched, distribution:
+
+
+Sch. of Mech. Eng. & Autom., Northeastern Univ., Shenyang, China [505311]:
+3 pubs read, 3 unmatched. 0 matched, distribution:
+
+
+Department of Applied Mathematics and Statistics, Hubei University of Economics, Wuhan, China 430205 [505317]:
+3 pubs read, 3 unmatched. 0 matched, distribution:
+
+
+[505279]:
+2 pubs read, 2 unmatched. 0 matched, distribution:
+
+
+Dept. of EE - Syst., Univ. of Southern California, Los Angeles, CA, USA, University of Southern California, Los Angeles, CA [505304]:
+2 pubs read, 0 unmatched. 2 matched, distribution:
+[USC]: 2
+
+[505287]:
+2 pubs read, 0 unmatched. 2 matched, distribution:
+[UNC]: 2
+
+[505281]:
+2 pubs read, 0 unmatched. 2 matched, distribution:
+[U of Cincinnati]: 2
+
+Beijing University of Aeronautics & Astronautics, China [505286]:
+2 pubs read, 2 unmatched. 0 matched, distribution:
+
+
+Dept. of Comput. Sci., Saskatchewan Univ., Saskatoon, Sask. [505288]:
+2 pubs read, 0 unmatched. 2 matched, distribution:
+yin's cluster 4: 2
+
+Fac. of Comput. Sci. & Eng., Xi'an Univ. of Technol., Xi'an [505291]:
+2 pubs read, 2 unmatched. 0 matched, distribution:
+
+
+Alcatel Shanghai Bell Co. Ltd., Shanghai [505296]:
+2 pubs read, 2 unmatched. 0 matched, distribution:
+
+
+Department of Psychiatry, Washington University School of Medicine, St. Louis, MO, 63110, Centre for Intelligent Machines, McGill Univ., Montreal, Que., Div. of Appl. Sci., Harvard Univ., Cambridge, MA [505298]:
+2 pubs read, 0 unmatched. 2 matched, distribution:
+[WUSTL, from Harvard]: 2
+
+Dept. of Electrical Engineering of Feng Chia University, [505301]:
+2 pubs read, 2 unmatched. 0 matched, distribution:
+
+
+[505283]:
+2 pubs read, 2 unmatched. 0 matched, distribution:
+
+
+Inst. of Autom., Chinese Acad. of Sci., Beijing [505297]:
+2 pubs read, 2 unmatched. 0 matched, distribution:
+
+
+Coll. of Econ. & Manage., Nanjing Forestry Univ., Nanjing [505295]:
+2 pubs read, 2 unmatched. 0 matched, distribution:
+
+
+[505302]:
+2 pubs read, 2 unmatched. 0 matched, distribution:
+
+
+Tianjin University, Tianjin, People's Republic of China [505312]:
+1 pubs read, 1 unmatched. 0 matched, distribution:
+
+
+Department of Computer Science and Engineering, Texas A&MUniversity, College Station, 77843 USA [505326]:
+1 pubs read, 1 unmatched. 0 matched, distribution:
+
+
+Institute of Signal Processing and Transmission, Nanjing University of Posts and Telecommunications, Nanjing, P. R. of China, Nanjing Univ. of Aeronaut. & Astronaut., Nanjing, College of Information Science and Technology, Nanjing University of Aeronautics and Astronautics, Nanjing, China [505315]:
+1 pubs read, 1 unmatched. 0 matched, distribution:
+
+
+Maxim Integrated Products Boston Design Center, Chelmsford, MA, USA, New England Design Center, Maxim Integrated Products, North Chelmsford, MA, USA [505314]:
+1 pubs read, 1 unmatched. 0 matched, distribution:
+
+
+Rutgers University, Department of Computer Science, Piscataway, NJ, USA [505294]:
+1 pubs read, 1 unmatched. 0 matched, distribution:
+
+
+586 pubs of 44 Arnet authors loaded. Matched:
+College of Engineering and Computer Science [CECS], The Australian National University [ANU] [505277]: 22 | Inst. of Intell. Inf. Process., Xidian Univ., Xi'an, Comput. Sch., Beijing Univ. of Aeronaut. & Astronaut., Beijing, School of Computer Science & Technology, Soochow University, Suzhou, 215006, China, Department of Computer Science, University of Texas at Dallas, Richardson, USA 75083, School of Computer Science and Engineering, University of Electronic Science and Technology of China, Chengdu, Si Chuan 610054, China, School of Economics Information Engineering, Southwest University of Finance and Economics, Chengdu, China 610074 and Research Center of China Payment System, Southwest University of Finance and Economics, Chengdu, China 610074, Xi'an University of Technology, Xi'an, China, Dept. of Comput. Sci., Univ. of Texas at Dallas, Dallas, TX, Sch. of Comput. Sci. & Eng., BeiHang Univ., Beijing, School of Computer Science & Engineering, University of Electronic Science & Technology of China, Chengdu, 610054, P.R. China, Sch. of Econ. Inf. Eng., Southwestern Univ. of Finance & Econ., Chengdu, Beijing University of Aeronautics and Astronautics [505290]: 9 | College of Computer Science, Zhejiang University [505321]: 8 | [505327]: 2 | Shenzhen Graduate School of Peking University, Shenzhen, China [505285]: 2 | Dept. of Informatics, Fribourg Univ., Switzerland [505309]: 2 | Dept. of EE - Syst., Univ. of Southern California, Los Angeles, CA, USA, University of Southern California, Los Angeles, CA [505304]: 2 | [505287]: 2 | [505281]: 2 | Dept. of Comput. Sci., Saskatchewan Univ., Saskatoon, Sask. [505288]: 2 | Department of Psychiatry, Washington University School of Medicine, St. Louis, MO, 63110, Centre for Intelligent Machines, McGill Univ., Montreal, Que., Div. of Appl. Sci., Harvard Univ., Cambridge, MA [505298]: 2
+Correspond to 13 true authors:
+[Nanyang Tech U]: 16 | yin's cluster 24: 9 | [UT Dallas]: 6 | yin's cluster 28: 4 | [Xi'an U of tech]: 4 | [PKU]: 2 | yin's cluster 27: 2 | yin's cluster 4: 2 | yin's cluster 25: 2 | [WUSTL, from Harvard]: 2 | [USC]: 2 | [U of Cincinnati]: 2 | [UNC]: 2
+
+55 groundtruth publications, 55 matched, 55 matched title-year pair
+Groundtruth pairs total: 191, between matched pubs: 191
+Arnet total pairs: 303
+Arnet total correct pairs: 180
+Summary:
+Prec: 0.5941. Recall: 0.9424. F1: 0.7287
+
+
+michael wagner:
+Groundtruth file path prefix: 'original-10/'
+Open groundtruth file 'original-10/michael wagner-labels.txt' to process...
+29 publications of 5 authors loaded
+[University of Canberra, AUS]: 18 | [shared reality]: 4 | [Cincinnati Children's Hospital Research Foundation]: 3 | [U Pitt]: 2 | yin's cluster 6: 2
+Groundtruth total pairs: 164
+
+Open Arnetminer file 'arnet/michael wagner-arnet.txt' to process...
+[622849]:
+24 pubs read, 23 unmatched. 1 matched, distribution:
+[University of Canberra, AUS]: 1
+
+[622862]:
+16 pubs read, 16 unmatched. 0 matched, distribution:
+
+
+[622851]:
+12 pubs read, 5 unmatched. 7 matched, distribution:
+[University of Canberra, AUS]: 7
+
+Universität Kassel, Kassel, Germany 34121 [622854]:
+10 pubs read, 10 unmatched. 0 matched, distribution:
+
+
+[622852]:
+8 pubs read, 1 unmatched. 7 matched, distribution:
+[University of Canberra, AUS]: 7
+
+[622855]:
+6 pubs read, 2 unmatched. 4 matched, distribution:
+[shared reality]: 4
+
+Cincinnati Children&#x2019;s Hospital Research Foundation, University of Cincinnati, Biomedical Informatics, OH 45229-3039, Cincinnati, USA [622850]:
+4 pubs read, 1 unmatched. 3 matched, distribution:
+[Cincinnati Children's Hospital Research Foundation]: 3
+
+[622860]:
+3 pubs read, 0 unmatched. 3 matched, distribution:
+[University of Canberra, AUS]: 3
+
+[622853]:
+3 pubs read, 3 unmatched. 0 matched, distribution:
+
+
+[622858]:
+2 pubs read, 2 unmatched. 0 matched, distribution:
+
+
+Carnegie Mellon University [622859]:
+2 pubs read, 0 unmatched. 2 matched, distribution:
+yin's cluster 6: 2
+
+[622861]:
+2 pubs read, 2 unmatched. 0 matched, distribution:
+
+
+Cincinnati Children's Hospital, Medical Center, Cincinnati, OH [622857]:
+1 pubs read, 1 unmatched. 0 matched, distribution:
+
+
+93 pubs of 13 Arnet authors loaded. Matched:
+[622851]: 7 | [622852]: 7 | [622855]: 4 | Cincinnati Children&#x2019;s Hospital Research Foundation, University of Cincinnati, Biomedical Informatics, OH 45229-3039, Cincinnati, USA [622850]: 3 | [622860]: 3 | Carnegie Mellon University [622859]: 2 | [622849]: 1
+Correspond to 4 true authors:
+[University of Canberra, AUS]: 18 | [shared reality]: 4 | [Cincinnati Children's Hospital Research Foundation]: 3 | yin's cluster 6: 2
+
+29 groundtruth publications, 27 matched, 27 matched title-year pair
+Groundtruth pairs total: 164, between matched pubs: 163
+Arnet total pairs: 55
+Arnet total correct pairs: 55
+Summary:
+Prec: 1. Recall: 0.3374. F1: 0.5046
+
+
+rakesh kumar:
+Groundtruth file path prefix: 'original-10/'
+Open groundtruth file 'original-10/rakesh kumar-labels.txt' to process...
+WARN: Two papers are with the same title/year:
+Annotation of Video by Alignment to Reference Imagery
+keith j. hanna, harpreet s. sawhney, rakesh kumar, yanlin guo, supun samarasekera
+1999. Workshop on Vision Algorithms. key: conf/iccvw/HannaSKGS99
+Annotation of Video by Alignment to Reference Imagery
+keith j. hanna, harpreet s. sawhney, rakesh kumar, yanlin guo, supun samarasekera
+1999. ICMCS. key: conf/icmcs/HannaSKGS99
+
+36 publications of 2 authors loaded
+[Sarnoff Corp]: 28 | [UCSD]: 8
+Groundtruth total pairs: 406
+
+Open Arnetminer file 'arnet/rakesh kumar-arnet.txt' to process...
+Electrical and Computer Engineering Department, University of Illinois at Urbana Champaign [267580]:
+65 pubs read, 37 unmatched. 28 matched, distribution:
+[Sarnoff Corp]: 28
+
+University of California, San Diego, La Jolla, CA, Coordinated Science Laboratory, University of Illinois, Urbana, IL, USA [267584]:
+38 pubs read, 30 unmatched. 8 matched, distribution:
+[UCSD]: 8
+
+[267590]:
+12 pubs read, 12 unmatched. 0 matched, distribution:
+
+
+Department of Electrical and Computer Engineering, Polytechnic University, Brooklyn, NY 11201, United States [267586]:
+7 pubs read, 7 unmatched. 0 matched, distribution:
+
+
+Northern Illinois univ., DeKalb [267581]:
+3 pubs read, 3 unmatched. 0 matched, distribution:
+
+
+[267585]:
+3 pubs read, 3 unmatched. 0 matched, distribution:
+
+
+Faculty of Computer Science, Department of Computer Science and Applications, Kurukshetra University, Kurukshetra, Haryana, India [267583]:
+2 pubs read, 2 unmatched. 0 matched, distribution:
+
+
+[267588]:
+2 pubs read, 2 unmatched. 0 matched, distribution:
+
+
+Columbia University, New York, NY [267589]:
+2 pubs read, 2 unmatched. 0 matched, distribution:
+
+
+[267582]:
+1 pubs read, 1 unmatched. 0 matched, distribution:
+
+
+135 pubs of 10 Arnet authors loaded. Matched:
+Electrical and Computer Engineering Department, University of Illinois at Urbana Champaign [267580]: 28 | University of California, San Diego, La Jolla, CA, Coordinated Science Laboratory, University of Illinois, Urbana, IL, USA [267584]: 8
+Correspond to 2 true authors:
+[Sarnoff Corp]: 28 | [UCSD]: 8
+
+36 groundtruth publications, 36 matched, 35 matched title-year pair
+Groundtruth pairs total: 406, between matched pubs: 406
+Arnet total pairs: 406
+Arnet total correct pairs: 406
+Summary:
+Prec: 1. Recall: 1. F1: 1
+
+
+wei wang:
+Groundtruth file path prefix: 'original-10/'
+Open groundtruth file 'original-10/wei wang-labels.txt' to process...
+140 publications of 14 authors loaded
+[UNC]: 56 | [Fudan]: 31 | yin's cluster 3: 19 | [SUNY Buffalo]: 5 | [NUS]: 5 | [Harbin Engineering U]: 5 | yin's cluster 4: 3 | [Zhejiang U]: 3 | [Nanjing Normal U]: 3 | [Ningbo U of Tech]: 2 | [Purdue]: 2 | [Chongqing U]: 2 | [Beijing U of Telecom]: 2 | [SUNY Binghamton]: 2
+Groundtruth total pairs: 2220
+
+Open Arnetminer file 'arnet/wei wang-arnet.txt' to process...
+University of North Carolina at Chapel Hill [1128214]:
+727 pubs read, 602 unmatched. 125 matched, distribution:
+[UNC]: 56 | [Fudan]: 30 | yin's cluster 3: 19 | [SUNY Buffalo]: 5 | [Harbin Engineering U]: 5 | yin's cluster 4: 3 | [Purdue]: 2 | [SUNY Binghamton]: 2 | [Beijing U of Telecom]: 2 | [NUS]: 1
+
+[1128272]:
+120 pubs read, 119 unmatched. 1 matched, distribution:
+[Fudan]: 1
+
+University of Nebraska Lincoln, Univ. of Nebraska-Lincoln, Omaha, Nebraska Univ., Lincoln, Univ. Nebraska Lincoln, Omaha, NE [1128216]:
+42 pubs read, 42 unmatched. 0 matched, distribution:
+
+
+Department of Systems Science & Industrial Engineering, Thomas J. Watson School of Engineering and Applied Science, Binghamton University-SUNY, Binghamton, NY 13902-6000, USA [1128215]:
+40 pubs read, 40 unmatched. 0 matched, distribution:
+
+
+Department of Computer Science, University of North Carolina at Chapel Hill [1128240]:
+22 pubs read, 18 unmatched. 4 matched, distribution:
+[NUS]: 4
+
+School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore, Positioning & Wireless Technol. Centre, Nanyang Technol. Univ., Singapore, Sch. of Mech. Eng. & Autom., Northeastern Univ., Shenyang [1128265]:
+10 pubs read, 10 unmatched. 0 matched, distribution:
+
+
+[1544237]:
+8 pubs read, 8 unmatched. 0 matched, distribution:
+
+
+Center for Engineering and Scientific Computation, and College of Computer Science, Zhejiang University, Hangzhou, Zhejiang, 310027, P. R. China, Zhejiang Univ. Hangzhou, Hangzhou [1128238]:
+7 pubs read, 2 unmatched. 5 matched, distribution:
+[Zhejiang U]: 3 | [Ningbo U of Tech]: 2
+
+Millimeter Wave Technology Laboratory, School of Electronic Engineering and Optoelectronic Technique, Nanjing University of Science and Technology, Nanjing 210094, China [1128242]:
+7 pubs read, 7 unmatched. 0 matched, distribution:
+
+
+Institute of Communications and Navigation, German Aerospace Center, Wessling, Germany [1128262]:
+7 pubs read, 7 unmatched. 0 matched, distribution:
+
+
+School of Mathematics and Computer Science, Nanjing Normal University, Nanjing 210097, PR China, Department of Mathematics, Bohai University, Jinzhou 121000, PR China [1128257]:
+7 pubs read, 4 unmatched. 3 matched, distribution:
+[Nanjing Normal U]: 3
+
+Department of Computer Science and Electrical Engineering, University of Maryland, Baltimore County, 1000 Hilltop Circle, Baltimore, MD 21250, USA, Dept. of Comput. Sci. & Electr. Eng., Maryland Univ., Baltimore, MD, USA, Dept. of Comput. Sci. & Electr. Eng., Univ. of Maryland Baltimore County, Baltimore, MD [1128259]:
+6 pubs read, 6 unmatched. 0 matched, distribution:
+
+
+Dept. of Inf. Eng., Chinese Univ. of Hong Kong, Shatin, China [1128244]:
+6 pubs read, 6 unmatched. 0 matched, distribution:
+
+
+[1556578]:
+6 pubs read, 6 unmatched. 0 matched, distribution:
+
+
+Division of Applied Mathematics, Brown University, Providence, USA 02912, Center for Turbulence Research, Stanford University, Stanford, CA 94305, United States [1128258]:
+5 pubs read, 5 unmatched. 0 matched, distribution:
+
+
+Language Weaver, Inc., Marina del Rey, CA, Language Weaver Inc., Marina del Rey, CA [1128270]:
+4 pubs read, 4 unmatched. 0 matched, distribution:
+
+
+Iowa State University [1128236]:
+4 pubs read, 4 unmatched. 0 matched, distribution:
+
+
+College of Electronics Engineering, Chongqing University of Posts and Telecommunications, Chongqing, P. R. China [1128266]:
+4 pubs read, 2 unmatched. 2 matched, distribution:
+[Chongqing U]: 2
+
+Department of Electrical and Computer Engineering, Stevens Institute of Technology, Hoboken, NJ [1128263]:
+4 pubs read, 4 unmatched. 0 matched, distribution:
+
+
+Dept. of Electr. Eng., Nat. Taiwan Univ., Taipei, Taiwan [1128229]:
+4 pubs read, 4 unmatched. 0 matched, distribution:
+
+
+Department of Computer Science, Rutgers University, 110 Frelinghuysen Rd, Piscataway, NJ 08854, USA. ww@cs.rutgers.edu [1128234]:
+4 pubs read, 4 unmatched. 0 matched, distribution:
+
+
+Sch. of Inf. Eng., Univ. of Sci. & Technol. Beijing, Beijing, China [1128219]:
+4 pubs read, 4 unmatched. 0 matched, distribution:
+
+
+[1128293]:
+4 pubs read, 4 unmatched. 0 matched, distribution:
+
+
+Sch. of Econ., Tianjin Polytech. Univ., Tianjin, China [1128220]:
+4 pubs read, 4 unmatched. 0 matched, distribution:
+
+
+Key Lab. of Complex Syst. & Intell. Sci., Chinese Acad. of Sci., Beijing [1128251]:
+4 pubs read, 4 unmatched. 0 matched, distribution:
+
+
+Grad. Sch. of Innovative Life Sci., Univ. of Toyama, Toyama, University of Toyama, Faculty of Engineering, 930-8555, Toyama-shi, Japan [1128267]:
+3 pubs read, 3 unmatched. 0 matched, distribution:
+
+
+Sch. of Comput. Sci., Northwestern Polytech. Univ., Xi'an, Northwestern Polytechnical University, Xi'an, China [1128237]:
+3 pubs read, 3 unmatched. 0 matched, distribution:
+
+
+Department of Computer Science and Engineering, Lehigh University, Bethlehem, PA [1128221]:
+3 pubs read, 3 unmatched. 0 matched, distribution:
+
+
+[1553791]:
+3 pubs read, 3 unmatched. 0 matched, distribution:
+
+
+[1128248]:
+3 pubs read, 3 unmatched. 0 matched, distribution:
+
+
+Department of Applied Chemistry, School of Chemical Engineering and Technology, Tianjin University, Tianjin 300072, PR China [1128217]:
+3 pubs read, 3 unmatched. 0 matched, distribution:
+
+
+[1128230]:
+2 pubs read, 2 unmatched. 0 matched, distribution:
+
+
+York University [1128231]:
+2 pubs read, 2 unmatched. 0 matched, distribution:
+
+
+[1128235]:
+2 pubs read, 2 unmatched. 0 matched, distribution:
+
+
+[1128249]:
+2 pubs read, 2 unmatched. 0 matched, distribution:
+
+
+[1128226]:
+2 pubs read, 2 unmatched. 0 matched, distribution:
+
+
+[1128225]:
+2 pubs read, 2 unmatched. 0 matched, distribution:
+
+
+[1128247]:
+2 pubs read, 2 unmatched. 0 matched, distribution:
+
+
+[1128218]:
+2 pubs read, 2 unmatched. 0 matched, distribution:
+
+
+[1128239]:
+2 pubs read, 2 unmatched. 0 matched, distribution:
+
+
+Dept. of Inf. & Commun. Eng., Univ. of Electro-Commun., Tokyo [1128233]:
+2 pubs read, 2 unmatched. 0 matched, distribution:
+
+
+Dept. of Comput. Sci. & Technol., Univ. of Sci. & Technol. of China, Hefei [1128232]:
+2 pubs read, 2 unmatched. 0 matched, distribution:
+
+
+[1128261]:
+2 pubs read, 2 unmatched. 0 matched, distribution:
+
+
+[1128227]:
+2 pubs read, 2 unmatched. 0 matched, distribution:
+
+
+Chinese Academy of Sciences [1128243]:
+1 pubs read, 1 unmatched. 0 matched, distribution:
+
+
+Dept. of Syst. Eng., Nat. Univ. of Defense Technol., Changsha [1128252]:
+1 pubs read, 1 unmatched. 0 matched, distribution:
+
+
+Duke University [1128245]:
+1 pubs read, 1 unmatched. 0 matched, distribution:
+
+
+Center for Robotics Adv. Autom., Oakland Univ., Rochester, MI [1128228]:
+1 pubs read, 1 unmatched. 0 matched, distribution:
+
+
+Fac. of Comput. Sci. & Eng., De Montfort Univ., Leicester, UK [1128264]:
+1 pubs read, 1 unmatched. 0 matched, distribution:
+
+
+Dept. of Comput. Sci. & Eng., Hong Kong Chinese Univ., China [1128241]:
+1 pubs read, 1 unmatched. 0 matched, distribution:
+
+
+[1562308]:
+1 pubs read, 1 unmatched. 0 matched, distribution:
+
+
+[1128254]:
+1 pubs read, 1 unmatched. 0 matched, distribution:
+
+
+[1128222]:
+1 pubs read, 1 unmatched. 0 matched, distribution:
+
+
+Dept. of Electr. & Comput. Eng., Portland State Univ., OR [1128246]:
+1 pubs read, 1 unmatched. 0 matched, distribution:
+
+
+The School of Computer and Control, Guilin university of electronic technology, Guilin, china, Sch. of Electron. Eng., Guilin Univ. of Electron. Technol., Guilin, China [1128223]:
+1 pubs read, 1 unmatched. 0 matched, distribution:
+
+
+Dept. of Autom. Control, Shanghai Jiao Tong Univ. [1128260]:
+1 pubs read, 1 unmatched. 0 matched, distribution:
+
+
+[1128253]:
+1 pubs read, 1 unmatched. 0 matched, distribution:
+
+
+1117 pubs of 57 Arnet authors loaded. Matched:
+University of North Carolina at Chapel Hill [1128214]: 125 | Center for Engineering and Scientific Computation, and College of Computer Science, Zhejiang University, Hangzhou, Zhejiang, 310027, P. R. China, Zhejiang Univ. Hangzhou, Hangzhou [1128238]: 5 | Department of Computer Science, University of North Carolina at Chapel Hill [1128240]: 4 | School of Mathematics and Computer Science, Nanjing Normal University, Nanjing 210097, PR China, Department of Mathematics, Bohai University, Jinzhou 121000, PR China [1128257]: 3 | College of Electronics Engineering, Chongqing University of Posts and Telecommunications, Chongqing, P. R. China [1128266]: 2 | [1128272]: 1
+Correspond to 14 true authors:
+[UNC]: 56 | [Fudan]: 31 | yin's cluster 3: 19 | [NUS]: 5 | [SUNY Buffalo]: 5 | [Harbin Engineering U]: 5 | [Nanjing Normal U]: 3 | [Zhejiang U]: 3 | yin's cluster 4: 3 | [Purdue]: 2 | [Chongqing U]: 2 | [SUNY Binghamton]: 2 | [Ningbo U of Tech]: 2 | [Beijing U of Telecom]: 2
+
+140 groundtruth publications, 140 matched, 140 matched title-year pair
+Groundtruth pairs total: 2220, between matched pubs: 2220
+Arnet total pairs: 7770
+Arnet total correct pairs: 2186
+Summary:
+Prec: 0.2813. Recall: 0.9847. F1: 0.4376
+
+
+shaohua@lsh:/media/tough/namedis$ 

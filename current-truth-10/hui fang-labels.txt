@@ -1,0 +1,167 @@
+15 clusters.
+
+Cluster 5, 16 papers:	University of Delaware
+Improving the Robustness of Language Models - UIUC TREC 2003 Robust and Genomics Experiments.
+chengxiang zhai, tao tao, hui fang, zhidi shang
+2003. TREC. key: conf/trec/ZhaiTFS03
+Subspace Clustering for Microarray Data Analysis: Multiple Criteria and Significance Assessment.
+hui fang, chengxiang zhai, lei liu, jiong yang
+2004. CSB. key: conf/csb/FangZLY04
+A formal study of information retrieval heuristics.
+hui fang, tao tao, chengxiang zhai
+2004. SIGIR. key: conf/sigir/FangTZ04
+An exploration of axiomatic approaches to information retrieval.
+hui fang, chengxiang zhai
+2005. SIGIR. key: conf/sigir/FangZ05
+UIUC/MUSC at TREC 2005 Genomics Track.
+chengxiang zhai, xu ling, xin he, atulya velivelli, xuanhui wang, hui fang, azadeh shakery, xinghua lu
+2005. TREC. key: conf/trec/ZhaiLHVWFSL05
+An Axiomatic Approach to IR--UIUC TREC 2005 Robust Track Experiments.
+hui fang, chengxiang zhai
+2005. TREC. key: conf/trec/FangZ05
+Interactive Construction of Query Language Models - UIUC TREC 2005 HARD Track Experiments.
+bin tan, atulya velivelli, hui fang, chengxiang zhai
+2005. TREC. key: conf/trec/TanVFZ05
+Semantic term matching in axiomatic approaches to information retrieval.
+hui fang, chengxiang zhai
+2006. SIGIR. key: conf/sigir/FangZ06
+Language Models for Expert Finding--UIUC TREC 2006 Enterprise Track Experiments.
+hui fang, lixin zhou, chengxiang zhai
+2006. TREC. key: conf/trec/FangZZ06
+Improve retrieval accuracy for difficult queries using negative feedback.
+xuanhui wang, hui fang, chengxiang zhai
+2007. CIKM. key: conf/cikm/WangFZ07
+Probabilistic Models for Expert Finding.
+hui fang, chengxiang zhai
+2007. ECIR. key: conf/ecir/FangZ07
+A study of Poisson query generation model for information retrieval.
+qiaozhu mei, hui fang, chengxiang zhai
+2007. SIGIR. key: conf/sigir/MeiFZ07
+Term feedback for information retrieval with language models.
+bin tan, atulya velivelli, hui fang, chengxiang zhai
+2007. SIGIR. key: conf/sigir/TanVFZ07
+A study of methods for negative relevance feedback.
+xuanhui wang, hui fang, chengxiang zhai
+2008. SIGIR. key: conf/sigir/WangFZ08
+An empirical study of gene synonym query expansion in biomedical information retrieval.
+yue lu, hui fang, chengxiang zhai
+2009. Inf. Retr.. key: journals/ir/LuFZ09
+Web Search Relevance Feedback.
+hui fang, chengxiang zhai
+2009. Encyclopedia of Database Systems. key: reference/db/FangZ09
+
+Cluster 3, 6 papers:	Swansea University, Wales, UK
+Video Extraction in Compressed Domain.
+puteri norhashimah, hui fang, jianmin jiang
+2003. AVSS. key: conf/avss/NorhashimahFJ03
+Low-cost and fast partial decoding of compressed videos.
+jianmin jiang, hui fang, shuyuan yang
+2004. J. Electronic Imaging. key: journals/jei/JiangFY04
+Region Growing with Automatic Seeding for Semantic Video Object Segmentation.
+yue feng, hui fang, jianmin jiang
+2005. ICAPR. key: conf/icapr/FengFJ05
+A Hybrid Scheme for Temporal Video Segmentation.
+hui fang, puteri norhashimah, jianmin jiang, yong yin
+2006. DELTA. key: conf/delta/FangNJY06
+Video Indexing and Retrieval in Compressed Domain Using Fuzzy-Categorization.
+hui fang, rami qahwaji, jianmin jiang
+2006. ISVC. key: conf/isvc/FangQJ06
+A fuzzy logic approach for detection of video shot boundaries.
+hui fang, jianmin jiang, yue feng
+2006. Pattern Recognition. key: journals/pr/FangJF06
+
+Cluster 4, 6 papers:	Google, Inc.
+Randomly Accessible Procedural Animation of Physically Approximate Turbulent Motion.
+hui fang, john c. hart
+2002. CA. key: conf/ca/FangH02
+Textureshop: texture synthesis as a photograph editing tool.
+hui fang, john c. hart
+2004. ACM Trans. Graph.. key: journals/tog/FangH04
+Interactive material replacement in photographs.
+steve zelinka, hui fang, michael garland, john c. hart
+2005. Graphics Interface. key: conf/graphicsinterface/ZelinkaFGH05
+RotoTexture: Automated Tools for Texturing Raw Video.
+hui fang, john c. hart
+2006. IEEE Trans. Vis. Comput. Graph.. key: journals/tvcg/FangH06
+Automatic alignment of large-scale aerial rasters to road-maps.
+xiaqing wu, rodrigo l. carceroni, hui fang, steve zelinka, andrew kirmse
+2007. GIS. key: conf/gis/WuCFZK07
+Detail preserving shape deformation in image editing.
+hui fang, john c. hart
+2007. ACM Trans. Graph.. key: journals/tog/FangH07
+
+Cluster 6, 4 papers:	Swansea University, Wales, UK
+Behavioral Consistency Extraction for Face Verification.
+hui fang, nicholas costen
+2008. COST 2102 Conference. key: conf/cost/FangC08
+3D facial geometry recovery via group-wise optical flow.
+hui fang, nicholas costen, david cristinacce, john darby
+2008. FG. key: conf/fgr/FangCCD08
+Face Video Competition.
+norman poh, chi-ho chan, josef kittler, sebastien marcel, christopher mc cool, enrique argones-rua, jose luis alba-castro, mauricio villegas, roberto paredes, vitomir struc, nikola pavesic, albert ali salah, hui fang, nicholas costen
+2009. ICB. key: conf/icb/PohCKMCAAVPSPSFC09
+An Evaluation of Video-to-Video Face Verification.
+norman poh, chi-ho chan, josef kittler, sebastien marcel, chris mccool, enrique argones-rua, jose luis alba-castro, mauricio villegas, roberto paredes, vitomir struc, nikola pavesic, albert ali salah, hui fang, nicholas costen
+2010. IEEE Transactions on Information Forensics and Security. key: journals/tifs/PohCKMMAAVPSPSFC10
+
+Cluster 2, 3 papers:	SMA, NTU
+Controlling Uncertainty in Personal Positioning at Minimal Measurement Cost.
+hui fang, wen-jing hsu, larry rudolph
+2008. UIC. key: conf/uic/FangHR08
+Mining User Position Log for Construction of Personalized Activity Map.
+hui fang, wen-jing hsu, larry rudolph
+2009. ADMA. key: conf/adma/FangHR09
+Cognitive personal positioning based on activity map and adaptive particle filter.
+hui fang, wen-jing hsu, larry rudolph
+2009. MSWiM. key: conf/mswim/FangHR09
+
+Cluster 1, 1 papers:	University of Delaware
+A Re-examination of Query Expansion Using Lexical Resources.
+hui fang
+2008. ACL. key: conf/acl/Fang08
+
+Cluster 7, 1 papers:	University of Delaware
+Query Aspect Based Term Weighting Regularization in Information Retrieval.
+wei zheng, hui fang
+2010. ECIR. key: conf/ecir/ZhengF10
+
+Cluster 8, 1 papers:	University of Jinan, Shandong, China
+The Design of an Observer-Based Neural Adaptive Controller for a Class of Nonlinear Systems with Input-Constrained.
+min fang, xueyan yang, hui fang, xiaoli bai
+2009. HIS. key: conf/his/FangYFB09
+
+Cluster 9, 1 papers:	Swansea University, Wales, UK
+Discriminant Feature Manifold for Facial Aging Estimation.
+hui fang, phil w. grant, min chen
+2010. ICPR. key: conf/icpr/FangGC10
+
+Cluster 10, 1 papers:	Swansea University, Wales, UK
+3D Face Reconstruction Under Imperfect Tracking Circumstances Using Shape Model Constraints.
+hui fang, nicholas paul costen
+2007. ISVC. key: conf/isvc/FangC07
+
+Cluster 11, 1 papers:	University of Delaware
+Reusable test collections through experimental design.
+ben carterette, evangelos kanoulas, virgiliu pavlu, hui fang
+2010. SIGIR. key: conf/sigir/CarteretteKPF10
+
+Cluster 12, 1 papers:	College of Biosystems Engineering and Food Science, Zhejiang University
+Determination of Total Amino Acids in Oilseed Rape Leaves Using Near Infrared Spectroscopy and Chemometrics.
+fei liu, fan zhang, hui fang, weijun zhou, yong he
+2009. CSIE. key: conf/csie/LiuZFZH09
+
+Cluster 13, 1 papers:	Laboratory of Underwater Acoustic Communication and Marine Information Technology, Xiamen University
+An Implementation of Time and Frequency Synchronization for Carrier Interferometry of OFDM in an Underwater Acoustic Channel.
+hui fang, xiaoyi hu, ru xu
+2009. PACCS. key: conf/paccs/FangHX09
+
+Cluster 14, 1 papers:	University of Jinan, Shandong, China
+Neural adaptive control for a class of nonlinear systems with unknown deadzone.
+zhonghua wang, yong zhang, hui fang
+2008. Neural Computing and Applications. key: journals/nca/WangZF08
+
+Cluster 15, 1 papers:	Kunming University of Science and Technology
+Existence of nontrivial homoclinic orbits for fourth-order difference equations.
+hui fang, dapeng zhao
+2009. Applied Mathematics and Computation. key: journals/amc/FangZ09
+

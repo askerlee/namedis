@@ -1,0 +1,200 @@
+15 clusters.
+
+Cluster 2, 17 papers:	University of Newcastle upon Tyne, UK
+A Parallel Algebra for Object Databases.
+sandra de f. mendes sampaio, norman w. paton, paul watson, jim smith
+1999. DEXA Workshop. key: conf/dexaw/SampaioPWS99
+Polar: An Architecture for a Parallel ODMG Compliant Object Database.
+jim smith, paul watson, sandra de f. mendes sampaio, norman w. paton
+2000. CIKM. key: conf/cikm/SmithWSP00
+Experimenting with Object Navigation in Parallel Object Databases.
+sandra de f. mendes sampaio, jim smith, norman w. paton, paul watson
+2001. DEXA Workshop. key: conf/dexaw/SampaioSPW01
+An Experimental Performance Evaluation of Join Algorithms for Parallel Object Databases.
+sandra de f. mendes sampaio, jim smith, norman w. paton, paul watson
+2001. Euro-Par. key: conf/europar/SampaioSPW01
+Speeding Up Navigational Requests in a Parallel Object Database System.
+jim smith, paul watson, sandra de f. mendes sampaio, norman w. paton
+2002. Euro-Par. key: conf/europar/SmithWSP02
+Distributed Query Processing on the Grid.
+jim smith, anastasios gounaris, paul watson, norman w. paton, alvaro a. a. fernandes, rizos sakellariou
+2002. GRID. key: conf/grid/SmithGWPFS02
+Validated Cost Models for Parallel OQL Query Processing.
+sandra de f. mendes sampaio, norman w. paton, jim smith, paul watson
+2002. OOIS. key: conf/oois/SampaioPSW02
+Service-Based Distributed Querying on the Grid.
+m. nedim alpdemir, arijit mukherjee, norman w. paton, paul watson, alvaro a. a. fernandes, anastasios gounaris, jim smith
+2003. ICSOC. key: conf/icsoc/AlpdemirMPWFGS03
+Distributed Query Processing on the Grid.
+jim smith, paul watson, anastasios gounaris, norman w. paton, alvaro a. a. fernandes, rizos sakellariou
+2003. IJHPCA. key: journals/ijhpca/SmithWGPFS03
+The Design, Implementation and Evaluation of an ODMG Compliant, Parallel Object Database Server.
+jim smith, sandra de f. mendes sampaio, paul watson, norman w. paton
+2004. Distributed and Parallel Databases. key: journals/dpd/SmithSWP04
+Adapting to Changing Resource Performance in Grid Query Processing.
+anastasios gounaris, jim smith, norman w. paton, rizos sakellariou, alvaro a. a. fernandes, paul watson
+2005. DMG. key: conf/dmg/GounarisSPSFW05
+Fault-Tolerance in Distributed Query Processing.
+jim smith, paul watson
+2005. IDEAS. key: conf/ideas/SmithW05
+Modular Adaptive Query Processing for Service-Based Grids.
+anastasios gounaris, norman w. paton, rizos sakellariou, alvaro a. a. fernandes, jim smith, paul watson
+2006. ICAC. key: conf/icac/GounarisPSFSW06
+Practical Adaptation to Changing Resources in Grid Query Processing.
+anastasios gounaris, norman w. paton, rizos sakellariou, alvaro a. a. fernandes, jim smith, paul watson
+2006. ICDE. key: conf/icde/GounarisPSFSW06
+Measuring and modelling the performance of a parallel ODMG compliant object database server.
+sandra de f. mendes sampaio, norman w. paton, jim smith, paul watson
+2006. Concurrency and Computation. key: journals/concurrency/SampaioPSW06
+Experiments Towards Adaptation of Concurrent Workflows.
+jim smith, paul watson
+2007. ECOWS. key: conf/ecows/SmithW07
+Adaptive workload allocation in query processing in autonomous heterogeneous environments.
+anastasios gounaris, jim smith, norman w. paton, rizos sakellariou, alvaro a. a. fernandes, paul watson
+2009. Distributed and Parallel Databases. key: journals/dpd/GounarisSPSFW09
+
+Cluster 1, 6 papers:	University of the West of England
+An Adaptive Poly-Parental Recombination Strategy.
+jim smith, terence c. fogarty
+1995. Evolutionary Computing. key: conf/aisb/SmithF95
+Evolving Software Test Data - GA's learn Self Expression.
+jim smith, terence c. fogarty
+1996. Evolutionary Computing. key: conf/aisb/SmithF96
+Self Adaptation of Mutation Rates in a Steady State Genetic Algorithm.
+jim smith, terence c. fogarty
+1996. International Conference on Evolutionary Computation. key: conf/icec/SmithF96
+Recombination Strategy Adaptation via Evolution of Gene Linkage.
+jim smith, terence c. fogarty
+1996. International Conference on Evolutionary Computation. key: conf/icec/SmithF96a
+Adaptively Parameterised Evolutionary Systems: Self-Adaptive Recombination and Mutation in a Genetic Algorithm.
+jim smith, terence c. fogarty
+1996. PPSN. key: conf/ppsn/SmithF96
+Operator and parameter adaptation in genetic algorithms.
+jim smith, terence c. fogarty
+1997. Soft Comput.. key: journals/soco/SmithF97
+
+Cluster 7, 2 papers:	University of the West of England
+A Memetic Algorithm With Self-Adaptive Local Search: TSP as a case study.
+natalio krasnogor, jim smith
+2000. GECCO. key: conf/gecco/KrasnogorS00
+Memetic Algorithms: The Polynomial Local Search Complexity Theory Perspective.
+natalio krasnogor, jim smith
+2008. J. Math. Model. Algorithms. key: journals/jmma/KrasnogorS08
+
+Cluster 9, 2 papers:	University of the West of England
+What Have Gene Libraries Done for AIS?
+steve cayzer, jim smith, james a. r. marshall, tim kovacs
+2005. ICARIS. key: conf/icaris/CayzerSMK05
+Gene Libraries: Coverage, Efficiency and Diversity.
+steve cayzer, jim smith
+2006. ICARIS. key: conf/icaris/CayzerS06
+
+Cluster 11, 2 papers:	University of Melbourne
+The Client Briefing Problem: A Method for Assessing the Strategic Needs of Project Stakeholders.
+jim smith, peter e. d. love, r. g. wyatt
+2000. ICSTM. key: conf/icstm/SmithLW00
+DECOREM: A Design and Construction Rework Minimisation Model.
+peter e. d. love, purnendu mandal, jim smith, zahir irani, g. treloar, o. faniran
+2000. ICSTM. key: conf/icstm/LoveMSITF00
+
+Cluster 3, 1 papers:	University of Newcastle upon Tyne, UK
+On Synchronisation in Fault-Tolerant Data and Compute Intensive Programs over a Network of Workstations.
+jim smith
+1997. Euro-Par. key: conf/europar/Smith97
+
+Cluster 4, 1 papers:	University of Newcastle upon Tyne, UK
+A System for Fault-Tolerance Execution of Data and Compute Intensive Programs over a Network of Workstations.
+jim smith, santosh k. shrivastava
+1996. Euro-Par. key: conf/europar/SmithS96
+
+Cluster 5, 1 papers:	University of the West of England
+An Examination of Tunable, Random Search Landscapes.
+robert e. smith, jim smith
+1998. FOGA. key: conf/foga/SmithS98
+
+Cluster 6, 1 papers:	University of the West of England
+Replacement Strategies in Steady State Genetic Algorithms: Static Environments.
+jim smith, frank vavak
+1998. FOGA. key: conf/foga/SmithV98
+
+Cluster 8, 1 papers:	University of the West of England
+Strategy Parameter Variety In Self-adaptation Of Mutation Rates.
+christopher stone, jim smith
+2002. GECCO. key: conf/gecco/StoneS02
+
+Cluster 10, 1 papers:	Carnegie Mellon Software Engineering Institute
+Using Earned Value Management for COTS-Based Systems: Issues and Recommendations.
+lisa brownsword, jim smith
+2005. ICCBSS. key: conf/iccbss/BrownswordS05
+
+Cluster 12, 1 papers:	University of the West of England
+Co-evolving Memetic Algorithms: Initial Investigations.
+jim smith
+2002. PPSN. key: conf/ppsn/Smith02
+
+Cluster 13, 1 papers:	University of the West of England
+Meme fitness and memepool sizes in coevolutionary memetic algorithms.
+jim smith
+2010. IEEE Congress on Evolutionary Computation. key: conf/cec/Smith10
+
+Cluster 14, 1 papers:	University of Wisconsin
+Multiscalar As a New Architecture Paradigm.
+jim smith
+1996. ACM Comput. Surv.. key: journals/csur/Smith96
+
+Cluster 15, 1 papers:	University of the West of England
+On Replacement Strategies in Steady State Evolutionary Algorithms.
+jim smith
+2007. Evolutionary Computation. key: journals/ec/Smith07
+
+Cluster 16, 12 papers:	University of the West of England
+An alternative approach for the evaluation of the neocognitron.
+michal steuer, praminda caleb-solly, jim smith
+2001. ESANN. key: conf/esann/SteuerCS01
+Incorporation of adaptive mutation based on subjective evaluation in an interactive evolution strategy.
+praminda caleb-solly, jim smith
+2005. Congress on Evolutionary Computation. key: conf/cec/Caleb-SollyS05
+Improving Nearest Neighbor Classifier Using Tabu Search and Ensemble Distance Metrics.
+muhammad atif tahir, jim smith
+2006. ICDM. key: conf/icdm/TahirS06
+Stop Wasting Time: On Predicting the Success or Failure of Learning for Industrial Applications.
+jim smith, muhammad atif tahir
+2007. IDEAL. key: conf/ideal/SmithT07
+Adaptive surface inspection via interactive evolution.
+praminda caleb-solly, jim smith
+2007. Image Vision Comput.. key: journals/ivc/Caleb-SollyS07
+A Novel Feature Selection Based Semi-supervised Method for Image Classification.
+muhammad atif tahir, jim smith, praminda caleb-solly
+2008. ICVS. key: conf/icvs/TahirSC08
+An On-Line Interactive Self-adaptive Image Classification Framework.
+davy sannen, marnix nuttin, jim smith, muhammad atif tahir, praminda caleb-solly, edwin lughofer, christian eitzinger
+2008. ICVS. key: conf/icvs/SannenNSTCLE08
+On Human-Machine Interaction during Online Image Classifier Training.
+edwin lughofer, jim smith, praminda caleb-solly, muhammad atif tahir, christian eitzinger, davy sannen, hendrik van brussel
+2008. CIMCA/IAWTIC/ISE. key: conf/cimca/LughoferSCTESB08
+Feature Selection for Heterogeneous Ensembles of Nearest-neighbour Classifiers Using Hybrid Tabu Search.
+muhammad atif tahir, jim smith
+2008. Advances in Metaheuristics for Hard Optimization. key: conf/ncs/TahirS08
+Assessment of the influence of adaptive components in trainable surface inspection systems.
+christian eitzinger, wolfgang heidl, edwin lughofer, stefan raiser, jim smith, muhammad atif tahir, davy sannen, hendrik van brussel
+2010. Mach. Vis. Appl.. key: journals/mva/EitzingerHLRSTSB10
+User-centric image segmentation using an interactive parameter adaptation tool.
+olivier pauplin, praminda caleb-solly, jim smith
+2010. Pattern Recognition. key: journals/pr/PauplinCS10
+Creating diverse nearest-neighbour ensembles using simultaneous metaheuristic feature selection.
+muhammad atif tahir, jim smith
+2010. Pattern Recognition Letters. key: journals/prl/TahirS10
+
+Cluster 17, 2 papers:	University of the West of England
+Pre-processing Optimisation Applied to the Classical Integer Programming Model for Statistical Disclosure Control.
+martin serpell, alistair r. clark, jim smith, andrea t. staggemeier
+2008. Privacy in Statistical Databases. key: conf/psd/SerpellCSS08
+A genetic approach to statistical disclosure control.
+jim smith, alistair r. clark, andrea t. staggemeier
+2009. GECCO. key: conf/gecco/SmithCS09
+
+Cluster 18, 1 papers:	University of the West of England
+Coevolving Memetic Algorithms: A Review and Progress Report.
+jim smith
+2007. IEEE Transactions on Systems. key: journals/tsmc/Smith07
+

@@ -1,0 +1,307 @@
+13 clusters.
+
+Cluster 1, 24 papers:	(622849)
+A dynamic-window weighted-RMS averaging filter applied to speaker identification.
+hong tang, xiaoyuan zhu, iain macleod, j. bruce millar, michael wagner
+1994. ICSLP
+Hybrid threshold approach in text-independent speaker verification.
+fangxin chen, bruce millar, michael wagner
+1994. ICSLP
+Speaker identification using vector quantisation with codeword-specific derivative coding.
+michael wagner, john s. mason, j. bruce millar
+1995. EUROSPEECH
+Fuzzy-integration based normalization for speaker verification.
+tuan pham, michael wagner
+1998. ICSLP
+Measuring the dynamic encoding of speaker identity and dialect in prosodic parameters.
+michael barlow, michael wagner
+1998. ICSLP
+"liveness" verification in audio-video authentication.
+michael wagner, girija chetty
+2004. INTERSPEECH
+Aspects of speaking-face data corpus design methodology.
+j. bruce millar, michael wagner, roland goecke
+2004. INTERSPEECH
+Liveness detection using cross-modal correlations in face-voice person authentication.
+girija chetty, michael wagner
+2005. INTERSPEECH
+Effects of F0 feedback on the learning of Chinese tones by native speakers of English.
+felicia zhang, michael wagner
+2005. INTERSPEECH
+Audio-Video Person Authentication Based on 3D Facial Feature Warping.
+girija chetty, michael wagner
+2005. DICTA
+Speaking faces for face-voice speaker identity verification.
+girija chetty, michael wagner
+2006. INTERSPEECH
+Face-Voice Authentication Based on 3D Face Models.
+girija chetty, michael wagner
+2006. ACCV
+Audiovisual speaker identity verification based on lip motion features.
+girija chetty, michael wagner
+2007. INTERSPEECH
+Audio Visual Speaker Verification Based on Hybrid Fusion of Cross Modal Features.
+girija chetty, michael wagner
+2007. PReMI
+A Robust Speaking Face Modelling Approach Based on Multilevel Fusion.
+girija chetty, michael wagner
+2007. DICTA
+Robustness of prosodic features to voice imitation.
+mireia farrús, michael wagner, jan anguita, javier hernando
+2008. INTERSPEECH
+Audio-visual multilevel fusion for speech and speaker recognition.
+girija chetty, michael wagner
+2008. INTERSPEECH
+Robust face-voice based speaker identity verification using multilevel fusion.
+girija chetty, michael wagner
+2008. Image Vision Comput.
+Multimodal speaker verification using ancillary known speaker characteristics such as gender or age.
+girija chetty, michael wagner
+2009. INTERSPEECH
+Emotion classification in children's speech using fusion of acoustic and linguistic features.
+tim polzehl, shiva sundaram, hamed ketabdar, michael wagner, florian metze
+2009. INTERSPEECH
+Liveness Assurance in Face Authentication.
+michael wagner, girija chetty
+2009. Encyclopedia of Biometrics
+Building an Audio-Visual Corpus of Australian English: Large Corpus Collection with an Economical Portable and Replicable Black Box.
+denis burnham, dominique estival, steven fazio, jette viethen, felicity cox, robert dale, steve cassidy, julien epps, roberto togneri, michael wagner, yuko kinoshita, roland göcke, joanne arciuli, mark onslow, trent lewis, andrew butcher, john hajek
+2011. INTERSPEECH
+Anger recognition in speech using acoustic and linguistic cues.
+tim polzehl, alexander schmitt, florian metze, michael wagner
+2011. Speech Communication
+Preface.
+gabriel hermosillo, russel nzekwa, michael wagner
+2011. ECEASST
+
+Cluster 2, 16 papers:	(622862)
+Performance Evaluation Methodologies for Abstract Data Type Implementation Techniques.
+ray ford, michael wagner
+1987. Comput. Lang.
+pPCx: Parallel Software for Linear Programming.
+thomas f. coleman, joseph czyzyk, chunguang sun, michael wagner, stephen j. wright
+1997. PPSC
+Geschäftsprozeßgestaltung durch Kommunikation und Information.
+michael wagner
+1998. HMD - Praxis Wirtschaftsinform.
+Exploiting Spatial and Temporal Locality of Accesses: A New Hardware-Based Monitoring Approach for DSM Systems.
+robert hockauf, wolfgang karl, markus leberecht, michael oberhuber, michael wagner
+1998. Euro-Par
+Re-inventing icons: using animation as cues in icons for the visually impaired.
+stephanie ludi, michael wagner
+2001. HCI
+Computational protein biomarker prediction: a case study for prostate cancer.
+michael wagner, dayanand n. naik, alex pothen, srinivas kasukurti, raghu ram devineni, bao-ling adam, o. john semmes, george l. wright jr.
+2004. BMC Bioinformatics
+An e-Learning Tool for the Austrian Citizen Card.
+peter parycek, johannes schneider, michael wagner
+2004. EGOV
+Verteilte Suche nach digitalen Wasserzeichen in eMule.
+michael wagner
+2007. Informatik Spektrum
+Early Outbreak Detection Using an Automated Data Feed of Test Orders from a Veterinary Diagnostic Laboratory.
+loren shaffer, julie funk, päivi rajala-schultz, garrick l. wallstrom, thomas wittum, michael wagner, william saville
+2007. BioSurveillance
+Mapping visual notations to MOF compliant models with QVT relations.
+matthias erche, michael wagner, christian hein
+2007. SAC
+Generation of Formal Model Metrics for MOF based Domain Specific Languages.
+christian hein, marcus engelhardt, tom ritter, michael wagner
+2009. ECEASST
+Liveness Assurance in Voice Authentication.
+michael wagner
+2009. Encyclopedia of Biometrics
+Fusion of Acoustic and Linguistic Features for Emotion Detection.
+florian metze, tim polzehl, michael wagner
+2009. ICSC
+Hierarchical data access in structured P2P-networks.
+dirk bradler, lachezar krumov, michael wagner, jussi kangasharju
+2009. SpringSim
+A generic attribute extension to OTF and its use for MPI replay.
+andreas knüpfer, markus geimer, johannes spazier, joseph schuchart, michael wagner, dominic eschweiler, matthias s. müller
+2010. Int. Conf. on Membrane Computing
+Context as a service.
+michael wagner
+2010. McGraw Hill series in computer science
+
+Cluster 3, 12 papers:	(622851)
+Fuzzy Gaussian mixture models for speaker recognition.
+dat tran, tu van le, michael wagner
+1998. ICSLP
+A proposed decision rule for speaker recognition based on fuzzy c-means clustering.
+dat tran, michael wagner, tu van le
+1998. ICSLP
+Hidden Markov models using fuzzy estimation.
+dat tran, michael wagner
+1999. EUROSPEECH
+State mixture modelling applied to speech recognition.
+dat tran, michael wagner, tongtao zheng
+1999. Pattern Recognition Letters
+Fuzzy normalisation methods for speaker verification.
+dat tran, michael wagner
+2000. INTERSPEECH
+Fuzzy entropy hidden Markov models for speech recognition.
+dat tran, michael wagner
+2000. INTERSPEECH
+A Proposed Fuzzy Pattern Verification System.
+dat tran, michael wagner
+2001. FUZZ-IEEE
+A Fuzzy Approach to Speaker Verification.
+dat tran, michael wagner
+2002. IJPRAI
+Generalised Fuzzy Hidden Markov Models for Speech Recognition.
+dat tran, michael wagner
+2002. AFSS
+Noise Clustering-Based Speaker Verification.
+dat tran, michael wagner
+2002. AFSS
+Fuzzy C-Means Clustering-Based Speaker Verification.
+dat tran, michael wagner
+2002. AFSS
+Testing Voice Mimicry with the YOHO Speaker Verification Corpus.
+yee w. lau, dat tran, michael wagner
+2005. KES
+
+Cluster 4, 10 papers:	Universität Kassel, Kassel, Germany 34121 (622854)
+A Context Query Language for Pervasive Computing Environments.
+roland reichle, michael wagner, mohammad ullah khan, kurt geihs, massimo valla, cristina fra, nearchos paspallis, george a. papadopoulos
+2008. PerCom
+A Comprehensive Context Modeling Framework for Pervasive Computing Systems.
+roland reichle, michael wagner, mohammad ullah khan, kurt geihs, jorge lorenzo, massimo valla, cristina fra, nearchos paspallis, george a. papadopoulos
+2008. DAIS
+An Adaptation Reasoning Approach for Large Scale Component-based Applications.
+mohammad ullah khan, roland reichle, michael wagner, kurt geihs, ulrich scholz, konstantinos kakousis, george a. papadopoulos
+2009. ECEASST
+Preface.
+michael wagner, dieter hogrefe, kurt geihs, klaus david
+2009. ECEASST
+Service-Oriented Adaptation in Ubiquitous Computing Environments.
+kurt geihs, roland reichle, michael wagner, mohammad ullah khan
+2009. CSE
+Context Inference of Users' Social Relationships and Distributed Policy Management.
+alisa devlic, roland reichle, michael wagner, manuele kirsch-pinheiro, yves vanrompay, yolande berbers, massimo valla
+2009. PerCom Workshops
+Modeling of Context-Aware Self-Adaptive Applications in Ubiquitous and Service-Oriented Environments.
+kurt geihs, roland reichle, michael wagner, mohammad ullah khan
+2009. Software Engineering for Self-Adaptive Systems
+Towards a Comprehensive Teamwork Model for Highly Dynamic Domains.
+hendrik skubch, michael wagner, roland reichle, stefan triller, kurt geihs
+2010. ICAART
+Development support for QoS-aware service-adaptation in ubiquitous computing applications.
+kurt geihs, christoph evers, roland reichle, michael wagner, mohammad ullah khan
+2011. SAC
+Context as a service - Requirements, design and middleware support.
+michael wagner, roland reichle, kurt geihs
+2011. PerCom Workshops
+
+Cluster 5, 8 papers:	(622852)
+Speaker identification using relaxation labeling.
+tuan d. pham, michael wagner
+1998. ICSLP
+A geostatistical model for linear prediction analysis of speech.
+tuan d. pham, michael wagner
+1998. Pattern Recognition
+Ambiguity reduction in speaker identification by the relaxation labeling process.
+tuan d. pham, michael wagner
+1999. Pattern Recognition
+Speaker Verification with Fuzzy Fusion and Genetic Optimization.
+tuan d. pham, michael wagner
+1999. JACIII
+Similarity normalization for speaker verification by fuzzy fusion.
+tuan d. pham, michael wagner
+2000. Pattern Recognition
+Image Enhancement by Kriging and Fuzzy Sets.
+tuan d. pham, michael wagner
+2000. IJPRAI
+Information based Speaker Verification.
+tuan d. pham, michael wagner
+2000. ICPR
+Image Restoration by Fuzzy Convex Ordinary Kriging.
+tuan d. pham, michael wagner
+2000. ICIP
+
+Cluster 6, 6 papers:	(622855)
+A tangible AR desktop environment.
+holger regenbrecht, gregory baratoff, michael wagner
+2001. Computers & Graphics
+MagicMeeting: A Collaborative Tangible Augmented Reality System.
+holger regenbrecht, michael wagner, gregory baratoff
+2002. Virtual Reality
+Interaction in a collaborative augmented reality environment.
+holger regenbrecht, michael wagner
+2002. CHI Extended Abstracts
+An Augmented Virtuality Approach to 3D Videoconferencing.
+holger regenbrecht, claudia ott, michael wagner, tim lum, petra kohler, wilhelm wilke, erich mueller
+2003. ISMAR
+Using Augmented Virtuality for Remote Collaboration.
+holger regenbrecht, tim lum, petra kohler, claudia ott, michael wagner, wilhelm wilke, erich mueller
+2004. Presence
+Preface.
+sonia ben mokhtar, romain rouvoy, michael wagner
+2010. ECEASST
+
+Cluster 7, 4 papers:	Cincinnati Children&#x2019;s Hospital Research Foundation, University of Cincinnati, Biomedical Informatics, OH 45229-3039, Cincinnati, USA (622850)
+Maximum feasibility guideline in the design and analysis of protein folding potentials.
+jaroslaw meller, michael wagner, ron elber
+2002. Journal of Computational Chemistry
+Large-scale linear programming techniques for the design of protein folding potentials.
+michael wagner, jaroslaw meller, ron elber
+2004. Math. Program.
+Linear Regression Models for Solvent Accessibility Prediction in Proteins.
+michael wagner, rafal adamczak, aleksey a. porollo, jaroslaw meller
+2005. Journal of Computational Biology
+A semi-parametric Bayesian model for unsupervised differential co-expression analysis.
+johannes m. freudenberg, siva sivaganesan, michael wagner, mario medvedovic
+2010. BMC Bioinformatics
+
+Cluster 8, 3 papers:	(622860)
+Keyboard user verification: toward an accurate, efficient, and ecologically valid algorithm.
+renee napier, william laverty, doug mahar, ron henderson, michael hiron, michael wagner
+1995. Int. J. Hum.-Comput. Stud.
+Optimizing digraph-latency based biometric typist verification systems: inter and intra typist differences in digraph latency distributions.
+doug mahar, renee napier, michael wagner, william laverty, ron henderson, michael hiron
+1995. Int. J. Hum.-Comput. Stud.
+User verification through pointing characteristics: an exploration examination.
+kate barrelle, william laverty, ron henderson, jon gough, michael wagner, michael hiron
+1996. Int. J. Hum.-Comput. Stud.
+
+Cluster 9, 3 papers:	(622853)
+Model-based EEG and MEG Source Reconstruction Methods.
+michael wagner, manfred fuchs, hans-aloys wischmann, ralf drenckhahn, thomas köhler
+1996. Bildverarbeitung für die Medizin
+Anatomische Abbildung elektrischer Aktivität des ZNS.
+r. beckmann, helmut buchner, g. knoll, a. rienäcker, manfred fuchs, michael wagner, jiri silny, j. pesch
+1996. Bildverarbeitung für die Medizin
+Restoration of the Sphere-Cortex Homeomorphism.
+andreas mang, michael wagner, jan müller, manfred fuchs, thorsten m. buzug
+2006. Bildverarbeitung für die Medizin
+
+Cluster 10, 2 papers:	(622858)
+probeBase: an online resource for rRNA-targeted oligonucleotide probes.
+alexander loy, matthias horn, michael wagner
+2003. Nucleic Acids Research
+probeBase - an online resource for rRNA-targeted oligonucleotide probes: new features 2007.
+alexander loy, frank maixner, michael wagner, matthias horn
+2007. Nucleic Acids Research
+
+Cluster 11, 2 papers:	Carnegie Mellon University (622859)
+EventScope: Bringing Remote Experience of Mars to the Public through Telepresence.
+eben myers, peter coppin, michael wagner, karl fischer, luisa lu, w. ronald mccloskey, david seneker
+2004. INFOVIS
+The EventScope Remote Science Operations Tool: Using a Visualization of a Remote Location as an Interface for Robotic Exploration.
+eben myers, peter coppin, michael wagner, luisa lu, w. ronald mccloskey, david seneker, kevin mccloskey
+2005. IEEE Visualization
+
+Cluster 12, 2 papers:	(622861)
+Preface.
+romain rouvoy, mauro caporuscio, michael wagner
+2008. ECEASST
+Preface.
+romain rouvoy, michael wagner
+2009. ECEASST
+
+Cluster 13, 1 papers:	Cincinnati Children's Hospital, Medical Center, Cincinnati, OH (622857)
+Outpatient Clinic Scheduling - A Simulation Approach.
+ming guo, michael wagner, constance e. west
+2004. Winter Simulation Conference
+

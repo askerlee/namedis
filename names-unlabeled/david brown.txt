@@ -1,0 +1,219 @@
+An Ontology for Scientific Information in a Grid Environment: the Earth System Grid.
+Line Pouchard,Luca Cinquini,Bob Drach,Don Middleton,David E. Bernholdt,Kasidit Chanchio,Ian T. Foster,Veronika Nefedova,David Brown,Peter Fox,Jose Garcia,Gary Strand,Dean N. Williams,Ann L. Chervenak,Carl Kesselman,Arie Shoshani,Alex Sim
+2003. inproceedings: CCGRID. key: conf/ccgrid/PouchardCDMBCFNBFGSWCKSS03
+
+Experience in Teaching a Management-Oriented Capstone Software Engineering Course.
+Allen S. Parrish,David Brown,David Cordes
+1995. inproceedings: CSEE. key: conf/csee/ParrishBC95
+
+What is observable in a class of neurodynamics?
+Jianfeng Feng,David Brown
+1998. inproceedings: ESANN. key: conf/esann/FengB98
+
+Output jitter diverges to infinity, converges to zero or remains constant.
+Jianfeng Feng,Brunello Tirozzi,David Brown
+1998. inproceedings: ESANN. key: conf/esann/FengTB98
+
+An Effective Human Motion Classification Approach using Knowledge Representation in Qualitative Normalised Templates.
+Chee Seng Chan,Honghai Liu,David Brown
+2007. inproceedings: FUZZ-IEEE. key: conf/fuzzIEEE/ChanLB07
+
+Cognitive Scales and Mental Models for Inclusive Design.
+Umesh Persad,Patrick Langdon,David Brown,P. John Clarkson
+2007. inproceedings: HCI (5). key: conf/hci/PersadLBC07
+
+HCI Professional Involvement in k-12 Education: On Target or Missing the Mark?
+Martin Jelin,Adrian Sudol,Jeffrey Damon,Douglas McCadden,David Brown
+2009. inproceedings: HCI (4). key: conf/hci/JelinSDMB09
+
+Wiring the academy (panel session): what's working, what's not, what's next, and why.
+Bradley C. Wheeler,Lynda M. Applegate,David Brown,Peggy Phillips
+1997. inproceedings: ICIS. key: conf/icis/WheelerABP97
+
+Large-Scale Dependency Knowledge Acquisition and its Extrinsic Evaluation Through Word Sense Disambiguation.
+Ping Chen,Wei Ding 0003,Chris Bowes,David Brown
+2009. inproceedings: ICTAI. key: conf/ictai/ChenDBB09
+
+Predictive unsupervised organisation in marine engine fault detection.
+Ian Morgan,Honghai Liu,George Turnbull,David Brown
+2008. inproceedings: IJCNN. key: conf/ijcnn/MorganLTB08
+
+Parallel Imaging: System Design and Limitations.
+Steven M. Wright,Mary McDougall,Krishna Kurpad,David Brown
+2004. inproceedings: ISBI. key: conf/isbi/WrightMKB04
+
+A Host Architecture for Automobile License Plate Recognition.
+Maury Mitchell,Matthew Hudnall,David Brown,David Cordes,Randy K. Smith,Allen S. Parrish
+2007. inproceedings: ISI. key: conf/isi/MitchellHBCSP07
+
+PerpSearch: An integrated crime detection system.
+Li Ding,Dana Steil,Matthew Hudnall,Brandon Dixon,Randy K. Smith,David Brown,Allen S. Parrish
+2009. inproceedings: ISI. key: conf/isi/DingSHDSBP09
+
+Tag and Resource-Aware Collaborative Filtering Algorithms for Resource Recommendation.
+Gayatri Gadepalli,Elke A. Rundensteiner,David Brown,Kajal T. Claypool
+2010. inproceedings: ITNG. key: conf/itng/GadepalliRBC10
+
+Implicit interest indicators.
+Mark Claypool,Phong Le,Makoto Waseda,David Brown
+2001. inproceedings: IUI. key: conf/iui/ClaypoolLWB01
+
+Effects of Correlation and Degree of Balance in Random Synaptic Inputs on the Output of the Hodgkin-Huxley Model.
+David Brown,Jianfeng Feng
+1999. inproceedings: IWANN (1). key: conf/iwann/BrownF99
+
+Structure of Lateral Inhibition in an Olfactory Bulb Model.
+Andrew P. Davison,Jianfeng Feng,David Brown
+1999. inproceedings: IWANN (1). key: conf/iwann/DavisonFB99
+
+Paradoxical Relationship between Output and Input Regularity for the FitzHugh-Nagumo Model.
+Stuart Feerick,Jianfeng Feng,David Brown
+1999. inproceedings: IWANN (1). key: conf/iwann/FeerickFB99
+
+Viewing a Class of Neurodynamics on Parameter Space.
+Jianfeng Feng,David Brown
+1997. inproceedings: IWANN. key: conf/iwann/FengB97
+
+Analysing Flight Data Using Clustering Methods.
+Christopher Jesse,Honghai Liu,Edward Smart,David Brown
+2008. inproceedings: KES (1). key: conf/kes/JesseLSB08
+
+Visual-Based View-Invariant Human Motion Analysis: A Review.
+Xiaofei Ji,Honghai Liu,Yibo Li,David Brown
+2008. inproceedings: KES (1). key: conf/kes/JiLLB08
+
+Rigorously Defining and Analyzing Medical Processes: An Experience Report.
+Stefan Christov,Bin Chen,George S. Avrunin,Lori A. Clarke,Leon J. Osterweil,David Brown,Lucinda Cassells,Wilson Mertens
+2007. inproceedings: MoDELS Workshops. key: conf/models/ChristovCACOBCM07
+
+A Fully Unsupervised Word Sense Disambiguation Method Using Dependency Knowledge.
+Ping Chen,Wei Ding 0003,Chris Bowes,David Brown
+2009. inproceedings: HLT-NAACL. key: conf/naacl/ChenDBB09
+
+Getting the Best Results in Controlled Rounding with the Least Effort.
+Juan Jose Salazar Gonzalez,Philip Lowthian,Caroline Young,Giovanni Merola,Stephen Bond,David Brown
+2004. inproceedings: Privacy in Statistical Databases. key: conf/psd/GonzalezLYMBB04
+
+The new economy: an engineer's perspective.
+David Brown
+2006. inproceedings: WWW. key: conf/www/Brown06
+
+Travel Speed Prediction Using Fuzzy Reasoning.
+Yang Wang 0010,Honghai Liu,Patrick Beullens,David Brown
+2008. inproceedings: ICIRA (1). key: conf/icira/WangLBB08
+
+Google TV search: dual-wielding search and discovery in a large-scale product.
+Manish Patel,Rich Gossweiler,Mehran Sahami,John Blackburn,David Brown,Andrea Knight
+2008. inproceedings: UXTV. key: conf/uxtv/PatelGSBBK08
+
+Coefficient of variation of interspike intervals greater than 0.5. How and when?
+Jianfeng Feng,David Brown
+1999. article: Biological Cybernetics. key: journals/bc/FengB99
+
+Impact of temporal variation and the balance between excitation and inhibition on the output of the perfect integrate-and-fire model.
+Jianfeng Feng,David Brown
+1998. article: Biological Cybernetics. key: journals/bc/FengB98
+
+CARE: An Automobile Crash Data Analysis Tool.
+Allen S. Parrish,Brandon Dixon,David Cordes,Susan V. Vrbsky,David Brown
+2003. article: IEEE Computer. key: journals/computer/ParrishDCVB03
+
+The Earth System Grid: Supporting the Next Generation of Climate Modeling Research
+David E. Bernholdt,Shishir Bharathi,David Brown,Kasidit Chanchio,Meili Chen,Ann L. Chervenak,Luca Cinquini,Bob Drach,Ian T. Foster,Peter Fox,Jose Garcia,Carl Kesselman,Rob S. Markel,Don Middleton,Veronika Nefedova,Line Pouchard,Arie Shoshani,Alex Sim,Gary Strand,Dean N. Williams
+2007. article: CoRR. key: journals/corr/abs-0712-2262
+
+Composed products and module polynomials over finite fields.
+Joel V. Brawley,David Brown
+1993. article: Discrete Mathematics. key: journals/dm/BrawleyB93
+
+Model-driven systems development.
+Laurent Balmelli,David Brown,Murray Cantor,Michael Mott
+2006. article: IBM Systems Journal. key: journals/ibmsj/BalmelliBCM06
+
+Low correlation between random synaptic inputs impacts considerably on the output of the Hodgkin-Huxley model.
+David Brown,Jianfeng Feng
+2000. article: Neurocomputing. key: journals/ijon/BrownF00
+
+Is there a problem matching real and model CV(ISI)?
+David Brown,Jianfeng Feng
+1999. article: Neurocomputing. key: journals/ijon/BrownF99
+
+Significance of random neuronal drive.
+David Brown,Stuart Feerick,Jianfeng Feng
+2001. article: Neurocomputing. key: journals/ijon/BrownFF01
+
+Spike synchronization in a biophysically-detailed model of the olfactory bulb.
+Andrew P. Davison,Jianfeng Feng,David Brown
+2001. article: Neurocomputing. key: journals/ijon/DavisonFB01
+
+Random pulse input versus continuous current plus white noise: Are they equivalent?
+Stuart Feerick,Jianfeng Feng,David Brown
+2000. article: Neurocomputing. key: journals/ijon/FeerickFB00
+
+Inhibitory inputs increase a neurons's firing rate.
+Stuart Feerick,Jianfeng Feng,David Brown
+2001. article: Neurocomputing. key: journals/ijon/FeerickFB01
+
+Inferring User Interest.
+Mark Claypool,David Brown,Phong Le,Makoto Waseda
+2001. article: IEEE Internet Computing. key: journals/internet/ClaypoolBLW01
+
+Text formats and web design for visually impaired and dyslexic readers - Clear Text for All.
+Lindsay J. Evett,David Brown
+2005. article: Interacting with Computers. key: journals/iwc/EvettB05
+
+The search for a new model structure of beta-Factor XIIa.
+Elsa S. Henriques,Welly B. Floriano,Nathalie Reuter,Andre Melo,David Brown,Jose A. N. F. Gomes,Bernard Maigret,Marco A. C. Nascimento,Maria Joao Ramos
+2001. article: Journal of Computer-Aided Molecular Design. key: journals/jcamd/HenriquesFRMBGMNR01
+
+Structural analysis of the KGD sequence loop of barbourin, an alpha-IIb-beta-3-specific disintegrin.
+Herve Minoux,Christophe Chipot,David Brown,Bernard Maigret
+2000. article: Journal of Computer-Aided Molecular Design. key: journals/jcamd/MinouxCBM00
+
+Decoding Input Signals in Time Domain - A Model Approach.
+Jianfeng Feng,David Brown
+2004. article: Journal of Computational Neuroscience. key: journals/jcns/FengB04
+
+Impact of Correlated Inputs on the Output of the Integrate-and-Fire Model.
+Jianfeng Feng,David Brown
+2000. article: Neural Computation. key: journals/neco/FengB00
+
+Fixed Point Attractor Analysis for a Class of Neurodynamics.
+Jianfeng Feng,David Brown
+1998. article: Neural Computation. key: journals/neco/FengB98
+
+A Novel Approach for Analyzing Dynamics in Neural Networks with Saturated Characteristics.
+Jianfeng Feng,David Brown
+1996. article: Neural Processing Letters. key: journals/npl/FengB96
+
+The virtualization reality.
+Simon Crosby,David Brown
+2006. article: ACM Queue. key: journals/queue/CrosbyB06
+
+A Case Study of Software Process Improvement During Development.
+Inderpal S. Bhandari,Michael J. Halliday,Eric Tarver,David Brown,Jarir K. Chaar,Ram Chillarege
+1993. article: IEEE Trans. Software Eng.. key: journals/tse/BhandariHTBCC93
+
+Identities for the exponential integral and the complementary error transforms.
+David Brown,Nese Dernek,Osman Yurekli
+2006. article: Applied Mathematics and Computation. key: journals/amc/BrownDY06
+
+Identities and Parseval type relations for the L2-transform.
+David Brown,John Maceli,Osman Yurekli
+2008. article: Applied Mathematics and Computation. key: journals/amc/BrownMY08
+
+Special millennium issue of the EJOR: A global view of industrial logistics.
+Lilian L. Barros,Michael Riley,David Brown
+2001. article: European Journal of Operational Research. key: journals/eor/BarrosRB01
+
+Adapting robot kinematics for human-arm motion recognition.
+Chee Seng Chan,Honghai Liu,David Brown
+2007. article: KES Journal. key: journals/kes/ChanLB07
+
+A mathematical model of the Gac/Rsm quorum sensing network in Pseudomonas fluorescens.
+David Brown
+2010. article: Biosystems. key: journals/biosystems/Brown10
+
+Extending the research agenda on diffusion: the case of public program interventions for the adoption of e-business systems in SMEs.
+Arturo Vega,Mike Chiasson,David Brown
+2008. article: JIT. key: journals/jitech/VegaCB08

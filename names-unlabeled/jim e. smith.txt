@@ -1,0 +1,59 @@
+An alternative approach for the evaluation of the neocognitron.
+Michal Steuer,Praminda Caleb-Solly,Jim E. Smith
+2001. inproceedings: ESANN. key: conf/esann/SteuerCS01
+
+A genetic approach to statistical disclosure control.
+Jim E. Smith,Alistair R. Clark,Andrea T. Staggemeier
+2009. inproceedings: GECCO. key: conf/gecco/SmithCS09
+
+Improving Nearest Neighbor Classifier Using Tabu Search and Ensemble Distance Metrics.
+Muhammad Atif Tahir,Jim E. Smith
+2006. inproceedings: ICDM. key: conf/icdm/TahirS06
+
+A Novel Feature Selection Based Semi-supervised Method for Image Classification.
+Muhammad Atif Tahir,Jim E. Smith,Praminda Caleb-Solly
+2008. inproceedings: ICVS. key: conf/icvs/TahirSC08
+
+An On-Line Interactive Self-adaptive Image Classification Framework.
+Davy Sannen,Marnix Nuttin,Jim E. Smith,Muhammad Atif Tahir,Praminda Caleb-Solly,Edwin Lughofer,Christian Eitzinger
+2008. inproceedings: ICVS. key: conf/icvs/SannenNSTCLE08
+
+Stop Wasting Time: On Predicting the Success or Failure of Learning for Industrial Applications.
+Jim E. Smith,Muhammad Atif Tahir
+2007. inproceedings: IDEAL. key: conf/ideal/SmithT07
+
+Pre-processing Optimisation Applied to the Classical Integer Programming Model for Statistical Disclosure Control.
+Martin Serpell,Alistair R. Clark,Jim E. Smith,Andrea T. Staggemeier
+2008. inproceedings: Privacy in Statistical Databases. key: conf/psd/SerpellCSS08
+
+On Human-Machine Interaction during Online Image Classifier Training.
+Edwin Lughofer,Jim E. Smith,Praminda Caleb-Solly,Muhammad Atif Tahir,Christian Eitzinger,Davy Sannen,Hendrik Van Brussel
+2008. inproceedings: CIMCA/IAWTIC/ISE. key: conf/cimca/LughoferSCTESB08
+
+Incorporation of adaptive mutation based on subjective evaluation in an interactive evolution strategy.
+Praminda Caleb-Solly,Jim E. Smith
+2005. inproceedings: Congress on Evolutionary Computation. key: conf/cec/Caleb-SollyS05
+
+Feature Selection for Heterogeneous Ensembles of Nearest-neighbour Classifiers Using Hybrid Tabu Search.
+Muhammad Atif Tahir,Jim E. Smith
+2008. incollection: Advances in Metaheuristics for Hard Optimization. key: conf/ncs/TahirS08
+
+Adaptive surface inspection via interactive evolution.
+Praminda Caleb-Solly,Jim E. Smith
+2007. article: Image Vision Comput.. key: journals/ivc/Caleb-SollyS07
+
+Assessment of the influence of adaptive components in trainable surface inspection systems.
+Christian Eitzinger,Wolfgang Heidl,Edwin Lughofer,Stefan Raiser,Jim E. Smith,Muhammad Atif Tahir,Davy Sannen,Hendrik Van Brussel
+2010. article: Mach. Vis. Appl.. key: journals/mva/EitzingerHLRSTSB10
+
+User-centric image segmentation using an interactive parameter adaptation tool.
+Olivier Pauplin,Praminda Caleb-Solly,Jim E. Smith
+2010. article: Pattern Recognition. key: journals/pr/PauplinCS10
+
+Creating diverse nearest-neighbour ensembles using simultaneous metaheuristic feature selection.
+Muhammad Atif Tahir,Jim E. Smith
+2010. article: Pattern Recognition Letters. key: journals/prl/TahirS10
+
+Coevolving Memetic Algorithms: A Review and Progress Report.
+Jim E. Smith
+2007. article: IEEE Transactions on Systems, Man, and Cybernetics, Part B. key: journals/tsmc/Smith07

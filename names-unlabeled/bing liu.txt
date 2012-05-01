@@ -1,0 +1,791 @@
+Web Data Mining: Exploring Hyperlinks, Contents, and Usage Data
+Bing Liu
+2007. key: books/sp/dcsa/Liu07
+
+Controlling FD and MVD Inferences in MLS.
+Yan Heping,Bing Liu,Xiaoming Yang,Wei Wang 0009,Baile Shi,Genxing Yang
+2005. inproceedings: CIT. key: conf/IEEEcit/HepingLYWSY05
+
+Incorporating with Recursive Model Training in Time Series Clustering.
+Jiangjiao Duan,Wei Wang 0009,Bing Liu,Yongsheng Xue,Haofeng Zhou,Baile Shi
+2005. inproceedings: CIT. key: conf/IEEEcit/DuanWLXZS05
+
+A Formal Specification for Web Services Composition and Verification.
+Yuliang Shi,Liang Zhang,Bing Liu,Fangfang Liu,Lili Lin,Baile Shi
+2005. inproceedings: CIT. key: conf/IEEEcit/ShiZLLLS05
+
+Non-Almost-Derivable Frequent Itemsets Mining.
+Xiaoming Yang,Zhibin Wang,Bing Liu,Shouzhi Zhang,Wei Wang 0009,Bole Shi
+2005. inproceedings: CIT. key: conf/IEEEcit/YangWLZWS05
+
+Mining Opinion Features in Customer Reviews.
+Minqing Hu,Bing Liu
+2004. inproceedings: AAAI. key: conf/aaai/HuL04
+
+Opinion Extraction and Summarization on the Web.
+Minqing Hu,Bing Liu
+2006. inproceedings: AAAI. key: conf/aaai/HuL06
+
+Mining Comparative Sentences and Relations.
+Nitin Jindal,Bing Liu
+2006. inproceedings: AAAI. key: conf/aaai/JindalL06
+
+Post-Analysis of Learned Rules.
+Bing Liu,Wynne Hsu
+1996. inproceedings: AAAI/IAAI, Vol. 1. key: conf/aaai/LiuH96
+
+Intuitive Representation of Decision Trees Using General Rules and Exceptions.
+Bing Liu,Minqing Hu,Wynne Hsu
+2000. inproceedings: AAAI/IAAI. key: conf/aaai/LiuHH00
+
+Using Constraints to Model Disjunctions in Rule-Based Reasoning.
+Bing Liu,Joxan Jaffar
+1996. inproceedings: AAAI/IAAI, Vol. 2. key: conf/aaai/LiuJ96
+
+Text Classification by Labeling Words.
+Bing Liu,Xiaoli Li,Wee Sun Lee,Philip S. Yu
+2004. inproceedings: AAAI. key: conf/aaai/LiuLLY04
+
+Automatic Wrapper Generation Using Tree Matching and Partial Tree Alignment.
+Yanhong Zhai,Bing Liu
+2006. inproceedings: AAAI. key: conf/aaai/ZhaiL06
+
+Distributional Similarity vs. PU Learning for Entity Set Expansion.
+Xiaoli Li,Lei Zhang,Bing Liu,See-Kiong Ng
+2010. inproceedings: ACL (Short Papers). key: conf/acl/LiZLN10
+
+Towards a Multi-agent Model for Planning and Design of Exposition Spaces.
+Ivan Blecic,Arnaldo Cecchini,Giuseppe A. Trunfio,Jian Zhou,Wei Zang,Bing Liu
+2008. inproceedings: ACRI. key: conf/acri/BlecicCTZZL08
+
+A Grid-Based System for the Multi-reservoir Optimal Scheduling in Huaihe River Basin.
+Bing Liu 0005,Huaping Chen,Guoyi Zhang,Shijin Xu
+2006. inproceedings: APWeb Workshops. key: conf/apweb/LiuCZX06
+
+Clustering Through Decision Tree Construction.
+Bing Liu,Yiyuan Xia,Philip S. Yu
+2000. inproceedings: CIKM. key: conf/cikm/LiuXY00
+
+Mining community structure of named entities from free text.
+Xin Li,Bing Liu
+2005. inproceedings: CIKM. key: conf/cikm/LiL05
+
+Using micro information units for internet search.
+Xiaoli Li,Tong-Heng Phang,Minqing Hu,Bing Liu
+2002. inproceedings: CIKM. key: conf/cikm/LiPHL02
+
+Clustering Transactions Using Large Items.
+Ke Wang,Chu Xu,Bing Liu
+1999. inproceedings: CIKM. key: conf/cikm/WangXL99
+
+Opportunity map: a visualization framework for fast identification of actionable knowledge.
+Kaidi Zhao,Bing Liu,Thomas M. Tirpak,Weimin Xiao
+2005. inproceedings: CIKM. key: conf/cikm/ZhaoLTX05
+
+Measuring the meaning in time series clustering of text search queries.
+Bing Liu 0003,Rosie Jones,Kristina Lisa Klinkner
+2006. inproceedings: CIKM. key: conf/cikm/LiuJK06
+
+What's behind topic formation and development: a perspective of community core groups.
+Tieyun Qian,Qing Li,Bing Liu,Hui Xiong,Jaideep Srivastava,Phillip C.-Y. Sheu
+2009. inproceedings: CIKM. key: conf/cikm/QianLLXSS09
+
+Finding unusual review patterns using unexpected rules.
+Nitin Jindal,Bing Liu,Ee-Peng Lim
+2010. inproceedings: CIKM. key: conf/cikm/JindalLL10
+
+Detecting product review spammers using rating behaviors.
+Ee-Peng Lim,Viet-An Nguyen,Nitin Jindal,Bing Liu,Hady Wirawan Lauw
+2010. inproceedings: CIKM. key: conf/cikm/LimNJLL10
+
+A Novel RBF Neural Network with Fast Training and Accurate Generalization.
+Lipo Wang,Bing Liu,Chunru Wan
+2004. inproceedings: CIS. key: conf/cis/WangLW04
+
+WePS3 Evaluation Campaign: Overview of the On-line Reputation Management Task.
+Enrique Amigo,Javier Artiles,Julio Gonzalo,Damiano Spina,Bing Liu,Adolfo Corujo
+2010. inproceedings: CLEF (Notebook Papers/LABs/Workshops). key: conf/clef/AmigoAGSLC10
+
+Probabilistic Approximations of Signaling Pathway Dynamics.
+Bing Liu,P. S. Thiagarajan,David Hsu
+2009. inproceedings: CMSB. key: conf/cmsb/LiuTH09
+
+Mining Opinions in Comparative Sentences.
+Murthy Ganapathibhotla,Bing Liu
+2008. inproceedings: COLING. key: conf/coling/GanapathibhotlaL08
+
+Web for Data Mining Applications.
+Bing Liu,Yiming Ma,Ching Kian Wong
+2000. inproceedings: COMPSAC. key: conf/compsac/LiuMW00
+
+Experimental Studies of the Universal Chemical Key (UCK)Algorithm on the NCI Database of Chemical Compounds.
+Robert L. Grossman,Pavan Kasturi,Donald Hamelberg,Bing Liu
+2003. inproceedings: CSB. key: conf/csb/GrossmanKHL03
+
+Semi-supervised Text Classification Using Partitioned EM.
+Gao Cong,Wee Sun Lee,Haoran Wu,Bing Liu
+2004. inproceedings: DASFAA. key: conf/dasfaa/CongLWL04
+
+Mining Changes for Real-Life Applications.
+Bing Liu,Wynne Hsu,Heng-Siew Han,Yiyuan Xia
+2000. inproceedings: DaWaK. key: conf/dawak/LiuHHX00
+
+Assigning Unique Keys to Chemical Compounds for Data Integration: Some Interesting Counter Examples.
+Greeshma Neglur,Robert L. Grossman,Bing Liu
+2005. inproceedings: DILS. key: conf/dils/NeglurGL05
+
+Efficiently Determine the Starting Sample Size for Progressive Sampling.
+Baohua Gu,Bing Liu,Feifang Hu,Huan Liu
+2001. inproceedings: DMKD. key: conf/dmkd/GuLHL01
+
+A Reinforcement Approach to Schelduling.
+Bing Liu
+1988. inproceedings: ECAI. key: conf/ecai/Liu88
+
+Intelligent Route Finding: Combining Knowledge and Cases and an Efficient Search Algorithm.
+Bing Liu
+1996. inproceedings: ECAI. key: conf/ecai/Liu96
+
+Learning from Positive and Unlabeled Examples with Different Data Distributions.
+Xiaoli Li,Bing Liu
+2005. inproceedings: ECML. key: conf/ecml/LiL05
+
+Efficiently Determining the Starting Sample Size for Progressive Sampling.
+Baohua Gu,Bing Liu,Feifang Hu,Huan Liu
+2001. inproceedings: ECML. key: conf/ecml/GuLHL01
+
+Learning to Classify Documents with Only a Small Positive Training Set.
+Xiaoli Li,Bing Liu,See-Kiong Ng
+2007. inproceedings: ECML. key: conf/ecml/LiLN07
+
+An Ontology-Based Approach to Knowledge Management.
+Bing Liu
+2009. inproceedings: FSKD (2). key: conf/fskd/Liu09
+
+Towards the SocioScope: an information system for the study of social dynamics through digital traces.
+Andrea Vaccari,Francesco Calabrese,Bing Liu,Carlo Ratti
+2009. inproceedings: GIS. key: conf/gis/VaccariCLR09
+
+A Remote Mirroring Architecture with Adaptively Cooperative Pipelining.
+Yongzhi Song,Zhenhai Zhao,Bing Liu,Tingting Qin,Gang Wang,Xiaoguang Liu
+2010. inproceedings: ICA3PP (1). key: conf/ica3pp/SongZLQWL10
+
+Content-based Index and Retrieval Method of Chinese Document Images.
+Yaodong He,Zao Jiang,Bing Liu,Hong Zhao
+1999. inproceedings: ICDAR. key: conf/icdar/HeJLZ99
+
+Multivariate Time Series Prediction via Temporal Classification.
+Bing Liu,Jing Liu
+2002. inproceedings: ICDE. key: conf/icde/LiuL02
+
+Finding Actionable Knowledge via Automated Comparison.
+Lei Zhang,Bing Liu,Jeffrey Benkler,Chi Zhou
+2009. inproceedings: ICDE. key: conf/icde/ZhangLBZ09
+
+Speed-up Iterative Frequent Itemset Mining with Constraint Changes.
+Gao Cong,Bing Liu
+2002. inproceedings: ICDM. key: conf/icdm/CongL02
+
+Building Text Classifiers Using Positive and Unlabeled Examples.
+Bing Liu,Yang Dai,Xiaoli Li,Wee Sun Lee,Philip S. Yu
+2003. inproceedings: ICDM. key: conf/icdm/LiuDLLY03
+
+Analyzing the Interestingness of Association Rules from the Temporal Dimension.
+Bing Liu,Yiming Ma,Ronnie Lee
+2001. inproceedings: ICDM. key: conf/icdm/LiuML01
+
+Detecting Patterns of Change Using Enhanced Parallel Coordinates Visualization.
+Kaidi Zhao,Bing Liu,Thomas M. Tirpak,Andreas Schaller
+2003. inproceedings: ICDM. key: conf/icdm/ZhaoLTS03
+
+A Visual Data Mining Framework for Convenient Identification of Useful Knowledge.
+Kaidi Zhao,Bing Liu,Thomas M. Tirpak,Weimin Xiao
+2005. inproceedings: ICDM. key: conf/icdm/ZhaoLTX05
+
+Mining Latent Associations of Objects Using a Typed Mixture Model--A Case Study on Expert/Expertise Mining.
+Shenghua Bao,Yunbo Cao,Bing Liu,Yong Yu,Hang Li
+2006. inproceedings: ICDM. key: conf/icdm/BaoCLYL06
+
+Analyzing and Detecting Review Spam.
+Nitin Jindal,Bing Liu
+2007. inproceedings: ICDM. key: conf/icdm/JindalL07
+
+Time Sensitive Ranking with Application to Publication Search.
+Xin Li,Bing Liu,Philip S. Yu
+2008. inproceedings: ICDM. key: conf/icdm/LiLY08
+
+Learning with Positive and Unlabeled Examples Using Weighted Logistic Regression.
+Wee Sun Lee,Bing Liu
+2003. inproceedings: ICML. key: conf/icml/LeeL03
+
+Partially Supervised Classification of Text Documents.
+Bing Liu,Wee Sun Lee,Philip S. Yu,Xiaoli Li
+2002. inproceedings: ICML. key: conf/icml/LiuLYL02
+
+An Adaptive Schedule Medium Access Control for Wireless Sensor Networks.
+Bing Liu 0006,Lin Zhang,Huimin Zhang
+2007. inproceedings: ICN. key: conf/icn/LiuZZ07
+
+Integrating Rules and Constraints.
+Bing Liu
+1994. inproceedings: ICTAI. key: conf/ictai/Liu94
+
+A Small Listener for Heterogeneous Mobile Devices: A Service Enabler with a Uniform Web Object View.
+Bing Liu,Sushil K. Prasad,Erdogan Dogdu
+2005. inproceedings: ICWS. key: conf/icws/LiuPD05
+
+A Refinement Approach to Search and Constraint Satisfaction Problem.
+Bing Liu
+1995. inproceedings: IEA/AIE. key: conf/ieaaie/Liu95
+
+Intelligent Air Travel and Tourist Information Systems.
+Bing Liu
+1995. inproceedings: IEA/AIE. key: conf/ieaaie/Liu95a
+
+Using Knowledge to Isolate Search in Route Finding.
+Bing Liu
+1995. inproceedings: IJCAI. key: conf/ijcai/Liu95
+
+Learning to Classify Texts Using Positive and Unlabeled Data.
+Xiaoli Li,Bing Liu
+2003. inproceedings: IJCAI. key: conf/ijcai/LiL03
+
+Increasing Functional Constraints Need to Be Checked Only Once.
+Bing Liu
+1995. inproceedings: IJCAI (1). key: conf/ijcai/Liu95a
+
+Discovering Interesting Holes in Data.
+Bing Liu,Liang-Ping Ku,Wynne Hsu
+1997. inproceedings: IJCAI (2). key: conf/ijcai/LiuKH97
+
+Web Page Cleaning for Web Mining through Feature Weighting.
+Lan Yi,Bing Liu
+2003. inproceedings: IJCAI. key: conf/ijcai/YiL03
+
+Learning to Identify Unexpected Instances in the Test Set.
+Xiaoli Li,Bing Liu,See-Kiong Ng
+2007. inproceedings: IJCAI. key: conf/ijcai/LiLN07
+
+Expanding Domain Sentiment Lexicon through Double Propagation.
+Guang Qiu,Bing Liu,Jiajun Bu,Chun Chen
+2009. inproceedings: IJCAI. key: conf/ijcai/QiuLBC09
+
+A speed-up algorithm for Poisson Propagation.
+Bing Liu,Mingjie Qian
+2009. inproceedings: IJCNN. key: conf/ijcnn/LiuQ09
+
+ECO: An Empirical-Based Compilation and Optimization System.
+Nastaran Baradaran,Jacqueline Chame,Chun Chen,Pedro C. Diniz,Mary W. Hall,Yoon-Ju Lee,Bing Liu,Robert F. Lucas
+2003. inproceedings: IPDPS. key: conf/ipps/BaradaranCCDHLLL03
+
+A Novel Fuzzy Neural Network with Fast Training and Accurate Generalization.
+Lipo Wang,Bing Liu,Chunru Wan
+2004. inproceedings: ISNN (1). key: conf/isnn/WangLW04
+
+On the Universal Approximation Theorem of Fuzzy Neural Networks with Random Membership Function Parameters.
+Lipo Wang,Bing Liu,Chunru Wan
+2005. inproceedings: ISNN (1). key: conf/isnn/WangLW05
+
+Mining and summarizing customer reviews.
+Minqing Hu,Bing Liu
+2004. inproceedings: KDD. key: conf/kdd/HuL04
+
+Exploration mining in diabetic patients databases: findings and conclusions.
+Wynne Hsu,Mong-Li Lee,Bing Liu,Tok Wang Ling
+2000. inproceedings: KDD. key: conf/kdd/HsuLLL00
+
+Mining data records in Web pages.
+Bing Liu,Robert L. Grossman,Yanhong Zhai
+2003. inproceedings: KDD. key: conf/kdd/LiuGZ03
+
+Using General Impressions to Analyze Discovered Classification Rules.
+Bing Liu,Wynne Hsu,Shu Chen
+1997. inproceedings: KDD. key: conf/kdd/LiuHC97
+
+Multi-level organization and summarization of the discovered rules.
+Bing Liu,Minqing Hu,Wynne Hsu
+2000. inproceedings: KDD. key: conf/kdd/LiuHH00
+
+Identifying non-actionable association rules.
+Bing Liu,Wynne Hsu,Yiming Ma
+2001. inproceedings: KDD. key: conf/kdd/LiuHM01
+
+Discovering the set of fundamental rule changes.
+Bing Liu,Wynne Hsu,Yiming Ma
+2001. inproceedings: KDD. key: conf/kdd/LiuHM01a
+
+Integrating Classification and Association Rule Mining.
+Bing Liu,Wynne Hsu,Yiming Ma
+1998. inproceedings: KDD. key: conf/kdd/LiuHM98
+
+Pruning and Summarizing the Discovered Associations.
+Bing Liu,Wynne Hsu,Yiming Ma
+1999. inproceedings: KDD. key: conf/kdd/LiuHM99
+
+Mining Association Rules with Multiple Minimum Supports.
+Bing Liu,Wynne Hsu,Yiming Ma
+1999. inproceedings: KDD. key: conf/kdd/LiuHM99a
+
+Mining Interesting Knowledge Using DM-II.
+Bing Liu,Wynne Hsu,Yiming Ma,Shu Chen
+1999. inproceedings: KDD. key: conf/kdd/LiuHMC99
+
+Discovering unexpected information from your competitors' web sites.
+Bing Liu,Yiming Ma,Philip S. Yu
+2001. inproceedings: KDD. key: conf/kdd/LiuMY01
+
+Rule interestingness analysis using OLAP operations.
+Bing Liu,Kaidi Zhao,Jeffrey Benkler,Weimin Xiao
+2006. inproceedings: KDD. key: conf/kdd/LiuZBX06
+
+Targeting the right students using data mining.
+Yiming Ma,Bing Liu,Ching Kian Wong,Philip S. Yu,Shuik Ming Lee
+2000. inproceedings: KDD. key: conf/kdd/MaLWYL00
+
+Querying multiple sets of discovered rules.
+Alexander Tuzhilin,Bing Liu
+2002. inproceedings: KDD. key: conf/kdd/TuzhilinL02
+
+Interestingness-Based Interval Merger for Numeric Association Rules.
+Ke Wang,Soon Hock William Tay,Bing Liu
+1998. inproceedings: KDD. key: conf/kdd/WangTL98
+
+A refinement approach to handling model misfit in text categorization.
+Haoran Wu,Tong-Heng Phang,Bing Liu,Xiaoli Li
+2002. inproceedings: KDD. key: conf/kdd/WuPLL02
+
+Opportunity map: identifying causes of failure - a deployed data mining system.
+Kaidi Zhao,Bing Liu,Jeffrey Benkler,Weimin Xiao
+2006. inproceedings: KDD. key: conf/kdd/ZhaoLBX06
+
+V-Miner: using enhanced parallel coordinates to mine product design and test data.
+Kaidi Zhao,Bing Liu,Thomas M. Tirpak,Andreas Schaller
+2004. inproceedings: KDD. key: conf/kdd/ZhaoLTS04
+
+Eliminating noisy information in Web pages for data mining.
+Lan Yi,Bing Liu,Xiaoli Li
+2003. inproceedings: KDD. key: conf/kdd/YiLL03
+
+Entity discovery and assignment for opinion mining applications.
+Xiaowen Ding,Bing Liu,Lei Zhang
+2009. inproceedings: KDD. key: conf/kdd/DingLZ09
+
+Accelerated Bundle Adjustment in Multiple-View Reconstruction.
+Bing Liu 0004,Maoyuan Yu,Dennis Maier,Reinhard Manner
+2003. inproceedings: KES. key: conf/kes/LiuYMM03
+
+Selector: A Language Construct for Developing Dynamic Applications.
+Pedro C. Diniz,Bing Liu
+2002. inproceedings: LCPC. key: conf/lcpc/DinizL02
+
+Forward and Backward Chaining in Constraint Programming (Abstract).
+Joxan Jaffar,Bing Liu,Roland H. C. Yap
+1997. inproceedings: LPNMR. key: conf/lpnmr/Jaffar97
+
+SyD: A Middleware Testbed for Collaborative Applications over Small Heterogeneous Devices and Data Stores.
+Sushil K. Prasad,Vijay K. Madisetti,Shamkant B. Navathe,Raj Sunderraman,Erdogan Dogdu,Anu G. Bourgeois,Michael Weeks,Bing Liu,Janaka Balasooriya,Arthi Hariharan,Wanxia Xie,Praveen Madiraju,Srilaxmi Malladi,Raghupathy Sivakumar,Alexander Zelikovsky,Yanqing Zhang,Yi Pan,Saeid Belkasim
+2004. inproceedings: Middleware. key: conf/middleware/PrasadMNSDBWLBHXMMSZZPB04
+
+Visually Aided Exploration of Interesting Association Rules.
+Bing Liu,Wynne Hsu,Ke Wang,Shu Chen
+1999. inproceedings: PAKDD. key: conf/pakdd/LiuHWC99
+
+Hierarchical Web-Page Clustering via In-Page and Cross-Page Link Structures.
+Cindy Xide Lin,Yintao Yu,Jiawei Han,Bing Liu
+2010. inproceedings: PAKDD (2). key: conf/pakdd/LinYHL10
+
+Discovering Overlapping Communities of Named Entities.
+Xin Li,Bing Liu,Philip S. Yu
+2006. inproceedings: PKDD. key: conf/pkdd/LiLY06
+
+Improving an Association Rule Based Classifier.
+Bing Liu,Yiming Ma,Ching Kian Wong
+2000. inproceedings: PKDD. key: conf/pkdd/LiuMW00
+
+Semantic Text Classification of Emergent Disease Reports.
+Yi Zhang 0002,Bing Liu
+2007. inproceedings: PKDD. key: conf/pkdd/ZhangL07
+
+An Improved Generic Arc Consistency Algorithm and Its Specializations.
+Bing Liu
+1996. inproceedings: PRICAI. key: conf/pricai/Liu96
+
+Using Decision Tree Induction for Discovering Holes in Data.
+Bing Liu,Ke Wang,Lai-Fun Mun,Xin-Zhi Qi
+1998. inproceedings: PRICAI. key: conf/pricai/LiuWMQ98
+
+Concurrent Discretization of Multiple Attributes.
+Ke Wang,Bing Liu
+1998. inproceedings: PRICAI. key: conf/pricai/WangL98
+
+A Bottom-Up Distance-Based Index Tree for Metric Space.
+Bing Liu,Zhihui Wang,Xiaoming Yang,Wei Wang 0009,Baile Shi
+2006. inproceedings: RSKT. key: conf/rskt/LiuWYWS06
+
+Subsequence Similarity Search Under Time Shifting.
+Bing Liu,Jianjun Xu,Zhihui Wang,Wei Wang 0009,Baile Shi
+2006. inproceedings: RSKT. key: conf/rskt/LiuXWWS06
+
+Discovering Frequent Substructures from Hierarchical Semi-structured Data.
+Gao Cong,Lan Yi,Bing Liu,Ke Wang
+2002. inproceedings: SDM. key: conf/sdm/CongYLW02
+
+Positive Unlabeled Learning for Data Stream Classification.
+Xiaoli Li,Philip S. Yu,Bing Liu,See-Kiong Ng
+2009. inproceedings: SDM. key: conf/sdm/LiYLN09
+
+A Generalized Tree Matching Algorithm Considering Nested Lists for Web Data Extraction.
+Nitin Jindal,Bing Liu
+2010. inproceedings: SDM. key: conf/sdm/JindalL10
+
+Identifying comparative sentences in text documents.
+Nitin Jindal,Bing Liu
+2006. inproceedings: SIGIR. key: conf/sigir/JindalL06
+
+Semantic text classification of disease reporting.
+Yi Zhang 0002,Bing Liu
+2007. inproceedings: SIGIR. key: conf/sigir/ZhangL07
+
+The utility of linguistic rules in opinion mining.
+Xiaowen Ding,Bing Liu
+2007. inproceedings: SIGIR. key: conf/sigir/DingL07
+
+MAC Performance and Improvement in Mobile Wireless Sensor Networks.
+Bing Liu 0006,Ke Yu,Lin Zhang,Huimin Zhang
+2007. inproceedings: SNPD (3). key: conf/snpd/LiuYZZ07
+
+Recognition of 3D Objects from 2D Images - Some Issues.
+Bing Liu,P. Wang
+1996. inproceedings: SSPR. key: conf/sspr/LiuW96
+
+A highly linear wide dynamic range detector for cell recording with microelectrode arrays.
+Jing Guo,Bing Liu,Jie Yuan
+2010. inproceedings: VLSI-SoC. key: conf/vlsi/GuoLY10
+
+A Reputation Management Scheme Based on Global Trust Model for Peer-to-Peer Virtual Communities.
+Jingtao Li,Xueping Wang,Bing Liu,Qian Wang,Gendu Zhang
+2006. inproceedings: WAIM. key: conf/waim/LiWLWZ06
+
+Dynamic Incremental Data Summarization for Hierarchical Clustering.
+Bing Liu,Yuliang Shi,Zhihui Wang,Wei Wang 0009,Baile Shi
+2006. inproceedings: WAIM. key: conf/waim/LiuSWWS06
+
+Tight Bounds on the Estimation Distance Using Wavelet.
+Bing Liu,Zhihui Wang,Jingtao Li,Wei Wang 0009,Baile Shi
+2006. inproceedings: WAIM. key: conf/waim/LiuWLWS06
+
+An Effective Approach for Hiding Sensitive Knowledge in Data Publishing.
+Zhihui Wang,Bing Liu,Wei Wang 0009,Haofeng Zhou,Baile Shi
+2006. inproceedings: WAIM. key: conf/waim/WangLWZS06
+
+An EM Based Training Algorithm for Cross-Language Text Categorization.
+Leonardo Rigutini,Marco Maggini,Bing Liu
+2005. inproceedings: Web Intelligence. key: conf/webi/RigutiniML05
+
+Adding the Temporal Dimension to Search - A Case Study in Publication Search.
+Philip S. Yu,Xin Li,Bing Liu
+2005. inproceedings: Web Intelligence. key: conf/webi/YuLL05
+
+WISE-2005 Tutorial: Web Content Mining.
+Bing Liu
+2005. inproceedings: WISE. key: conf/wise/Liu05
+
+NET - A System for Extracting Web Data from Flat and Nested Data Records.
+Bing Liu,Yanhong Zhai
+2005. inproceedings: WISE. key: conf/wise/LiuZ05
+
+Extracting Web Data Using Instance-Based Learning.
+Yanhong Zhai,Bing Liu
+2005. inproceedings: WISE. key: conf/wise/ZhaiL05
+
+Dealing with different distributions in learning from.
+Xiaoli Li,Bing Liu
+2004. inproceedings: WWW (Alternate Track Papers & Posters). key: conf/www/LiL04
+
+Mining topic-specific concepts and definitions on the web.
+Bing Liu,Chee Wee Chin,Hwee Tou Ng
+2003. inproceedings: WWW. key: conf/www/LiuCN03
+
+Opinion observer: analyzing and comparing opinions on the Web.
+Bing Liu,Minqing Hu,Junsheng Cheng
+2005. inproceedings: WWW. key: conf/www/LiuHC05
+
+Visualizing web site comparisons.
+Bing Liu,Kaidi Zhao,Lan Yi
+2002. inproceedings: WWW. key: conf/www/LiuZY02
+
+On the temporal dimension of search.
+Philip S. Yu,Xin Li,Bing Liu
+2004. inproceedings: WWW (Alternate Track Papers & Posters). key: conf/www/YuLL04
+
+Web data extraction based on partial tree alignment.
+Yanhong Zhai,Bing Liu
+2005. inproceedings: WWW. key: conf/www/ZhaiL05
+
+Review spam detection.
+Nitin Jindal,Bing Liu
+2007. inproceedings: WWW. key: conf/www/JindalL07
+
+Extracting Web Data Using Instance-Based Learning.
+Yanhong Zhai,Bing Liu
+2007. inproceedings: World Wide Web. key: conf/www/ZhaiL07
+
+Entity relation discovery from web tables and links.
+Cindy Xide Lin,Bo Zhao,Tim Weninger,Jiawei Han,Bing Liu
+2010. inproceedings: WWW. key: conf/www/LinZWHL10
+
+Classification using support vector machines with graded resolution.
+Lipo Wang,Bing Liu,Chunru Wan
+2005. inproceedings: GrC. key: conf/grc/WangLW05
+
+An Improved Support Vector Regression Based on Classification.
+Chang-An Wu,Hong-Bing Liu
+2007. inproceedings: MUE. key: conf/mue/WuL07
+
+A holistic lexicon-based approach to opinion mining.
+Xiaowen Ding,Bing Liu,Philip S. Yu
+2008. inproceedings: WSDM. key: conf/wsdm/DingLY08
+
+Opinion spam and analysis.
+Nitin Jindal,Bing Liu
+2008. inproceedings: WSDM. key: conf/wsdm/JindalL08
+
+Clustering product features for opinion mining.
+Zhongwu Zhai,Bing Liu,Hua Xu,Peifa Jia
+2011. inproceedings: WSDM. key: conf/wsdm/ZhaiLXJ11
+
+Sentiment Analysis of Conditional Sentences.
+Ramanathan Narayanan,Bing Liu,Alok N. Choudhary
+2009. inproceedings: EMNLP. key: conf/emnlp/NarayananLC09
+
+Improving Gender Classification of Blog Authors.
+Arjun Mukherjee,Bing Liu
+2010. inproceedings: EMNLP. key: conf/emnlp/MukherjeeL10
+
+Negative Training Data Can be Harmful to Text Classification.
+Xiaoli Li,Bing Liu,See-Kiong Ng
+2010. inproceedings: EMNLP. key: conf/emnlp/LiLN10
+
+Semantic-Based Remote Sensing Images Intelligent Service on Grid Environment.
+Naixia Mou,Bing Liu,Xiushan Lu,Lingxian Zhang,Wenbao Liu
+2009. inproceedings: DBTA. key: conf/dbta/MouLLZL09
+
+Construction Enterprises Bidding Decision-Making Based on Linear Programming.
+Jian-Bing Liu
+2009. inproceedings: DBTA. key: conf/dbta/Liu09
+
+A Heuristic Greedy Optimum Algorithm for Target Coverage in Wireless Sensor Networks.
+Hongwu Zhang,Hongyuan Wang,Hongcai Feng,Bing Liu,Bingxiang Gui
+2009. inproceedings: PACCS. key: conf/paccs/ZhangWFLG09
+
+An New Global Dynamic Scheduling Algorithm with Multi-Hop Path Splitting and Multi-Pathing Using GridFTP.
+Bingxiang Gui,Bing Liu
+2009. inproceedings: PACCS. key: conf/paccs/GuiL09
+
+Simulation Calculation Model of the Threshold Cost for Construction Project Bidding.
+Jian-Bing Liu,Hong Ren,Zhiming Li
+2009. inproceedings: JCAI. key: conf/jcai/LiuRL09
+
+Study on the Game Mechanism of Construction Project Bidding.
+Jian-Bing Liu,Hong Ren,Xiao-Jian Guo
+2009. inproceedings: JCAI. key: conf/jcai/LiuRG09
+
+A Discuss of the Application of Project Management in the Non-project-involved Organizations.
+Yonggui Liu,Bing Liu
+2010. inproceedings: ICEE. key: conf/icee/LiuL10b
+
+Scheduling via reinforcement.
+Bing Liu
+1988. article: AI in Engineering. key: journals/aei/Liu88
+
+Scoring the Data Using Association Rules.
+Bing Liu,Yiming Ma,Ching Kian Wong,Philip S. Yu
+2003. article: Appl. Intell.. key: journals/apin/LiuMWY03
+
+Positive solutions of three-point boundary value problems for the one-dimensional p-laplacian with infinitely many singularities.
+Bing Liu
+2004. article: Appl. Math. Lett.. key: journals/appml/Liu04
+
+Existence and uniqueness of solutionsto first-order multipoint boundary value problems.
+Bing Liu
+2004. article: Appl. Math. Lett.. key: journals/appml/Liu04d
+
+Note on third-order boundary value problem for differential equations with deviating arguments.
+Bing Liu,Jian She Yu
+2002. article: Appl. Math. Lett.. key: journals/appml/LiuY02
+
+A singular integral of the composite operator.
+Shusen Ding,Bing Liu
+2009. article: Appl. Math. Lett.. key: journals/appml/DingL09
+
+Characterizing the dynamic connectivity between genes by variable parameter regression and Kalman filtering based on temporal gene expression data.
+Qinghua Cui,Bing Liu,Tianzi Jiang,Songde Ma
+2005. article: Bioinformatics. key: journals/bioinformatics/CuiLJM05
+
+Identifying functional miRNA-mRNA regulatory modules with correspondence latent dirichlet allocation.
+Bing Liu 0002,Lin Liu,Anna Tsykin,Gregory J. Goodall,Jeffrey E. Green,Min Zhu,Chang-Hee Kim,Jiuyong Li
+2010. article: Bioinformatics. key: journals/bioinformatics/LiuLTGGZKL10
+
+Esub8: A novel tool to predict protein subcellular localizations in eukaryotic organisms.
+Qinghua Cui,Tianzi Jiang,Bing Liu,Songde Ma
+2004. article: BMC Bioinformatics. key: journals/bmcbi/CuiJLM04
+
+A combinational feature selection and ensemble neural network method for classification of gene expression data.
+Bing Liu,Qinghua Cui,Tianzi Jiang,Songde Ma
+2004. article: BMC Bioinformatics. key: journals/bmcbi/LiuCJM04
+
+Exploring complex miRNA-mRNA interactions with Bayesian networks by splitting-averaging strategy.
+Bing Liu 0002,Jiuyong Li,Anna Tsykin,Lin Liu,Arti B. Gaur,Gregory J. Goodall
+2009. article: BMC Bioinformatics. key: journals/bmcbi/LiuLTLGG09
+
+Business applications of data mining.
+Chidanand Apte,Bing Liu,Edwin P. D. Pednault,Padhraic Smyth
+2002. article: Commun. ACM. key: journals/cacm/ApteLPS02
+
+Managing large collections of data mining models.
+Bing Liu,Alexander Tuzhilin
+2008. article: Commun. ACM. key: journals/cacm/LiuT08
+
+Conceptual design: issues and challenges.
+Wynne Hsu,Bing Liu
+2000. article: Computer-Aided Design. key: journals/cad/HsuL00
+
+Dynamical Jumping Real-Time Fault-Tolerant Routing Protocol for Wireless Sensor Networks
+Guowei Wu,Chi Lin,Feng Xia,Lin Yao,He Zhang,Bing Liu
+2010. article: CoRR. key: journals/corr/abs-1004-2322
+
+Software Requirements Specification of the IUfA's UUIS -- a Team 4 COMP5541-W10 Project Approach
+Ali Alhazmi,Abdulrahman Al-Sharawi,Bing Liu 0007,Deyvisson Oliveira,Kanj Sobh,Max Mayantz,Robin de Bled,Yu Ming Zhang
+2010. article: CoRR. key: journals/corr/abs-1005-0162
+
+Software Design Document, Testing, Deployment and Configuration Management, and User Manual of the UUIS -- a Team 4 COMP5541-W10 Project Approach
+Kanj Sobh,Deyvisson Oliveira,Bing Liu 0007,Max Mayantz,Yu Ming Zhang,Ali Alhazmi,Robin de Bled,Abdulrahman Al-Sharawi
+2010. article: CoRR. key: journals/corr/abs-1005-0169
+
+Finding the Shortest Route Using Cases, Knowledge, and Djikstra's Algorithm.
+Bing Liu,Siew-Hwee Choo,Shee-Ling Lok,Sing-Meng Leong,Soo-Chee Lee,Foong-Ping Poon,Hwee-Har Tan
+1994. article: IEEE Expert. key: journals/expert/LiuCLLLPT94
+
+Mining Web Pages for Data Records.
+Bing Liu,Robert L. Grossman,Yanhong Zhai
+2004. article: IEEE Intelligent Systems. key: journals/expert/LiuGZ04
+
+Analyzing the Subjective Interestingness of Association Rules.
+Bing Liu,Wynne Hsu,Shu Chen,Yiming Ma
+2000. article: IEEE Intelligent Systems. key: journals/expert/LiuHCM00
+
+A Neural Network Approach to Shape from Shading.
+Tianzi Jiang,Bing Liu,Yingli Lu,David J. Evans
+2003. article: Int. J. Comput. Math.. key: journals/ijcm/JiangLLE03
+
+Systematic benchmarking of microarray data feature extraction and classification.
+Jing Zhang,Tianzi Jiang,Bing Liu,Xingpeng Jiang,Huizhi Zhao
+2008. article: Int. J. Comput. Math.. key: journals/ijcm/ZhangJLJZ08
+
+An Efficient and Accurate Method for 3D-Point Reconstruction from Multiple Views.
+Bing Liu 0004,Maoyuan Yu,Dennis Maier,Reinhard Manner
+2005. article: International Journal of Computer Vision. key: journals/ijcv/LiuYMM05
+
+An Empirical Study of the Universal Chemical Key Algorithm for Assigning Unique Keys to Chemical Compounds.
+Robert L. Grossman,Pavan Kasturi,Donald Hamelberg,Bing Liu
+2004. article: J. Bioinformatics and Computational Biology. key: journals/jbcb/GrossmanKHL04
+
+Discovery of functional miRNA-mRNA regulatory modules with computational methods.
+Bing Liu 0002,Jiuyong Li,Anna Tsykin
+2009. article: Journal of Biomedical Informatics. key: journals/jbi/LiuLT09
+
+SARS-CoV protease inhibitors design using virtual screening method from natural products libraries.
+Bing Liu,Jiaju Zhou
+2005. article: Journal of Computational Chemistry. key: journals/jcc/LiuZ05
+
+Top 10 algorithms in data mining.
+Xindong Wu,Vipin Kumar,J. Ross Quinlan,Joydeep Ghosh,Qiang Yang,Hiroshi Motoda,Geoffrey J. McLachlan,Angus F. M. Ng,Bing Liu,Philip S. Yu,Zhi-Hua Zhou,Michael Steinbach,David J. Hand,Dan Steinberg
+2008. article: Knowl. Inf. Syst.. key: journals/kais/WuKQGYMMNLYZSHS08
+
+Editorial: special issue on web content mining.
+Bing Liu,Kevin Chen-Chuan Chang
+2004. article: SIGKDD Explorations. key: journals/sigkdd/LiuC04
+
+Web for Data Mining: Organizing and Interpreting the Discovered Rules using the Web.
+Yiming Ma,Bing Liu,Ching Kian Wong
+2000. article: SIGKDD Explorations. key: journals/sigkdd/MaLW00
+
+WebKDD 2004: web mining and web usage analysis post-workshop report.
+Olfa Nasraoui,Bamshad Mobasher,Brij M. Masand,Bing Liu
+2004. article: SIGKDD Explorations. key: journals/sigkdd/NasraouiMML04
+
+KDD Cup and workshop 2007.
+James Bennett,Charles Elkan,Bing Liu,Padhraic Smyth,Domonkos Tikk
+2007. article: SIGKDD Explorations. key: journals/sigkdd/BennettELST07
+
+Research Activities in Database Management and Information Retrieval at the University of Illinois at Chicago.
+Isabel F. Cruz,Ashfaq A. Khokhar,Bing Liu,A. Prasad Sistla,Ouri Wolfson,Clement T. Yu
+2002. article: SIGMOD Record. key: journals/sigmod/CruzKLSWY02
+
+ConstraintLisp: an object-oriented constraint programming language.
+Bing Liu,Yuen-Wah Ku
+1992. article: SIGPLAN Notices. key: journals/sigplan/LiuK92
+
+Guest Editors' Introduction: Special Section on Mining and Searching the Web.
+Bing Liu,Soumen Chakrabarti
+2004. article: IEEE Trans. Knowl. Data Eng.. key: journals/tkde/LiuC04
+
+Finding Interesting Patterns Using User Expectations.
+Bing Liu,Wynne Hsu,Lai-Fun Mun,Hing-Yan Lee
+1999. article: IEEE Trans. Knowl. Data Eng.. key: journals/tkde/LiuHML99
+
+Structured Data Extraction from the Web Based on Partial Tree Alignment.
+Yanhong Zhai,Bing Liu
+2006. article: IEEE Trans. Knowl. Data Eng.. key: journals/tkde/ZhaiL06
+
+Guest Editors' Introduction: Special Section on Intelligent Data Preparation.
+Chengqi Zhang,Qiang Yang,Bing Liu
+2005. article: IEEE Trans. Knowl. Data Eng.. key: journals/tkde/ZhangYL05
+
+The dynamics of a prey-dependent consumption model concerning impulsive control strategy.
+Bing Liu,Lansun Chen,Yujuan Zhang
+2005. article: Applied Mathematics and Computation. key: journals/amc/LiuCZ05
+
+Positive solutions of a nonlinear four-point boundary value problems.
+Bing Liu
+2004. article: Applied Mathematics and Computation. key: journals/amc/Liu04
+
+A note on a nonlocal boundary value problems.
+Bing Liu
+2004. article: Applied Mathematics and Computation. key: journals/amc/Liu04a
+
+Dynamics of a two-species Lotka-Volterra competition system in a polluted environment with pulse toxicant input.
+Bing Liu,Lei Zhang
+2009. article: Applied Mathematics and Computation. key: journals/amc/LiuZ09a
+
+The dynamics of pest control pollution model with age structure and time delay.
+Bing Liu,Qian Zhang,Yinghui Gao
+2010. article: Applied Mathematics and Computation. key: journals/amc/LiuZG10
+
+Compressive Sensing Signal Detection Algorithm Based on Location Information of Sparse Coefficients.
+Bing Liu,Ping Fu,Shengwei Meng,Lunping Guo
+2010. article: JDCTA. key: journals/jdcta/LiuFMG10
+
+Dynamic Complexities in a Lotka-volterra Predator-prey Model Concerning impulsive Control Strategy.
+Bing Liu,Yujuan Zhang,Lansun Chen
+2005. article: I. J. Bifurcation and Chaos. key: journals/ijbc/LiuZC05
+
+Guest editorial.
+Srinivasan Parthasarathy,Bing Liu
+2008. article: Statistical Analysis and Data Mining. key: journals/sadm/ParthasarathyL08
+
+The Optimal Pulse harvesting Policy on a Single-Species Population Model with Birth Pulses in a polluted Environment.
+Bing Liu,Fengmei Tao
+2007. article: Advances in Complex Systems. key: journals/advcs/LiuT07
+
+Global-local-global method for logical structure extraction of form document image.
+Hong Zhao,Bing Liu,Zao Jiang,Tobias Ostgathe
+2000. article: J. Electronic Imaging. key: journals/jei/ZhaoLJO00
+
+Classification by Association Rule Analysis.
+Bing Liu
+2009. incollection: Encyclopedia of Database Systems. key: reference/db/Liu09b
+
+Opinion Mining.
+Bing Liu
+2009. incollection: Encyclopedia of Database Systems. key: reference/db/Liu09d

@@ -1,0 +1,203 @@
+Applying Multi-objective Evolutionary Algorithms to QoS-Aware Web Service Composition.
+Li Li,Peng Cheng,Ling Ou,Zili Zhang
+2010. inproceedings: ADMA (2). key: conf/adma/LiCOZ10
+
+Calculation and Analysis of Double-Fed VSCF Induction Generator Operating Performance.
+Peng Cheng,Weili Li,Wenbiao Chen,Deyuan Xia
+2007. inproceedings: CIS. key: conf/cis/ChengLCX07
+
+Greedy Approximation of Kernel PCA by Minimizing the Mapping Error.
+Peng Cheng,Wanqing Li,Philip Ogunbona
+2009. inproceedings: DICTA. key: conf/dicta/ChengLO09
+
+A New Multi-Agent Approach to Adaptive E-Education.
+Jing Chen,Peng Cheng
+2007. inproceedings: I3E (2). key: conf/i3e/ChenC07
+
+A Distributed Algorithm for Optimal Resource Allocation in Cognitive OFDMA Systems.
+Peng Cheng,Zhaoyang Zhang,Hui Huang,Peiliang Qiu
+2008. inproceedings: ICC. key: conf/icc/ChengZHQ08
+
+Analysis and Optimization of Power Control in Multiuser Cognitive Wireless Networks.
+Peng Cheng,Guanding Yu,Zhaoyang Zhang,Peiliang Qiu
+2007. inproceedings: ICC. key: conf/icc/ChengYZQ07
+
+On the Performance of IEEE 802.16 OFDMA System Under Different Frequency Reuse and Subcarrier Permutation Patterns.
+Huiling Jia,Zhaoyang Zhang,Guanding Yu,Peng Cheng,Shiju Li
+2007. inproceedings: ICC. key: conf/icc/JiaZYCL07
+
+Resolution Complete Rapidly-Exploring Random Trees.
+Peng Cheng,Steven M. LaValle
+2002. inproceedings: ICRA. key: conf/icra/ChengL02
+
+Decidability of Motion Planning with Differential Constraints.
+Peng Cheng,George J. Pappas,Vijay Kumar
+2007. inproceedings: ICRA. key: conf/icra/ChengPK07
+
+Improving the Performance of Sampling-based Planners by using a Symmetry-exploiting Gap Reduction Algorithm.
+Peng Cheng,Emilio Frazzoli,Steven M. LaValle
+2004. inproceedings: ICRA. key: conf/icra/ChengFL04
+
+RoboTrikke: A Novel Undulatory Locomotion System.
+Sachin Chitta,Peng Cheng,Emilio Frazzoli,Vijay Kumar
+2005. inproceedings: ICRA. key: conf/icra/ChittaCFK05
+
+Iteratively Locating Voronoi Vertices for Dispersion Estimation.
+Stephen R. Lindemann,Peng Cheng
+2005. inproceedings: ICRA. key: conf/icra/LindemannC05
+
+Motion Planning for the Roller Racer with a Sticking/Slipping Switching Model.
+Peng Cheng,Emilio Frazzoli,Vijay Kumar
+2006. inproceedings: ICRA. key: conf/icra/ChengFK06
+
+An almost communication-less approach to task allocation for multiple Unmanned Aerial Vehicles.
+Peng Cheng,Vijay Kumar
+2008. inproceedings: ICRA. key: conf/icra/ChengK08
+
+Meso-scale manipulation: System, modeling, planning and control.
+David J. Cappelleri,Peng Cheng,Jonathan Fink,Bogdan Gavrea,Vijay Kumar
+2008. inproceedings: ICRA. key: conf/icra/CappelleriCFGK08
+
+A Neural Network Based Application Layer Multicast Routing Protocol.
+Peng Cheng,Qionghai Dai,Qiufeng Wu
+2006. inproceedings: ISNN (2). key: conf/isnn/ChengDW06
+
+Genetic Algorithm-Based Multi-objective Optimisation for QoS-Aware Web Services Composition.
+Li Li,Pengyi Yang,Ling Ou,Zili Zhang,Peng Cheng
+2010. inproceedings: KSEM. key: conf/ksem/LiYOZC10
+
+Planning and Control of Meso-scale Manipulation Tasks with Uncertainties.
+Peng Cheng,David J. Cappelleri,Bogdan Gavrea,Vijay Kumar
+2007. inproceedings: Robotics: Science and Systems. key: conf/rss/ChengCGK07
+
+A Modified Partial Transmit Sequence Scheme for PAPR Reduction in OFDM System.
+Qingsong Wen,Yue Xiao,Peng Cheng,Lilin Dan,Shaoqian Li
+2008. inproceedings: VTC Fall. key: conf/vtc/WenXCDL08
+
+Opportunistic Spectrum Access in Cognitive Radio System Employing Cooperative Spectrum Sensing.
+Hui Huang,Zhaoyang Zhang,Peng Cheng,Peiliang Qiu
+2009. inproceedings: VTC Spring. key: conf/vtc/HuangZCQ09
+
+A Low Complexity User Grouping Scheme for PAPR reduction in MC-CDMA Systems using Joint Spreading and IFFT.
+Lilin Dan,Peng Cheng,Yue Xiao,Shaoqian Li
+2009. inproceedings: VTC Fall. key: conf/vtc/DanCXL09
+
+A Cross-Layer Design Method for Multiple Realtime Video Streams in Multi-Hop Wireless Networks.
+Peng Cheng,Zhaoyang Zhang,Guanding Yu,Peiliang Qiu
+2007. inproceedings: GLOBECOM. key: conf/globecom/ChengZYQ07
+
+Spectrum Trading in Cognitive Radio Network: An Agent-Based Model under Demand Uncertainty.
+Tian Chu,Peng Cheng,Lin Gao,Xinbing Wang,Hui Yu,Xiaoying Gan
+2010. inproceedings: GLOBECOM. key: conf/globecom/ChuCGWYG10
+
+Analysis of the IEEE 802.15.4 Standard for a Wireless Closed Loop Control System for Heavy Duty Cranes.
+Fredrik Linnarsson,Peng Cheng,Bengt Oelmann
+2007. inproceedings: SIES. key: conf/sies/LinnarssonCO07
+
+The MARS-Based Research about Reliability Judgement of Members of Supply Chain Alliance.
+Song Jia-shan,Li Yong,Ji Feng,Sun Hao-ying,Zhu Ying,Peng Cheng
+2008. inproceedings: WKDD. key: conf/wkdd/Jia-shanYFHYC08
+
+Relative Power Percentage and Time-Power Percentages Map Analysis of Electrogastrogram Slow Waves.
+Peng Cheng,Ye Datian
+2008. inproceedings: BMEI (2). key: conf/bmei/ChengD08
+
+Sampling-Based Falsification and Verification of Controllers for Continuous Dynamic Systems.
+Peng Cheng,Vijay Kumar
+2006. inproceedings: WAFR. key: conf/wafr/ChengK06
+
+Cooperative Towing with Multiple Robots.
+Peng Cheng,Jonathan Fink,Soonkyum Kim,Vijay Kumar
+2008. inproceedings: WAFR. key: conf/wafr/ChengFKK08
+
+Time-optimal UAV trajectory planning for 3D urban structure coverage.
+Peng Cheng,James F. Keller,Vijay Kumar
+2008. inproceedings: IROS. key: conf/iros/ChengKK08
+
+Cross-Layer Performance Analysis of Two-Hop Wireless Links with Adaptive Modulation.
+Peng Cheng,Guanding Yu,Zhaoyang Zhang,Huiling Jia,Hsiao-Hwa Chen,Peiliang Qiu
+2006. inproceedings: PIMRC. key: conf/pimrc/ChengYZJCQ06
+
+Study on Network Selection for Next-Generation Heterogeneous Wireless Networks.
+Huiling Jia,Zhaoyang Zhang,Peng Cheng,Hsiao-Hwa Chen,Shiju Li
+2006. inproceedings: PIMRC. key: conf/pimrc/JiaZCCL06
+
+A Low Complexity Peak Estimation Scheme for PAPR Reduction in OFDM Systems.
+Lilin Dan,Peng Cheng,Yue Xiao,Shaoqian Li
+2009. inproceedings: PACCS. key: conf/paccs/DanCXL09
+
+3rd Party E-business Architechure and Model in Grid Computing Environment.
+Jianhua Jiang,Peng Cheng,Ming Ma,Gaochao Xu,Xiaohui Wei
+2010. inproceedings: ICEE. key: conf/icee/JiangCMXW10
+
+A framework of cross-layer design for multiple video streams in wireless mesh networks.
+Peng Cheng,Zhaoyang Zhang,Hsiao-Hwa Chen,Peiliang Qiu
+2008. article: Computer Communications. key: journals/comcom/ChengZCQ08
+
+On the Maximum Sum-rate Capacity of Cognitive Multiple Access Channel
+Peng Cheng,Guanding Yu,Zhaoyang Zhang,Hsiao-Hwa Chen,Peiliang Qiu
+2006. article: CoRR. key: journals/corr/abs-cs-0612024
+
+A New SLNR-based Linear Precoding for Downlink Multi-User Multi-Stream MIMO Systems
+Peng Cheng,Meixia Tao,Wenjun Zhang
+2010. article: CoRR. key: journals/corr/abs-1008-0730
+
+A Lower Bound of the Expected Maximum Number of Edge-disjoint S-t Paths on Probabilistic Graphs.
+Peng Cheng,Shigeru Masuyama
+1995. article: Discrete Applied Mathematics. key: journals/dam/ChengM95
+
+A proof of unimodality on the numbers of connected spanning subgraphs in an n-vertex graph with at least ... edges.
+Peng Cheng,Shigeru Masuyama
+2010. article: Discrete Applied Mathematics. key: journals/dam/ChengM10
+
+Inequalities on the Number of Connected Spanning Subgraphs in a Multigraph.
+Peng Cheng,Shigeru Masuyama
+2008. article: IEICE Transactions. key: journals/ieicet/ChengM08
+
+Formulas for Counting the Numbers of Connected Spanning Subgraphs with at Most n+1 Edges in a Complete Graph Kn.
+Peng Cheng,Shigeru Masuyama
+2008. article: IEICE Transactions. key: journals/ieicet/ChengM08a
+
+Improved IFDMA Transmission Structure on SISO and MISO Channels.
+Yue Xiao,Peng Cheng,Xu He,Shaoqian Li
+2010. article: IEICE Transactions. key: journals/ieicet/XiaoCHL10
+
+Sampling-based Falsification and Verification of Controllers for Continuous Dynamic Systems.
+Peng Cheng,Vijay Kumar
+2008. article: I. J. Robotic Res.. key: journals/ijrr/ChengK08
+
+Dynamic network flow model for short-term air traffic flow management.
+Zhengping Ma,Deguang Cui,Peng Cheng
+2004. article: IEEE Transactions on Systems, Man, and Cybernetics, Part A. key: journals/tsmc/MaCC04
+
+Cross-layer bandwidth and power allocation for a two-hop link in wireless mesh network.
+Peng Cheng,Zhaoyang Zhang,Guanding Yu,Hsiao-Hwa Chen,Peiliang Qiu
+2009. article: Wireless Communications and Mobile Computing. key: journals/wicomm/ChengZYCQ09
+
+System synchronization and channel estimation analysis for IEEE 802.16e OFDMA downlink system.
+Zhaoyang Zhang,Peng Cheng,Xiangwei Zhou,Peiliang Qiu
+2009. article: Int. J. Communication Systems. key: journals/ijcomsys/ZhangCZQ09
+
+Reduced-order controller design for the general Hinfinity control problem.
+Jianping Zeng,Du Lin,Peng Cheng
+2006. article: Int. J. Systems Science. key: journals/ijsysc/ZengLC06
+
+Improving the Performance of Sampling-Based Motion Planning With Symmetry-Based Gap Reduction.
+Peng Cheng,Emilio Frazzoli,Steven M. LaValle
+2008. article: IEEE Transactions on Robotics. key: journals/trob/ChengFL08
+
+A low-complexity multiple signal representation scheme in downlink OFDM-CDMA.
+Lilin Dan,Yue Xiao,Peng Cheng,Gang Wu,Shaoqian Li
+2009. article: Science in China Series F: Information Sciences. key: journals/chinaf/DanXCWL09
+
+Strong gammak-gamma cl Hinfinity stabilization with a new slack variable approach.
+Peng Cheng,Yong-Yan Cao,Youxian Sun
+2009. article: Automatica. key: journals/automatica/ChengCS09
+
+Cooperative spectrum sensing in cognitive radio systems with limited sensing ability.
+Hui Huang,Zhaoyang Zhang,Peng Cheng,Aiping Huang,Peiliang Qiu
+2010. article: Journal of Zhejiang University - Science C. key: journals/jzusc/HuangZCHQ10
+
+Joint-Angle Measurement Using Accelerometers and Gyroscopes - A Survey.
+Peng Cheng,Bengt Oelmann
+2010. article: IEEE T. Instrumentation and Measurement. key: journals/tim/ChengO10

@@ -1,0 +1,19 @@
+Efficient Algorithms for Node Disjoint Subgraph Homeomorphism Determination.
+Yanghua Xiao,Wentao Wu,Wei Wang 0009,Zhenying He
+2008. inproceedings: DASFAA. key: conf/dasfaa/XiaoWWH08
+
+Efficiently indexing shortest paths by exploiting symmetry in graphs.
+Yanghua Xiao,Wentao Wu,Jian Pei,Wei Wang 0009,Zhenying He
+2009. inproceedings: EDBT. key: conf/edbt/XiaoWPWH09
+
+k-symmetry model for identity anonymization in social networks.
+Wentao Wu,Yanghua Xiao,Wei Wang,Zhenying He,Zhihui Wang
+2010. inproceedings: EDBT. key: conf/edbt/WuXWHW10
+
+Efficient Algorithms for Node Disjoint Subgraph Homeomorphism Determination
+Yanghua Xiao,Wentao Wu,Wei Wang 0009,Zhenying He
+2007. article: CoRR. key: journals/corr/abs-0709-1227
+
+Structure-based graph distance measures of high degree of precision.
+Yanghua Xiao,Hua Dong,Wentao Wu,Momiao Xiong,Wei Wang 0009,Baile Shi
+2008. article: Pattern Recognition. key: journals/pr/XiaoDWXWS08

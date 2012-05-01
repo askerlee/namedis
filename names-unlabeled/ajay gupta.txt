@@ -1,0 +1,99 @@
+Explanation-based Failure Recovery.
+Ajay Gupta 0005
+1987. inproceedings: AAAI. key: conf/aaai/Gupta87
+
+Time Representation in Prolog Circuit Modelling.
+Yossi Lichtenstein,Bob Welham,Ajay Gupta 0005
+1991. inproceedings: ALPUK. key: conf/alpuk/LichtensteinWG91
+
+Building re-usable dictionary repositories for real-world text mining.
+Shantanu Godbole,Indrajit Bhattacharya,Ajay Gupta,Ashish Verma
+2010. inproceedings: CIKM. key: conf/cikm/GodboleBGV10
+
+Optimal Deployment of Triggers for Detecting Events.
+Manish Bhide,Ajay Gupta 0004,Mukul Joshi,Mukesh K. Mohania
+2004. inproceedings: DEXA. key: conf/dexa/BhideGJM04
+
+Web Page Ranking Based on Events.
+Ajay Gupta 0004,Manish Bhide,Mukesh K. Mohania
+2004. inproceedings: EC-Web. key: conf/ecweb/GuptaBM04
+
+AGATHA: An Integrated Expert System to Test and Diagnose Complex Personal Computer Boards.
+Daryl Allred,Yossi Lichtenstein,Chris Preist,Michael A. Bennett,Ajay Gupta 0005
+1991. inproceedings: IAAI. key: conf/iaai/AllredLPBG91
+
+Management of Conflicting Obligations in Self-Protecting Policy-Based Systems.
+Rema Ananthanarayanan,Mukesh K. Mohania,Ajay Gupta 0004
+2005. inproceedings: ICAC. key: conf/icac/AnanthanarayananMG05
+
+Policy Framework for Autonomic Data Managemen.
+Manish Bhide,Ajay Gupta 0004,Mukul Joshi,Mukesh K. Mohania,Shree Raman
+2004. inproceedings: ICAC. key: conf/icac/BhideGJMR04
+
+Mobility-Pattern-Based Anomaly Detection Algorithm in Mobile Networks.
+Chaoli Cai,Ajay Gupta
+2008. inproceedings: ICC. key: conf/icc/CaiG08
+
+Dynamic Access Control Framework Based On Events.
+Manish Bhide,Sandeep Pandey,Ajay Gupta 0004,Mukesh K. Mohania
+2003. inproceedings: ICDE. key: conf/icde/BhidePGM03
+
+Towards Bringing Database Management Task in the Realm of IT non-Experts.
+Ajay Gupta 0004,Manish Bhide,Mukesh K. Mohania
+2003. inproceedings: ICDE. key: conf/icde/GuptaBM03
+
+Enhanced Business Intelligence using EROCS.
+Manish Bhide,V. Chakravarthy,Ajay Gupta 0004,Himanshu Gupta,Mukesh K. Mohania,Kriti Puniyani,Prasan Roy,Sourashis Roy,Vibhuti S. Sengar
+2008. inproceedings: ICDE. key: conf/icde/BhideCGGMPRRS08
+
+Hardware Diagnosis as Program Debugging.
+Ajay Gupta 0005
+1987. inproceedings: IJCAI. key: conf/ijcai/Gupta87
+
+Enabling analysts in managed services for CRM analytics.
+Indrajit Bhattacharya,Shantanu Godbole,Ajay Gupta,Ashish Verma,Jeff Achtermann,Kevin English
+2009. inproceedings: KDD. key: conf/kdd/BhattacharyaGGVAE09
+
+Efficient Design of Boltzmann Machines.
+Ajay Gupta 0007,Wolfgang Maass
+1990. inproceedings: NIPS. key: conf/nips/GuptaM90
+
+Policy Driven Data Administration.
+Vishal S. Batra,Jaijit Bhattacharya,Harish Chauhan,Ajay Gupta 0004,Mukesh K. Mohania,Upendra Sharma
+2002. inproceedings: POLICY. key: conf/policy/BatraBCGMS02
+
+Clustering short texts using wikipedia.
+Somnath Banerjee,Krishnan Ramanathan,Ajay Gupta 0005
+2007. inproceedings: SIGIR. key: conf/sigir/BanerjeeRG07
+
+LIPTUS: associating structured and unstructured information in a banking environment.
+Manish Bhide,Ajay Gupta 0004,Rahul Gupta,Prasan Roy,Mukesh K. Mohania,Zenita Ichhaporia
+2007. inproceedings: SIGMOD Conference. key: conf/sigmod/BhideGGRMI07
+
+Retaining personal expression for social search.
+Praphul Chandra,Ajay Gupta
+2009. inproceedings: WWW. key: conf/www/ChandraG09
+
+Document Summarization using Wikipedia.
+Krishnan Ramanathan,Yogesh Sankarasubramaniam,Nidhi Mathur,Ajay Gupta 0005
+2009. inproceedings: IHCI. key: conf/ihci/RamanathanSMG09
+
+Performance Indicators in a 802.11 WLAN Deployment.
+Ajay Gupta,Prabhash Dhyani
+2009. inproceedings: ARTCom. key: conf/artcom/GuptaD09
+
+Privacy aware localization in VANET.
+Vikas Ganjigunte Ashok,Gongjun Yan,Stephan Olariu,Ajay Gupta
+2010. inproceedings: MASS. key: conf/mass/AshokYOG10
+
+Some issues in privacy data management.
+Mukesh K. Mohania,Rema Ananthanarayanan,Ajay Gupta 0004
+2007. article: Data Knowl. Eng.. key: journals/dke/MohaniaAG07
+
+Mutual Exclusion on a Hypercube.
+Ajay Gupta,Steven C. Bruell,Sukumar Ghosh
+1993. article: J. Parallel Distrib. Comput.. key: journals/jpdc/GuptaBG93
+
+IT Infrastructure in Emerging Markets: Arguing for an End-to-End Perspective.
+Ajay Gupta 0005,Parthasarathy Ranganathan,Prashant Sarin,Mehul A. Shah
+2006. article: IEEE Pervasive Computing. key: journals/pervasive/GuptaRSS06

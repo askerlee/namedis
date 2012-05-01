@@ -1,0 +1,292 @@
+25 clusters.
+
+Cluster 4, 10 papers:	IBM Research India
+Policy Driven Data Administration.
+vishal s. batra, jaijit bhattacharya, harish chauhan, ajay gupta, mukesh k. mohania, upendra sharma
+2002. POLICY. key: conf/policy/BatraBCGMS02
+Dynamic Access Control Framework Based On Events.
+manish bhide, sandeep pandey, ajay gupta, mukesh k. mohania
+2003. ICDE. key: conf/icde/BhidePGM03
+Towards Bringing Database Management Task in the Realm of IT non-Experts.
+ajay gupta, manish bhide, mukesh k. mohania
+2003. ICDE. key: conf/icde/GuptaBM03
+Optimal Deployment of Triggers for Detecting Events.
+manish bhide, ajay gupta, mukul joshi, mukesh k. mohania
+2004. DEXA. key: conf/dexa/BhideGJM04
+Web Page Ranking Based on Events.
+ajay gupta, manish bhide, mukesh k. mohania
+2004. EC-Web. key: conf/ecweb/GuptaBM04
+Policy Framework for Autonomic Data Managemen.
+manish bhide, ajay gupta, mukul joshi, mukesh k. mohania, shree raman
+2004. ICAC. key: conf/icac/BhideGJMR04
+Management of Conflicting Obligations in Self-Protecting Policy-Based Systems.
+rema ananthanarayanan, mukesh k. mohania, ajay gupta
+2005. ICAC. key: conf/icac/AnanthanarayananMG05
+LIPTUS: associating structured and unstructured information in a banking environment.
+manish bhide, ajay gupta, rahul gupta, prasan roy, mukesh k. mohania, zenita ichhaporia
+2007. SIGMOD Conference. key: conf/sigmod/BhideGGRMI07
+Some issues in privacy data management.
+mukesh k. mohania, rema ananthanarayanan, ajay gupta
+2007. Data Knowl. Eng.. key: journals/dke/MohaniaAG07
+Enhanced Business Intelligence using EROCS.
+manish bhide, v. chakravarthy, ajay gupta, himanshu gupta, mukesh k. mohania, kriti puniyani, prasan roy, sourashis roy, vibhuti s. sengar
+2008. ICDE. key: conf/icde/BhideCGGMPRRS08
+
+Cluster 2, 2 papers:	HP Laboratories Bristol
+Time Representation in Prolog Circuit Modelling.
+yossi lichtenstein, bob welham, ajay gupta
+1991. ALPUK. key: conf/alpuk/LichtensteinWG91
+AGATHA: An Integrated Expert System to Test and Diagnose Complex Personal Computer Boards.
+daryl allred, yossi lichtenstein, chris preist, michael a. bennett, ajay gupta
+1991. IAAI. key: conf/iaai/AllredLPBG91
+
+Cluster 3, 2 papers:	IBM Research India
+Enabling analysts in managed services for CRM analytics.
+indrajit bhattacharya, shantanu godbole, ajay gupta, ashish verma, jeff achtermann, kevin english
+2009. KDD. key: conf/kdd/BhattacharyaGGVAE09
+Building re-usable dictionary repositories for real-world text mining.
+shantanu godbole, indrajit bhattacharya, ajay gupta, ashish verma
+2010. CIKM. key: conf/cikm/GodboleBGV10
+
+Cluster 8, 2 papers:	HP Laboratories, Bangalore
+Clustering short texts using wikipedia.
+somnath banerjee, krishnan ramanathan, ajay gupta
+2007. SIGIR. key: conf/sigir/BanerjeeRG07
+Document Summarization using Wikipedia.
+krishnan ramanathan, yogesh sankarasubramaniam, nidhi mathur, ajay gupta
+2009. IHCI. key: conf/ihci/RamanathanSMG09
+
+Cluster 1, 1 papers:	HP Laboratories Bristol
+Explanation-based Failure Recovery.
+ajay gupta
+1987. AAAI. key: conf/aaai/Gupta87
+
+Cluster 5, 1 papers:	Western Michigan University
+Mobility-Pattern-Based Anomaly Detection Algorithm in Mobile Networks.
+chaoli cai, ajay gupta
+2008. ICC. key: conf/icc/CaiG08
+
+Cluster 6, 1 papers:	HP Laboratories Bristol
+Hardware Diagnosis as Program Debugging.
+ajay gupta
+1987. IJCAI. key: conf/ijcai/Gupta87
+
+Cluster 7, 1 papers:	N/A (fulltext not found)
+Efficient Design of Boltzmann Machines.
+ajay gupta, wolfgang maass
+1990. NIPS. key: conf/nips/GuptaM90
+
+Cluster 9, 1 papers:	HP Laboratories, Bangalore
+Retaining personal expression for social search.
+praphul chandra, ajay gupta
+2009. WWW. key: conf/www/ChandraG09
+
+Cluster 10, 1 papers:	Airtight Networks, Pune
+Performance Indicators in a 802.11 WLAN Deployment.
+ajay gupta, prabhash dhyani
+2009. ARTCom. key: conf/artcom/GuptaD09
+
+Cluster 11, 1 papers:	Old Dominion University
+Privacy aware localization in VANET.
+vikas ganjigunte ashok, gongjun yan, stephan olariu, ajay gupta
+2010. MASS. key: conf/mass/AshokYOG10
+
+Cluster 12, 1 papers:	University of Iowa
+Mutual Exclusion on a Hypercube.
+ajay gupta, steven c. bruell, sukumar ghosh
+1993. J. Parallel Distrib. Comput.. key: journals/jpdc/GuptaBG93
+
+Cluster 13, 1 papers:	HP Laboratories, Bangalore
+IT Infrastructure in Emerging Markets: Arguing for an End-to-End Perspective.
+ajay gupta, parthasarathy ranganathan, prashant sarin, mehul a. shah
+2006. IEEE Pervasive Computing. key: journals/pervasive/GuptaRSS06
+
+Cluster 14, 20 papers:	Western Michigan University
+Scheduling Tasks in Multiprocessor Systems Using Evolutionary Strategies.
+garrison w. greenwood, ajay gupta, kelly mcsweeney
+1994. International Conference on Evolutionary Computation. key: conf/icec/GreenwoodGM94
+Static Task Allocation Using (mu, lambda) Evolutionary Strategies.
+ajay gupta, garrison w. greenwood
+1996. Inf. Sci.. key: journals/isci/GuptaG96
+Applications of Evolutionary Strategies to Fine-Grained Task Scheduling.
+ajay gupta, garrison w. greenwood
+1996. Parallel Processing Letters. key: journals/ppl/GuptaG96
+Analytical Analysis of Data and Decision Fusion in Sensor Networks.
+zille huma kamal, mohammad ali salahuddin, ajay gupta, mark terwilliger, vijay bhuse, benjamin beckmann
+2004. ESA/VLSI. key: conf/csreaESA/KamalSGTBB04
+Power - time optimal algorithm for computing FFT over sensor networks.
+turkmen canli, mark terwilliger, ajay gupta, ashfaq a. khokhar
+2004. SenSys. key: conf/sensys/CanliTGK04
+Localization using evolution strategies in sensornets.
+mark terwilliger, ajay gupta, ashfaq a. khokhar, garrison w. greenwood
+2005. IEEE Congress on Evolutionary Computation. key: conf/cec/TerwilligerGKG05
+Power Efficient Algorithms for Computing Fast Fourier Transform over Wireless Sensor Networks.
+turkmen canli, ajay gupta, ashfaq a. khokhar
+2006. AICCSA. key: conf/aiccsa/CanliGK06
+An Efficient MAP Classifier for Sensornets.
+zille huma kamal, ajay gupta, leszek lilien, ashfaq a. khokhar
+2006. HiPC. key: conf/hipc/KamalGLK06
+Opportunistic Networks: Challenges in Specializing the P2P Paradigm.
+leszek lilien, zille huma kamal, ajay gupta
+2006. DEXA Workshops. key: conf/dexaw/LilienKG06
+Classification using Efficient LU Decomposition in Sensornets.
+zille huma kamal, ajay gupta, leszek lilien, ashfaq a. khokhar
+2006. Wireless and Optical Communications. key: conf/woc/KamalGLK06
+Anomaly intrusion detection in wireless sensor networks.
+vijay bhuse, ajay gupta
+2006. J. High Speed Networks. key: journals/jhsn/BhuseG06
+Detection of Masquerade Attacks on Wireless Sensor Networks.
+vijay bhuse, ajay gupta, ala i. al-fuqaha
+2007. ICC. key: conf/icc/BhuseGA07
+The MicroOppnet tool for Collaborative Computing experiments with class 2 opportunistic networks.
+zille huma kamal, ajay gupta, leszek lilien, zijiang yang
+2007. CollaborateCom. key: conf/colcom/KamalGLY07
+Opportunistic Networks for Emergency Applications and Their Standard Implementation Framework.
+leszek lilien, ajay gupta, zijiang yang
+2007. IPCCC. key: conf/ipccc/LilienGY07
+A service location problem with QoS constraints.
+zille huma kamal, ala i. al-fuqaha, ajay gupta
+2007. IWCMC. key: conf/iwcmc/KamalAG07
+Localization in Ad Hoc and Sensor Wireless Networks with Bounded Errors.
+mark terwilliger, collette r. coullard, ajay gupta
+2008. HiPC. key: conf/hipc/TerwilligerCG08
+Using Lagrangean Relaxation for Service Location Planning with QoS Constraints in Large-Scale Networks.
+zill-e-huma kamal, ala i. al-fuqaha, ajay gupta
+2008. ICC. key: conf/icc/KamalAG08
+Power Consumption Analysis of Maximum A Posterior Classifier Using LU Decomposition and Jacobi Iterations.
+zill-e-huma kamal, ajay gupta, ashfaq a. khokhar, leszek lilien
+2008. IEEE Trans. Parallel Distrib. Syst.. key: journals/tpds/KamalGKL08
+Lagrangean relaxation for service location in large-scale networks with QoS constraints.
+zille huma kamal, ala i. al-fuqaha, ajay gupta
+2009. Wireless Communications and Mobile Computing. key: journals/wicomm/KamalAG09
+Opportunistic resource utilization networks - A new paradigm for specialized ad hoc networks.
+leszek lilien, ajay gupta, zill-e-huma kamal, zijiang yang
+2010. Computers & Electrical Engineering. key: journals/cee/LilienGKY10
+
+Cluster 15, 9 papers:	Old Dominion University
+Performance trade-offs for a multimedia distributed application.
+kurt maly, c. michael overstreet, hussein m. abdel-wahab, ajay gupta, muthu kumar, rahul srivastava
+1995. HPN. key: conf/hpn/MalyOAGKS95
+Mosaic + XTV = CoReview.
+kurt maly, hussein m. abdel-wahab, ravi mukkamala, ajay gupta, a. prabhu, h. syed, c. s. vemuru
+1995. Computer Networks and ISDN Systems. key: journals/cn/KalyAMGPSV95
+PMES: privilege mangagement and enforcement system for secure distributed resource sharing.
+kurt maly, ajay gupta, irwin b. levinstein, ravi mukkamala, bjorn kvande, s. nanjangud, margrethe h. olson, roy whitney, rita chambers
+1996. IFIP World Conference on IT Tools. key: conf/ifip/MalyGLMKNOWC96
+The software architecture and interprocess communications of IRI: an Internet-based interactive distance learning system.
+hussein m. abdel-wahab, kurt maly, alaa youssef, emilia stoica, c. michael overstreet, j. christian wild, ajay gupta
+1996. WETICE. key: conf/wetice/Abdel-WahabMYSOWG96
+A privilege management and enforcement system for distributed resource sharing.
+kurt maly, ajay gupta, bjorn kvande, irwin b. levinstein, ravi mukkamala, s. nanjangud, margrethe h. olson, roy whitney, rita chambers
+1996. WETICE. key: conf/wetice/MalyGKLMNOWC96
+CoProcess: A Java-based Environment for Collaborative Process Management Over the Web.
+kurt maly, hussein m. abdel-wahab, ravi mukkamala, ajay gupta, mohamed kholief, s. dittakavi, c. s. vemuru, h. syed
+1997. WebNet. key: conf/webnet/MalyAMGKDVS97
+Interactive Distance Learning over Intranets.
+kurt maly, hussein m. abdel-wahab, c. michael overstreet, j. christian wild, ajay gupta, alaa youssef, emilia stoica, ehab s. al-shaer
+1997. IEEE Internet Computing. key: journals/internet/MalyAOWGYSA97
+BTU: A Host Communication Benchmark.
+kurt maly, ajay gupta, satish mynam
+1998. IEEE Computer. key: journals/computer/MalyGM98
+IRI-h, a Java-based distance education system.
+kurt maly, hussein m. abdel-wahab, j. christian wild, c. michael overstreet, ajay gupta, ayman adel abdel hamid, sahar m. ghanem, agustin gonzalez, xiaoqing zhu
+2001. ACM Journal of Educational Resources in Computing. key: journals/jeric/MalyAWOGAGGZ01
+
+Cluster 16, 8 papers:	Western Michigan University
+Development of a parallel and distributed integration package - PART 1.
+elise de doncker, ajay gupta, patricia ealy, kyle rathbun
+1995. HPCN Europe. key: conf/hpcn/DonckerGER95
+Singular Integral Computation with ParInt.
+elise de doncker, ajay gupta, kyle rathbun, jay ball
+1995. PDPTA. key: conf/pdpta/DonckerGRB95
+Coarse Grain Preconditioned Conjugate Gradient Solver for Large Sparse Systems.
+elise de doncker, ajay gupta
+1995. PPSC. key: conf/ppsc/DonckerG95
+Two Methods for Load Balanced Distributed Adaptive Integration.
+elise de doncker, patricia ealy, ajay gupta
+1996. HPCN Europe. key: conf/hpcn/DonckerEG96
+ParInt: A Software Package for Parallel Integration.
+elise de doncker, ajay gupta, jay ball, patricia ealy, alan genz
+1996. International Conference on Supercomputing. key: conf/ics/DonckerGBEG96
+Preconditioned Conjugate Gradient Solver for Large Sparse Systems on MPI.
+elise de doncker, ajay gupta, patricia ealy, jay ball
+1996. PDPTA. key: conf/pdpta/DonckerGEB96
+Multivariate Integration on Hypercubic and Mesh Networks.
+elise de doncker, ajay gupta
+1998. Parallel Computing. key: journals/pc/DonckerG98
+On the Scalable Computation of Large Sets of Integrals.
+elise de doncker, ajay gupta, laurentiu cucos
+2003. ISCA PDCS. key: conf/ISCApdcs/DonckerGC03
+
+Cluster 17, 4 papers:	Western Michigan University
+Generalized Compressed Tree Machines.
+ajay gupta, hong wang
+1992. IPPS. key: conf/ipps/GuptaW92
+On Embedding Ternary Trees into Boolean Hypercubes.
+ajay gupta, hong wang
+1992. SPDP. key: conf/spdp/GuptaW92
+On Improving the Performance of Tree Machines.
+ajay gupta, hong wang
+1995. International Journal of High Speed Computing. key: journals/ijhsc/GuptaW95
+Efficient embeddings of ternary trees into hypercubes.
+ajay gupta, donald nelson, hong wang
+2003. J. Parallel Distrib. Comput.. key: journals/jpdc/GuptaNW03
+
+Cluster 18, 4 papers:	Western Michigan University
+Optimal Three-Dimensional Layouts of Complete Binary Trees.
+ajay gupta, susanne e. hambrusch
+1987. Inf. Process. Lett.. key: journals/ipl/GuptaH87
+Embedding Complete Binary Trees into Butterfly Networks.
+ajay gupta, susanne e. hambrusch
+1991. IEEE Trans. Computers. key: journals/tc/GuptaH91
+Load balanced tree embeddings.
+ajay gupta, susanne e. hambrusch
+1992. Parallel Computing. key: journals/pc/GuptaH92
+Multiple Network Embedding into Hypercubes.
+ajay gupta, susanne e. hambrusch
+1993. J. Parallel Distrib. Comput.. key: journals/jpdc/GuptaH93
+
+Cluster 19, 3 papers:	Western Michigan University
+Compact Hypercubes: Properties and Recognition.
+alfred j. boals, ajay gupta, jahangir a. hashmi, naveed a. sherwani
+1991. ICCI. key: conf/icci/BoalsGHS91
+An Efficient Approximation Algorithm for Hypercube Scheduling.
+alfred j. boals, ajay gupta, jahangir a. hashmi, naveed a. sherwani
+1991. ICCI. key: conf/icci/BoalsGHS91a
+On Optimal Embeddings into Incomplete Hypercubes.
+ajay gupta, alfred j. boals, naveed a. sherwani
+1991. IPPS. key: conf/ipps/GuptaBS91
+
+Cluster 20, 2 papers:	Director, DUCC, Delhi University
+Specification-based anomaly detection: a new approach for detecting network intrusions.
+r. sekar, ajay gupta, j. frullo, t. shanbhag, a. tiwari, h. yang, s. zhou
+2002. ACM Conference on Computer and Communications Security. key: conf/ccs/SekarGFSTYZ02
+An Approach for Detecting Self-propagating Email Using Anomaly Detection.
+ajay gupta, r. sekar
+2003. RAID. key: conf/raid/GuptaS03
+
+Cluster 21, 1 papers:	Director, DUCC, Delhi University
+Using Predators to Combat Worms and Viruses: A Simulation-Based Study.
+ajay gupta, daniel c. duvarney
+2004. ACSAC. key: conf/acsac/GuptaD04
+
+Cluster 22, 1 papers:	Western Michigan University
+Latin Cubes and Parallel Array Access.
+cong fan, ajay gupta, jiuqiang liu
+1994. IPPS. key: conf/ipps/FanGL94
+
+Cluster 23, 1 papers:	Director, DUCC, Delhi University
+Resource Usage Policy Specification for Managing Application Resources.
+prem uppuluri, ajay gupta
+2008. ITNG. key: conf/itng/UppuluriG08
+
+Cluster 24, 1 papers:	Western Michigan University
+Load Balances Priority Queues on Distributed Memory Machines.
+ajay gupta, andreas g. photiou
+1994. PARLE. key: conf/parle/GuptaP94
+
+Cluster 25, 1 papers:	Western Michigan University
+Parallel organization and performance of an information system.
+dalia motzkin, ajay gupta
+1994. SAC. key: conf/sac/MotzkinG94
+

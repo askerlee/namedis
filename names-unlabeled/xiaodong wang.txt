@@ -1,0 +1,1135 @@
+How do governments matter to the creation of digital economy?
+Weiling Ke,Xiaodong Wang
+2008. inproceedings: ICEC. key: conf/ACMicec/KeW08
+
+Alleviating MAC Layer Contentions through Dynamic Waiting in Wireless Ad Hoc Networks.
+Wanrong Yu,Xiaodong Wang,Xingming Zhou
+2006. inproceedings: CIT. key: conf/IEEEcit/YuWZ06
+
+An Intelligent Algorithm for Enhancing Contrast for Image Based on Discrete Stationary Wavelet Transform and In-complete Beta Transform.
+Changjiang Zhang,Xiaodong Wang,Haoran Zhang
+2005. inproceedings: ACII. key: conf/acii/ZhangWZ05
+
+A New Support Vector Machine for Data Mining.
+Haoran Zhang,Xiaodong Wang,Changjiang Zhang,Xiuling Xu
+2005. inproceedings: ADMA. key: conf/adma/ZhangWZX05
+
+Research and Implementation of Dynamic Web Services Composition.
+Haiyan Sun,Xiaodong Wang,Bin Zhou,Peng Zou
+2003. inproceedings: APPT. key: conf/appt/SunWZZ03
+
+RIMP: Runtime Implicit Predication.
+YuXing Tang,Kun Deng,Xiaodong Wang,Yong Dou,Xingming Zhou
+2005. inproceedings: APPT. key: conf/appt/TangDWDZ05
+
+Dynamics in Hierarchical CSCW Systems.
+Xiaodong Wang,Haiyan Sun,Ming Xu,Xingming Zhou
+2003. inproceedings: APPT. key: conf/appt/WangSXZ03
+
+Towards a New Methodology for Estimating Available Bandwidth on Network Paths.
+Shaohe Lv,Xiaodong Wang,Xingming Zhou,Jianping Yin
+2007. inproceedings: APPT. key: conf/appt/LvWZY07
+
+A Comprehensive Efficient Flooding Algorithm Using Directional Antennas for Mobile Ad Hoc Networks.
+Xianlong Jiao,Xiaodong Wang,Xingming Zhou
+2007. inproceedings: APPT. key: conf/appt/JiaoWZ07
+
+Implementation of Rotation Invariant Multi-View Face Detection on FPGA.
+Jinbo Xu,Yong Dou,YuXing Tang,Xiaodong Wang
+2009. inproceedings: APPT. key: conf/appt/XuDTW09
+
+An Efficient Algorithm for the Longest Pattern Subsequence Problem.
+Xiaodong Wang,Lei Wang,Yingjie Wu
+2008. inproceedings: BIOCOMP. key: conf/biocomp/WangWW08
+
+A Linear Time Algorithm for Coding and Decoding Neville Codes.
+Xiaodong Wang,Yingjie Wu
+2008. inproceedings: Communications in Computing. key: conf/cic/WangW08
+
+Detecting the Sybil Attack Cooperatively in Wireless Sensor Networks.
+Shaohe Lv,Xiaodong Wang,Xin Zhao,Xingming Zhou
+2008. inproceedings: CIS (1). key: conf/cis/LvWZZ08
+
+Large Scale Terrain Compression and Real-Time Rendering Based on Wavelet Transform.
+Xiaodong Wang,Xin Zheng,Qian Yin
+2008. inproceedings: CIS (2). key: conf/cis/WangZY08
+
+Automated ontology selection based on description logic.
+Xiaodong Wang,Lei Guo,Jun Fang
+2008. inproceedings: CSCWD. key: conf/cscwd/WangGF08
+
+Ontology clarification by using semantic disambiguation.
+Lei Guo,Xiaodong Wang,Jun Fang
+2008. inproceedings: CSCWD. key: conf/cscwd/GuoWF08
+
+MEMS lithography collaborative simulation environment research.
+Lianguan Shen,Meiyan Wang,Yu Hao,Gaofei Zhao,Zhao Shu,Sun Yuan,Xiaodong Wang,Mujun Li,Jinjin Zheng
+2008. inproceedings: CSCWD. key: conf/cscwd/ShenWHZSYWLZ08
+
+Nonlinear Systems Modeling and Control Using Support Vector Machine Technique.
+Haoran Zhang,Xiaodong Wang
+2006. inproceedings: CSR. key: conf/csr/ZhangW06
+
+The Wyner-Ziv Rate-Distortion Function of Multivariate Gaussian Sources and Its Application in Distributed Video Coding.
+Peng Wang,Jia Wang,Songyu Yu,Erkang Chen,Xiaokang Yang,Xiaodong Wang
+2007. inproceedings: DCC. key: conf/dcc/WangWYCYW07
+
+Flow-Based Real-Time Communication in Multi-Channel Wireless Sensor Networks.
+Xiaodong Wang,Xiaorui Wang,Xing Fu,Guoliang Xing,Nitish Jha
+2009. inproceedings: EWSN. key: conf/ewsn/WangWFXJ09
+
+Exploiting Overlapping Channels for Minimum Power Configuration in Real-Time Sensor Networks.
+Xiaodong Wang,Xiaorui Wang,Guoliang Xing,Yanjun Yao
+2010. inproceedings: EWSN. key: conf/ewsn/WangWXY10
+
+Voltage Sags Detection and Identification Based on Phase-Shift and RBF Neural Network.
+Ganyun Lv,Xiaodong Wang
+2007. inproceedings: FSKD (1). key: conf/fskd/LvW07
+
+Ontology-Based Automatic Classification and Ranking for Web Documents.
+Jun Fang,Lei Guo,Xiaodong Wang,Ning Yang
+2007. inproceedings: FSKD (3). key: conf/fskd/FangGWY07
+
+VWMAC: An Efficient MAC Protocol for Resolving Intra-flow Contention in Wireless Ad Hoc Networks.
+Wanrong Yu,Jiannong Cao,Xingming Zhou,Xiaodong Wang,Keith C. C. Chan,Alvin T. S. Chan,Hong Va Leong
+2006. inproceedings: GPC. key: conf/gpc/YuCZWCCL06
+
+Iterative Receivers for Multiuser Space-Time Coding Systems.
+Ben Lu,Xiaodong Wang
+2000. inproceedings: ICC (1). key: conf/icc/LuW00
+
+An Iterative Multiuser Detector for Turbo-Coed CDMA in Multipath Fading Channels.
+Qinghua Li,Xiaodong Wang,Costas N. Georghiades
+2000. inproceedings: ICC (2). key: conf/icc/LiWG00
+
+Detecting MAC Layer Collision Abnormalities in CSMA/CA Wireless Networks.
+Alberto Lopez Toledo,Xiaodong Wang
+2008. inproceedings: ICC. key: conf/icc/ToledoW08
+
+Optimizing Linear Dispersion Codes for Wideband MIMO Systems.
+Luca Venturino,Narayan Prasad,Xiaodong Wang,Mohammad Madihian
+2007. inproceedings: ICC. key: conf/icc/VenturinoPWM07
+
+Multiplexing Video on Broadcast Channels via Convex Programs.
+Raju Hormis,Elliot N. Linzer,Xiaodong Wang
+2007. inproceedings: ICC. key: conf/icc/HormisLW07
+
+A Robust Kolmogorov-Smirnov Detector for Misbehavior in IEEE 802.11 DCF.
+Alberto Lopez Toledo,Xiaodong Wang
+2007. inproceedings: ICC. key: conf/icc/ToledoW07
+
+On Data Fusion and Lifetime Constraints in Wireless Sensor Networks.
+Xiaodong Wang,Demin Wang,Yun Wang,Dharma P. Agrawal,Amitabh Mishra
+2007. inproceedings: ICC. key: conf/icc/WangWWAM07
+
+Distributed Beamforming and Rate Allocation in Multi-Antenna Cognitive Radio Networks.
+Ali Tajer,Narayan Prasad,Xiaodong Wang
+2009. inproceedings: ICC. key: conf/icc/TajerPW09
+
+Web based Collaborative Environment for Engineering Graphics Education.
+Lianguan Shen,Mujun Li,Xiaodong Wang,Wei Zhao,J. J. Zheng
+2006. inproceedings: ICCE. key: conf/icce/ShenLWZZ06
+
+Duty-Cycle-Aware Minimum Latency Broadcast Scheduling in Multi-hop Wireless Networks.
+Xianlong Jiao,Wei Lou,Junchao Ma,Jiannong Cao,Xiaodong Wang,Xingming Zhou
+2010. inproceedings: ICDCS. key: conf/icdcs/JiaoLMCWZ10
+
+Power Quality Identification Based on S-transform and RBF Neural Network.
+Ganyun Lv,Xiaodong Wang
+2006. inproceedings: ICIC (1). key: conf/icic/LvW06
+
+Enhancing Contrast for Image Using Discrete Stationary Wavelet Transform and Non-linear Gain Operator.
+Changjiang Zhang,Xiaodong Wang,Haoran Zhang
+2006. inproceedings: ICIC (2). key: conf/icic/ZhangWZ06
+
+Structure and Stability of Self-Assembled Monolayers for Octadecanethiol Adsorbed onto Flame-Annealed Gold Substrate and Its Potential Application to Microfluidic.
+Jingmin Han,Xiaodong Wang,Daniel Y. Kwok
+2004. inproceedings: ICMENS. key: conf/icmens/HanWK04
+
+A De-noising Algorithm of Infrared Image Contrast Enhancement.
+Changjiang Zhang,Xiaodong Wang,Haoran Zhang
+2005. inproceedings: ICMLC. key: conf/icmlc/ZhangWZ05
+
+A Fast SMO Training Algorithm for Support Vector Regression.
+Haoran Zhang,Xiaodong Wang,Changjiang Zhang,Xiuling Xu
+2005. inproceedings: ICNC (1). key: conf/icnc/ZhangWZX05
+
+Modeling, Identification and Robust Control of Yaw Dynamics of Small-Scale Unmanned Helicopters.
+Xiaodong Wang,Xiaoguang Zhao,Min Tan
+2009. inproceedings: ICNC (2). key: conf/icnc/WangZT09
+
+Qualitative Motion Reasoning Based on Voronoi Diagram.
+Xiaodong Wang,Shizhong Liao
+2009. inproceedings: ICNC (6). key: conf/icnc/WangL09c
+
+Global and Local Contrast Enhancement for Image by Genetic Algorithm and Wavelet Neural Network.
+Changjiang Zhang,Xiaodong Wang
+2006. inproceedings: ICONIP (3). key: conf/iconip/ZhangW06
+
+Randomized Broadcast Channel Access Algorithms for Ad Hoc Networks.
+Zhijun Cai,Mi Lu,Xiaodong Wang
+2002. inproceedings: ICPP. key: conf/icpp/CaiLW02
+
+Optimal Communication Algorithms for Heterogeneous Computing over ATM Networks.
+Xiaodong Wang,Vwani P. Roychowdhury
+1996. inproceedings: ICPP, Vol. 1. key: conf/icpp/WangR96
+
+Saturated Throughput and Delay of a Scheduling Scheme in Single-Hop Senario.
+Jun Yin,Xiaodong Wang,Dharma P. Agrawal
+2004. inproceedings: International Conference on Wireless Networks. key: conf/icwn/YinWA04
+
+Joint Mobility Tracking and Hard Handoff in Cellular Networks via Sequential Monte Carlo Fitlering.
+Xiaodong Wang,Zigang Yang
+2002. inproceedings: INFOCOM. key: conf/infocom/WangY02
+
+Distributed Robust Optimization for Communication Networks.
+Kai Yang,Yihong Wu,Jianwei Huang,Xiaodong Wang,Sergio Verdu
+2008. inproceedings: INFOCOM. key: conf/infocom/YangWHWV08
+
+Minimum Average Transmission Power Routing in CDMA Ad Hoc Networks Utilizing the Blind Multiuser Detection.
+Zhijun Cai,Mi Lu,Xiaodong Wang
+2002. inproceedings: IPDPS. key: conf/ipps/CaiLW02
+
+Minimizing communication overhead for matrix inversion algorithms on hypercubes.
+Xiaodong Wang,Vwani P. Roychowdhury
+1995. inproceedings: IPPS. key: conf/ipps/WangR95
+
+Error robust video transmission over wireless IP networks with multiuser detection.
+Yong Sun,Shengjie Zhao,Zixiang Xiong,Xiaodong Wang
+2002. inproceedings: ISCAS (1). key: conf/iscas/SunZXW02
+
+Efficient Rate Adaptation in Multi-rate 802.11 Networks.
+Shaohe Lv,Xiaodong Wang,Xingming Zhou,Chi Liu
+2007. inproceedings: ISCC. key: conf/iscc/LvWZL07
+
+Time Series Prediction Using LS-SVM with Particle Swarm Optimization.
+Xiaodong Wang,Haoran Zhang,Changjiang Zhang,Xiushan Cai,Jinshan Wang,Meiying Ye
+2006. inproceedings: ISNN (2). key: conf/isnn/WangZZCWY06
+
+Online Modeling of Nonlinear Systems Using Improved Adaptive Kernel Methods.
+Xiaodong Wang,Haoran Zhang,Changjiang Zhang,Xiushan Cai,Jinshan Wang,Meiying Ye
+2006. inproceedings: ISNN (2). key: conf/isnn/WangZZCWY06a
+
+Contrast Enhancement for Image with Simulated Annealing Algorithm and Wavelet Neural Network.
+Changjiang Zhang,Xiaodong Wang,Haoran Zhang
+2005. inproceedings: ISNN (2). key: conf/isnn/ZhangWZ05
+
+Contrast Enhancement for Image Based on Wavelet Neural Network and Stationary Wavelet Transform.
+Changjiang Zhang,Xiaodong Wang,Haoran Zhang
+2006. inproceedings: ISNN (2). key: conf/isnn/ZhangWZ06
+
+Advanced Signal Processing for Wireless Multimedia Communications.
+Xiaodong Wang,Anders Host-Madsen
+2000. inproceedings: ITCC. key: conf/itcc/WangH00
+
+Enhancing Global and Local Contrast for Image Using Discrete Stationary Wavelet Transform and Simulated Annealing Algorithm.
+Changjiang Zhang,C. J. Duanmu,Xiaodong Wang
+2006. inproceedings: KES (2). key: conf/kes/ZhangDW06
+
+Coordinated load balancing, handoff/cell-site selection, and scheduling in multi-cell packet data systems.
+Aimin Sang,Xiaodong Wang,Mohammad Madihian,Richard D. Gitlin
+2004. inproceedings: MOBICOM. key: conf/mobicom/SangWMG04
+
+Challenge: ultra-low-power energy-harvesting active networked tags (EnHANTs).
+Maria Gorlatova,Peter R. Kinget,Ioannis Kymissis,Dan Rubenstein,Xiaodong Wang,Gil Zussman
+2009. inproceedings: MOBICOM. key: conf/mobicom/GorlatovaKKRWZ09
+
+Modelling and performance analysis of the distributed scheduler in IEEE 802.16 mesh mode.
+Min Cao,Wenchao Ma,Qian Zhang,Xiaodong Wang,Wenwu Zhu
+2005. inproceedings: MobiHoc. key: conf/mobihoc/CaoMZWZ05
+
+An On-Demand Routing Protocol in Ad Hoc Network Using Label Switching.
+Shaohe Lv,Xingming Zhou,Xiaodong Wang,Chi Liu
+2006. inproceedings: MSN. key: conf/msn/LvZWL06
+
+An Optimal Algorithm for Neville Codes of a Tree Network.
+Yingjie Wu,Kan Chen,Xiaodong Wang
+2009. inproceedings: MSN. key: conf/msn/WuCW09
+
+An Extended Petri-Net Based Approach for Supply Chain Process Enactment in Resource-Centric Web Service Environment.
+Xiaodong Wang,Xiaoyu Zhang,Hongming Cai,Boyi Xu
+2009. inproceedings: OTM Conferences (1). key: conf/otm/WangZCX09
+
+An Ontological Approach for Semantic Annotation of Supply Chain Process Models.
+Xiaodong Wang,Nan Li,Hongming Cai,Boyi Xu
+2010. inproceedings: OTM Conferences (1). key: conf/otm/WangLCX10
+
+Prediction of Chaotic Time Series Using LS-SVM with Automatic Parameter Selection.
+Xiaodong Wang,Haoran Zhang,Changjiang Zhang,Xiushan Cai,Jin Wang,Jinshan Wang
+2005. inproceedings: PDCAT. key: conf/pdcat/WangZZCWW05
+
+A High-throughput MAC Protocol for Wireless Ad Hoc Networks.
+Wanrong Yu,Jiannong Cao,Xingming Zhou,Xiaodong Wang
+2006. inproceedings: PerCom Workshops. key: conf/percom/YuCZW06
+
+Checking Extended CTL properties Using Guarded Quotient Structures.
+A. Prasad Sistla,Xiaodong Wang,Min Zhou
+2004. inproceedings: SEFM. key: conf/sefm/SistlaWZ04
+
+Speeding up the Algorithms for the Subset-Sum Problem with the Bitset Class.
+Xiaodong Wang,Lei Wang,Yingjie Wu
+2010. inproceedings: Software Engineering Research and Practice. key: conf/serp/WangWW10
+
+Neighbor-Aware Optimizing Routing for Wireless Ad Hoc Networks.
+Xianlong Jiao,Xiaodong Wang,Xingming Zhou
+2007. inproceedings: UIC. key: conf/uic/JiaoWZ07
+
+LALO: A Link-Aware Lightweight Routing Protocol for Data Delivery in Vehicular Ad Hoc Networks.
+Hu Shen,Xiaodong Wang,Yanqiang Sun,Yanrong Ding,Xingming Zhou
+2010. inproceedings: UIC. key: conf/uic/ShenWSDZ10
+
+Determining Text Databases to Search in the Internet.
+Weiyi Meng,King-Lup Liu,Clement T. Yu,Xiaodong Wang,Yuhsi Chang,Naphtali Rishe
+1998. inproceedings: VLDB. key: conf/vldb/MengLYWCR98
+
+Model Checking of Systems Employing Commutative Functions.
+A. Prasad Sistla,Min Zhou,Xiaodong Wang
+2005. inproceedings: VMCAI. key: conf/vmcai/SistlaZW05
+
+Importance of Entities in Knowledge.
+Jun Fang,Lei Guo,Xiaodong Wang,Liang Chen,Ning Yang,WeiLi Yang
+2006. inproceedings: Web Intelligence. key: conf/webi/FangGWCYY06
+
+Interference-Aware Gossiping Scheduling in Uncoordinated Duty-Cycled Multi-hop Wireless Networks.
+Xianlong Jiao,Wei Lou,Xiaodong Wang,Junchao Ma,Jiannong Cao,Xingming Zhou
+2010. inproceedings: WASA. key: conf/wasa/JiaoLWMCZ10
+
+A Reducing Multi-Noise Contrast Enhancement Algorithm for Infrared Image.
+Changjiang Zhang,Xiaodong Wang,Haoran Zhang,Ganyun Lv,Han Wei
+2006. inproceedings: ICICIC (1). key: conf/icicic/ZhangWZLW06
+
+Contrast enhancement for image with non-linear gray transform and wavelet neural network.
+Changjiang Zhang,Xiaodong Wang,Haoran Zhang,Ganyun Lv
+2006. inproceedings: GrC. key: conf/grc/ZhangWZL06a
+
+New Soft Sensor Method Based on SVM.
+Haoran Zhang,Xiaodong Wang,Changjiang Zhang,Ganyun Lv
+2006. inproceedings: GrC. key: conf/grc/ZhangWZL06
+
+Successive Maximum Likelihood Estimation for Time and Frequency Synchronization.
+Yingming Tsai,Guodong Zhang,Xiaodong Wang
+2007. inproceedings: VTC Fall. key: conf/vtc/TsaiZW07
+
+Real-Time QoS Over a Third-Generation (3G) Cellular Shared Downlink Channel.
+Aimin Sang,Xiaodong Wang,Mohammad Madihian
+2006. inproceedings: VTC Fall. key: conf/vtc/SangWM06
+
+Adaptive Signal Dimensioning for Multi-User MIMO Downlink.
+Bin Li,Yi Luo,Xiaodong Wang
+2010. inproceedings: VTC Fall. key: conf/vtc/LiLW10
+
+Application of Stationary Wavelet Transforms to Ultrasonic Crack Detection.
+Xianfeng Fan,Ming J. Zuo,Xiaodong Wang
+2006. inproceedings: CCECE. key: conf/ccece/FanZW06
+
+Quantized linear MIMO precoding for multiuser downlink systems.
+Mohammad Ali Khojastepour,Xiaodong Wang,Mohammad Madihian
+2008. inproceedings: CISS. key: conf/ciss/KhojastepourWM08
+
+Quantized multi-rank beamforming for MIMO systems.
+Mohammad Ali Khojastepour,Narayan Prasad,Shuangquan Wang,Xiaodong Wang,Mohammad Madihian
+2008. inproceedings: CISS. key: conf/ciss/KhojastepourPWWM08
+
+A successive convex approximation algorithm for weighted sum-rate maximization in downlink OFDMA networks.
+Luca Venturino,Narayan Prasad,Xiaodong Wang
+2008. inproceedings: CISS. key: conf/ciss/VenturinoPW08
+
+Design of Multiplexed Coding for User Cooperation.
+Guosen Yue,Xiaodong Wang,Mohammad Madihian
+2006. inproceedings: GLOBECOM. key: conf/globecom/YueWM06
+
+Coded Modulation for ISI Channels with LDPC Codes.
+Raju Hormis,Xiaodong Wang
+2006. inproceedings: GLOBECOM. key: conf/globecom/HormisW06
+
+Optimal Radio Allocation for Multi-radio Cognitive Wireless Networks.
+Kai Yang,Xiaodong Wang
+2006. inproceedings: GLOBECOM. key: conf/globecom/YangW06
+
+Optimal Transmission Range with Delay Constraints for Mobile Wireless Networks.
+Younghwan Yoo,Xiaodong Wang,Dharma P. Agrawal
+2006. inproceedings: GLOBECOM. key: conf/globecom/YooWA06
+
+Resource Allocation in Multi-Hop OFDMA Wireless Backhaul Networks With Cooperative Relaying.
+Seung-Jun Kim,Xiaodong Wang,Mohammad Madihian
+2007. inproceedings: GLOBECOM. key: conf/globecom/KimWM07
+
+Static and Differential Quantization Codebook Design for MIMO Precoding Systems.
+Mohammad Ali Khojastepour,Xiaodong Wang,Mohammad Madihian
+2007. inproceedings: GLOBECOM. key: conf/globecom/KhojastepourWM07
+
+Design of Anti-Jamming Coding for Cognitive Radio.
+Guosen Yue,Xiaodong Wang,Mohammad Madihian
+2007. inproceedings: GLOBECOM. key: conf/globecom/YueWM07
+
+Diversity-Multiplexing Trade-Off Analysis of OFDM Systems with Linear Detectors.
+Narayan Prasad,Luca Venturino,Xiaodong Wang,Mohammad Madihian
+2007. inproceedings: GLOBECOM. key: conf/globecom/PrasadVWM07
+
+Joint Diversity- and Rate-Control for Video Transmission on Multi-Antenna Channels.
+Raju Hormis,Elliot N. Linzer,Xiaodong Wang
+2007. inproceedings: GLOBECOM. key: conf/globecom/HormisLW07
+
+Fast ML Decoding of SPC Product Code by Linear Programming Decoding.
+Kai Yang,Xiaodong Wang,Jon Feldman
+2007. inproceedings: GLOBECOM. key: conf/globecom/YangWF07
+
+Outage Minimization and Fair Rate Allocation in Gaussian Interference Channels.
+Narayan Prasad,Xiaodong Wang
+2008. inproceedings: GLOBECOM. key: conf/globecom/PrasadW08
+
+Adaptive Hybrid ARQ in Gaussian and Turbo Coded Systems.
+Guosen Yue,Xiaodong Wang
+2008. inproceedings: GLOBECOM. key: conf/globecom/YueW08
+
+An Auction Approach to Resource Allocation in Uplink Multi-Cell OFDMA Systems.
+Kai Yang,Narayan Prasad,Xiaodong Wang
+2008. inproceedings: GLOBECOM. key: conf/globecom/YangPW08
+
+Superimposed XOR: A New Physical Layer Network Coding Scheme for Two-Way Relay Channels.
+Jianquan Liu,Meixia Tao,Youyun Xu,Xiaodong Wang
+2009. inproceedings: GLOBECOM. key: conf/globecom/LiuTXW09
+
+Efficient Soft-Output Demodulators for the Golden Code.
+Narayan Prasad,Meilong Jiang,Xiaodong Wang
+2009. inproceedings: GLOBECOM. key: conf/globecom/PrasadJW09
+
+Multilayer Space-Time-Frequency Coding for MIMO-OFDM.
+Guosen Yue,Li Zhang,Xiaodong Wang
+2009. inproceedings: GLOBECOM. key: conf/globecom/YueZW09
+
+Scalable Video Multicast on Broadcast Channels.
+Jun Xu,Raju Hormis,Xiaodong Wang
+2009. inproceedings: GLOBECOM. key: conf/globecom/XuHW09
+
+Scheduling under SINR Model in Ad Hoc Networks with Successive Interference Cancellation.
+Shaohe Lv,Xiaodong Wang,Xingming Zhou
+2010. inproceedings: GLOBECOM. key: conf/globecom/LvWZ10
+
+Optimally Efficient Max-Log APP Demodulation in MIMO Systems.
+Narayan Prasad,Khalid Kalbat,Xiaodong Wang
+2010. inproceedings: GLOBECOM. key: conf/globecom/PrasadKW10
+
+New Reconfiguration Algorithm for Degradable VLSI Arrays.
+Wu Jigang,Thambipillai Srikanthan,Xiaodong Wang
+2006. inproceedings: APCCAS. key: conf/apccas/JigangSW06
+
+Modeling and Simulation of Container Terminal Logistics System.
+Li Li,Xiaodong Wang
+2009. inproceedings: WKDD. key: conf/wkdd/LiW09
+
+Design and Implementation of Hybrid Broadcast Authentication Protocols in Wireless Sensor Networks.
+Xin Zhao,Xiaodong Wang
+2008. inproceedings: FGCN (2). key: conf/fgcn/XinX08
+
+Vision-Based Assembly of Capillary for Microfluidic Device.
+Xiaodong Wang,Xiujun Wang,Yi Luo,Chong Liu,Liqun Ma
+2006. inproceedings: IROS. key: conf/iros/WangWLLM06
+
+Dual-cache Structure Based Large Scale Texture Mapping for Real-time Terrain Rendering.
+Dong Tian,Xiaodong Wang,Xin Zheng
+2008. inproceedings: RAM. key: conf/ram/TianWZ08
+
+Study on Ultimate Performance of Light-duty Electro-Hydraulic Torque-Load Simulator.
+Yaoxing Shang,Shuai Wu,Zongxia Jiao,Xiaodong Wang
+2008. inproceedings: RAM. key: conf/ram/ShangWJW08
+
+Algorithm Research of Flexible Graphplan based on Heuristic.
+Yang Li,Yan Sun,Chengshan Han,Xiaodong Wang,Shuyan Xu
+2008. inproceedings: ICYCS. key: conf/icycs/LiSHWX08
+
+Design of efficient ARQ schemes with anti-jamming coding for cognitive radios.
+Guosen Yue,Xiaodong Wang
+2009. inproceedings: WCNC. key: conf/wcnc/YueW09
+
+Deploying a Wireless Sensor Network on the Coal Mines.
+Xiaodong Wang,Xiaoguang Zhao,Zi-ze Liang,Min Tan
+2007. inproceedings: ICNSC. key: conf/icnsc/WangZLT07
+
+Lattice-reduction-aided receivers for MIMO-OFDM in spatial multiplexing systems.
+Inaki Berenguer,Jaime Adeane,Ian J. Wassell,Xiaodong Wang
+2004. inproceedings: PIMRC. key: conf/pimrc/BerenguerAWW04
+
+Low-overhead scheduling algorithms for OFDMA relay networks.
+Karthikeyan Sundaresan,Xiaodong Wang,Mohammad Madihian
+2008. inproceedings: WICON. key: conf/wicon/SundaresanWM08
+
+Applying active measurement in the rate adaptation for 802.11 wireless networks.
+Shaohe Lv,Xiaodong Wang,Xingming Zhou
+2008. inproceedings: WICON. key: conf/wicon/LvWZ08
+
+Development of a Dual-robot System for Parametric Surfaces Polishing.
+Fengyun Lin,Xiaodong Wang,Fengbo Lin
+2009. inproceedings: CAR. key: conf/car/LinWL09
+
+Privacy Preserving k-Anonymity for Re-publication of Incremental Datasets.
+Yingjie Wu,Zhihui Sun,Xiaodong Wang
+2009. inproceedings: CSIE (4). key: conf/csie/WuSW09
+
+Robust Design about Container Terminal Logistics System.
+Li Li,Xiaodong Wang,Mengjie Zhang
+2009. inproceedings: SSME. key: conf/ssme/LiWZ09
+
+A New Method of Remote Control for Embedded Terminal Based on Browser/Server/Terminal Model.
+Yan Su,Xiangqian Ding,Haiyong Zheng,Xiaodong Wang
+2009. inproceedings: PACCS. key: conf/paccs/SuDZW09
+
+Design and Implementation of Control System on Embedded Downloading Server Based on C/S Architecture.
+Bo Liu,Xiangqian Ding,Haiyong Zheng,Xiaodong Wang
+2009. inproceedings: PACCS. key: conf/paccs/LiuDZW09
+
+A successive interference cancellation algorithm in MIMO systems via breadth-first search.
+Yongtao Su,Xian-Da Zhang,Xiaodong Wang
+2008. inproceedings: ICASSP. key: conf/icassp/SuZW08
+
+Iterative equalization with hard and soft decisions for ISI-constrained channels.
+Raju Hormis,Xiaodong Wang
+2008. inproceedings: ICASSP. key: conf/icassp/HormisW08
+
+Beacon-assisted spectrum access with cooperative cognitive transmitter and receiver.
+Ali Tajer,Xiaodong Wang
+2009. inproceedings: ICASSP. key: conf/icassp/TajerW09
+
+Pilot-assisted channel estimation for MIMO OFDM systems using theory of sparse signal recovery.
+Mohammad Ali Khojastepour,Krishna Gomadam,Xiaodong Wang
+2009. inproceedings: ICASSP. key: conf/icassp/KhojastepourGW09
+
+Multi-antenna cognitive radio systems: Environmental learning and channel training.
+Feifei Gao,Rui Zhang,Ying-Chang Liang,Xiaodong Wang
+2009. inproceedings: ICASSP. key: conf/icassp/GaoZLW09
+
+Adaptive spectrum sensing for agile cognitive radios.
+Ali Tajer,Rui Castro,Xiaodong Wang
+2010. inproceedings: ICASSP. key: conf/icassp/TajerCW10
+
+Digital Image Watermarking Algorithm with Double Encryption by Arnold Transform and Logistic.
+Changjiang Zhang,Jinshan Wang,Xiaodong Wang
+2008. inproceedings: NCM (1). key: conf/ncm/ZhangWW08
+
+Utility-based k-anonymization.
+Qingming Tang,Yingjie Wu,Shangbin Liao,Xiaodong Wang
+2010. inproceedings: NCM. key: conf/ncm/TangWLW10
+
+Impact of bursty error rates on the performance of wireless local area network (WLAN).
+Jun Yin,Xiaodong Wang,Dharma P. Agrawal
+2006. article: Ad Hoc Networks. key: journals/adhoc/YinWA06
+
+Missing-value estimation using linear and non-linear regression with Bayesian gene selection.
+Xiaobo Zhou,Xiaodong Wang,Edward R. Dougherty
+2003. article: Bioinformatics. key: journals/bioinformatics/ZhouWD03
+
+A Bayesian connectivity-based approach to constructing probabilistic gene regulatory networks.
+Xiaobo Zhou,Xiaodong Wang,Ranadip Pal,Ivan Ivanov,Michael L. Bittner,Edward R. Dougherty
+2004. article: Bioinformatics. key: journals/bioinformatics/ZhouWPIBD04
+
+A profile-based deterministic sequential Monte Carlo algorithm for motif discovery.
+Kuo-ching Liang,Xiaodong Wang,Dimitris Anastassiou
+2008. article: Bioinformatics. key: journals/bioinformatics/LiangWA08
+
+Robust discovery of periodically expressed genes using the laplace periodogram.
+Kuo-ching Liang,Xiaodong Wang,Ta-Hsin Li
+2009. article: BMC Bioinformatics. key: journals/bmcbi/LiangWL09
+
+On the rate adaptation for IEEE 802.11 wireless networks.
+Shaohe Lv,Xiaodong Wang,Xingming Zhou
+2010. article: Computer Networks. key: journals/cn/LvWZ10
+
+Modeling and optimization of wireless local area network.
+Jun Yin,Xiaodong Wang,Dharma P. Agrawal
+2005. article: Computer Communications. key: journals/comcom/YinWA05
+
+Design of Learning Based MIMO Cognitive Radio Systems
+Feifei Gao,Rui Zhang,Ying-Chang Liang,Xiaodong Wang
+2009. article: CoRR. key: journals/corr/abs-0905-1460
+
+Beacon-Assisted Spectrum Access with Cooperative Cognitive Transmitter and Receiver
+Ali Tajer,Xiaodong Wang
+2009. article: CoRR. key: journals/corr/abs-0905-4476
+
+Optimal Joint Target Detection and Parameter Estimation By MIMO Radar
+Ali Tajer,Guido H. Jajamovich,Xiaodong Wang,George V. Moustakides
+2009. article: CoRR. key: journals/corr/abs-0908-1071
+
+Beamforming and Rate Allocation in MISO Cognitive Radio Networks
+Ali Tajer,Narayan Prasad,Xiaodong Wang
+2009. article: CoRR. key: journals/corr/abs-0908-1077
+
+Multiuser Diversity Gain in Cognitive Networks
+Ali Tajer,Xiaodong Wang
+2010. article: CoRR. key: journals/corr/abs-1004-0383
+
+(n,K)-user Interference Channels: Degrees of Freedom
+Ali Tajer,Xiaodong Wang
+2010. article: CoRR. key: journals/corr/abs-1007-3676
+
+Superimposed XOR: Approaching Capacity Bounds of the Two-Way Relay Channels
+Jianquan Liu,Meixia Tao,Youyun Xu,Xiaodong Wang
+2010. article: CoRR. key: journals/corr/abs-1008-0735
+
+Robust Linear Precoder Design for Multi-cell Downlink Transmission
+Ali Tajer,Narayan Prasad,Xiaodong Wang
+2010. article: CoRR. key: journals/corr/abs-1009-5146
+
+Checking extended CTL properties using guarded quotient structures.
+A. Prasad Sistla,Xiaodong Wang,Min Zhou
+2007. article: Formal Methods in System Design. key: journals/fmsd/SistlaWZ07
+
+Dynamic robust compensation control to inherent high-frequency motion disturbance on the electro-hydraulic load simulator.
+Yaoxing Shang,Zongxia Jiao,Shaoping Wang,Xiaodong Wang
+2009. article: IJCAT. key: journals/ijcat/ShangJWW09
+
+On the Complexity of the Extreme Points Decision Problem.
+Xiaodong Wang
+1991. article: Inf. Process. Lett.. key: journals/ipl/Wang91
+
+Gene Clustering Based on Clusterwide Mutual Information.
+Xiaobo Zhou,Xiaodong Wang,Edward R. Dougherty,Daniel Russ,Edward Suh
+2004. article: Journal of Computational Biology. key: journals/jcb/ZhouWDRS04
+
+An Efficient Multi-Resolution Texture Synthesizing Method Based on Wavelet Transform.
+Xin Zheng,Xiaodong Wang,Hai-feng Cui,Tong Ruan
+2009. article: Journal of Circuits, Systems, and Computers. key: journals/jcsc/ZhengWCR09
+
+Space-Time Coding and Signal Processing for MIMO Communications.
+Inaki Berenguer,Xiaodong Wang
+2003. article: J. Comput. Sci. Technol.. key: journals/jcst/BerenguerW03
+
+Optimal Communication Algorithms for Heterogeneous Computing over ATM Networks.
+Xiaodong Wang,Vwani P. Roychowdhury
+1997. article: J. Parallel Distrib. Comput.. key: journals/jpdc/WangR97
+
+A simple baseband transmission scheme for power line channels.
+Raju Hormis,Inaki Berenguer,Xiaodong Wang
+2006. article: IEEE Journal on Selected Areas in Communications. key: journals/jsac/HormisBW06
+
+Optimal linear space-time spreading for multiuser MIMO communications.
+Jibing Wang,Xiaodong Wang
+2006. article: IEEE Journal on Selected Areas in Communications. key: journals/jsac/WangW06
+
+Nonlinear Programming Approaches to Decoding Low-Density Parity-Check Codes.
+Kai Yang,Jon Feldman,Xiaodong Wang
+2006. article: IEEE Journal on Selected Areas in Communications. key: journals/jsac/YangFW06
+
+A low-rate code-spread and chip-interleaved time-hopping UWB system.
+Kai Li,Xiaodong Wang,Guosen Yue,Li Ping
+2006. article: IEEE Journal on Selected Areas in Communications. key: journals/jsac/LiWYP06
+
+Dynamic sensor collaboration via sequential Monte Carlo.
+Dong Guo,Xiaodong Wang
+2004. article: IEEE Journal on Selected Areas in Communications. key: journals/jsac/GuoW04
+
+Design of minimum error-rate Cayley differential unitary space-time codes.
+Jibing Wang,Xiaodong Wang,Mohammad Madihian
+2005. article: IEEE Journal on Selected Areas in Communications. key: journals/jsac/WangWM05
+
+Joint multiple target tracking and classification in collaborative sensor networks.
+Tom Vercauteren,Dong Guo,Xiaodong Wang
+2005. article: IEEE Journal on Selected Areas in Communications. key: journals/jsac/VercauterenGW05
+
+Robust Detection of Selfish Misbehavior in Wireless Networks.
+Alberto Lopez Toledo,Xiaodong Wang
+2007. article: IEEE Journal on Selected Areas in Communications. key: journals/jsac/ToledoW07
+
+Throughput Analysis for Parallel ARQ over Correlated MIMO Channels.
+Chuxiang Li,Xiaodong Wang
+2007. article: IEEE Journal on Selected Areas in Communications. key: journals/jsac/LiW07
+
+Multi-hop wireless backhaul networks: a cross-layer design paradigm.
+Min Cao,Xiaodong Wang,Seung-Jun Kim,Mohammad Madihian
+2007. article: IEEE Journal on Selected Areas in Communications. key: journals/jsac/CaoWKM07
+
+A Bayesian Multiuser Detection Algorithm for MIMO-ODFM Systems Affected by Multipath Fading, Carrier Frequency Offset, and Phase Noise.
+Filippo Zuccardi Merli,Xiaodong Wang,Giorgio Matteo Vitetta
+2008. article: IEEE Journal on Selected Areas in Communications. key: journals/jsac/MerliWV08
+
+Quantized Multi-Rank Beamforming for MIMO-OFDM Systems.
+Mohammad Ali Khojastepour,Narayan Prasad,Shuangquan Wang,Xiaodong Wang,Mohammad Madihian
+2008. article: IEEE Journal on Selected Areas in Communications. key: journals/jsac/KhojastepourPWWM08
+
+Evolution analysis of low-cost iterative equalization in coded linear systems with cyclic prefixes.
+Xiaojun Yuan,Qinghua Guo,Xiaodong Wang,Li Ping
+2008. article: IEEE Journal on Selected Areas in Communications. key: journals/jsac/YuanGWP08
+
+Interference Suppression Receivers for the Cellular Downlink Channel.
+Narayan Prasad,Xiaodong Wang
+2008. article: IEEE Journal on Selected Areas in Communications. key: journals/jsac/PrasadW08
+
+Effect of chip-level asynchronism on a CDMA-based overlay system for optical network management.
+Luca Venturino,Vinay A. Vaishampayan,Mark D. Feuer,Xiaodong Wang
+2010. article: IEEE Journal on Selected Areas in Communications. key: journals/jsac/VenturinoVFW10
+
+MIMO video broadcast via transmit-precoding and SNR-scalable video coding.
+Jun Xu,Raju Hormis,Xiaodong Wang
+2010. article: IEEE Journal on Selected Areas in Communications. key: journals/jsac/XuHW10
+
+Analysis and Optimization of the Energy Efficiency in the 802.11 DCF.
+Xiaodong Wang,Jun Yin,Dharma P. Agrawal
+2006. article: MONET. key: journals/monet/WangYA06
+
+WormBase: new content and better access.
+Tamberlyn Bieri,Darin Blasiar,Philip Ozersky,Igor Antoshechkin,Carol Bastiani,Payan Canaran,Juancarlos Chan,Nansheng Chen,Wen J. Chen,Paul Davis,Tristan J. Fiedler,Lisa R. Girard,Michael Han,Todd W. Harris,Ranjana Kishore,Raymond Lee,Sheldon J. McKay,Hans-Michael Muller,Cecilia Nakamura,Andrei Petcherski,Arun Rangarajan,Anthony Rogers,Gary Schindelman,Erich M. Schwarz,William Spooner,Mary Ann Tuli,Kimberly Van Auken,Daniel Wang,Xiaodong Wang,Gary Williams,Richard Durbin,Lincoln D. Stein,Paul W. Sternberg,John Spieth
+2007. article: Nucleic Acids Research. key: journals/nar/BieriBOABCCCCDFGHHKLMMNPRRSSSTAWWWDSSS07
+
+WormBase 2007.
+Anthony Rogers,Igor Antoshechkin,Tamberlyn Bieri,Darin Blasiar,Carol Bastiani,Payan Canaran,Juancarlos Chan,Wen J. Chen,Paul Davis,Jolene Fernandes,Tristan J. Fiedler,Michael Han,Todd W. Harris,Ranjana Kishore,Raymond Lee,Sheldon J. McKay,Hans-Michael Muller,Cecilia Nakamura,Philip Ozersky,Andrei Petcherski,Gary Schindelman,Erich M. Schwarz,William Spooner,Mary Ann Tuli,Kimberly Van Auken,Daniel Wang,Xiaodong Wang,Gary Williams,Karen Yook,Richard Durbin,Lincoln D. Stein,John Spieth,Paul W. Sternberg
+2008. article: Nucleic Acids Research. key: journals/nar/RogersABBBCCCDFFHHKLMMNOPSSSTAWWWYDSSS08
+
+Scalable Massively Parallel Algorithms for Computational Nanoelectronics.
+Xiaodong Wang,Vwani P. Roychowdhury,Pratheep Balasingam
+1997. article: Parallel Computing. key: journals/pc/WangRB97
+
+Integrated Row and Column Rerouting for Reconfiguration of VLSI Arrays with Four-Port Switches.
+Wu Jigang,Thambipillai Srikanthan,Xiaodong Wang
+2007. article: IEEE Trans. Computers. key: journals/tc/JigangSW07
+
+Bayesian Basecalling for DNA Sequence Analysis Using Hidden Markov Models.
+Kuo-ching Liang,Xiaodong Wang,Dimitris Anastassiou
+2007. article: IEEE/ACM Trans. Comput. Biology Bioinform.. key: journals/tcbb/LiangWA07
+
+Sampling-based soft equalization for frequency-selective MIMO channels.
+B. Dong,Xiaodong Wang
+2005. article: IEEE Transactions on Communications. key: journals/tcom/DongW05
+
+Blind multiuser detection in uplink CDMA with multipath fading: a sequential EM approach.
+Qinghua Li,Costas N. Georghiades,Xiaodong Wang
+2004. article: IEEE Transactions on Communications. key: journals/tcom/LiGW04
+
+Adaptive opportunistic fair scheduling over multiuser spatial channels.
+Chuxiang Li,Xiaodong Wang
+2005. article: IEEE Transactions on Communications. key: journals/tcom/LiW05
+
+EM-based iterative receiver design with carrier-frequency offset estimation for MIMO OFDM systems.
+Yong Sun,Zixiang Xiong,Xiaodong Wang
+2005. article: IEEE Transactions on Communications. key: journals/tcom/SunXW05
+
+Superimposed Training-Based Noncoherent MIMO Systems.
+Jibing Wang,Xiaodong Wang
+2006. article: IEEE Transactions on Communications. key: journals/tcom/WangW06a
+
+Design of Rate-Compatible Irregular Repeat Accumulate Codes.
+Guosen Yue,Xiaodong Wang,Mohammad Madihian
+2007. article: IEEE Transactions on Communications. key: journals/tcom/YueWM07
+
+LDPC-coded cooperative relay systems: performance analysis and code design.
+Chuxiang Li,Guosen Yue,Mohammad Ali Khojastepour,Xiaodong Wang,Mohammad Madihian
+2008. article: IEEE Transactions on Communications. key: journals/tcom/LiYKWM08
+
+Polyphase codes for uplink OFDM-CDMA systems.
+Yingming Tsai,Guodong Zhang,Xiaodong Wang
+2008. article: IEEE Transactions on Communications. key: journals/tcom/TsaiZW08
+
+Cross-layer network planning for multi-radio multi-channel cognitive wireless networks.
+Kai Yang,Xiaodong Wang
+2008. article: IEEE Transactions on Communications. key: journals/tcom/YangW08
+
+An implementation-friendly binary LDPC decoding algorithm.
+Guosen Yue,Xiaodong Wang
+2010. article: IEEE Transactions on Communications. key: journals/tcom/YueW10
+
+Fast and Robust Modulation Classification via Kolmogorov-Smirnov Test.
+Fanggang Wang,Xiaodong Wang
+2010. article: IEEE Transactions on Communications. key: journals/tcom/WangW10a
+
+GLRT-Based Spectrum Sensing for Cognitive Radio with Prior Information.
+Josep Font-Segura,Xiaodong Wang
+2010. article: IEEE Transactions on Communications. key: journals/tcom/Font-SeguraW10
+
+Efficient maximum-likelihood decoding of spherical lattice codes.
+Karen Su,Inaki Berenguer,Ian J. Wassell,Xiaodong Wang
+2009. article: IEEE Transactions on Communications. key: journals/tcom/SuBWW09
+
+Low-complexity coded-modulation for ISI-constrained channels.
+Raju Hormis,Xiaodong Wang
+2009. article: IEEE Transactions on Communications. key: journals/tcom/HormisW09
+
+Joint error control and power allocation for video transmission over CDMA networks with multiuser detection.
+Shengjie Zhao,Zixiang Xiong,Xiaodong Wang
+2002. article: IEEE Trans. Circuits Syst. Video Techn.. key: journals/tcsv/ZhaoXW02
+
+An End-to-End Bandwidth Allocation Algorithm for Ad Hoc Networks.
+Zhijun Cai,Mi Lu,Xiaodong Wang
+2003. article: Telecommunication Systems. key: journals/telsys/CaiLW03
+
+Adaptive joint detection and decoding in flat-fading channels via mixture Kalman filtering.
+Rong Chen,Xiaodong Wang,Jun S. Liu
+2000. article: IEEE Transactions on Information Theory. key: journals/tit/ChenWL00
+
+Performance of blind and group-blind multiuser detectors.
+Anders Host-Madsen,Xiaodong Wang
+2002. article: IEEE Transactions on Information Theory. key: journals/tit/Host-MadsenW02
+
+Concatenated zigzag hadamard codes.
+W. K. R. Leung,Guosen Yue,Li Ping,Xiaodong Wang
+2006. article: IEEE Transactions on Information Theory. key: journals/tit/LeungYPW06
+
+Blind Multiuser Detection: A Subspace Approach.
+Xiaodong Wang,H. Vincent Poor
+1998. article: IEEE Transactions on Information Theory. key: journals/tit/WangP98
+
+Large-sample performance of blind and Group-blind multiuser detectors: a perturbation perspective.
+Zhengyuan Xu,Xiaodong Wang
+2004. article: IEEE Transactions on Information Theory. key: journals/tit/XuW04
+
+Large-system performance analysis of blind and group-blind multiuser receivers.
+Junshan Zhang,Xiaodong Wang
+2002. article: IEEE Transactions on Information Theory. key: journals/tit/ZhangW02
+
+Generalized Low-Density Parity-Check Codes Based on Hadamard Constraints.
+Guosen Yue,Li Ping,Xiaodong Wang
+2007. article: IEEE Transactions on Information Theory. key: journals/tit/YuePW07
+
+Low-Rate Repeat-Zigzag-Hadamard Codes.
+Kai Li,Guosen Yue,Xiaodong Wang,Li Ping
+2008. article: IEEE Transactions on Information Theory. key: journals/tit/LiYWP08
+
+EXIT Functions of Hadamard Components in Repeat-Zigzag-Hadamard (RZH) Codes With Parallel Decoding.
+Kai Li,Xiaodong Wang,Alexei E. Ashikhmin
+2008. article: IEEE Transactions on Information Theory. key: journals/tit/LiWA08
+
+A New Linear Programming Approach to Decoding Linear Block Codes.
+Kai Yang,Xiaodong Wang,Jon Feldman
+2008. article: IEEE Transactions on Information Theory. key: journals/tit/YangWF08
+
+An Analysis of the MIMO-SDMA Channel With Space-Time Orthogonal and Quasi-Orthogonal User Transmissions and Efficient Successive Cancellation Decoders.
+Narayan Prasad,Mahesh K. Varanasi,Luca Venturino,Xiaodong Wang
+2008. article: IEEE Transactions on Information Theory. key: journals/tit/PrasadVVW08
+
+Design of Spherical Lattice Space-Time Codes.
+Narayan Prasad,Inaki Berenguer,Xiaodong Wang
+2008. article: IEEE Transactions on Information Theory. key: journals/tit/PrasadBW08
+
+Optimal Successive Group Decoders for MIMO Multiple-Access Channels.
+Narayan Prasad,Guosen Yue,Xiaodong Wang,Mahesh K. Varanasi
+2008. article: IEEE Transactions on Information Theory. key: journals/tit/PrasadYWV08
+
+Outage minimization and rate allocation for the multiuser Gaussian interference channels with successive group decoding.
+Narayan Prasad,Xiaodong Wang
+2009. article: IEEE Transactions on Information Theory. key: journals/tit/PrasadW09
+
+Channel Access-Based Self-Organized Clustering in Ad Hoc Networks.
+Zhijun Cai,Mi Lu,Xiaodong Wang
+2003. article: IEEE Trans. Mob. Comput.. key: journals/tmc/CaiLW03
+
+Cross-Layer Design of Wireless Mesh Networks with Network Coding.
+Kai Li,Xiaodong Wang
+2008. article: IEEE Trans. Mob. Comput.. key: journals/tmc/LiW08
+
+Adaptive Optimization of IEEE 802.11 DCF Based on Bayesian Estimation of the Number of Competing Terminals.
+Alberto Lopez Toledo,Tom Vercauteren,Xiaodong Wang
+2006. article: IEEE Trans. Mob. Comput.. key: journals/tmc/ToledoVW06
+
+TCP Performance over Wireless MIMO Channels with ARQ and Packet Combining.
+Alberto Lopez Toledo,Xiaodong Wang
+2006. article: IEEE Trans. Mob. Comput.. key: journals/tmc/ToledoW06
+
+Optimal Resource Allocation for Wireless Video over CDMA Networks.
+Shengjie Zhao,Zixiang Xiong,Xiaodong Wang
+2005. article: IEEE Trans. Mob. Comput.. key: journals/tmc/ZhaoXW05
+
+Progressive Video Delivery over Wideband Wireless Channels Using Space-Time Differentially Coded OFDM Systems.
+Shengjie Zhao,Zixiang Xiong,Xiaodong Wang,Jianping Hua
+2006. article: IEEE Trans. Mob. Comput.. key: journals/tmc/ZhaoXWH06
+
+Differentiated TCP User Perception over Downlink Packet Data Cellular Systems.
+Aimin Sang,Xiaodong Wang,Mohammad Madihian
+2007. article: IEEE Trans. Mob. Comput.. key: journals/tmc/SangWM07
+
+Cross-Layer Design of Wireless Multihop Backhaul Networks With Multiantenna Beamforming.
+Seung-Jun Kim,Xiaodong Wang,Mohammad Madihian
+2007. article: IEEE Trans. Mob. Comput.. key: journals/tmc/KimWM07
+
+Intrusion Detection in Homogeneous and Heterogeneous Wireless Sensor Networks.
+Yun Wang,Xiaodong Wang,Bin Xie,Demin Wang,Dharma P. Agrawal
+2008. article: IEEE Trans. Mob. Comput.. key: journals/tmc/WangWXWA08
+
+Multiplexing Video on Multiuser Broadcast Channels.
+Raju Hormis,Elliot N. Linzer,Xiaodong Wang
+2008. article: IEEE Trans. Mob. Comput.. key: journals/tmc/HormisLW08
+
+Beacon-Assisted Spectrum Access with Cooperative Cognitive Transmitter and Receiver.
+Ali Tajer,Xiaodong Wang
+2010. article: IEEE Trans. Mob. Comput.. key: journals/tmc/TajerW10
+
+Distributed Initialization Algorithms for Single-Hop Ad Hoc Networks with Minislotted Carrier Sensing.
+Zhijun Cai,Mi Lu,Xiaodong Wang
+2003. article: IEEE Trans. Parallel Distrib. Syst.. key: journals/tpds/CaiLW03
+
+Range-Free Localization Using Expected Hop Progress in Wireless Sensor Networks.
+Yun Wang,Xiaodong Wang,Demin Wang,Dharma P. Agrawal
+2009. article: IEEE Trans. Parallel Distrib. Syst.. key: journals/tpds/WangWWA09
+
+Dynamic channel management in MIMO OFDM cellular systems.
+Ben Lu,Xiaodong Wang,Richard D. Gitlin,Mohammad Madihian
+2004. article: Wireless Communications and Mobile Computing. key: journals/wicomm/LuWGM04
+
+Progressive image transmission over differentially space-time coded OFDM systems.
+Yong Sun,Zixiang Xiong,Xiaodong Wang
+2006. article: Wireless Communications and Mobile Computing. key: journals/wicomm/SunXW06
+
+Impact of channel conditions on the throughput optimization in 802.11 DCF.
+Xiaodong Wang,Jun Yin,Dharma P. Agrawal
+2005. article: Wireless Communications and Mobile Computing. key: journals/wicomm/WangYA05
+
+Multiuser resource allocation for video transmission over a chip-interleaved multicarrier system.
+Kai Yang,Vladimir Stankovic,Zixiang Xiong,Xiaodong Wang
+2007. article: Wireless Communications and Mobile Computing. key: journals/wicomm/YangSXW07
+
+Efficient ARQ protocols with anti-jamming coding for cognitive radios.
+Guosen Yue,Xiaodong Wang
+2009. article: Wireless Communications and Mobile Computing. key: journals/wicomm/YueW09
+
+Subspace methods for blind joint channel estimation and multiuser detection in CDMA systems.
+Xiaodong Wang,H. Vincent Poor
+2000. article: Wireless Networks. key: journals/winet/WangP00
+
+Adaptive joint multiuser detection and channel estimation in multipath fading CDMA channels.
+Xiaodong Wang,H. Vincent Poor
+1998. article: Wireless Networks. key: journals/winet/WangP98
+
+Physical-layer air interface solutions for broadband high-speed wireless cellular systems.
+Ben Lu,Xiaodong Wang,Mohammad Madihian
+2007. article: Wireless Networks. key: journals/winet/LuWM07
+
+Coordinated load balancing, handoff/cell-site selection, and scheduling in multi-cell packet data systems.
+Aimin Sang,Xiaodong Wang,Mohammad Madihian,Richard D. Gitlin
+2008. article: Wireless Networks. key: journals/winet/SangWMG08
+
+Low-complexity Turbo-equalization for diversity channels.
+Daryl Reynolds,Xiaodong Wang
+2001. article: Signal Processing. key: journals/sigpro/ReynoldsW01
+
+Bayesian turbo multiuser detection for nonlinearly modulated CDMA.
+Van Dao Phan,Xiaodong Wang
+2002. article: Signal Processing. key: journals/sigpro/PhanW02
+
+Construction of genomic networks using mutual-information clustering and reversible-jump Markov-chain-Monte-Carlo predictor design.
+Xiaobo Zhou,Xiaodong Wang,Edward R. Dougherty
+2003. article: Signal Processing. key: journals/sigpro/ZhouWD03
+
+Diaphragm design guidelines and an optical pressure sensor based on MEMS technique.
+Xiaodong Wang,Baoqing Li,Onofrio L. Russo,Harry T. Roman,Ken K. Chin,Kenneth R. Farmer
+2006. article: Microelectronics Journal. key: journals/mj/WangLRRCF06
+
+FIR-median hybrid filters with polynomial fitting.
+Xiaobo Zhou,Xiaodong Wang
+2004. article: Digital Signal Processing. key: journals/dsp/ZhouW04
+
+New sequential Monte Carlo methods for nonlinear dynamic systems.
+Dong Guo,Xiaodong Wang,Rong Chen
+2005. article: Statistics and Computing. key: journals/sac/GuoWC05
+
+Monte Carlo Bayesian Signal Processing for Wireless Communications.
+Xiaodong Wang,Rong Chen,Jun S. Liu
+2002. article: VLSI Signal Processing. key: journals/vlsisp/WangCL02
+
+Discrete stochastic approximation algorithms for design of optimal sensor fusion rules.
+In Sock Jang,Xiaodong Wang,Vikram Krishnamurthy
+2007. article: IJSNet. key: journals/ijsnet/JangWK07
+
+Energy efficiency of a per-hop relay selection scheme for sensor networks using cooperative MIMO.
+Seung-Jun Kim,Xiaodong Wang,Mohammad Madihian
+2008. article: IJSNet. key: journals/ijsnet/KimWM08
+
+Efficient multipath in wireless networks using network coding over braided meshes.
+Alberto Lopez Toledo,Xiaodong Wang
+2010. article: IJSNet. key: journals/ijsnet/ToledoW10
+
+Batch and Sequential Bayesian Estimators of the Number of Active Terminals in an IEEE 802.11 Network.
+Tom Vercauteren,Alberto Lopez Toledo,Xiaodong Wang
+2007. article: IEEE Transactions on Signal Processing. key: journals/tsp/VercauterenTW07
+
+Hierarchical Forecasting of Web Server Workload Using Sequential Monte Carlo Training.
+Tom Vercauteren,Pradeep Aggarwal,Xiaodong Wang,Ta-Hsin Li
+2007. article: IEEE Transactions on Signal Processing. key: journals/tsp/VercauterenAWL07
+
+An Enhanced Deterministic Sequential Monte Carlo Method for Near-Optimal MIMO Demodulation With QAM Constellations.
+Pradeep Aggarwal,Narayan Prasad,Xiaodong Wang
+2007. article: IEEE Transactions on Signal Processing. key: journals/tsp/AggarwalPW07
+
+Optimization of LDPC-coded turbo CDMA systems.
+Xiaodong Wang,Guosen Yue,K. R. Narayanan
+2005. article: IEEE Transactions on Signal Processing. key: journals/tsp/WangYN05
+
+Interference suppression and diversity exploitation for multiantenna CDMA with ultra-low complexity receivers.
+Daryl Reynolds,Xiaodong Wang,Kirtan N. Modi
+2005. article: IEEE Transactions on Signal Processing. key: journals/tsp/ReynoldsWM05
+
+Decentralized sigma-point information filters for target tracking in collaborative sensor networks.
+Tom Vercauteren,Xiaodong Wang
+2005. article: IEEE Transactions on Signal Processing. key: journals/tsp/VercauterenW05
+
+Stochastic gradient algorithms for design of minimum error-rate linear dispersion codes in MIMO wireless systems.
+Xiaodong Wang,Vikram Krishnamurthy,Jibing Wang
+2006. article: IEEE Transactions on Signal Processing. key: journals/tsp/WangKW06
+
+Coding Schemes for User Cooperation in Low-Power Regimes.
+Guosen Yue,Xiaodong Wang,Zigui Yang,Anders Host-Madsen
+2008. article: IEEE Transactions on Signal Processing. key: journals/tsp/YueWYH08
+
+A Sequential Monte Carlo Method for Motif Discovery.
+Kuo-ching Liang,Xiaodong Wang,Dimitris Anastassiou
+2008. article: IEEE Transactions on Signal Processing. key: journals/tsp/LiangWA08
+
+Multiuser detection for cooperative networks and performance analysis.
+Luca Venturino,Xiaodong Wang,Marco Lops
+2006. article: IEEE Transactions on Signal Processing. key: journals/tsp/VenturinoWL06
+
+Quasi-Monte Carlo filtering in nonlinear dynamic systems.
+Dong Guo,Xiaodong Wang
+2006. article: IEEE Transactions on Signal Processing. key: journals/tsp/GuoW06
+
+Cross-Layer optimization for LDPC-coded multirate multiuser systems with QoS constraints.
+Kai Li,Xiaodong Wang
+2006. article: IEEE Transactions on Signal Processing. key: journals/tsp/LiW06
+
+An auction approach to resource allocation in uplink OFDMA systems.
+Kai Yang,Narayan Prasad,Xiaodong Wang
+2009. article: IEEE Transactions on Signal Processing. key: journals/tsp/YangPW09
+
+Adaptive mode- and diversity-control for video transmission on MIMO wireless channels.
+Raju Hormis,Elliot N. Linzer,Xiaodong Wang
+2009. article: IEEE Transactions on Signal Processing. key: journals/tsp/HormisLW09
+
+Fair-rate allocation in multiuser OFDM-SDMA networks.
+Narayan Prasad,Kai Li,Xiaodong Wang
+2009. article: IEEE Transactions on Signal Processing. key: journals/tsp/PrasadLW09
+
+Beamforming and rate allocation in MISO cognitive radio networks.
+Ali Tajer,Narayan Prasad,Xiaodong Wang
+2010. article: IEEE Transactions on Signal Processing. key: journals/tsp/TajerPW10
+
+Multilevel sequential monte carlo algorithms for MIMO demodulation.
+Pradeep Aggarwal,Xiaodong Wang
+2007. article: IEEE Transactions on Wireless Communications. key: journals/twc/AggarwalW07
+
+Real-Time QoS in Enhanced 3G Cellular Packet Systems of a Shared Downlink Channel.
+Aimin Sang,Xiaodong Wang,Mohammad Madihian
+2007. article: IEEE Transactions on Wireless Communications. key: journals/twc/SangWM07
+
+Analysis of IEEE 802.16 Mesh Mode Scheduler Performance.
+Min Cao,Wenchao Ma,Qian Zhang,Xiaodong Wang
+2007. article: IEEE Transactions on Wireless Communications. key: journals/twc/CaoMZW07
+
+Analysis and Optimization of Interleave-Division Multiple-Access Communication Systems.
+Kai Li,Xiaodong Wang,Li Ping
+2007. article: IEEE Transactions on Wireless Communications. key: journals/twc/LiWP07
+
+Linear Precoding Versus Linear Multiuser Detection in Downlink TDD-CDMA Systems.
+Inaki Berenguer,Xiaodong Wang,Manuel Donaire,Daryl Reynolds,Anders Host-Madsen
+2007. article: IEEE Transactions on Wireless Communications. key: journals/twc/BerenguerWDRH07
+
+Distributed Joint Routing and Medium Access Control for Lifetime Maximization of Wireless Sensor Networks.
+Seung-Jun Kim,Xiaodong Wang,Mohammad Madihian
+2007. article: IEEE Transactions on Wireless Communications. key: journals/twc/KimWM07
+
+A High-Throughput MAC Protocol for Wireless Ad Hoc Networks.
+Wanrong Yu,Jiannong Cao,Xingming Zhou,Xiaodong Wang,Keith C. C. Chan,Alvin T. S. Chan,Hong Va Leong
+2008. article: IEEE Transactions on Wireless Communications. key: journals/twc/YuCZWCCL08
+
+Battery-Aware Adaptive Modulation Based on Large-Scale MDP.
+Kai Yang,Xiaodong Wang
+2008. article: IEEE Transactions on Wireless Communications. key: journals/twc/YangW08
+
+A multicarrier interleave-division uwb system.
+Kai Yang,Xiaodong Wang
+2006. article: IEEE Transactions on Wireless Communications. key: journals/twc/YangW06
+
+A cross-layer TCP modelling framework for MIMO wireless systems.
+Alberto Lopez Toledo,Xiaodong Wang,Ben Lu
+2006. article: IEEE Transactions on Wireless Communications. key: journals/twc/ToledoWL06
+
+A hybrid PAPR reduction scheme for coded OFDM.
+Guosen Yue,Xiaodong Wang
+2006. article: IEEE Transactions on Wireless Communications. key: journals/twc/YueW06
+
+A flexible downlink scheduling scheme in cellular packet data systems.
+Aimin Sang,Xiaodong Wang,Mohammad Madihian,Richard D. Gitlin
+2006. article: IEEE Transactions on Wireless Communications. key: journals/twc/SangWMG06
+
+Optimum design of noncoherent cayley unitary space-time codes.
+Jibing Wang,Xiaodong Wang
+2006. article: IEEE Transactions on Wireless Communications. key: journals/twc/WangW06
+
+EXIT chart analysis of turbo multiuser detection.
+Kai Li,Xiaodong Wang
+2005. article: IEEE Transactions on Wireless Communications. key: journals/twc/LiW05
+
+Estimating the PDF of the SIC-MMSE equalizer output and its applications in designing LDPC codes with turbo equalization.
+K. R. Narayanan,Xiaodong Wang,Guosen Yue
+2005. article: IEEE Transactions on Wireless Communications. key: journals/twc/NarayananWY05
+
+Optimization of irregular repeat accumulate codes for MIMO systems with iterative receivers.
+Guosen Yue,Xiaodong Wang
+2005. article: IEEE Transactions on Wireless Communications. key: journals/twc/YueW05
+
+Utility-based joint power and rate allocation for downlink CDMA with blind multiuser detection.
+Chuxiang Li,Xiaodong Wang,Daryl Reynolds
+2005. article: IEEE Transactions on Wireless Communications. key: journals/twc/LiWR05
+
+On the optimum design of space-time linear-dispersion codes.
+Jibing Wang,Xiaodong Wang,Mohammad Madihian
+2005. article: IEEE Transactions on Wireless Communications. key: journals/twc/WangWM05
+
+Optimal resource allocation in multi-hop OFDMA wireless networks with cooperative relay.
+Seung-Jun Kim,Xiaodong Wang,Mohammad Madihian
+2008. article: IEEE Transactions on Wireless Communications. key: journals/twc/KimWM08
+
+Coding-spreading tradeoff in LDPC-coded CDMA with turbo multiuser detection.
+Guosen Yue,Xiaodong Wang
+2004. article: IEEE Transactions on Wireless Communications. key: journals/twc/YueW04
+
+Throughput of CDMA data networks with multiuser detection, ARQ, and packet combining.
+Ben Lu,Xiaodong Wang,Junshan Zhang
+2004. article: IEEE Transactions on Wireless Communications. key: journals/twc/LuWZ04
+
+Performance comparisons of channel estimation techniques in multipath fading CDMA.
+Guosen Yue,Xiaobo Zhou,Xiaodong Wang
+2004. article: IEEE Transactions on Wireless Communications. key: journals/twc/YueZW04
+
+Optimal power control in MIMO systems with quantized feedback.
+Mohammad Ali Khojastepour,Guosen Yue,Xiaodong Wang,Mohammad Madihian
+2008. article: IEEE Transactions on Wireless Communications. key: journals/twc/KhojastepourYWM08
+
+LDPC Code Design for Half-Duplex Cooperative Relay.
+Chuxiang Li,Guosen Yue,Xiaodong Wang,Mohammad Ali Khojastepour
+2008. article: IEEE Transactions on Wireless Communications. key: journals/twc/LiYWK08
+
+Efficient receiver algorithms for DFT-spread OFDM systems.
+Narayan Prasad,Shuangquan Wang,Xiaodong Wang
+2009. article: IEEE Transactions on Wireless Communications. key: journals/twc/PrasadWW09
+
+Anti-jamming coding techniques with application to cognitive radio.
+Guosen Yue,Xiaodong Wang
+2009. article: IEEE Transactions on Wireless Communications. key: journals/twc/YueW09
+
+A multilayer space-time-frequency coding scheme for MIMO-OFDM.
+Guosen Yue,Li Zhang,Xiaodong Wang
+2009. article: IEEE Transactions on Wireless Communications. key: journals/twc/YueZW09
+
+Blind frequency-dependent I/Q imbalance compensation for direct-conversion receivers.
+Yingming Tsai,Chia-Pang Yen,Xiaodong Wang
+2010. article: IEEE Transactions on Wireless Communications. key: journals/twc/TsaiYW10
+
+MSE-Based Transceiver Designs for the MIMO Interference Channel.
+Hui Shen,Bin Li,Meixia Tao,Xiaodong Wang
+2010. article: IEEE Transactions on Wireless Communications. key: journals/twc/ShenLTW10
+
+Analysis and optimization of a rateless coded joint relay system.
+Chen Gong,Guosen Yue,Xiaodong Wang
+2010. article: IEEE Transactions on Wireless Communications. key: journals/twc/GongYW10
+
+Coordinated linear beamforming in downlink multi-cell wireless networks.
+Luca Venturino,Narayan Prasad,Xiaodong Wang
+2010. article: IEEE Transactions on Wireless Communications. key: journals/twc/VenturinoPW10
+
+Randomized Broadcast Channel Access Algorithms for Ad Hoc Networks.
+Zhijun Cai,Mi Lu,Xiaodong Wang
+2002. article: IJWIN. key: journals/ijwin/CaiLW02
+
+Robust Detection of MAC Layer Denial-of-Service Attacks in CSMA/CA Wireless Networks.
+Alberto Lopez Toledo,Xiaodong Wang
+2008. article: IEEE Transactions on Information Forensics and Security. key: journals/tifs/ToledoW08
+
+Adaptive typhoon cloud image enhancement using genetic algorithm and non-linear gain operation in undecimated wavelet domain.
+Changjiang Zhang,Xiaodong Wang,Chunjiang Duanmu
+2010. article: Eng. Appl. of AI. key: journals/eaai/ZhangWD10

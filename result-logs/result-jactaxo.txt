@@ -1,0 +1,1219 @@
+shaohua@lsh:/media/tough/namedis$ perl clust.pl -b original.batch -j0.03,0.04
+Subroutine cmdline redefined at clust.pl line 1112.
+Use default IC file: /media/first/wikipedia/ic.txt
+Use default lemma cache file: /media/first/wikipedia/lemma-cache.txt
+Use new CSLR
+Use default ancestor file: /media/first/wikipedia/ancestors.txt
+Will load ancestor lists from file '/media/first/wikipedia/ancestors.txt'
+Will use Jaccard similarity
+Info will be logged into 'clust-214856.log'.
+407 pinyin loaded into '%pinyinNames' from '/media/tough/namedis/pinyin.txt'
+325 pinyin loaded into '%cantonpinyinNames' from '/media/tough/namedis/cantonpinyin.txt'
+Loading Chinese name ambiguity file 'ambiguity.csv'...
+88072 Chinese names loaded
+358 Chinese surnames loaded
+21169 Chinese given names loaded
+Loading name coauthor stat file 'coauthor-stat.txt'...
+193717 1593403    
+193717 names' coauthor stats (1593403 total) loaded
+Loading terms from '/media/tough/namedis/unigram.csv'...
+Stop at line 68032. Last loaded word: zytkow 2
+68029
+68029 terms loaded into '%gUnigrams' from '/media/tough/namedis/unigram.csv'
+Open '/media/first/wikipedia/lemma-cache.txt' to load '%lemmaLookup'...
+1074628 entries in 1081496 lines loaded from '/media/first/wikipedia/lemma-cache.txt'. 1074629 entries in '%lemmaLookup'
+Lemmatizer 'morpha' is up and running happily as process 16398
+Processing starts at 21:48:56
+Open 'venue-simi.txt' to load similar venue pairs
+161086    
+40744 pairs for 2360 venues are loaded
+new term mode is set to NEWTERM_COMPLEX
+82 lemmas are marked as reliant
+4 parent terms excluded, except 7 white edges
+13 black edges of 11 parent terms excluded
+Loading edges from '/media/first/wikipedia/csmathling-full.txt':
+311721 lines read from '/media/first/wikipedia/csmathling-full.txt'
+311684 edges, 265131 nodes
+ExcludeX 249 terms
+Children of 193 terms excluded
+Set the root of @conceptNet to: 'Computer science','Computer engineering','Electromagnetism','Mathematics','Linguistics'
+BFS traverse of the concept net at roots 'Computer science','Computer engineering','Electromagnetism','Mathematics','Linguistics':
+264999 267357    
+267357 edges between 264999 nodes traversed    
+Loading ancestor lists from '/media/first/wikipedia/ancestors.txt'...
+8886712 ancestors of 256564 terms are loaded
+Loading network ICs from '/media/first/wikipedia/ic.txt'...
+# MC: 1803905.81946559. addedFreqSum: 1803905.81946559. addedCountableFreqCount: 3126728. authorGID: 880789
+Average match score: 0.576930842550292
+83282 line read, 83267 entries loaded. MC: 1803905.81946559
+Set $ICOffset: 0 => 3.5
+Open batch file 'original.batch' to process...
+
+Info will be logged into 'hui fang-214856.log'.
+Open groundtruth file 'hui fang-labels.txt' to process...
+45 publications of 8 authors loaded
+University of Delaware: 19 | Swansea University, Wales, UK: 12 | Google, Inc.: 6 | SMA, NTU: 3 | University of Jinan, Shandong, China: 2 | College of Biosystems Engineering and Food Science, Zhejiang University: 1 | Laboratory of Underwater Acoustic Communication and Marine Information Technology, Xiamen University: 1 | Kunming University of Science and Technology: 1
+Groundtruth total pairs: 256
+
+Processing author 'hui fang', true K: 3, estimated K: 4.31290699414517
+Using Jaccard simi for coauthors. Thres: 0.03 - 0.03
+Using Jaccard simi for venues. Thres: 0.04 - 0.04
+Merge pubs of 'hui fang' by co-authors using Jaccard similarity, thres 0.03...
+Done. Get 15 clusters
+15 clusters. Should be 8.
+
+Summary:
+Prec: 1. Recall: 0.6211. F1: 0.7663
+
+Try to cluster 45 papers of 'hui fang' into 4.31290699414517 clusters. Thres: 0.05
+
+Extract concept vectors from titles:
+Concept vectors of 46 papers extracted
+venueJacThres: 0.04.
+K: 15
+13 14      
+Max similar value: 0.901. Merge clusters 1(16) and 7(1) to 16(17).
+1: University of Delaware: 16
+7: University of Delaware: 1
+K: 14
+12 13      
+Max similar value: 0.385. Merge clusters 16(17) and 6(1) to 17(18).
+16: University of Delaware: 17
+6: University of Delaware: 1
+K: 13
+11 12      
+Max similar value: 0.217. Merge clusters 2(6) and 4(4) to 18(10).
+2: Swansea University, Wales, UK: 6
+4: Swansea University, Wales, UK: 4
+K: 12
+10 11      
+Max similar value: 0.077. Merge clusters 8(1) and 14(1) to 19(2).
+8: University of Jinan, Shandong, China: 1
+14: University of Jinan, Shandong, China: 1
+K: 11
+9 10      
+Clustering stops at: 21:58:48. Used time: 0h0m1s
+Max similar value: 0.01937. Clusters 19(2) and 15(1) not merged.
+19: University of Jinan, Shandong, China: 2
+15: Kunming University of Science and Technology: 1
+11 clusters. Should be 8.
+
+Summary:
+Prec: 1. Recall: 0.8477. F1: 0.9175
+
+Info will be logged into 'ajay gupta-214856.log'.
+Open groundtruth file 'ajay gupta-labels.txt' to process...
+79 publications of 8 authors loaded
+Western Michigan University: 43 | IBM Research India: 12 | Old Dominion University: 10 | HP Laboratories Bristol: 4 | HP Laboratories, Bangalore: 4 | Director, DUCC, Delhi University: 4 | Airtight Networks, Pune: 1 | University of Iowa: 1
+Groundtruth total pairs: 1032
+
+Processing author 'ajay gupta', true K: 4, estimated K: 0
+Warn: 'ajay gupta' doesn't look like a Chinese name
+Using Jaccard simi for coauthors. Thres: 0.03 - 0.03
+Using Jaccard simi for venues. Thres: 0.04 - 0.04
+Merge pubs of 'ajay gupta' according to same co-authors...
+Done. Get 24 clusters
+24 clusters. Should be 8.
+
+Summary:
+Prec: 1. Recall: 0.3081. F1: 0.4711
+
+Try to cluster 79 papers of 'ajay gupta' into 2 clusters. Thres: 0.05
+
+Extract concept vectors from titles:
+Concept vectors of 80 papers extracted
+venueJacThres: 0.04.
+K: 24
+22 23      
+Max similar value: 46.657. Merge clusters 11(1) and 17(4) to 25(5).
+11: University of Iowa: 1
+17: Western Michigan University: 4
+K: 23
+21 22      
+Max similar value: 11.866. Merge clusters 18(3) and 21(1) to 26(4).
+18: Western Michigan University: 3
+21: Western Michigan University: 1
+K: 22
+20 21      
+Max similar value: 1.973. Merge clusters 25(5) and 16(4) to 27(9).
+25: Western Michigan University: 4   University of Iowa: 1
+16: Western Michigan University: 4
+K: 21
+19 20      
+Max similar value: 34.21. Merge clusters 27(9) and 26(4) to 28(13).
+27: Western Michigan University: 8   University of Iowa: 1
+26: Western Michigan University: 4
+K: 20
+18 19      
+Max similar value: 0.072. Merge clusters 28(13) and 15(8) to 29(21).
+28: Western Michigan University: 12   University of Iowa: 1
+15: Western Michigan University: 8
+K: 19
+17 18      
+Max similar value: 0.072. Merge clusters 6(1) and 13(20) to 30(21).
+6: Western Michigan University: 1
+13: Western Michigan University: 20
+K: 18
+16 17      
+Max similar value: 0.061. Merge clusters 1(10) and 9(1) to 31(11).
+1: IBM Research India: 10
+9: Airtight Networks, Pune: 1
+K: 17
+15 16      
+Clustering stops at: 21:58:56. Used time: 0h0m5s
+Max similar value: 0.03869. Clusters 29(21) and 23(1) not merged.
+29: Western Michigan University: 20   University of Iowa: 1
+23: Western Michigan University: 1
+17 clusters. Should be 8.
+
+Summary:
+Prec: 0.9417. Recall: 0.47. F1: 0.627
+
+Info will be logged into 'joseph hellerstein-214856.log'.
+Open groundtruth file 'joseph hellerstein-labels.txt' to process...
+235 publications of 2 authors loaded
+CS, Berkeley: 141 | Google, Inc [was in IBM T. J. Watson Research Center]: 94
+Groundtruth total pairs: 14241
+
+Processing author 'joseph hellerstein', true K: 2, estimated K: 0
+Warn: 'joseph hellerstein' doesn't look like a Chinese name
+Using Jaccard simi for coauthors. Thres: 0.03 - 0.03
+Using Jaccard simi for venues. Thres: 0.04 - 0.04
+Merge pubs of 'joseph hellerstein' according to same co-authors...
+Done. Get 59 clusters
+59 clusters. Should be 2.
+
+Summary:
+Prec: 1. Recall: 0.5178. F1: 0.6823
+
+Try to cluster 235 papers of 'joseph hellerstein' into 2 clusters. Thres: 0.05
+
+Extract concept vectors from titles:
+Concept vectors of 236 papers extracted
+venueJacThres: 0.04.
+K: 59
+57 58      
+Max similar value: 387.875. Merge clusters 12(1) and 13(1) to 60(2).
+12: Google, Inc [was in IBM T. J. Watson Research Center]: 1
+13: Google, Inc [was in IBM T. J. Watson Research Center]: 1
+K: 58
+56 57      
+Max similar value: 40.113. Merge clusters 15(1) and 16(1) to 61(2).
+15: Google, Inc [was in IBM T. J. Watson Research Center]: 1
+16: Google, Inc [was in IBM T. J. Watson Research Center]: 1
+K: 57
+55 56      
+Max similar value: 32.646. Merge clusters 4(8) and 6(3) to 62(11).
+4: Google, Inc [was in IBM T. J. Watson Research Center]: 8
+6: Google, Inc [was in IBM T. J. Watson Research Center]: 3
+K: 56
+54 55      
+Max similar value: 19.655. Merge clusters 61(2) and 19(1) to 63(3).
+61: Google, Inc [was in IBM T. J. Watson Research Center]: 2
+19: Google, Inc [was in IBM T. J. Watson Research Center]: 1
+K: 55
+53 54      
+Max similar value: 17.715. Merge clusters 62(11) and 60(2) to 64(13).
+62: Google, Inc [was in IBM T. J. Watson Research Center]: 11
+60: Google, Inc [was in IBM T. J. Watson Research Center]: 2
+K: 54
+52 53      
+Max similar value: 7.447. Merge clusters 31(1) and 32(1) to 65(2).
+31: Google, Inc [was in IBM T. J. Watson Research Center]: 1
+32: Google, Inc [was in IBM T. J. Watson Research Center]: 1
+K: 53
+51 52      
+Max similar value: 7.223. Merge clusters 64(13) and 63(3) to 66(16).
+64: Google, Inc [was in IBM T. J. Watson Research Center]: 13
+63: Google, Inc [was in IBM T. J. Watson Research Center]: 3
+K: 52
+50 51      
+Max similar value: 4.001. Merge clusters 3(13) and 66(16) to 67(29).
+3: Google, Inc [was in IBM T. J. Watson Research Center]: 13
+66: Google, Inc [was in IBM T. J. Watson Research Center]: 16
+K: 51
+49 50      
+Max similar value: 3.144. Merge clusters 1(117) and 50(1) to 68(118).
+1: CS, Berkeley: 117
+50: CS, Berkeley: 1
+K: 50
+48 49      
+Max similar value: 2.134. Merge clusters 2(31) and 67(29) to 69(60).
+2: Google, Inc [was in IBM T. J. Watson Research Center]: 31
+67: Google, Inc [was in IBM T. J. Watson Research Center]: 29
+K: 49
+47 48      
+Max similar value: 1.98. Merge clusters 68(118) and 8(3) to 70(121).
+68: CS, Berkeley: 118
+8: CS, Berkeley: 3
+K: 48
+46 47      
+Max similar value: 1.344. Merge clusters 70(121) and 69(60) to 71(181).
+70: CS, Berkeley: 121
+69: Google, Inc [was in IBM T. J. Watson Research Center]: 60
+K: 47
+45 46      
+Max similar value: 1.064. Merge clusters 17(1) and 65(2) to 72(3).
+17: Google, Inc [was in IBM T. J. Watson Research Center]: 1
+65: Google, Inc [was in IBM T. J. Watson Research Center]: 2
+K: 46
+44 45      
+Max similar value: 0.658. Merge clusters 71(181) and 37(1) to 73(182).
+71: CS, Berkeley: 121   Google, Inc [was in IBM T. J. Watson Research Center]: 60
+37: CS, Berkeley: 1
+K: 45
+43 44      
+Max similar value: 0.625. Merge clusters 33(1) and 34(1) to 74(2).
+33: CS, Berkeley: 1
+34: CS, Berkeley: 1
+K: 44
+42 43      
+Max similar value: 0.625. Merge clusters 74(2) and 35(1) to 75(3).
+74: CS, Berkeley: 2
+35: CS, Berkeley: 1
+K: 43
+41 42      
+Max similar value: 0.625. Merge clusters 44(1) and 45(1) to 76(2).
+44: Google, Inc [was in IBM T. J. Watson Research Center]: 1
+45: Google, Inc [was in IBM T. J. Watson Research Center]: 1
+K: 42
+40 41      
+Max similar value: 0.625. Merge clusters 76(2) and 46(1) to 77(3).
+76: Google, Inc [was in IBM T. J. Watson Research Center]: 2
+46: Google, Inc [was in IBM T. J. Watson Research Center]: 1
+K: 41
+39 40      
+Max similar value: 0.399. Merge clusters 27(1) and 52(1) to 78(2).
+27: CS, Berkeley: 1
+52: CS, Berkeley: 1
+K: 40
+38 39      
+Max similar value: 0.333. Merge clusters 73(182) and 72(3) to 79(185).
+73: CS, Berkeley: 122   Google, Inc [was in IBM T. J. Watson Research Center]: 60
+72: Google, Inc [was in IBM T. J. Watson Research Center]: 3
+K: 39
+37 38      
+Max similar value: 0.312. Merge clusters 9(2) and 18(1) to 80(3).
+9: Google, Inc [was in IBM T. J. Watson Research Center]: 2
+18: Google, Inc [was in IBM T. J. Watson Research Center]: 1
+K: 38
+36 37      
+Max similar value: 0.296. Merge clusters 54(1) and 58(1) to 81(2).
+54: CS, Berkeley: 1
+58: CS, Berkeley: 1
+K: 37
+35 36      
+Max similar value: 0.244. Merge clusters 79(185) and 39(1) to 82(186).
+79: CS, Berkeley: 122   Google, Inc [was in IBM T. J. Watson Research Center]: 63
+39: CS, Berkeley: 1
+K: 36
+34 35      
+Max similar value: 0.207. Merge clusters 82(186) and 51(1) to 83(187).
+82: CS, Berkeley: 123   Google, Inc [was in IBM T. J. Watson Research Center]: 63
+51: CS, Berkeley: 1
+K: 35
+33 34      
+Max similar value: 0.187. Merge clusters 83(187) and 23(1) to 84(188).
+83: CS, Berkeley: 124   Google, Inc [was in IBM T. J. Watson Research Center]: 63
+23: Google, Inc [was in IBM T. J. Watson Research Center]: 1
+K: 34
+32 33      
+Max similar value: 0.144. Merge clusters 40(1) and 81(2) to 85(3).
+40: CS, Berkeley: 1
+81: CS, Berkeley: 2
+K: 33
+31 32      
+Max similar value: 0.105. Merge clusters 22(1) and 24(1) to 86(2).
+22: Google, Inc [was in IBM T. J. Watson Research Center]: 1
+24: Google, Inc [was in IBM T. J. Watson Research Center]: 1
+K: 32
+30 31      
+Max similar value: 0.081. Merge clusters 84(188) and 41(1) to 87(189).
+84: CS, Berkeley: 124   Google, Inc [was in IBM T. J. Watson Research Center]: 64
+41: Google, Inc [was in IBM T. J. Watson Research Center]: 1
+K: 31
+29 30      
+Max similar value: 0.08. Merge clusters 87(189) and 80(3) to 88(192).
+87: CS, Berkeley: 124   Google, Inc [was in IBM T. J. Watson Research Center]: 65
+80: Google, Inc [was in IBM T. J. Watson Research Center]: 3
+K: 30
+28 29      
+Max similar value: 0.062. Merge clusters 88(192) and 43(1) to 89(193).
+88: CS, Berkeley: 124   Google, Inc [was in IBM T. J. Watson Research Center]: 68
+43: CS, Berkeley: 1
+K: 29
+27 28      
+Max similar value: 0.062. Merge clusters 89(193) and 48(1) to 90(194).
+89: CS, Berkeley: 125   Google, Inc [was in IBM T. J. Watson Research Center]: 68
+48: Google, Inc [was in IBM T. J. Watson Research Center]: 1
+K: 28
+26 27      
+Max similar value: 0.054. Merge clusters 90(194) and 7(3) to 91(197).
+90: CS, Berkeley: 125   Google, Inc [was in IBM T. J. Watson Research Center]: 69
+7: Google, Inc [was in IBM T. J. Watson Research Center]: 3
+K: 27
+25 26      
+Clustering stops at: 22:00:17. Used time: 0h1m12s
+Max similar value: 0.04966. Clusters 91(197) and 57(1) not merged.
+91: CS, Berkeley: 125   Google, Inc [was in IBM T. J. Watson Research Center]: 72
+57: CS, Berkeley: 1
+27 clusters. Should be 2.
+
+Summary:
+Prec: 0.5343. Recall: 0.7249. F1: 0.6152
+
+Info will be logged into 'rakesh kumar-214856.log'.
+Open groundtruth file 'rakesh kumar-labels.txt' to process...
+104 publications of 8 authors loaded
+Sarnoff Corporation: 49 | PASSAT Group, UIUC: 37 | Polytechnic University, Brooklyn, NY: 7 | Institute of Microelectronics, Singapore: 5 | IIT, India: 2 | Kurukshetra University, India: 2 | S.S.M College Dinanagar, India: 1 | La Trobe University, Melbourne, Australia: 1
+Groundtruth total pairs: 1875
+
+Processing author 'rakesh kumar', true K: 2, estimated K: 0
+Warn: 'rakesh kumar' doesn't look like a Chinese name
+Using Jaccard simi for coauthors. Thres: 0.03 - 0.03
+Using Jaccard simi for venues. Thres: 0.04 - 0.04
+Merge pubs of 'rakesh kumar' according to same co-authors...
+Done. Get 21 clusters
+21 clusters. Should be 8.
+
+Summary:
+Prec: 1. Recall: 0.7365. F1: 0.8483
+
+Try to cluster 104 papers of 'rakesh kumar' into 2 clusters. Thres: 0.05
+
+Extract concept vectors from titles:
+Concept vectors of 105 papers extracted
+venueJacThres: 0.04.
+K: 21
+19 20      
+Max similar value: 8.774. Merge clusters 20(1) and 21(1) to 22(2).
+20: Institute of Microelectronics, Singapore: 1
+21: Institute of Microelectronics, Singapore: 1
+K: 20
+18 19      
+Max similar value: 7.672. Merge clusters 7(2) and 22(2) to 23(4).
+7: Institute of Microelectronics, Singapore: 2
+22: Institute of Microelectronics, Singapore: 2
+K: 19
+17 18      
+Max similar value: 2.747. Merge clusters 2(20) and 3(10) to 24(30).
+2: PASSAT Group, UIUC: 20
+3: PASSAT Group, UIUC: 10
+K: 18
+16 17      
+Max similar value: 2.733. Merge clusters 1(48) and 10(1) to 25(49).
+1: Sarnoff Corporation: 48
+10: Sarnoff Corporation: 1
+K: 17
+15 16      
+Max similar value: 1.136. Merge clusters 24(30) and 9(1) to 26(31).
+24: PASSAT Group, UIUC: 30
+9: PASSAT Group, UIUC: 1
+K: 16
+14 15      
+Max similar value: 0.625. Merge clusters 16(1) and 17(1) to 27(2).
+16: PASSAT Group, UIUC: 1
+17: PASSAT Group, UIUC: 1
+K: 15
+13 14      
+Max similar value: 0.409. Merge clusters 26(31) and 27(2) to 28(33).
+26: PASSAT Group, UIUC: 31
+27: PASSAT Group, UIUC: 2
+K: 14
+12 13      
+Max similar value: 0.365. Merge clusters 12(1) and 14(1) to 29(2).
+12: PASSAT Group, UIUC: 1
+14: PASSAT Group, UIUC: 1
+K: 13
+11 12      
+Max similar value: 0.209. Merge clusters 28(33) and 29(2) to 30(35).
+28: PASSAT Group, UIUC: 33
+29: PASSAT Group, UIUC: 2
+K: 12
+10 11      
+Clustering stops at: 22:00:29. Used time: 0h0m7s
+Max similar value: 0.03006. Clusters 23(4) and 19(1) not merged.
+23: Institute of Microelectronics, Singapore: 4
+19: Institute of Microelectronics, Singapore: 1
+12 clusters. Should be 8.
+
+Summary:
+Prec: 1. Recall: 0.9568. F1: 0.9779
+
+Info will be logged into 'michael wagner-214856.log'.
+Open groundtruth file 'michael wagner-labels.txt' to process...
+70 publications of 16 authors loaded
+University of Canberra, Australia: 22 | Department of Biomedical Informatics, University of Pittsburgh: 10 | Distributed Systems Group, University of Kassel, Germany: 9 | Cincinnati Children's Hospital Research Foundation: 6 | shared-reality.com, Germany: 5 | Department of Mathematics and Statistics, University of Saskatchewan, Canada: 3 | Compumedics Neuroscan, Germany: 2 | Robotics Institute, Carnegie Mellon University: 2 | Fraunhofer FOKUS, Germany: 2 | Lehrstuhl fur Mikrobiologie, TUM, Germany: 2 | Donau-Universitat Krems: 2 | Institut fur Informatik, TUM, Germany: 1 | Cornell: 1 | University of Technology Darmstadt, Germany: 1 | University of Iowa: 1 | ZIH, TU Dresden, Germany: 1
+Groundtruth total pairs: 345
+
+Processing author 'michael wagner', true K: 5, estimated K: 0
+Warn: 'michael wagner' doesn't look like a Chinese name
+Using Jaccard simi for coauthors. Thres: 0.03 - 0.03
+Using Jaccard simi for venues. Thres: 0.04 - 0.04
+Merge pubs of 'michael wagner' according to same co-authors...
+Done. Get 26 clusters
+26 clusters. Should be 16.
+
+Summary:
+Prec: 1. Recall: 0.3739. F1: 0.5443
+
+Try to cluster 70 papers of 'michael wagner' into 2 clusters. Thres: 0.05
+
+Extract concept vectors from titles:
+Concept vectors of 71 papers extracted
+venueJacThres: 0.04.
+K: 26
+24 25      
+Max similar value: 5.446. Merge clusters 2(7) and 3(7) to 27(14).
+2: University of Canberra, Australia: 7
+3: University of Canberra, Australia: 7
+K: 25
+23 24      
+Max similar value: 3.804. Merge clusters 4(6) and 25(1) to 28(7).
+4: University of Canberra, Australia: 6
+25: University of Canberra, Australia: 1
+K: 24
+22 23      
+Max similar value: 0.925. Merge clusters 1(8) and 10(2) to 29(10).
+1: Distributed Systems Group, University of Kassel, Germany: 8
+10: Fraunhofer FOKUS, Germany: 2
+K: 23
+21 22      
+Max similar value: 0.076. Merge clusters 27(14) and 28(7) to 30(21).
+27: University of Canberra, Australia: 14
+28: University of Canberra, Australia: 7
+K: 22
+20 21      
+Clustering stops at: 22:00:36. Used time: 0h0m4s
+Max similar value: 0.02772. Clusters 18(7) and 22(1) not merged.
+18: Department of Biomedical Informatics, University of Pittsburgh: 7
+22: Cincinnati Children's Hospital Research Foundation: 1
+22 clusters. Should be 16.
+
+Summary:
+Prec: 0.9463. Recall: 0.8174. F1: 0.8771
+
+Info will be logged into 'bing liu-214856.log'.
+Open groundtruth file 'bing liu-labels.txt' to process...
+192 publications of 28 authors loaded
+UIC: 132 | Department of Computing and Information Technology, Fudan University: 10 | Institute of Automation, CAS: 5 | Huazhong University of Science and Technology: 5 | EEE, NTU: 4 | Centre for Cancer Biology, SA Pathology, Adelaide, AU: 3 | Virginia Polytechnic Institute and State University: 3 | Wuhan Polytechnic University: 3 | Information Sciences Institute, USC: 2 | Software Center, Northeastern University, China: 2 | Beijing University of Posts and Telecommunications: 2 | University of Mannheim: 2 | Concordia University, Montreal, Canada: 2 | Xinjiang University: 2 | Department of Mathematics, Anshan Normal University: 2 | Tongji University: 1 | School of Management, USTC: 1 | NUS: 1 | Nankai University: 1 | Department of Automation, Tsinghua University: 1 | [bingl@ccs.neu.edu] Northeastern University: 1 | HKUST: 1 | Shandong University of Science and Technology: 1 | Shanghai Ocean University: 1 | Saginaw Valley State University: 1 | School of Software, Dalian University of Technology: 1 | Institute of Process Engineering, CAS: 1 | Harbin Institute of Technology: 1
+Groundtruth total pairs: 8733
+
+Processing author 'bing liu', true K: 6, estimated K: 20.9813819583966
+Using Jaccard simi for coauthors. Thres: 0.03 - 0.03
+Using Jaccard simi for venues. Thres: 0.04 - 0.04
+Merge pubs of 'bing liu' by co-authors using Jaccard similarity, thres 0.03...
+Done. Get 73 clusters
+73 clusters. Should be 28.
+
+Summary:
+Prec: 0.9992. Recall: 0.2939. F1: 0.4543
+
+Try to cluster 191 papers of 'bing liu' into 20.9813819583966 clusters. Thres: 0.104906909791983
+
+Extract concept vectors from titles:
+Concept vectors of 192 papers extracted
+venueJacThres: 0.04.
+K: 73
+71 72      
+Max similar value: 166.75. Merge clusters 56(1) and 57(1) to 74(2).
+56: Huazhong University of Science and Technology: 1
+57: Huazhong University of Science and Technology: 1
+K: 72
+70 71      
+Max similar value: 235.82. Merge clusters 74(2) and 58(1) to 75(3).
+74: Huazhong University of Science and Technology: 2
+58: Huazhong University of Science and Technology: 1
+K: 71
+69 70      
+Max similar value: 166.75. Merge clusters 68(1) and 69(1) to 76(2).
+68: Huazhong University of Science and Technology: 1
+69: Huazhong University of Science and Technology: 1
+K: 70
+68 69      
+Max similar value: 28.771. Merge clusters 63(1) and 64(1) to 77(2).
+63: UIC: 1
+64: UIC: 1
+K: 69
+67 68      
+Max similar value: 14.247. Merge clusters 1(70) and 18(2) to 78(72).
+1: UIC: 70
+18: UIC: 2
+K: 68
+66 67      
+Max similar value: 6.141. Merge clusters 78(72) and 3(11) to 79(83).
+78: UIC: 72
+3: UIC: 11
+K: 67
+65 66      
+Max similar value: 1.782. Merge clusters 79(83) and 26(1) to 80(84).
+79: UIC: 83
+26: Virginia Polytechnic Institute and State University: 1
+K: 66
+64 65      
+Max similar value: 1.687. Merge clusters 80(84) and 47(1) to 81(85).
+80: UIC: 83   Virginia Polytechnic Institute and State University: 1
+47: UIC: 1
+K: 65
+63 64      
+Max similar value: 1.447. Merge clusters 81(85) and 77(2) to 82(87).
+81: UIC: 84   Virginia Polytechnic Institute and State University: 1
+77: UIC: 2
+K: 64
+62 63      
+Max similar value: 1.311. Merge clusters 2(1) and 76(2) to 83(3).
+2: UIC: 1
+76: Huazhong University of Science and Technology: 2
+K: 63
+61 62      
+Max similar value: 1.311. Merge clusters 31(1) and 32(1) to 84(2).
+31: UIC: 1
+32: UIC: 1
+K: 62
+60 61      
+Max similar value: 1.311. Merge clusters 41(1) and 42(1) to 85(2).
+41: UIC: 1
+42: UIC: 1
+K: 61
+59 60      
+Max similar value: 1.311. Merge clusters 51(1) and 52(1) to 86(2).
+51: UIC: 1
+52: UIC: 1
+K: 60
+58 59      
+Max similar value: 1.138. Merge clusters 82(87) and 8(3) to 87(90).
+82: UIC: 86   Virginia Polytechnic Institute and State University: 1
+8: Information Sciences Institute, USC: 2   UIC: 1
+K: 59
+57 58      
+Max similar value: 1.015. Merge clusters 83(3) and 75(3) to 88(6).
+83: Huazhong University of Science and Technology: 2   UIC: 1
+75: Huazhong University of Science and Technology: 3
+K: 58
+56 57      
+Max similar value: 0.759. Merge clusters 87(90) and 86(2) to 89(92).
+87: UIC: 87   Information Sciences Institute, USC: 2   Virginia Polytechnic Institute and State University: 1
+86: UIC: 2
+K: 57
+55 56      
+Max similar value: 0.673. Merge clusters 89(92) and 50(1) to 90(93).
+89: UIC: 89   Information Sciences Institute, USC: 2   Virginia Polytechnic Institute and State University: 1
+50: UIC: 1
+K: 56
+54 55      
+Max similar value: 0.656. Merge clusters 17(2) and 49(1) to 91(3).
+17: UIC: 2
+49: UIC: 1
+K: 55
+53 54      
+Max similar value: 0.584. Merge clusters 5(8) and 91(3) to 92(11).
+5: UIC: 8
+91: UIC: 3
+K: 54
+52 53      
+Max similar value: 0.335. Merge clusters 90(93) and 23(1) to 93(94).
+90: UIC: 90   Information Sciences Institute, USC: 2   Virginia Polytechnic Institute and State University: 1
+23: UIC: 1
+K: 53
+51 52      
+Max similar value: 0.256. Merge clusters 93(94) and 48(1) to 94(95).
+93: UIC: 91   Information Sciences Institute, USC: 2   Virginia Polytechnic Institute and State University: 1
+48: UIC: 1
+K: 52
+50 51      
+Max similar value: 0.225. Merge clusters 25(1) and 72(1) to 95(2).
+25: School of Management, USTC: 1
+72: Department of Mathematics, Anshan Normal University: 1
+K: 51
+49 50      
+Max similar value: 0.168. Merge clusters 30(1) and 73(1) to 96(2).
+30: UIC: 1
+73: UIC: 1
+K: 50
+48 49      
+Max similar value: 0.155. Merge clusters 10(2) and 44(1) to 97(3).
+10: UIC: 2
+44: UIC: 1
+K: 49
+47 48      
+Max similar value: 0.593. Merge clusters 97(3) and 66(1) to 98(4).
+97: UIC: 3
+66: UIC: 1
+K: 48
+46 47      
+Max similar value: 0.231. Merge clusters 98(4) and 39(1) to 99(5).
+98: UIC: 4
+39: UIC: 1
+K: 47
+45 46      
+Clustering stops at: 22:02:15. Used time: 0h1m32s
+Max similar value: 0.0923. Clusters 94(95) and 15(2) not merged.
+94: UIC: 92   Information Sciences Institute, USC: 2   Virginia Polytechnic Institute and State University: 1
+15: UIC: 2
+47 clusters. Should be 28.
+
+Summary:
+Prec: 0.9384. Recall: 0.4958. F1: 0.6488
+
+Info will be logged into 'jim smith-214856.log'.
+Open groundtruth file 'jim smith-labels.txt' to process...
+54 publications of 5 authors loaded
+University of the West of England: 31 | University of Newcastle upon Tyne, UK: 19 | University of Melbourne: 2 | Carnegie Mellon Software Engineering Institute: 1 | University of Wisconsin: 1
+Groundtruth total pairs: 637
+
+Processing author 'jim smith', true K: 3, estimated K: 0
+Warn: 'jim smith' doesn't look like a Chinese name
+Using Jaccard simi for coauthors. Thres: 0.03 - 0.03
+Using Jaccard simi for venues. Thres: 0.04 - 0.04
+Merge pubs of 'jim smith' according to same co-authors...
+Done. Get 18 clusters
+18 clusters. Should be 5.
+
+Summary:
+Prec: 1. Recall: 0.3469. F1: 0.5152
+
+Try to cluster 54 papers of 'jim smith' into 2 clusters. Thres: 0.05
+
+Extract concept vectors from titles:
+Concept vectors of 55 papers extracted
+venueJacThres: 0.04.
+K: 18
+16 17      
+Max similar value: 282.981. Merge clusters 6(1) and 7(1) to 19(2).
+6: University of Newcastle upon Tyne, UK: 1
+7: University of Newcastle upon Tyne, UK: 1
+K: 17
+15 16      
+Max similar value: 5.904. Merge clusters 8(1) and 9(1) to 20(2).
+8: University of the West of England: 1
+9: University of the West of England: 1
+K: 16
+14 15      
+Max similar value: 1.478. Merge clusters 3(2) and 17(2) to 21(4).
+3: University of the West of England: 2
+17: University of the West of England: 2
+K: 15
+13 14      
+Max similar value: 1.086. Merge clusters 2(6) and 12(1) to 22(7).
+2: University of the West of England: 6
+12: University of the West of England: 1
+K: 14
+12 13      
+Max similar value: 1.042. Merge clusters 21(4) and 13(1) to 23(5).
+21: University of the West of England: 4
+13: University of the West of England: 1
+K: 13
+11 12      
+Max similar value: 1.097. Merge clusters 23(5) and 18(1) to 24(6).
+23: University of the West of England: 5
+18: University of the West of England: 1
+K: 12
+10 11      
+Max similar value: 0.592. Merge clusters 22(7) and 24(6) to 25(13).
+22: University of the West of England: 7
+24: University of the West of England: 6
+K: 11
+9 10      
+Max similar value: 1.327. Merge clusters 25(13) and 10(1) to 26(14).
+25: University of the West of England: 13
+10: University of the West of England: 1
+K: 10
+8 9      
+Max similar value: 0.674. Merge clusters 26(14) and 16(12) to 27(26).
+26: University of the West of England: 14
+16: University of the West of England: 12
+K: 9
+7 8      
+Max similar value: 0.102. Merge clusters 27(26) and 20(2) to 28(28).
+27: University of the West of England: 26
+20: University of the West of England: 2
+K: 8
+6 7      
+Clustering stops at: 22:02:21. Used time: 0h0m5s
+Max similar value: 0.03824. Clusters 28(28) and 15(1) not merged.
+28: University of the West of England: 28
+15: University of the West of England: 1
+8 clusters. Should be 5.
+
+Summary:
+Prec: 1. Recall: 0.8116. F1: 0.896
+
+Info will be logged into 'lei wang-214856.log'.
+Open groundtruth file 'lei wang-labels.txt' to process...
+405 publications of 146 authors loaded
+Australian National University: 44 | [leiwang@engr.uconn.edu] University of Connecticut: 25 | [wl@ncic.ac.cn] ICT, CAS: 19 | The University of Electro-Communications, Chofu-shi, Tokyo, Japan: 14 | [leiwang@xaut.edu.cn] Xi'an University of Technology: 13 | UTDallas: 10 | [lwang@cc.gatech.edu] College of Computing, Georgia Tech: 9 | National University of Defense Technology, China: 8 | Department of Electronics, University of York: 8 | [alwaysbeing@cs.zju.edu.cn] Zhejiang University: 8 | [wanglei@buaa.edu.cn] BUAA: 8 | [lei.wang@dlut.edu.cn] School of Software, Dalian University of Technology: 7 | [wanglei@hnu.cn] sup by Yaping Lin, Hunan University: 6 | [wanglei@tongji.edu.cn] Tongji University: 6 | [wanglei@cis.pku.edu.cn] Peking University: 5 | Nanjing University of Posts and Telecom: 5 | Queensland University of Technology: 4 | [wlei@ict.ac.cn] student, ICT, CAS: 4 | [wanglei99@mails.tsinghua.edu.cn] CS, Tsinghua University: 4 | SCE, NTU: 4 | [leiw@hp.com] HP Labs China: 4 | Microprocessor Technology Laboratories, HP: 4 | UESTC: 4 | EEE, NTU: 4 | Bond University: 3 | co with assoc/P xin yuan, CS, Zhejiang University: 3 | Brigham Young University: 3 | Waseda University: 3 | PLA University of Science and Technology: 3 | University of Waterloo: 3 | SmartOps Corporation, Pittsburgh: 3 | PAI Group, University of Fribourg, Switzerland: 3 | College of Economics and Management, Nanjing Forestry University: 3 | [leiwangxd@gmail.com] SE Institute, Xidian University: 2 | EE, University of Southern California: 2 | University of Cincinnati: 2 | Peking University, Shenzhen: 2 | Deutsche Bank AG: 2 | Northeastern University, China: 2 | sup by Dafang Zhang, Hunan University: 2 | Lab of Optical Communication and Lightwave Technologies, BUPT: 2 | [wanglei_hn@ie165.com] CIS, Fujian University of Technology: 2 | School of Electronic Engineering, Xidian University: 2 | Center for Imaging Science, Washington University: 2 | UCSB: 2 | [wlei04@mails.tsinghua.edu.cn] Automation, Tsinghua University: 2 | Hebei University of Science and Technology: 2 | Shenyang Institute of Engineering: 2 | Lanzhou University of Technology: 2 | University of North Carolina: 2 | Shenyang Neusoft Software Co., Ltd: 2 | TRLabs, Saskatoon/Calgary, Canada: 2 | Lab of e-Business, Peking University: 2 | Southwest Jiaotong University: 2 | Alcatel Shanghai Bell Co., Ltd: 2 | TAMU: 2 | University of Houston: 2 | Kyoto University: 2 | [leiwang03@mails.tsinghua.edu.cn] Automation, Tsinghua University: 2 | Department of Applied Mathematics, Dalian University of Technology: 2 | Comm, Xi'an Jiaotong University: 2 | Hanyang University: 2 | University of Michigan: 2 | Beijing Institute of Genomics, CAS: 2 | National Institute of Metrology, Beijing: 2 | Feng Chia University, Taiwan: 2 | [wanglei@ics.uci.edu] University of California, Irvine: 2 | Shenzhen Institute of Advanced Technology, CAS: 2 | Department of Mathematics, Zhejiang University: 2 | student 2, ICT, CAS: 2 | Institute of Intelligent Information Processing, Xidian University: 2 | Soochow University: 1 | Institute of Software, CAS: 1 | Department of Medicine, UCSD: 1 | Soochow University 2: 1 | Northwestern Polytechnical University, Xi An, China: 1 | Hunan University 2: 1 | Yanshan University: 1 | Rutgers University: 1 | University Duisburg-Essen, Germany: 1 | Imperial College London: 1 | Tianjin University: 1 | Daqing Petroleum Institute: 1 | Shanghai University: 1 | [leiwang@tongji.edu.cn] CDHK, Tongji University: 1 | Stony Brook University: 1 | College of Science, Hefei University of Technology: 1 | Intel China Research Center: 1 | Institute of Automation, CAS: 1 | Material, Harbin University of Science and Technology: 1 | Harbin Engineering University: 1 | Hebei University of Technology: 1 | Beijing University of Technology: 1 | Port and Shipping Management, Bureau of Yantai: 1 | Maxim Integrated Products Boston Design Center: 1 | Fudan University: 1 | Shandong University of Technology: 1 | Harbin Institute of Technology Shenzhen Graduate School: 1 | University of Wollongong: 1 | CS, Xi'an Jiaotong University: 1 | Hubei University of Economics: 1 | Beijing Information of Science and Technology University: 1 | Fraunhofer MEVIS, Germany: 1 | Shandong University: 1 | Washington State University: 1 | Zhongshan University: 1 | Staff room of Electronic and Technology, Chongqing Communication College: 1 | [sarahwanglei@gmail.com] BUAA: 1 | Institute of Electronics and Information Engineering, Tongji University: 1 | Queen's University: 1 | School of Management, Harbin Institute of Technology: 1 | Institute of Information Science, Beijing Jiaotong University: 1 | NUAA: 1 | Institute of computing theory and technology, Xidian University: 1 | CAS-MPG PICB, Shanghai: 1 | University of New Brunswick: 1 | Lab of Computer Networks and Information Security, Xidian University: 1 | EIEE, Fujian University of Technology: 1 | EEE, NTU 2: 1 | Lab of Universal Wireless Communications, BUPT, China: 1 | SE Institute, Xidian University: 1 | China University of Mining and Technology: 1 | Information Engineering School, Communication University of China: 1 | C4ISR, National University of Defense Technology, China: 1 | Tianjin Polytechnic University: 1 | College of Engineering Technolog, Northeast Forestry University: 1 | He'nan Electric Power Research Institute: 1 | [wangleics@pku.edu.cn] Lab of Computational Linguistics, Peking University: 1 | Beijing Forestry University: 1 | Louisiana State University: 1 | USTC: 1 | Xinjiang Medical University: 1 | [1976] Computer Architecture, Xi'an Jiaotong University: 1 | Bell Labs Research China: 1 | Department of Mathematics, Georgia Tech: 1 | Department of Psychiatry, Washington University in St. Louis: 1 | TAMU 2: 1 | Lab of Fluid Mechanics, BUAA: 1 | Shanghai Institute of Microsystem and Information Technology: 1 | Wuhan University: 1 | School of Computer and Information, Hefei University of Technology: 1 | Huaxun Microelectronics Corporation: 1 | Lab of Modern Optical Instrumentation, Zhejiang University: 1 | Department of Mathematics, Huazhong University of Science and Technology: 1 | NTU: 1 | Civil Aviation University of China: 1
+Groundtruth total pairs: 1963
+
+Processing author 'lei wang', true K: 13, estimated K: 101.473556299548
+Using Jaccard simi for coauthors. Thres: 0.03 - 0.03
+Using Jaccard simi for venues. Thres: 0.04 - 0.04
+Merge pubs of 'lei wang' by co-authors using Jaccard similarity, thres 0.03...
+Done. Get 165 clusters
+165 clusters. Should be 146.
+
+Summary:
+Prec: 0.9546. Recall: 0.7397. F1: 0.8335
+
+Try to cluster 405 papers of 'lei wang' into 101.473556299548 clusters. Thres: 0.50736778149774
+
+Extract concept vectors from titles:
+Concept vectors of 406 papers extracted
+venueJacThres: 0.04.
+K: 165
+163 164      
+Max similar value: 59.291. Merge clusters 2(20) and 28(3) to 166(23).
+2: [leiwang@engr.uconn.edu] University of Connecticut: 20
+28: [leiwang@engr.uconn.edu] University of Connecticut: 3
+K: 164
+162 163      
+Max similar value: 34.712. Merge clusters 105(1) and 107(1) to 167(2).
+105: [leiwang@engr.uconn.edu] University of Connecticut: 1
+107: Fudan University: 1
+K: 163
+161 162      
+Max similar value: 25.116. Merge clusters 166(23) and 91(1) to 168(24).
+166: [leiwang@engr.uconn.edu] University of Connecticut: 23
+91: [leiwang@engr.uconn.edu] University of Connecticut: 1
+K: 162
+160 161      
+Max similar value: 23.988. Merge clusters 7(8) and 45(2) to 169(10).
+7: Department of Electronics, University of York: 8
+45: School of Electronic Engineering, Xidian University: 2
+K: 161
+159 160      
+Max similar value: 6.342. Merge clusters 21(4) and 93(1) to 170(5).
+21: [leiw@hp.com] HP Labs China: 4
+93: Intel China Research Center: 1
+K: 160
+158 159      
+Max similar value: 6.342. Merge clusters 41(2) and 83(1) to 171(3).
+41: Northeastern University, China: 2
+83: Tianjin University: 1
+K: 159
+157 158      
+Max similar value: 6.342. Merge clusters 49(2) and 96(1) to 172(3).
+49: Hebei University of Science and Technology: 2
+96: Harbin Engineering University: 1
+K: 158
+156 157      
+Max similar value: 6.342. Merge clusters 50(2) and 100(1) to 173(3).
+50: Shenyang Institute of Engineering: 2
+100: Port and Shipping Management, Bureau of Yantai: 1
+K: 157
+155 156      
+Max similar value: 6.342. Merge clusters 76(1) and 77(1) to 174(2).
+76: Hunan University 2: 1
+77: Yanshan University: 1
+K: 156
+154 155      
+Max similar value: 6.342. Merge clusters 111(1) and 113(1) to 175(2).
+111: CS, Xi'an Jiaotong University: 1
+113: Beijing Information of Science and Technology University: 1
+K: 155
+153 154      
+Max similar value: 6.342. Merge clusters 115(1) and 116(1) to 176(2).
+115: Feng Chia University, Taiwan: 1
+116: Shandong University: 1
+K: 154
+152 153      
+Max similar value: 3.706. Merge clusters 1(37) and 80(1) to 177(38).
+1: Australian National University: 37
+80: Australian National University: 1
+K: 153
+151 152      
+Max similar value: 3.171. Merge clusters 43(2) and 128(1) to 178(3).
+43: Lab of Optical Communication and Lightwave Technologies, BUPT: 2
+128: Institute of Information Science, Beijing Jiaotong University: 1
+K: 152
+150 151      
+Max similar value: 3.171. Merge clusters 63(2) and 64(2) to 179(4).
+63: [leiwang03@mails.tsinghua.edu.cn] Automation, Tsinghua University: 2
+64: Department of Applied Mathematics, Dalian University of Technology: 2
+K: 151
+149 150      
+Max similar value: 2.117. Merge clusters 177(38) and 73(1) to 180(39).
+177: Australian National University: 38
+73: Australian National University: 1
+K: 150
+148 149      
+Max similar value: 2.114. Merge clusters 25(3) and 118(1) to 181(4).
+25: co with assoc/P xin yuan, CS, Zhejiang University: 3
+118: Zhongshan University: 1
+K: 149
+147 148      
+Max similar value: 1.297. Merge clusters 180(39) and 5(10) to 182(49).
+180: Australian National University: 39
+5: UTDallas: 10
+K: 148
+146 147      
+Max similar value: 1.02. Merge clusters 4(14) and 79(1) to 183(15).
+4: The University of Electro-Communications, Chofu-shi, Tokyo, Japan: 14
+79: Feng Chia University, Taiwan: 1
+K: 147
+145 146      
+Max similar value: 0.906. Merge clusters 10(8) and 39(2) to 184(10).
+10: [alwaysbeing@cs.zju.edu.cn] Zhejiang University: 8
+39: Deutsche Bank AG: 2
+K: 146
+144 145      
+Max similar value: 0.705. Merge clusters 3(18) and 104(1) to 185(19).
+3: [wl@ncic.ac.cn] ICT, CAS: 18
+104: [wanglei@ics.uci.edu] University of California, Irvine: 1
+K: 145
+143 144      
+Max similar value: 0.696. Merge clusters 12(6) and 42(2) to 186(8).
+12: Queensland University of Technology: 4   student 2, ICT, CAS: 2
+42: sup by Dafang Zhang, Hunan University: 2
+K: 144
+142 143      
+Max similar value: 0.575. Merge clusters 9(7) and 133(1) to 187(8).
+9: [wanglei@hnu.cn] sup by Yaping Lin, Hunan University: 6   Institute of computing theory and technology, Xidian University: 1
+133: EIEE, Fujian University of Technology: 1
+K: 143
+141 142      
+Max similar value: 1.208. Merge clusters 187(8) and 13(6) to 188(14).
+187: [wanglei@hnu.cn] sup by Yaping Lin, Hunan University: 6   Institute of computing theory and technology, Xidian University: 1   EIEE, Fujian University of Technology: 1
+13: [lei.wang@dlut.edu.cn] School of Software, Dalian University of Technology: 6
+K: 142
+140 141      
+Clustering stops at: 22:10:18. Used time: 0h7m44s
+Max similar value: 0.48143. Clusters 6(8) and 99(1) not merged.
+6: National University of Defense Technology, China: 8
+99: Beijing University of Technology: 1
+142 clusters. Should be 146.
+
+Summary:
+Prec: 0.7242. Recall: 0.8202. F1: 0.7692
+
+Info will be logged into 'wei wang-214856.log'.
+Open groundtruth file 'wei wang-labels.txt' to process...
+846 publications of 217 authors loaded
+UNC: 105 | [weiwang1@fudan.edu.cn] Fudan University: 103 | CSE, University of New South Wales: 55 | TEL, University of Nebraska-Lincoln: 37 | University at Albany, SUNY: 35 | [wang.wei@nus.edu.sg] MSRA & NUS: 24 | [wangwei@dlut.edu.cn] Research Center of Information and Control, Dalian University of Technology: 20 | [willtongji@gmail.com] Tongji University: 18 | University of Luxembourg: 15 | IBM China Research Laboratory: 12 | Robotics Institute, BUAA, China: 10 | Harbin Engineering University: 10 | [wwsunny@126.com] Wireless Signal Processing and Network Lab, BUPT: 9 | Motorola Labs, Multimedia Research Lab, IL, USA: 8 | EECS, UC Berkeley: 8 | Math, Xi'an Jiaotong University: 8 | Language Weaver, Inc.: 7 | Department of Chemistry and Biochemistry, UCSD: 7 | DOCOMO Beijing Communications Laboratories: 6 | German Aerospace Center: 6 | University of Maryland Baltimore County: 6 | Lab for Novel Software Technology, Nanjing University: 6 | Institute of Microelectronics, PKU: 6 | School of Transportation, Southeast University: 6 | UC Riverside: 5 | [wwang@nlpr.ia.ac.cn] Lab of Pattern Recognition, IA, CAS: 5 | EEE, NTU: 5 | [wwang@jdl.ac.cn] Lab for Video Technology, CAS: 5 | Lab of Crypt, Shandong University: 5 | [njnuwangwei@yahoo.com] Education Science Institute, Nanjing Normal University: 5 | Laboratory of Computational Linguistics, PKU: 5 | Department of Automation & Computer-Aided Engineering, CUHK: 4 | Iowa State University: 4 | University of Sydney: 4 | Lab of Complex System and Intelligence Science, IA, CAS: 4 | Beijing University of Chinese Medicine: 4 | Chongqing University: 4 | Ideal Institute, Northeast Normal University, China: 4 | Alcatel-Lucent Shanghai Bell: 4 | CS, New York University: 4 | College of Mechatronics and Automation, National University of Defense Technology: 4 | Tianjin University: 3 | CS, Rutgers University: 3 | Northwestern Polytechnical University, China: 3 | USTB, China: 3 | [wangweiuser@126.com] School of Economy, Tianjin Polytechnic University: 3 | National Taiwan University: 3 | Capital Medical University, Beijing: 3 | Naval Aeronautical Engineering Institute, Qingdao: 3 | Department of Mathematics, Nanjing University: 3 | [weiw@zju.edu.cn] Center for Computation, Zhejiang University: 3 | Ningbo University of Technology: 3 | Bohai University: 2 | Huazhong Agricultural University: 2 | Department of Information Engineering, CUHK: 2 | [wei@ics.ict.ac.cn] ICT, CAS: 2 | Lab of Machine Perception, PKU: 2 | College of Computer and Communication, Hunan University: 2 | School of Computer Science and Engineering, Southeast University: 2 | Nokia Research Center: 2 | Nagaoka University of Technology: 2 | School of Electronic and Information Engineering, Xi'an Jiaotong University: 2 | Department of Systems Engineering and Engineering Management, CUHK: 2 | Department of Electrical and Computer Engineering, NUS: 2 | Department of Systems Science & Industrial Engineering, SUNY: 2 | CS, Lehigh University: 2 | Seismological Bureau of Shanghai: 2 | Wuhan National Laboratory of Optoelectronics: 2 | Microsoft Research Asia: 2 | University of Shanghai for Science and Technology: 2 | Service Computing Technology and System Lab, HUST: 2 | York University: 2 | [was in EEE, NTU] SOC, NUS: 2 | [wangw@zju.edu.cn] Lab of Integrate Information Network, Zhejiang University: 2 | CS, USTC: 2 | EE, Shanghai Jiaotong University: 2 | Stevens Institute of Technology, Hoboken: 2 | CS, UCDavis: 2 | EE, University of Melbourne: 2 | CUPS, Nankai University: 2 | Heriot-Watt University: 2 | Jiangxi University of Science and Technology: 2 | School of Optoelectronical Engineering, Xi'an Technological University: 2 | Xi'an University of Finance and Economics: 2 | CS, Zhongshan University: 2 | Nonlinear Systems Lab, MIT: 2 | Physics, Nanjing University: 2 | University of Toyama: 2 | CS, Purdue University: 2 | CS, UCLA: 2 | [vince.wang@intel.com] Intel China: 2 | Information and Communication Engineering, Tianjin Polytechnic University: 2 | [ww.cs.tj@gmail.com] School of Electronics and Information Engineering, Tongji University: 2 | Math, Renmin University of China: 2 | School of Computer and Information, Hefei University of Technology: 2 | College of Engineering Technology, Northeast Forestry University: 2 | Lab of Information Engineering in Surveying, Wuhan University: 2 | Center for Bioimage Informatics, CMU: 2 | University of Utah: 1 | University of Trento, Italy: 1 | CS, Shandong University: 1 | Air Force Engineering University: 1 | WKW, NTU: 1 | Computer School, Northeast Normal University, China: 1 | School of Computer, North China Electric Power University: 1 | CS, CUHK: 1 | CBMI, University of Pittsburgh: 1 | Math, CUHK: 1 | [weiw@cs.zju.edu.cn] CS, Zhejiang University: 1 | Security Lab, Department of Automation, Tsinghua: 1 | Lab of Infosec, GUCAS: 1 | Department of Modern Education Technology, University at Weihai: 1 | Software School, Xiamen University: 1 | College of Civil Engineering, Shandong University: 1 | Wuhan University of Science and Technology: 1 | CS, Duke University: 1 | Department of Education Technologies, Nanjing University of Posts and Telecommunications: 1 | Technical University of Denmark: 1 | Institute of Acoustics, CAS: 1 | Institute of Image Processing and Pattern Recognition, Shanghai Jiaotong University: 1 | Dept. of Systems and Computer Eng., Carleton University: 1 | Department of Automation, Tsinghua 2: 1 | [w.w@mail.ia.ac.cn] IA, CAS: 1 | Space Control Center, Harbin Institute of Technology: 1 | Math, PKU: 1 | Harbin Institute of Technology: 1 | College of Mechanical and Electrical Engineering, Northeast Forestry University: 1 | Concordia University: 1 | School of Communication Engineering, Xidian University: 1 | [sethvivid@163.com] School of Information Engineering, BUPT: 1 | Baylor College of Medicine: 1 | ECE, Portland State University: 1 | School of Mechanical Engineering, BUAA: 1 | Ordnance Engineering College, Shijiazhuang: 1 | CS, McGill University: 1 | CS, Rutgers University 2: 1 | University of Guelph, Canada: 1 | Zhejiang University: 1 | Master student [1983], Renmin University of China: 1 | [wangwei@icst.pku.edu.cn] ICST, PKU: 1 | University of Cambridge Computer Laboratory: 1 | Department of Automation, Tsinghua 3: 1 | School of Electronics & Information, Shanghai Jiaotong University: 1 | School of Information Science and Technology, Beijing Institute of Technology: 1 | College of Automation, Qingdao University of Science & Technology: 1 | School of Electronics and Information Engineering, Beijing Jiaotong University: 1 | Inner Mongolia University of Science and Technology: 1 | ICT, CAS: 1 | CS, Xi'an Jiaotong University: 1 | Chalmers University of Technology: 1 | Lab of Universal Wireless Communication, BUPT: 1 | Lab of Urban Water, Harbin Institute of Technology: 1 | Nanjing KEDE Electronics Company: 1 | Computer Network Information Center, CAS: 1 | School of Electrical Engineering and Automation, Harbin Institute of Technology: 1 | Hong Kong Polytechnic University: 1 | School of Mechanical Engineering, BUAA 2: 1 | Chiba University: 1 | [wongwei@buaa.edu.cn, 1977] School of Instrument Science, BUAA: 1 | Civil Aviation University of China: 1 | School of Mechanical Engineering, Xi'an Jiaotong University: 1 | [wang20080813@gmail.com] CS, Tongji University: 1 | Ocean University of China: 1 | [vv8819@hotmail.com] Wuhan University of Technology: 1 | Chinese North Industries Planning Institute: 1 | Math, Guangxi University for Nationalities: 1 | College of Mechanical Engineering and Automation, Fuzhou University: 1 | Lab of Water, Beijing Normal University: 1 | Lab of Animal, Sichuan Agricultural University: 1 | Chongqing University of Posts and Telecommunications: 1 | CSE, Hebei University of Technology: 1 | EE, Guilin University of electronic technology: 1 | Software Engineering Institute, Xidian University: 1 | China University of Geosciences: 1 | [xiaokedou_720@yahoo.com.cn] Wuhan University of Technology: 1 | MEMS Center, Harbin Institute of Technology: 1 | Handan Polytechechnic College: 1 | Dalian Nationalities University: 1 | Harbin University of Commerce: 1 | Shenyang University of Technology: 1 | Electromagnetics Laboratory, BUAA: 1 | Department of Applied Mathematics, Dalian University of Technology: 1 | Math, East China University of Science and Technology: 1 | Sinopec Research Institute of Petroleum Engineering: 1 | Cascade Fibers Co., Sanford, NC, USA: 1 | CS, National Chiao Tung University: 1 | Math, Northwest University: 1 | Central Queensland University: 1 | [wangweibh@126.com, 1984] School of Instrument Science, BUAA: 1 | Beckman Institute, UIUC: 1 | CST, Tsinghua: 1 | Queen Mary University of London: 1 | Institute of Genetics, Fudan University: 1 | Institute of Image and Information, Sichuan University: 1 | H. Milton Stewart School of Industrial and Systems Engineering, GIT: 1 | Department of Systems Engineering, National University of Defense Technology: 1 | CSE, De Montfort University: 1 | [weiwang@scu.edu.cn] Sichuan University: 1 | Math, Liaoning Normal University: 1 | Millimeter Wave Technology Lab, Nanjing University of Science and Technology: 1 | Center for Robotics, Oakland University: 1 | Lab of Integrated Optoelectronics, Jilin University: 1 | ECE, UCSD: 1 | School of Management, HUST: 1 | Department of Management and Marketing, The Hong Kong Polytechnic University: 1 | Software Institute, Dalian Jiaotong University: 1 | Makineni Theoretical Laboratories, University of Pennsylvania: 1 | University of South Florida: 1 | Zhongshan University: 1 | CUHK: 1 | College of Computer and Automatization, Tianjin Polytechnic University: 1 | University of Nottingham, Malaysia: 1 | Lab for Intelligent Network and Network Security, Xi'an Jiaotong University: 1 | [wangwei_wei@yahoo.cn] Northeastern University, China: 1 | INRIA, France: 1 | Department of Elect. Eng, HKUST: 1 | [wei.wang@intel.com] Intel Corporation: 1
+Groundtruth total pairs: 14800
+
+Processing author 'wei wang', true K: 14, estimated K: 254.46745992911
+Using Jaccard simi for coauthors. Thres: 0.03 - 0.03
+Using Jaccard simi for venues. Thres: 0.04 - 0.04
+Merge pubs of 'wei wang' by co-authors using Jaccard similarity, thres 0.03...
+Done. Get 280 clusters
+280 clusters. Should be 217.
+
+Summary:
+Prec: 0.5541. Recall: 0.6617. F1: 0.6031
+
+Try to cluster 846 papers of 'wei wang' into 254.46745992911 clusters. Thres: 1.27233729964555
+
+Extract concept vectors from titles:
+Concept vectors of 847 papers extracted
+venueJacThres: 0.04.
+K: 280
+278 279      
+Max similar value: 101.075. Merge clusters 55(4) and 206(1) to 281(5).
+55: [wangwei@dlut.edu.cn] Research Center of Information and Control, Dalian University of Technology: 4
+206: Ocean University of China: 1
+K: 279
+277 278      
+Max similar value: 84.314. Merge clusters 27(11) and 101(2) to 282(13).
+27: [wwsunny@126.com] Wireless Signal Processing and Network Lab, BUPT: 9   Center for Bioimage Informatics, CMU: 2
+101: [wangw@zju.edu.cn] Lab of Integrate Information Network, Zhejiang University: 2
+K: 278
+276 277      
+Max similar value: 24.325. Merge clusters 13(175) and 17(39) to 283(214).
+13: UNC: 90   [weiwang1@fudan.edu.cn] Fudan University: 83   CSE, University of New South Wales: 2
+17: CSE, University of New South Wales: 39
+K: 277
+275 276      
+Max similar value: 18.116. Merge clusters 45(5) and 228(1) to 284(6).
+45: Institute of Microelectronics, PKU: 5
+228: Institute of Microelectronics, PKU: 1
+K: 276
+274 275      
+Max similar value: 14.17. Merge clusters 24(15) and 59(3) to 285(18).
+24: [willtongji@gmail.com] Tongji University: 14   School of Transportation, Southeast University: 1
+59: [willtongji@gmail.com] Tongji University: 3
+K: 275
+273 274      
+Max similar value: 12.8. Merge clusters 54(4) and 168(1) to 286(5).
+54: School of Transportation, Southeast University: 4
+168: Information and Communication Engineering, Tianjin Polytechnic University: 1
+K: 274
+272 273      
+Max similar value: 12.615. Merge clusters 41(5) and 62(3) to 287(8).
+41: University at Albany, SUNY: 5
+62: University at Albany, SUNY: 3
+K: 273
+271 272      
+Max similar value: 12.5. Merge clusters 16(1) and 251(1) to 288(2).
+16: [weiwang1@fudan.edu.cn] Fudan University: 1
+251: CST, Tsinghua: 1
+K: 272
+270 271      
+Max similar value: 12.5. Merge clusters 71(3) and 163(1) to 289(4).
+71: National Taiwan University: 3
+163: ECE, Portland State University: 1
+K: 271
+269 270      
+Max similar value: 12.5. Merge clusters 73(3) and 190(1) to 290(4).
+73: Alcatel-Lucent Shanghai Bell: 3
+190: Alcatel-Lucent Shanghai Bell: 1
+K: 270
+268 269      
+Max similar value: 12.5. Merge clusters 109(2) and 226(1) to 291(3).
+109: Jiangxi University of Science and Technology: 2
+226: College of Engineering Technology, Northeast Forestry University: 1
+K: 269
+267 268      
+Max similar value: 12.5. Merge clusters 174(1) and 175(1) to 292(2).
+174: CS, Rutgers University 2: 1
+175: University of Guelph, Canada: 1
+K: 268
+266 267      
+Max similar value: 12.5. Merge clusters 233(1) and 234(1) to 293(2).
+233: Harbin University of Commerce: 1
+234: Shenyang University of Technology: 1
+K: 267
+265 266      
+Max similar value: 12.5. Merge clusters 293(2) and 235(1) to 294(3).
+293: Shenyang University of Technology: 1   Harbin University of Commerce: 1
+235: Lab of Information Engineering in Surveying, Wuhan University: 1
+K: 266
+264 265      
+Max similar value: 9.164. Merge clusters 20(35) and 21(19) to 295(54).
+20: TEL, University of Nebraska-Lincoln: 35
+21: [wang.wei@nus.edu.sg] MSRA & NUS: 19
+K: 265
+263 264      
+Max similar value: 8.783. Merge clusters 51(4) and 140(1) to 296(5).
+51: Lab of Complex System and Intelligence Science, IA, CAS: 4
+140: Wuhan University of Science and Technology: 1
+K: 264
+262 263      
+Max similar value: 8.518. Merge clusters 44(5) and 281(5) to 297(10).
+44: EEE, NTU: 5
+281: [wangwei@dlut.edu.cn] Research Center of Information and Control, Dalian University of Technology: 4   Ocean University of China: 1
+K: 263
+261 262      
+Max similar value: 6.25. Merge clusters 50(4) and 131(1) to 298(5).
+50: University of Sydney: 4
+131: [weiw@cs.zju.edu.cn] CS, Zhejiang University: 1
+K: 262
+260 261      
+Max similar value: 6.25. Merge clusters 108(2) and 220(1) to 299(3).
+108: Heriot-Watt University: 2
+220: Software Engineering Institute, Xidian University: 1
+K: 261
+259 260      
+Max similar value: 5.884. Merge clusters 295(54) and 282(13) to 300(67).
+295: TEL, University of Nebraska-Lincoln: 35   [wang.wei@nus.edu.sg] MSRA & NUS: 19
+282: [wwsunny@126.com] Wireless Signal Processing and Network Lab, BUPT: 9   [wangw@zju.edu.cn] Lab of Integrate Information Network, Zhejiang University: 2   Center for Bioimage Informatics, CMU: 2
+K: 260
+258 259      
+Max similar value: 5.097. Merge clusters 42(5) and 280(2) to 301(7).
+42: [wwang@nlpr.ia.ac.cn] Lab of Pattern Recognition, IA, CAS: 5
+280: CSE, University of New South Wales: 2
+K: 259
+257 258      
+Max similar value: 4.25. Merge clusters 283(214) and 63(3) to 302(217).
+283: UNC: 90   [weiwang1@fudan.edu.cn] Fudan University: 83   CSE, University of New South Wales: 41
+63: CSE, University of New South Wales: 3
+K: 258
+256 257      
+Max similar value: 3.774. Merge clusters 300(67) and 100(2) to 303(69).
+300: TEL, University of Nebraska-Lincoln: 35   [wang.wei@nus.edu.sg] MSRA & NUS: 19   [wwsunny@126.com] Wireless Signal Processing and Network Lab, BUPT: 9   [wangw@zju.edu.cn] Lab of Integrate Information Network, Zhejiang University: 2   Center for Bioimage Informatics, CMU: 2
+100: [was in EEE, NTU] SOC, NUS: 2
+K: 257
+255 256      
+Max similar value: 4.029. Merge clusters 303(69) and 67(3) to 304(72).
+303: TEL, University of Nebraska-Lincoln: 35   [wang.wei@nus.edu.sg] MSRA & NUS: 19   [wwsunny@126.com] Wireless Signal Processing and Network Lab, BUPT: 9   [was in EEE, NTU] SOC, NUS: 2   [wangw@zju.edu.cn] Lab of Integrate Information Network, Zhejiang University: 2   Center for Bioimage Informatics, CMU: 2
+67: Northwestern Polytechnical University, China: 3
+K: 256
+254 255      
+Max similar value: 3.265. Merge clusters 304(72) and 39(5) to 305(77).
+304: TEL, University of Nebraska-Lincoln: 35   [wang.wei@nus.edu.sg] MSRA & NUS: 19   [wwsunny@126.com] Wireless Signal Processing and Network Lab, BUPT: 9   Northwestern Polytechnical University, China: 3   [was in EEE, NTU] SOC, NUS: 2   [wangw@zju.edu.cn] Lab of Integrate Information Network, Zhejiang University: 2   Center for Bioimage Informatics, CMU: 2
+39: UC Riverside: 5
+K: 255
+253 254      
+Max similar value: 3.178. Merge clusters 12(5) and 302(217) to 306(222).
+12: [weiwang1@fudan.edu.cn] Fudan University: 5
+302: UNC: 90   [weiwang1@fudan.edu.cn] Fudan University: 83   CSE, University of New South Wales: 44
+Clustering stops at: 22:35:51. Used time: 0h25m10s
+254 clusters. Should be 217.
+
+Summary:
+Prec: 0.3682. Recall: 0.7077. F1: 0.4844
+
+Info will be logged into 'bin yu-214856.log'.
+Open groundtruth file 'bin yu-labels.txt' to process...
+104 publications of 19 authors loaded
+stat, berkeley: 34 | cmu / NCSU: 19 | uiuc: 11 | levellimited, inc.: 7 | Electroglas, inc.: 7 | Dalian Maritime University: 5 | Xidian University: 4 | Quantum Leap Innovations, Inc.: 3 | Information Engineering University, China: 3 | EE, Tsinghua: 2 | Northern Jiaotong University: 1 | Zhejiang University of Technology: 1 | Qingdao University of Science and Technology: 1 | northwest univ, China: 1 | CS, Tsinghua: 1 | University of California, Riverside: 1 | Shenzhen University: 1 | Xi'an Jiaotong University: 1 | Graduate School of Business, Columbia University: 1
+Groundtruth total pairs: 852
+
+Processing author 'bin yu', true K: 5, estimated K: 16.2693885686145
+Using Jaccard simi for coauthors. Thres: 0.03 - 0.03
+Using Jaccard simi for venues. Thres: 0.04 - 0.04
+Merge pubs of 'bin yu' by co-authors using Jaccard similarity, thres 0.03...
+Done. Get 37 clusters
+37 clusters. Should be 19.
+
+Summary:
+Prec: 1. Recall: 0.3779. F1: 0.5486
+
+Try to cluster 104 papers of 'bin yu' into 16.2693885686145 clusters. Thres: 0.0813469428430725
+
+Extract concept vectors from titles:
+Concept vectors of 105 papers extracted
+venueJacThres: 0.04.
+K: 37
+35 36      
+Max similar value: 11.481. Merge clusters 11(3) and 33(1) to 38(4).
+11: stat, berkeley: 3
+33: stat, berkeley: 1
+K: 36
+34 35      
+Max similar value: 6.007. Merge clusters 38(4) and 35(1) to 39(5).
+38: stat, berkeley: 4
+35: stat, berkeley: 1
+K: 35
+33 34      
+Max similar value: 2.573. Merge clusters 5(6) and 8(4) to 40(10).
+5: stat, berkeley: 6
+8: stat, berkeley: 4
+K: 34
+32 33      
+Max similar value: 1.017. Merge clusters 19(1) and 20(1) to 41(2).
+19: Zhejiang University of Technology: 1
+20: Qingdao University of Science and Technology: 1
+K: 33
+31 32      
+Max similar value: 0.363. Merge clusters 6(6) and 29(1) to 42(7).
+6: stat, berkeley: 6
+29: stat, berkeley: 1
+K: 32
+30 31      
+Max similar value: 0.334. Merge clusters 21(1) and 28(1) to 43(2).
+21: stat, berkeley: 1
+28: stat, berkeley: 1
+K: 31
+29 30      
+Max similar value: 0.254. Merge clusters 4(6) and 18(1) to 44(7).
+4: Electroglas, inc.: 6
+18: Northern Jiaotong University: 1
+K: 30
+28 29      
+Max similar value: 0.101. Merge clusters 42(7) and 17(1) to 45(8).
+42: stat, berkeley: 7
+17: stat, berkeley: 1
+K: 29
+27 28      
+Max similar value: 0.088. Merge clusters 45(8) and 12(2) to 46(10).
+45: stat, berkeley: 8
+12: stat, berkeley: 2
+K: 28
+26 27      
+Clustering stops at: 22:36:05. Used time: 0h0m11s
+Max similar value: 0.07956. Clusters 16(2) and 37(1) not merged.
+16: stat, berkeley: 2
+37: Graduate School of Business, Columbia University: 1
+28 clusters. Should be 19.
+
+Summary:
+Prec: 0.9821. Recall: 0.4495. F1: 0.6167
+
+
+10 names are clustered
+
+Average:
+
+                    Precision	Recall	F1
+Coauthor 0.03		0.951	0.498	0.627	
+
+Title,Venue 0.04		0.844	0.710	0.743	
+
+'morpha' called 1786 times
+'morpha' killed
+
+Exit at 22:36:05, 2829 secs elapsed
+shaohua@lsh:/media/tough/namedis$ 
+
+Open groundtruth file 'ajay gupta-labels.txt' to process...
+CMD>j0.03,0.04 2 ajay gupta
+Warn: 'ajay gupta' doesn't look like a Chinese name
+Using Jaccard simi for coauthors. Thres: 0.03 - 0.03
+Using Jaccard simi for venues. Thres: 0.04 - 0.04
+Merge pubs of 'ajay gupta' according to same co-authors...
+Done. Get 13 clusters
+13 clusters. Should be 8.
+
+Summary:
+Prec: 1. Recall: 0.6154. F1: 0.7619
+
+Clusters are saved into 'ajay gupta-c1-9.txt'
+Try to cluster 25 papers of 'ajay gupta' into 2 clusters. Thres: 0.05
+
+Extract concept vectors from titles:
+Concept vectors of 26 papers extracted
+venueJacThres: 0.04.
+K: 13
+11 12      
+Max similar value: 0.061. Merge clusters 1(10) and 10(1) to 14(11).
+1: IBM Research India: 10
+10: Airtight Networks, Pune: 1
+K: 12
+10 11      
+Clustering stops at: 21:29:49. Used time: 0h0m0s
+Max similar value: 0.01221. Clusters 2(2) and 8(1) not merged.
+2: HP Laboratories Bristol: 2
+8: University of Illinois at Chicago: 1
+Clusters are saved into 'ajay gupta-c2-7.txt'
+12 clusters. Should be 8.
+
+Cluster 14: 11 papers, 55 pairs.
+IBM Research India: 10 | Airtight Networks, Pune: 1
+45 right pairs, 10 wrong
+
+Cluster 2: 2 papers, 1 pairs.
+HP Laboratories Bristol: 2
+1 right pairs, 0 wrong
+
+Cluster 3: 2 papers, 1 pairs.
+IBM Research India: 2
+1 right pairs, 0 wrong
+
+Cluster 4: 2 papers, 1 pairs.
+HP Laboratories, Bangalore: 2
+1 right pairs, 0 wrong
+
+Cluster 5: 1 papers, 0 pairs.
+HP Laboratories Bristol: 1
+0 right pairs, 0 wrong
+
+Cluster 6: 1 papers, 0 pairs.
+Western Michigan University: 1
+0 right pairs, 0 wrong
+
+Cluster 7: 1 papers, 0 pairs.
+HP Laboratories Bristol: 1
+0 right pairs, 0 wrong
+
+Cluster 8: 1 papers, 0 pairs.
+University of Illinois at Chicago: 1
+0 right pairs, 0 wrong
+
+Cluster 9: 1 papers, 0 pairs.
+HP Laboratories, Bangalore: 1
+0 right pairs, 0 wrong
+
+Cluster 11: 1 papers, 0 pairs.
+Old Dominion University: 1
+0 right pairs, 0 wrong
+
+Cluster 12: 1 papers, 0 pairs.
+University of Iowa: 1
+0 right pairs, 0 wrong
+
+Cluster 13: 1 papers, 0 pairs.
+HP Laboratories, Bangalore: 1
+0 right pairs, 0 wrong
+
+Summary:
+Prec: 0.8276. Recall: 0.6154. F1: 0.7059

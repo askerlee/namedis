@@ -1,0 +1,35 @@
+Rule-Based Anomaly Pattern Detection for Detecting Disease Outbreaks.
+Weng-Keen Wong,Andrew W. Moore,Gregory F. Cooper,Michael Wagner
+2002. inproceedings: AAAI/IAAI. key: conf/aaai/WongMCW02
+
+Bayesian Network Anomaly Pattern Detection for Disease Outbreaks.
+Weng-Keen Wong,Andrew W. Moore,Gregory F. Cooper,Michael Wagner
+2003. inproceedings: ICML. key: conf/icml/WongMCW03
+
+Bayesian Biosurveillance of Disease Outbreaks.
+Gregory F. Cooper,Denver Dash,John Levander,Weng-Keen Wong,William R. Hogan,Michael Wagner
+2004. inproceedings: UAI. key: conf/uai/CooperDLWHW04
+
+Classifying free-text triage chief complaints into syndromic categories with natural language processing.
+Wendy Webber Chapman,Lee M. Christensen,Michael Wagner,Peter J. Haug,Oleg Ivanov,John N. Dowling,Robert T. Olszewski
+2005. article: Artificial Intelligence in Medicine. key: journals/artmed/ChapmanCWHIDO05
+
+Fever detection from free-text clinical records for biosurveillance.
+Wendy Webber Chapman,John N. Dowling,Michael Wagner
+2004. article: Journal of Biomedical Informatics. key: journals/jbi/ChapmanDW04
+
+Representative threats for research in public health surveillance.
+Michael Wagner,Virginia Dato,John N. Dowling,Michael Allswede
+2003. article: Journal of Biomedical Informatics. key: journals/jbi/WagnerDDA03
+
+Bayesian prediction of an epidemic curve.
+Xia Jiang,Garrick L. Wallstrom,Gregory F. Cooper,Michael Wagner
+2009. article: Journal of Biomedical Informatics. key: journals/jbi/JiangWCW09
+
+What's Strange About Recent Events (WSARE): An Algorithm for the Early Detection of Disease Outbreaks.
+Weng-Keen Wong,Andrew W. Moore,Gregory F. Cooper,Michael Wagner
+2005. article: Journal of Machine Learning Research. key: journals/jmlr/WongMCW05
+
+Modeling the Temporal Trend of the Daily Severity of an Outbreak Using Bayesian Networks.
+Xia Jiang,Michael Wagner,Gregory F. Cooper
+2008. incollection: Innovations in Bayesian Networks. key: series/sci/JiangWC08

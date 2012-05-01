@@ -1,0 +1,155 @@
+An Adaptive Poly-Parental Recombination Strategy.
+Jim Smith,Terence C. Fogarty
+1995. inproceedings: Evolutionary Computing, AISB Workshop. key: conf/aisb/SmithF95
+
+Evolving Software Test Data - GA's learn Self Expression.
+Jim Smith,Terence C. Fogarty
+1996. inproceedings: Evolutionary Computing, AISB Workshop. key: conf/aisb/SmithF96
+
+Polar: An Architecture for a Parallel ODMG Compliant Object Database.
+Jim Smith,Paul Watson,Sandra de F. Mendes Sampaio,Norman W. Paton
+2000. inproceedings: CIKM. key: conf/cikm/SmithWSP00
+
+A Parallel Algebra for Object Databases.
+Sandra de F. Mendes Sampaio,Norman W. Paton,Paul Watson,Jim Smith
+1999. inproceedings: DEXA Workshop. key: conf/dexaw/SampaioPWS99
+
+Experimenting with Object Navigation in Parallel Object Databases.
+Sandra de F. Mendes Sampaio,Jim Smith,Norman W. Paton,Paul Watson
+2001. inproceedings: DEXA Workshop. key: conf/dexaw/SampaioSPW01
+
+Adapting to Changing Resource Performance in Grid Query Processing.
+Anastasios Gounaris,Jim Smith,Norman W. Paton,Rizos Sakellariou,Alvaro A. A. Fernandes,Paul Watson
+2005. inproceedings: DMG. key: conf/dmg/GounarisSPSFW05
+
+Experiments Towards Adaptation of Concurrent Workflows.
+Jim Smith,Paul Watson
+2007. inproceedings: ECOWS. key: conf/ecows/SmithW07
+
+An Experimental Performance Evaluation of Join Algorithms for Parallel Object Databases.
+Sandra de F. Mendes Sampaio,Jim Smith,Norman W. Paton,Paul Watson
+2001. inproceedings: Euro-Par. key: conf/europar/SampaioSPW01
+
+On Synchronisation in Fault-Tolerant Data and Compute Intensive Programs over a Network of Workstations.
+Jim Smith
+1997. inproceedings: Euro-Par. key: conf/europar/Smith97
+
+A System for Fault-Tolerance Execution of Data and Compute Intensive Programs over a Network of Workstations.
+Jim Smith,Santosh K. Shrivastava
+1996. inproceedings: Euro-Par, Vol. I. key: conf/europar/SmithS96
+
+Speeding Up Navigational Requests in a Parallel Object Database System.
+Jim Smith,Paul Watson,Sandra de F. Mendes Sampaio,Norman W. Paton
+2002. inproceedings: Euro-Par. key: conf/europar/SmithWSP02
+
+An Examination of Tunable, Random Search Landscapes.
+Robert E. Smith,Jim Smith
+1998. inproceedings: FOGA. key: conf/foga/SmithS98
+
+Replacement Strategies in Steady State Genetic Algorithms: Static Environments.
+Jim Smith,Frank Vavak
+1998. inproceedings: FOGA. key: conf/foga/SmithV98
+
+A Memetic Algorithm With Self-Adaptive Local Search: TSP as a case study.
+Natalio Krasnogor,Jim Smith
+2000. inproceedings: GECCO. key: conf/gecco/KrasnogorS00
+
+Strategy Parameter Variety In Self-adaptation Of Mutation Rates.
+Christopher Stone,Jim Smith
+2002. inproceedings: GECCO. key: conf/gecco/StoneS02
+
+Distributed Query Processing on the Grid.
+Jim Smith,Anastasios Gounaris,Paul Watson,Norman W. Paton,Alvaro A. A. Fernandes,Rizos Sakellariou
+2002. inproceedings: GRID. key: conf/grid/SmithGWPFS02
+
+Modular Adaptive Query Processing for Service-Based Grids.
+Anastasios Gounaris,Norman W. Paton,Rizos Sakellariou,Alvaro A. A. Fernandes,Jim Smith,Paul Watson
+2006. inproceedings: ICAC. key: conf/icac/GounarisPSFSW06
+
+What Have Gene Libraries Done for AIS?
+Steve Cayzer,Jim Smith,James A. R. Marshall,Tim Kovacs
+2005. inproceedings: ICARIS. key: conf/icaris/CayzerSMK05
+
+Gene Libraries: Coverage, Efficiency and Diversity.
+Steve Cayzer,Jim Smith
+2006. inproceedings: ICARIS. key: conf/icaris/CayzerS06
+
+Using Earned Value Management for COTS-Based Systems: Issues and Recommendations.
+Lisa Brownsword,Jim Smith
+2005. inproceedings: ICCBSS. key: conf/iccbss/BrownswordS05
+
+Practical Adaptation to Changing Resources in Grid Query Processing.
+Anastasios Gounaris,Norman W. Paton,Rizos Sakellariou,Alvaro A. A. Fernandes,Jim Smith,Paul Watson
+2006. inproceedings: ICDE. key: conf/icde/GounarisPSFSW06
+
+Self Adaptation of Mutation Rates in a Steady State Genetic Algorithm.
+Jim Smith,Terence C. Fogarty
+1996. inproceedings: International Conference on Evolutionary Computation. key: conf/icec/SmithF96
+
+Recombination Strategy Adaptation via Evolution of Gene Linkage.
+Jim Smith,Terence C. Fogarty
+1996. inproceedings: International Conference on Evolutionary Computation. key: conf/icec/SmithF96a
+
+Service-Based Distributed Querying on the Grid.
+M. Nedim Alpdemir,Arijit Mukherjee,Norman W. Paton,Paul Watson,Alvaro A. A. Fernandes,Anastasios Gounaris,Jim Smith
+2003. inproceedings: ICSOC. key: conf/icsoc/AlpdemirMPWFGS03
+
+The Client Briefing Problem: A Method for Assessing the Strategic Needs of Project Stakeholders.
+Jim Smith,Peter E. D. Love,R. G. Wyatt
+2000. inproceedings: ICSTM. key: conf/icstm/SmithLW00
+
+DECOREM: A Design and Construction Rework Minimisation Model.
+Peter E. D. Love,Purnendu Mandal,Jim Smith,Zahir Irani,G. Treloar,O. Faniran
+2000. inproceedings: ICSTM. key: conf/icstm/LoveMSITF00
+
+Fault-Tolerance in Distributed Query Processing.
+Jim Smith,Paul Watson
+2005. inproceedings: IDEAS. key: conf/ideas/SmithW05
+
+Validated Cost Models for Parallel OQL Query Processing.
+Sandra de F. Mendes Sampaio,Norman W. Paton,Jim Smith,Paul Watson
+2002. inproceedings: OOIS. key: conf/oois/SampaioPSW02
+
+Adaptively Parameterised Evolutionary Systems: Self-Adaptive Recombination and Mutation in a Genetic Algorithm.
+Jim Smith,Terence C. Fogarty
+1996. inproceedings: PPSN. key: conf/ppsn/SmithF96
+
+Co-evolving Memetic Algorithms: Initial Investigations.
+Jim Smith
+2002. inproceedings: PPSN. key: conf/ppsn/Smith02
+
+Meme fitness and memepool sizes in coevolutionary memetic algorithms.
+Jim Smith
+2010. inproceedings: IEEE Congress on Evolutionary Computation. key: conf/cec/Smith10
+
+Measuring and modelling the performance of a parallel ODMG compliant object database server.
+Sandra de F. Mendes Sampaio,Norman W. Paton,Jim Smith,Paul Watson
+2006. article: Concurrency and Computation: Practice and Experience. key: journals/concurrency/SampaioPSW06
+
+Multiscalar As a New Architecture Paradigm.
+Jim Smith
+1996. article: ACM Comput. Surv.. key: journals/csur/Smith96
+
+The Design, Implementation and Evaluation of an ODMG Compliant, Parallel Object Database Server.
+Jim Smith,Sandra de F. Mendes Sampaio,Paul Watson,Norman W. Paton
+2004. article: Distributed and Parallel Databases. key: journals/dpd/SmithSWP04
+
+Adaptive workload allocation in query processing in autonomous heterogeneous environments.
+Anastasios Gounaris,Jim Smith,Norman W. Paton,Rizos Sakellariou,Alvaro A. A. Fernandes,Paul Watson
+2009. article: Distributed and Parallel Databases. key: journals/dpd/GounarisSPSFW09
+
+On Replacement Strategies in Steady State Evolutionary Algorithms.
+Jim Smith
+2007. article: Evolutionary Computation. key: journals/ec/Smith07
+
+Memetic Algorithms: The Polynomial Local Search Complexity Theory Perspective.
+Natalio Krasnogor,Jim Smith
+2008. article: J. Math. Model. Algorithms. key: journals/jmma/KrasnogorS08
+
+Operator and parameter adaptation in genetic algorithms.
+Jim Smith,Terence C. Fogarty
+1997. article: Soft Comput.. key: journals/soco/SmithF97
+
+Distributed Query Processing on the Grid.
+Jim Smith,Paul Watson,Anastasios Gounaris,Norman W. Paton,Alvaro A. A. Fernandes,Rizos Sakellariou
+2003. article: IJHPCA. key: journals/ijhpca/SmithWGPFS03

@@ -1,0 +1,90 @@
+5 clusters.
+
+Cluster 1, 11 papers:	WiSe Lab Department of Computer Science Western Michigan University (1230697)
+Policy Driven Data Administration.
+vishal s. batra, jaijit bhattacharya, harish chauhan, ajay gupta, mukesh k. mohania, upendra sharma
+2002. POLICY
+Towards Bringing Database Management Task in the Realm of IT non-Experts.
+ajay gupta, manish bhide, mukesh k. mohania
+2003. ICDE
+Dynamic Access Control Framework Based On Events.
+manish bhide, sandeep pandey, ajay gupta, mukesh k. mohania
+2003. ICDE
+Policy Framework for Autonomic Data Managemen.
+manish bhide, ajay gupta, mukul joshi, mukesh k. mohania, shree raman
+2004. ICAC
+Web Page Ranking Based on Events.
+ajay gupta, manish bhide, mukesh k. mohania
+2004. EC-Web
+Optimal Deployment of Triggers for Detecting Events.
+manish bhide, ajay gupta, mukul joshi, mukesh k. mohania
+2004. DEXA
+Management of Conflicting Obligations in Self-Protecting Policy-Based Systems.
+rema ananthanarayanan, mukesh k. mohania, ajay gupta
+2005. ICAC
+Some issues in privacy data management.
+mukesh k. mohania, rema ananthanarayanan, ajay gupta
+2007. Data Knowl. Eng.
+LIPTUS: associating structured and unstructured information in a banking environment.
+manish bhide, ajay gupta, rahul gupta, prasan roy, mukesh k. mohania, zenita ichhaporia
+2007. SIGMOD Conference
+Enhanced Business Intelligence using EROCS.
+manish bhide, v. chakravarthy, ajay gupta, himanshu gupta, mukesh k. mohania, kriti puniyani, prasan roy, sourashis roy, vibhuti s. sengar
+2008. ICDE
+Poster: What's on your mind?: a mind-based driving alert system.
+karthik navuluri, kalpesh padia, ajay gupta, tamer nadeem
+2011. MobiSys
+
+Cluster 2, 9 papers:	(1230705)
+Hardware Diagnosis as Program Debugging.
+ajay gupta
+1987. IJCAI
+Explanation-based Failure Recovery.
+ajay gupta
+1987. AAAI
+Mutual Exclusion on a Hypercube.
+ajay gupta, steven c. bruell, sukumar ghosh
+1993. J. Parallel Distrib. Comput.
+Mobility-Pattern-Based Anomaly Detection Algorithm in Mobile Networks.
+chaoli cai, ajay gupta
+2008. ICC
+Performance Indicators in a 802.11 WLAN Deployment.
+ajay gupta, prabhash dhyani
+2009. ARTCOM
+Enabling analysts in managed services for CRM analytics.
+indrajit bhattacharya, shantanu godbole, ajay gupta, ashish verma, jeff achtermann, kevin english
+2009. KDD
+Retaining personal expression for social search.
+praphul chandra, ajay gupta
+2009. WWW
+Privacy aware localization in VANET.
+vikas ganjigunte ashok, gongjun yan, stephan olariu, ajay gupta
+2010. MASS
+Building re-usable dictionary repositories for real-world text mining.
+shantanu godbole, indrajit bhattacharya, ajay gupta, ashish verma
+2010. CIKM
+
+Cluster 3, 3 papers:	Hewlett-Packard Labs, Bangalore, India (1230703)
+IT Infrastructure in Emerging Markets: Arguing for an End-to-End Perspective.
+ajay gupta, parthasarathy ranganathan, prashant sarin, mehul a. shah
+2006. IEEE Pervasive Computing
+Clustering short texts using wikipedia.
+somnath banerjee, krishnan ramanathan, ajay gupta
+2007. SIGIR
+Document Summarization using Wikipedia.
+krishnan ramanathan, yogesh sankarasubramaniam, nidhi mathur, ajay gupta
+2009. IHCI
+
+Cluster 4, 2 papers:	(1230698)
+AGATHA: An Integrated Expert System to Test and Diagnose Complex Personal Computer Boards.
+daryl allred, yossi lichtenstein, chris preist, michael a. bennett, ajay gupta
+1991. IAAI
+Time Representation in Prolog Circuit Modelling.
+yossi lichtenstein, bob welham, ajay gupta
+1991. ALPUK
+
+Cluster 5, 1 papers:	(1230701)
+Efficient Design of Boltzmann Machines.
+ajay gupta, wolfgang maass
+1990. NIPS
+

@@ -1,0 +1,207 @@
+A Relational Representation for Procedural Task Knowledge.
+Stephen Hart,Roderic A. Grupen,David Jensen
+2005. inproceedings: AAAI. key: conf/aaai/HartGJ05
+
+Learning Quantitative Knowledge for Multiagent Coordination.
+David Jensen,Michael Atighetchi,Regis Vincent,Victor R. Lesser
+1999. inproceedings: AAAI/IAAI. key: conf/aaai/JensenAVL99
+
+Toward a Theoretical Understanding of Why and When Decision Tree Pruning Algorithms Fail.
+Tim Oates,David Jensen
+1999. inproceedings: AAAI/IAAI. key: conf/aaai/OatesJ99
+
+Learning Causal Models of Relational Domains.
+Marc Maier,Brian Taylor,Huseyin Oktay,David Jensen
+2010. inproceedings: AAAI. key: conf/aaai/MaierTOJ10
+
+Fast and efficient voltage scheduling by evolutionary slack distribution.
+Bita Gorjiara,Pai H. Chou,Nader Bagherzadeh,Mehrdad Reshadi,David Jensen
+2004. inproceedings: ASP-DAC. key: conf/aspdac/Gorji-AraCBRJ04
+
+Language Models for Financial News Recommendation.
+Victor Lavrenko,Matthew D. Schmill,Dawn Lawrie,Paul Ogilvie,David Jensen,James Allan
+2000. inproceedings: CIKM. key: conf/cikm/LavrenkoSLOJA00
+
+Representing documents with named entities for story link detection (SLD).
+Chirag Shah,W. Bruce Croft,David Jensen
+2006. inproceedings: CIKM. key: conf/cikm/ShahCJ06
+
+Leveraging relational autocorrelation with latent group models.
+Jennifer Neville,David Jensen
+2005. inproceedings: Probabilistic, Logical and Relational Learning. key: conf/dagstuhl/NevilleJ05
+
+Knowledge Discovery from Graphs (Invited Talk).
+David Jensen
+2000. inproceedings: Graph Drawing. key: conf/gd/Jensen00
+
+Dependency Networks for Relational Data.
+Jennifer Neville,David Jensen
+2004. inproceedings: ICDM. key: conf/icdm/NevilleJ04
+
+Leveraging Relational Autocorrelation with Latent Group Models.
+Jennifer Neville,David Jensen
+2005. inproceedings: ICDM. key: conf/icdm/NevilleJ05
+
+Simple Estimators for Relational Bayesian Classifiers.
+Jennifer Neville,David Jensen,Brian Gallagher
+2003. inproceedings: ICDM. key: conf/icdm/NevilleJG03
+
+Exploiting Network Structure for Active Inference in Collective Classification.
+Matthew J. Rattigan,Marc Maier,David Jensen,Bin Wu,Xin Pei,Jianbin Tan,Yi Wang
+2007. inproceedings: ICDM Workshops. key: conf/icdm/RattiganMJWPTW07
+
+Why Stacked Models Perform Effective Collective Classification.
+Andrew Fast,David Jensen
+2008. inproceedings: ICDM. key: conf/icdm/FastJ08
+
+Accurate Estimation of the Degree Distribution of Private Networks.
+Michael Hay,Chao Li,Gerome Miklau,David Jensen
+2009. inproceedings: ICDM. key: conf/icdm/HayLMJ09
+
+Leveraging D-Separation for Relational Data Sets.
+Matthew J. Rattigan,David Jensen
+2010. inproceedings: ICDM. key: conf/icdm/RattiganJ10
+
+Linkage and Autocorrelation Cause Feature Selection Bias in Relational Learning.
+David Jensen,Jennifer Neville
+2002. inproceedings: ICML. key: conf/icml/JensenN02
+
+Avoiding Bias when Aggregating Relational Data with Degree Disparity.
+David Jensen,Jennifer Neville,Michael Hay
+2003. inproceedings: ICML. key: conf/icml/JensenNH03
+
+Identifying Predictive Structures in Relational Data Using Multiple Instance Learning.
+Amy McGovern,David Jensen
+2003. inproceedings: ICML. key: conf/icml/McGovernJ03
+
+The Effects of Training Set Size on Decision Tree Complexity.
+Tim Oates,David Jensen
+1997. inproceedings: ICML. key: conf/icml/OatesJ97
+
+Graph clustering with network structure indices.
+Matthew J. Rattigan,Marc Maier,David Jensen
+2007. inproceedings: ICML. key: conf/icml/RattiganMJ07
+
+Building Simple Models: A Case Study with Decision Trees.
+David Jensen,Tim Oates,Paul R. Cohen
+1997. inproceedings: IDA. key: conf/ida/JensenOC97
+
+Decentralized Search in Networks Using Homophily and Degree Disparity.
+Ozgur Simsek,David Jensen
+2005. inproceedings: IJCAI. key: conf/ijcai/SimsekJ05
+
+Autocorrelation and Linkage Cause Bias in Evaluation of Relational Learners.
+David Jensen,Jennifer Neville
+2002. inproceedings: ILP. key: conf/ilp/JensenN02
+
+Bias/Variance Analysis for Relational Domains.
+Jennifer Neville,David Jensen
+2007. inproceedings: ILP. key: conf/ilp/NevilleJ07
+
+MaxProp: Routing for Vehicle-Based Disruption-Tolerant Networks.
+John Burgess,Brian Gallagher,David Jensen,Brian Neil Levine
+2006. inproceedings: INFOCOM. key: conf/infocom/BurgessGJL06
+
+Creating social networks to improve peer-to-peer networking.
+Andrew Fast,David Jensen,Brian Neil Levine
+2005. inproceedings: KDD. key: conf/kdd/FastJL05
+
+Why collective inference improves relational classification.
+David Jensen,Jennifer Neville,Brian Gallagher
+2004. inproceedings: KDD. key: conf/kdd/JensenNG04
+
+Information awareness: a prospective technical assessment.
+David Jensen,Matthew J. Rattigan,Hannah Blau
+2003. inproceedings: KDD. key: conf/kdd/JensenRB03
+
+Adjusting for Multiple Comparisons in Decision Tree Pruning.
+David Jensen,Matthew D. Schmill
+1997. inproceedings: KDD. key: conf/kdd/JensenS97
+
+Learning relational probability trees.
+Jennifer Neville,David Jensen,Lisa Friedland,Michael Hay
+2003. inproceedings: KDD. key: conf/kdd/NevilleJFH03
+
+Using relational knowledge discovery to prevent securities fraud.
+Jennifer Neville,Ozgur Simsek,David Jensen,John Komoroske,Kelly Palmer,Henry G. Goldberg
+2005. inproceedings: KDD. key: conf/kdd/NevilleSJKPG05
+
+Large Datasets Lead to Overly Complex Models: An Explanation and a Solution.
+Tim Oates,David Jensen
+1998. inproceedings: KDD. key: conf/kdd/OatesJ98
+
+Efficient Progressive Sampling.
+Foster J. Provost,David Jensen,Tim Oates
+1999. inproceedings: KDD. key: conf/kdd/ProvostJO99
+
+Using structure indices for efficient approximation of network properties.
+Matthew J. Rattigan,Marc Maier,David Jensen
+2006. inproceedings: KDD. key: conf/kdd/RattiganMJ06
+
+Relational data pre-processing techniques for improved securities fraud detection.
+Andrew Fast,Lisa Friedland,Marc Maier,Brian Taylor,David Jensen,Henry G. Goldberg,John Komoroske
+2007. inproceedings: KDD. key: conf/kdd/FastFMTJGK07
+
+Finding tribes: identifying close-knit individuals from employment patterns.
+Lisa Friedland,David Jensen
+2007. inproceedings: KDD. key: conf/kdd/FriedlandJ07
+
+Social networks: looking ahead.
+Ravi Kumar,Alexander Tuzhilin,Christos Faloutsos,David Jensen,Gueorgi Kossinets,Jure Leskovec,Andrew Tomkins
+2008. inproceedings: KDD. key: conf/kdd/KumarTFJKLT08
+
+Privacy Vulnerabilities in Encrypted HTTP Streams.
+George Dean Bissias,Marc Liberatore,David Jensen,Brian Neil Levine
+2005. inproceedings: Privacy Enhancing Technologies. key: conf/pet/BissiasLJL05
+
+Recommending citations for academic papers.
+Trevor Strohman,W. Bruce Croft,David Jensen
+2007. inproceedings: SIGIR. key: conf/sigir/StrohmanCJ07
+
+Coordinating agent activities in knowledge discovery processes.
+David Jensen,Yulin Dong,Barbara Staudt Lerner,Eric K. McCall,Leon J. Osterweil,Stanley M. Sutton Jr.,Alexander E. Wise
+1999. inproceedings: WACC. key: conf/wacc/JensenDLMOSW99
+
+Knowledge Discovery by Design.
+David Jensen
+2009. inproceedings: KDIR. key: conf/ic3k/Jensen09
+
+Reports on the AAAI Fall Symposia (November 1999 and November 1998).
+Fawzi Daud,Michael Mateas,Phoebe Sengers,Susan Brennan,Alain Giboin,David R. Traum,Vinay Chaudri,Richard Fikes,Donia Scott,Richard Power,David Jensen
+2000. article: AI Magazine. key: journals/aim/DaudMSBGTCFSPJ00
+
+Introduction to the special issue on multi-relational data mining and statistical relational learning.
+Hendrik Blockeel,David Jensen,Stefan Kramer
+2006. article: Machine Learning. key: journals/ml/BlockeelJK06
+
+A bias/variance decomposition for models using collective inference.
+Jennifer Neville,David Jensen
+2008. article: Machine Learning. key: journals/ml/NevilleJ08
+
+Plant location with minimum inventory.
+Francisco Barahona,David Jensen
+1998. article: Math. Program.. key: journals/mp/BarahonaJ98
+
+Optimistic pruning for multiple instance learning.
+Amy McGovern,David Jensen
+2008. article: Pattern Recognition Letters. key: journals/prl/McGovernJ08
+
+Data Snooping, Dredging and Fishing: The Dark Side of Data Mining, A SIGKDD99 Panel Report.
+David Jensen
+2000. article: SIGKDD Explorations. key: journals/sigkdd/Jensen00
+
+Exploiting relational structure to understand publication patterns in high-energy physics.
+Amy McGovern,Lisa Friedland,Michael Hay,Brian Gallagher,Andrew Fast,Jennifer Neville,David Jensen
+2003. article: SIGKDD Explorations. key: journals/sigkdd/McGovernFHGFNJ03
+
+The case for anomalous link discovery.
+Matthew J. Rattigan,David Jensen
+2005. article: SIGKDD Explorations. key: journals/sigkdd/RattiganJ05
+
+Resisting structural re-identification in anonymized social networks.
+Michael Hay,Gerome Miklau,David Jensen,Donald F. Towsley,Chao Li
+2010. article: VLDB J.. key: journals/vldb/HayMJTL10
+
+Resisting structural re-identification in anonymized social networks.
+Michael Hay,Gerome Miklau,David Jensen,Donald F. Towsley,Philipp Weis
+2008. article: PVLDB. key: journals/pvldb/HayMJTW08

@@ -1,0 +1,91 @@
+Organizing Structured Deep Web by Clustering Query Interfaces Link Graph.
+Pengpeng Zhao,Li Huang,Wei Fang,Zhiming Cui
+2008. inproceedings: ADMA. key: conf/adma/ZhaoHFC08
+
+QoS Assurance of Handover TCP Flows in a DiffServ-enabled Mobile Wireless Access Network.
+Li Huang,Muhammad Jaseemuddin,Hesham El-Sayed
+2006. inproceedings: AICCSA. key: conf/aiccsa/HuangJE06
+
+Multiple Facial Feature Tracking Using Multi-cue Based Prediction Model.
+Congyong Su,Hong Zhou,Li Huang
+2004. inproceedings: AMDO. key: conf/amdo/SuZH04
+
+A Two-Step Approach to Multiple Facial Feature Tracking: Temporal Particle Filter and Spatial Belief Propagation.
+Congyong Su,Yueting Zhuang,Li Huang,Fei Wu
+2004. inproceedings: FGR. key: conf/fgr/SuZHW04
+
+Name Disambiguation Using Semantic Association Clustering.
+Hai Jin,Li Huang,Pingpeng Yuan
+2009. inproceedings: ICEBE. key: conf/icebe/JinHY09
+
+Exploring an Improved Decision Tree Based Weights.
+Weizhao Guo,Jian Yin,Zhimin Yang,Xiaobo Yang,Li Huang
+2009. inproceedings: ICNC (1). key: conf/icnc/GuoYYYH09
+
+Subdivision Feedback Based 3D Facial Modeling for E-learning.
+Yueting Zhuang,Congyong Su,Li Huang,Fei Wu
+2003. inproceedings: ICWL. key: conf/icwl/ZhuangSHW03
+
+Hybrid Differential Evolution for Global Numerical Optimization.
+Liyuan Jia,Lei Li,Wenyin Gong,Li Huang
+2010. inproceedings: RSKT. key: conf/rskt/JiaLGH10
+
+Facial Expression Hallucination.
+Congyong Su,Li Huang
+2005. inproceedings: WACV/MOTION. key: conf/wacv/SuH05
+
+K-Radius Subgraph Comparison for RDF Data Cleansing.
+Hai Jin,Li Huang,Pingpeng Yuan
+2010. inproceedings: WAIM. key: conf/waim/JinHY10
+
+Grid Resource Management Based on Mobile Agent.
+Xiaobo Tang,Li Huang
+2006. inproceedings: WISE Workshops. key: conf/wise/TangH06
+
+Coexistence of WBAN and WLAN in Medical Environments.
+Ruben de Francisco,Li Huang,Guido Dolmans
+2009. inproceedings: VTC Fall. key: conf/vtc/FranciscoHD09
+
+SDWS: Semantic Search for Deep Web Data.
+Wei Fang,Zhiming Cui,Pengyu Hu,Li Huang,Pengpeng Zhao
+2008. inproceedings: ISIP. key: conf/isip/FangCHHZ08
+
+Entropy-Based Complexity Analysis for Architecture of Information System.
+Aimin Luo,Li Huang,Xueshan Luo
+2008. inproceedings: ICNSC. key: conf/icnsc/LuoHL08
+
+Ranging energy optimization for robust sensor positioning.
+Tao Wang,Geert Leus,Dries Neirynck,Feng Shu 0001,Li Huang
+2009. inproceedings: ICASSP. key: conf/icassp/WangLNSH09
+
+Data quality inspection of watermarked GIS vector map.
+Li Huang,Wei Zhou,Rui Jiang,Anbo Li
+2010. inproceedings: Geoinformatics. key: conf/geoinformatics/HuangZJL10
+
+Steerable pyramid-based face hallucination.
+Congyong Su,Yueting Zhuang,Li Huang,Fei Wu
+2005. article: Pattern Recognition. key: journals/pr/SuZHW05
+
+Facial Expression Synthesis Using Manifold Learning and Belief Propagation.
+Li Huang,Congyong Su
+2006. article: Soft Comput.. key: journals/soco/HuangS06
+
+A split and swaying approach to building information society: The case of Internet cafes in China.
+Junhao Hong,Li Huang
+2005. article: Telematics and Informatics. key: journals/tele/HongH05
+
+Low-Complexity LMMSE-Based MIMO-OFDM Channel Estimation Via Angle-Domain Processing.
+Li Huang,Jan W. M. Bergmans,Frans M. J. Willems
+2007. article: IEEE Transactions on Signal Processing. key: journals/tsp/HuangBW07
+
+Ranging energy optimization for robust sensor positioning based on semidefinite programming.
+Tao Wang,Geert Leus,Li Huang
+2009. article: IEEE Transactions on Signal Processing. key: journals/tsp/WangLH09
+
+Ultra-Low Power Sensor Design for Wireless Body Area Networks - Challenges, Potential Solutions, and Applications.
+Li Huang,Maryam Ashouei,Refet Firat Yazicioglu,Julien Penders,Ruud J. M. Vullers,Guido Dolmans,Patrick Merken,Jos Huisken,Harmke de Groot,Chris Van Hoof,Bert Gyselinckx
+2009. article: JDCTA. key: journals/jdcta/HuangAYPVDMHGHG09
+
+Approximate solution of Abel integral equation.
+Li Huang,Yong Huang,Xian-Fang Li
+2008. article: Computers & Mathematics with Applications. key: journals/cma/HuangHL08

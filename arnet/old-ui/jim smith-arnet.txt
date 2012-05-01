@@ -1,0 +1,143 @@
+7 clusters.
+
+Cluster 1, 20 papers:	Electrical and Computer Engineerin Computer Sciences (1190390)
+A Parallel Algebra for Object Databases.
+sandra de f. mendes sampaio, norman w. paton, paul watson, jim smith
+1999. DEXA Workshop
+New Methods for Tunable, Random Landscapes.
+robert elliott smith, jim smith
+2000. FOGA
+Polar: An Architecture for a Parallel ODMG Compliant Object Database.
+jim smith, paul watson, sandra de f. mendes sampaio, norman w. paton
+2000. CIKM
+An Experimental Performance Evaluation of Join Algorithms for Parallel Object Databases.
+sandra de f. mendes sampaio, jim smith, norman w. paton, paul watson
+2001. Euro-Par
+Experimenting with Object Navigation in Parallel Object Databases.
+sandra de f. mendes sampaio, jim smith, norman w. paton, paul watson
+2001. DEXA Workshop
+Validated Cost Models for Parallel OQL Query Processing.
+sandra de f. mendes sampaio, norman w. paton, jim smith, paul watson
+2002. OOIS
+Distributed Query Processing on the Grid.
+jim smith, anastasios gounaris, paul watson, norman w. paton, alvaro a. a. fernandes, rizos sakellariou
+2002. GRID
+Parameter Perturbation Mechanisms in Binary Coded GAs with Self-Adaptive Mutation.
+jim smith
+2002. FOGA
+Speeding Up Navigational Requests in a Parallel Object Database System.
+jim smith, paul watson, sandra de f. mendes sampaio, norman w. paton
+2002. Euro-Par
+Distributed Query Processing on the Grid.
+jim smith, paul watson, anastasios gounaris, norman w. paton, alvaro a. a. fernandes, rizos sakellariou
+2003. IJHPCA
+Service-Based Distributed Querying on the Grid.
+m. nedim alpdemir, arijit mukherjee, norman w. paton, paul watson, alvaro a. a. fernandes, anastasios gounaris, jim smith
+2003. ICSOC
+The Design, Implementation and Evaluation of an ODMG Compliant, Parallel Object Database Server.
+jim smith, sandra de f. mendes sampaio, paul watson, norman w. paton
+2004. Distributed and Parallel Databases
+Fault-Tolerance in Distributed Query Processing.
+jim smith, paul watson
+2005. IDEAS
+Adapting to Changing Resource Performance in Grid Query Processing.
+anastasios gounaris, jim smith, norman w. paton, rizos sakellariou, alvaro a. a. fernandes, paul watson
+2005. DMG
+Measuring and modelling the performance of a parallel ODMG compliant object database server.
+sandra de f. mendes sampaio, norman w. paton, jim smith, paul watson
+2006. Concurrency and Computation: Practice and Experience
+Practical Adaptation to Changing Resources in Grid Query Processing.
+anastasios gounaris, norman w. paton, rizos sakellariou, alvaro a. a. fernandes, jim smith, paul watson
+2006. ICDE
+Modular Adaptive Query Processing for Service-Based Grids.
+anastasios gounaris, norman w. paton, rizos sakellariou, alvaro a. a. fernandes, jim smith, paul watson
+2006. ICAC
+Experiments Towards Adaptation of Concurrent Workflows.
+jim smith, paul watson
+2007. ECOWS
+Adaptive workload allocation in query processing in autonomous heterogeneous environments.
+anastasios gounaris, jim smith, norman w. paton, rizos sakellariou, alvaro a. a. fernandes, paul watson
+2009. Distributed and Parallel Databases
+Separation of Fault Tolerance and Non-Functional Concerns: Aspect Oriented Patterns and Evaluation.
+kashif hameed, rob williams, jim smith
+2010. JSEA
+
+Cluster 2, 11 papers:	(1190396)
+Multiscalar As a New Architecture Paradigm.
+jim smith
+1996. ACM Comput. Surv.
+A System for Fault-Tolerance Execution of Data and Compute Intensive Programs over a Network of Workstations.
+jim smith, santosh k. shrivastava
+1996. Euro-Par
+On Synchronisation in Fault-Tolerant Data and Compute Intensive Programs over a Network of Workstations.
+jim smith
+1997. Euro-Par
+Replacement Strategies in Steady State Genetic Algorithms: Static Environments.
+jim smith, frank vavak
+1998. FOGA
+An Examination of Tunable, Random Search Landscapes.
+robert e. smith, jim smith
+1998. FOGA
+A Memetic Algorithm With Self-Adaptive Local Search: TSP as a case study.
+natalio krasnogor, jim smith
+2000. GECCO
+Co-evolving Memetic Algorithms: Initial Investigations.
+jim smith
+2002. PPSN
+Strategy Parameter Variety In Self-adaptation Of Mutation Rates.
+christopher stone, jim smith
+2002. GECCO
+Using Earned Value Management for COTS-Based Systems: Issues and Recommendations.
+lisa brownsword, jim smith
+2005. ICCBSS
+Memetic Algorithms: The Polynomial Local Search Complexity Theory Perspective.
+natalio krasnogor, jim smith
+2008. J. Math. Model. Algorithms
+Meme fitness and memepool sizes in coevolutionary memetic algorithms.
+jim smith
+2010. IEEE Congress on Evolutionary Computation
+
+Cluster 3, 6 papers:	(1190395)
+An Adaptive Poly-Parental Recombination Strategy.
+jim smith, terence c. fogarty
+1995. Evolutionary Computing
+Adaptively Parameterised Evolutionary Systems: Self-Adaptive Recombination and Mutation in a Genetic Algorithm.
+jim smith, terence c. fogarty
+1996. PPSN
+Self Adaptation of Mutation Rates in a Steady State Genetic Algorithm.
+jim smith, terence c. fogarty
+1996. International Conference on Evolutionary Computation
+Recombination Strategy Adaptation via Evolution of Gene Linkage.
+jim smith, terence c. fogarty
+1996. International Conference on Evolutionary Computation
+Evolving Software Test Data - GA's learn Self Expression.
+jim smith, terence c. fogarty
+1996. Evolutionary Computing
+Operator and parameter adaptation in genetic algorithms.
+jim smith, terence c. fogarty
+1997. Soft Comput.
+
+Cluster 4, 3 papers:	(1190391)
+Parallel Problem Solving from Nature - PPSN VIII, 8th International Conference, Birmingham, UK, September 18-22, 2004, Proceedings
+xin yao, edmund k. burke, josé antonio lozano, jim smith, juan j. merelo guervós, john a. bullinaria, jonathan e. rowe, peter tiño, ata kabán, hans-paul schwefel
+2004. PPSN
+What Have Gene Libraries Done for AIS?
+steve cayzer, jim smith, james a. r. marshall, tim kovacs
+2005. ICARIS
+Gene Libraries: Coverage, Efficiency and Diversity.
+steve cayzer, jim smith
+2006. ICARIS
+
+Cluster 5, 2 papers:	(1190392)
+DECOREM: A Design and Construction Rework Minimisation Model.
+peter e. d. love, purnendu mandal, jim smith, zahir irani, g. treloar, o. faniran
+2000. ICSTM
+The Client Briefing Problem: A Method for Assessing the Strategic Needs of Project Stakeholders.
+jim smith, peter e. d. love, r. g. wyatt
+2000. ICSTM
+
+Cluster 6, 1 papers:	University of the West of England, Bristol, United Kingdom (1190394)
+On Replacement Strategies in Steady State Evolutionary Algorithms.
+jim smith
+2007. Evolutionary Computation
+

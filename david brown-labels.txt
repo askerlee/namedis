@@ -1,0 +1,217 @@
+25 clusters.
+
+Cluster 3, 18 papers:	Computational Neuroscience Laboratory, Cambridge
+A Novel Approach for Analyzing Dynamics in Neural Networks with Saturated Characteristics.
+jianfeng feng, david brown
+1996. Neural Processing Letters. key: journals/npl/FengB96
+Viewing a Class of Neurodynamics on Parameter Space.
+jianfeng feng, david brown
+1997. IWANN. key: conf/iwann/FengB97
+What is observable in a class of neurodynamics?
+jianfeng feng, david brown
+1998. ESANN. key: conf/esann/FengB98
+Output jitter diverges to infinity, converges to zero or remains constant.
+jianfeng feng, brunello tirozzi, david brown
+1998. ESANN. key: conf/esann/FengTB98
+Impact of temporal variation and the balance between excitation and inhibition on the output of the perfect integrate-and-fire model.
+jianfeng feng, david brown
+1998. Biological Cybernetics. key: journals/bc/FengB98
+Fixed Point Attractor Analysis for a Class of Neurodynamics.
+jianfeng feng, david brown
+1998. Neural Computation. key: journals/neco/FengB98
+Effects of Correlation and Degree of Balance in Random Synaptic Inputs on the Output of the Hodgkin-Huxley Model.
+david brown, jianfeng feng
+1999. IWANN. key: conf/iwann/BrownF99
+Structure of Lateral Inhibition in an Olfactory Bulb Model.
+andrew p. davison, jianfeng feng, david brown
+1999. IWANN. key: conf/iwann/DavisonFB99
+Paradoxical Relationship between Output and Input Regularity for the FitzHugh-Nagumo Model.
+stuart feerick, jianfeng feng, david brown
+1999. IWANN. key: conf/iwann/FeerickFB99
+Coefficient of variation of interspike intervals greater than 0.5. How and when?
+jianfeng feng, david brown
+1999. Biological Cybernetics. key: journals/bc/FengB99
+Is there a problem matching real and model CV(ISI)?
+david brown, jianfeng feng
+1999. Neurocomputing. key: journals/ijon/BrownF99
+Low correlation between random synaptic inputs impacts considerably on the output of the Hodgkin-Huxley model.
+david brown, jianfeng feng
+2000. Neurocomputing. key: journals/ijon/BrownF00
+Random pulse input versus continuous current plus white noise: Are they equivalent?
+stuart feerick, jianfeng feng, david brown
+2000. Neurocomputing. key: journals/ijon/FeerickFB00
+Impact of Correlated Inputs on the Output of the Integrate-and-Fire Model.
+jianfeng feng, david brown
+2000. Neural Computation. key: journals/neco/FengB00
+Significance of random neuronal drive.
+david brown, stuart feerick, jianfeng feng
+2001. Neurocomputing. key: journals/ijon/BrownFF01
+Spike synchronization in a biophysically-detailed model of the olfactory bulb.
+andrew p. davison, jianfeng feng, david brown
+2001. Neurocomputing. key: journals/ijon/DavisonFB01
+Inhibitory inputs increase a neurons's firing rate.
+stuart feerick, jianfeng feng, david brown
+2001. Neurocomputing. key: journals/ijon/FeerickFB01
+Decoding Input Signals in Time Domain - A Model Approach.
+jianfeng feng, david brown
+2004. Journal of Computational Neuroscience. key: journals/jcns/FengB04
+
+Cluster 4, 6 papers:	University of Portsmouth, UK
+An Effective Human Motion Classification Approach using Knowledge Representation in Qualitative Normalised Templates.
+chee seng chan, honghai liu, david brown
+2007. FUZZ-IEEE. key: conf/fuzzIEEE/ChanLB07
+Adapting robot kinematics for human-arm motion recognition.
+chee seng chan, honghai liu, david brown
+2007. KES Journal. key: journals/kes/ChanLB07
+Predictive unsupervised organisation in marine engine fault detection.
+ian morgan, honghai liu, george turnbull, david brown
+2008. IJCNN. key: conf/ijcnn/MorganLTB08
+Analysing Flight Data Using Clustering Methods.
+christopher jesse, honghai liu, edward smart, david brown
+2008. KES. key: conf/kes/JesseLSB08
+Visual-Based View-Invariant Human Motion Analysis: A Review.
+xiaofei ji, honghai liu, yibo li, david brown
+2008. KES. key: conf/kes/JiLLB08
+Travel Speed Prediction Using Fuzzy Reasoning.
+yang wang, honghai liu, patrick beullens, david brown
+2008. ICIRA. key: conf/icira/WangLBB08
+
+Cluster 2, 4 papers:	University of Alabama
+Experience in Teaching a Management-Oriented Capstone Software Engineering Course.
+allen s. parrish, david brown, david cordes
+1995. CSEE. key: conf/csee/ParrishBC95
+CARE: An Automobile Crash Data Analysis Tool.
+allen s. parrish, brandon dixon, david cordes, susan v. vrbsky, david brown
+2003. IEEE Computer. key: journals/computer/ParrishDCVB03
+A Host Architecture for Automobile License Plate Recognition.
+maury mitchell, matthew hudnall, david brown, david cordes, randy k. smith, allen s. parrish
+2007. ISI. key: conf/isi/MitchellHBCSP07
+PerpSearch: An integrated crime detection system.
+li ding, dana steil, matthew hudnall, brandon dixon, randy k. smith, david brown, allen s. parrish
+2009. ISI. key: conf/isi/DingSHDSBP09
+
+Cluster 1, 2 papers:	National Center for Atmospheric Research, Boulder
+An Ontology for Scientific Information in a Grid Environment: the Earth System Grid.
+line pouchard, luca cinquini, bob drach, don middleton, david e. bernholdt, kasidit chanchio, ian t. foster, veronika nefedova, david brown, peter fox, jose garcia, gary strand, dean n. williams, ann l. chervenak, carl kesselman, arie shoshani, alex sim
+2003. CCGRID. key: conf/ccgrid/PouchardCDMBCFNBFGSWCKSS03
+The Earth System Grid: Supporting the Next Generation of Climate Modeling Research
+david e. bernholdt, shishir bharathi, david brown, kasidit chanchio, meili chen, ann l. chervenak, luca cinquini, bob drach, ian t. foster, peter fox, jose garcia, carl kesselman, rob s. markel, don middleton, veronika nefedova, line pouchard, arie shoshani, alex sim, gary strand, dean n. williams
+2007. CoRR. key: journals/corr/abs-0712-2262
+
+Cluster 8, 2 papers:	University of Houston-Downtown
+Large-Scale Dependency Knowledge Acquisition and its Extrinsic Evaluation Through Word Sense Disambiguation.
+ping chen, wei ding, chris bowes, david brown
+2009. ICTAI. key: conf/ictai/ChenDBB09
+A Fully Unsupervised Word Sense Disambiguation Method Using Dependency Knowledge.
+ping chen, wei ding, chris bowes, david brown
+2009. HLT-NAACL. key: conf/naacl/ChenDBB09
+
+Cluster 11, 2 papers:	Worcester Polytechnic Institute
+Implicit interest indicators.
+mark claypool, phong le, makoto waseda, david brown
+2001. IUI. key: conf/iui/ClaypoolLWB01
+Inferring User Interest.
+mark claypool, david brown, phong le, makoto waseda
+2001. IEEE Internet Computing. key: journals/internet/ClaypoolBLW01
+
+Cluster 19, 2 papers:	Universidade do Porto, Portugal
+Structural analysis of the KGD sequence loop of barbourin, an alpha-IIb-beta-3-specific disintegrin.
+herve minoux, christophe chipot, david brown, bernard maigret
+2000. Journal of Computer-Aided Molecular Design. key: journals/jcamd/MinouxCBM00
+The search for a new model structure of beta-Factor XIIa.
+elsa s. henriques, welly b. floriano, nathalie reuter, andre melo, david brown, jose a. n. f. gomes, bernard maigret, marco a. c. nascimento, maria joao ramos
+2001. Journal of Computer-Aided Molecular Design. key: journals/jcamd/HenriquesFRMBGMNR01
+
+Cluster 22, 2 papers:	Ithaca College, NY
+Identities for the exponential integral and the complementary error transforms.
+david brown, nese dernek, osman yurekli
+2006. Applied Mathematics and Computation. key: journals/amc/BrownDY06
+Identities and Parseval type relations for the L2-transform.
+david brown, john maceli, osman yurekli
+2008. Applied Mathematics and Computation. key: journals/amc/BrownMY08
+
+Cluster 5, 1 papers:	Worcester Polytechnic Institute
+Cognitive Scales and Mental Models for Inclusive Design.
+umesh persad, patrick langdon, david brown, p. john clarkson
+2007. HCI. key: conf/hci/PersadLBC07
+
+Cluster 6, 1 papers:	Maine School of Science and Mathematics, Limestone
+HCI Professional Involvement in k-12 Education: On Target or Missing the Mark?
+martin jelin, adrian sudol, jeffrey damon, douglas mccadden, david brown
+2009. HCI. key: conf/hci/JelinSDMB09
+
+Cluster 7, 1 papers:	Wake Forest University
+Wiring the academy (panel session): what's working, what's not, what's next, and why.
+bradley c. wheeler, lynda m. applegate, david brown, peggy phillips
+1997. ICIS. key: conf/icis/WheelerABP97
+
+Cluster 9, 1 papers:	Depts. of Electrical Engineering, TAMU
+Parallel Imaging: System Design and Limitations.
+steven m. wright, mary mcdougall, krishna kurpad, david brown
+2004. ISBI. key: conf/isbi/WrightMKB04
+
+Cluster 10, 1 papers:	Worcester Polytechnic Institute
+Tag and Resource-Aware Collaborative Filtering Algorithms for Resource Recommendation.
+gayatri gadepalli, elke a. rundensteiner, david brown, kajal t. claypool
+2010. ITNG. key: conf/itng/GadepalliRBC10
+
+Cluster 12, 1 papers:	D'Amour Center for Cancer Care, MA
+Rigorously Defining and Analyzing Medical Processes: An Experience Report.
+stefan christov, bin chen, george s. avrunin, lori a. clarke, leon j. osterweil, david brown, lucinda cassells, wilson mertens
+2007. MoDELS Workshops. key: conf/models/ChristovCACOBCM07
+
+Cluster 13, 1 papers:	Statistical Disclosure Control Centre, Office for National Statistics, London,
+Getting the Best Results in Controlled Rounding with the Least Effort.
+juan jose salazar gonzalez, philip lowthian, caroline young, giovanni merola, stephen bond, david brown
+2004. Privacy in Statistical Databases. key: conf/psd/GonzalezLYMBB04
+
+Cluster 14, 1 papers:	Chairman, Motorola
+The new economy: an engineer's perspective.
+david brown
+2006. WWW. key: conf/www/Brown06
+
+Cluster 15, 1 papers:	Google
+Google TV search: dual-wielding search and discovery in a large-scale product.
+manish patel, rich gossweiler, mehran sahami, john blackburn, david brown, andrea knight
+2008. UXTV. key: conf/uxtv/PatelGSBBK08
+
+Cluster 16, 1 papers:	Bob Jones University
+Composed products and module polynomials over finite fields.
+joel v. brawley, david brown
+1993. Discrete Mathematics. key: journals/dm/BrawleyB93
+
+Cluster 17, 1 papers:	N/A
+Model-driven systems development.
+laurent balmelli, david brown, murray cantor, michael mott
+2006. IBM Systems Journal. key: journals/ibmsj/BalmelliBCM06
+
+Cluster 18, 1 papers:	The Nottingham Trent University, UK
+Text formats and web design for visually impaired and dyslexic readers - Clear Text for All.
+lindsay j. evett, david brown
+2005. Interacting with Computers. key: journals/iwc/EvettB05
+
+Cluster 20, 1 papers:	Solaris Engineering group, Sun Microsystems.
+The virtualization reality.
+simon crosby, david brown
+2006. ACM Queue. key: journals/queue/CrosbyB06
+
+Cluster 21, 1 papers:	IBM Mid-Hudson Valley Programming Laboratory
+A Case Study of Software Process Improvement During Development.
+inderpal s. bhandari, michael j. halliday, eric tarver, david brown, jarir k. chaar, ram chillarege
+1993. IEEE Trans. Software Eng.. key: journals/tse/BhandariHTBCC93
+
+Cluster 23, 1 papers:	University of Southampton
+Special millennium issue of the EJOR: A global view of industrial logistics.
+lilian l. barros, michael riley, david brown
+2001. European Journal of Operational Research. key: journals/eor/BarrosRB01
+
+Cluster 24, 1 papers:	Colorado College
+A mathematical model of the Gac/Rsm quorum sensing network in Pseudomonas fluorescens.
+david brown
+2010. Biosystems. key: journals/biosystems/Brown10
+
+Cluster 25, 1 papers:	Lancaster University
+Extending the research agenda on diffusion: the case of public program interventions for the adoption of e-business systems in SMEs.
+arturo vega, mike chiasson, david brown
+2008. JIT. key: journals/jitech/VegaCB08
+

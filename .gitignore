@@ -5,10 +5,8 @@
 *.htm
 *.html
 *.tgz
-*.txt
+./*.txt
 !*pinyin.txt
-!groundtruth/*
-!original/*
 test*
 papers/
 paper/

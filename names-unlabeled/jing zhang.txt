@@ -1,0 +1,1007 @@
+A Web Service Adapter with Contract-Oriented Methodology.
+Junhuai Li,Yile Wang,Jing Zhang,Zhuobin Zhang
+2009. inproceedings: ACIS-ICIS. key: conf/ACISicis/LiWZZ09
+
+E-R modeler: a database modeling toolkit for Eclipse.
+Song Zhou,Chuanxi Xu,Hui Wu,Jing Zhang,Yuehua Lin,Juanqin Wang,Jeff Gray,Barrett R. Bryant
+2004. inproceedings: ACM Southeast Regional Conference. key: conf/ACMse/ZhouXWZLWGB04
+
+Novel View Generation from Two Reference Images Based on the Same Optical Axis.
+Shungang Hua,Jing Zhang,Zongying Ou
+2004. inproceedings: CIT. key: conf/IEEEcit/HuaZO04
+
+Index Support for Visualizing Large, Distributed, High-Dimension Data Sets.
+Jing Zhang,Les Miller,Di Cook
+2005. inproceedings: ISCA PDCS. key: conf/ISCApdcs/ZhangMC05
+
+Combining Discriminative and Descriptive Models for Tracking.
+Jing Zhang,Duowen Chen,Ming Tang
+2009. inproceedings: ACCV (1). key: conf/accv/ZhangCT09
+
+Camera Calibration from a Single Frame of Planar Pattern.
+Jianhua Wang,Fanhuai Shi,Jing Zhang,Yuncai Liu
+2006. inproceedings: ACIVS. key: conf/acivs/WangSZL06
+
+CACS: A Novel Classification Algorithm Based on Concept Similarity.
+Jing Peng,Dongqing Yang,Changjie Tang,Jing Zhang,Jianjun Hu
+2007. inproceedings: ADMA. key: conf/adma/PengYTZH07
+
+Autonomous Objects and Bottom-Up Composition in ZOO Applied to a Case Study of Biological Reactivity.
+Nuno Amalio,Fiona Polack,Jing Zhang
+2008. inproceedings: ABZ. key: conf/asm/AmalioPZ08
+
+An Adaptive Selection of Motion for Online Hand-Eye Calibration.
+Jing Zhang,Fanhuai Shi,Yuncai Liu
+2005. inproceedings: Australian Conference on Artificial Intelligence. key: conf/ausai/ZhangSL05
+
+Simulations of Protein Folding Process.
+Jing Zhang,Maozu Guo,Yang Yu
+2007. inproceedings: BIOCOMP. key: conf/biocomp/ZhangGY07a
+
+Methods and Simulations for the Protein Folding.
+Jing Zhang,Maozu Guo,Yang Yu
+2007. inproceedings: BIOCOMP. key: conf/biocomp/ZhangGY07
+
+Limn Matrix: A Tool for Visualizing Large, Distributed, High-Dimension Data Sets.
+Jing Zhang,Di Cook,Les Miller
+2005. inproceedings: CAINE. key: conf/caine/ZhangCM05
+
+Enhancing SQL with Set-Comparison Operators.
+Jing Zhang,Wen-Chi Hou,Feng Yu,Dunren Che
+2009. inproceedings: CATA. key: conf/cata/ZhangHYC09
+
+Toward Protein Structure Analysis with Self-Organizing Maps.
+Lutz Hamel,Gongqin Sun,Jing Zhang
+2005. inproceedings: CIBCB. key: conf/cibcb/HamelSZ05
+
+Differential-Multiple Linear Cryptanalysis.
+Zhiqiang Liu,Dawu Gu,Jing Zhang,Wei Li
+2009. inproceedings: Inscrypt. key: conf/cisc/LiuGZL09
+
+A Context-Aware Policy Model to Support Autonomic Networking.
+John Strassner,Yan Liu 0003,Jing Zhang
+2008. inproceedings: COMPSAC. key: conf/compsac/StrassnerLZ08
+
+MDDAS 2008 Workshop Organization.
+John Strassner,Sven van der Meer,Jing Zhang
+2008. inproceedings: COMPSAC. key: conf/compsac/StrassnerMZ08a
+
+Message from the MDDS 2008 Workshop Organizers.
+John Strassner,Sven van der Meer,Jing Zhang
+2008. inproceedings: COMPSAC. key: conf/compsac/StrassnerMZ08
+
+Applying PageRank Algorithm in Requirement Concern Impact Analysis.
+Ying Jin,Jing Zhang,Pengfei Ma,Weiping Hao,Shutong Luo,Zepeng Li
+2009. inproceedings: COMPSAC (1). key: conf/compsac/JinZMHLL09
+
+Computing Exact p-Value for Structured Motif.
+Jing Zhang,Xi Chen,Ming Li
+2007. inproceedings: CPM. key: conf/cpm/ZhangCL07
+
+A Composition-Oriented Approach for Business Process Formal Design.
+Jing Zhang,Haiyang Wang
+2006. inproceedings: CSCWD. key: conf/cscwd/ZhangW06
+
+A Pi-calculus-Based Business Process Formal Design Method.
+Jing Zhang,Haiyang Wang
+2006. inproceedings: CSCWD (Selected Papers). key: conf/cscwd/ZhangW06a
+
+Research on the Optimal Transmission Design of Planar Bar Mechanism.
+Shijie Fang,Lei Zhang,Jing Zhang,Yantao Wang
+2007. inproceedings: CSCWD. key: conf/cscwd/FangZZW07
+
+Motion Segmentation of Multiple Translating Objects Using Line Correspondences.
+Fanhuai Shi,Jianhua Wang,Jing Zhang,Yuncai Liu
+2005. inproceedings: CVPR (1). key: conf/cvpr/ShiWZL05
+
+Extraction of Text Objects in Video Documents: Recent Progress.
+Jing Zhang,Rangachar Kasturi
+2008. inproceedings: Document Analysis Systems. key: conf/das/ZhangK08
+
+Expert Finding in a Social Network.
+Jing Zhang,Jie Tang,Juan-Zi Li
+2007. inproceedings: DASFAA. key: conf/dasfaa/ZhangTL07
+
+Exploring digital government initiatives to expand Full Information Product Pricing (FIPP) networks in NAFTA.
+Jing Zhang,Rejean Roy,Monique Charbonneau,Luis F. Luna-Reyes,Irak Lopez Davila,Josune Arcelus de Diego,David F. Andersen,Gabriel Cid,Karen Bryce,Tino DeMarco,Andy Whitmore
+2008. inproceedings: DG.O. key: conf/dgo/ZhangRCLDDACBDW08
+
+North American digital government working group: initial steps in the development of a comparative and transnational agenda.
+Celene Navarrete,Jing Zhang,Theresa A. Pardo,Luis F. Luna-Reyes,Jose Ramon Gil-Garcia
+2008. inproceedings: DG.O. key: conf/dgo/NavarreteZPLG08
+
+Research group on digital government in North America: developing a comparative and transnational agenda.
+Jose Ramon Gil-Garcia,Luis F. Luna-Reyes,Sehl Mellouli,Celene Navarrete,Theresa A. Pardo,Jing Zhang
+2009. inproceedings: D.GO. key: conf/dgo/Gil-GarciaLMNPZ09
+
+Exploring digital government initiatives to expand full information product pricing (FIPP) networks in NAFTA.
+Jing Zhang,Luis F. Luna-Reyes,David F. Andersen,Andy Whitmore,Rejean Roy
+2009. inproceedings: D.GO. key: conf/dgo/ZhangLAWR09
+
+A policy framework for evaluating Full Information Product Pricing (FIPP) regimes.
+Andrew Whitmore,David F. Andersen,Jing Zhang,Luis F. Luna-Reyes
+2010. inproceedings: DG.O. key: conf/dgo/WhitmoreAZL10
+
+Comparing digital government agendas in Canada, Mexico, and the United States.
+Luis F. Luna-Reyes,Sehl Mellouli,Jose Ramon Gil-Garcia,Theresa A. Pardo,Jing Zhang,Celene Navarrete
+2010. inproceedings: DG.O. key: conf/dgo/Luna-ReyesMGPZN10
+
+A Case Study: A Model-Based Approach to Retrofit a Network Fault Management System with Self-Healing Functionality.
+Yan Liu 0003,Jing Zhang,Michael Jiang,David Raymer,John Strassner
+2008. inproceedings: ECBS. key: conf/ecbs/LiuZJRS08
+
+Lost source provenance.
+Jing Zhang,H. V. Jagadish
+2010. inproceedings: EDBT. key: conf/edbt/ZhangJ10
+
+Dynamic Terrain LOD with Region Preservation in 3D Game Engine.
+Guojun Chen,Jing Zhang
+2006. inproceedings: Edutainment. key: conf/edutainment/ChenZ06
+
+A Survey on Use of "New Perspective English Learning System" among University Students-Case Study on Jiangxi Normal University.
+Jing Zhang,Min Li
+2008. inproceedings: Edutainment. key: conf/edutainment/ZhangL08
+
+The F-R Model of Teaching in Chinese Universities.
+Hui Zhao,Yanbo Huang,Jing Zhang
+2008. inproceedings: Edutainment. key: conf/edutainment/ZhaoHZ08
+
+Federate Job Mapping Strategy in Grid-Based Virtual Wargame Collaborative Environment.
+Jing Zhang,Hai Huang
+2007. inproceedings: Edutainment. key: conf/edutainment/ZhangH07
+
+Real-Time Visualization of Tire Tracks in Dynamic Terrain with LOD.
+Guojun Chen,Jing Zhang,Xiaoli Xu,Yuan Yin
+2007. inproceedings: Edutainment. key: conf/edutainment/ChenZXY07
+
+An Improved Fuzzy Image Enhancement Algorithm.
+Liangrui Tang,Jing Zhang,Bing Qi
+2008. inproceedings: FSKD (1). key: conf/fskd/TangZQ08
+
+DNA Sequences Classification Based on Immune Evolution Network.
+Lianhong Wang,Jing Zhang,Xiaofeng Huang,Gufeng Gong
+2008. inproceedings: FSKD (2). key: conf/fskd/WangZHG08
+
+Model Retrieval Based on Flattened Shape Comparison in 3D Databases.
+Guisheng Yin,Huaiyou Chen,Jing Zhang
+2008. inproceedings: FSKD (4). key: conf/fskd/YinCZ08
+
+ROI Based Natural Image Retrieval Using Color and TextureFeature.
+Jing Zhang,Choong-Woong Yoo,Seok-Wun Ha
+2007. inproceedings: FSKD (4). key: conf/fskd/ZhangYH07
+
+Terminal Delay Performance Evaluation Based on Piece-Wise Fuzzy Linear Regression Modeling.
+Jing Zhang,Fei Wang,Dongxuan Wei,Xiaohao Xu
+2009. inproceedings: FSKD (3). key: conf/fskd/ZhangWWX09
+
+A New FCM-Based Algorithm of Hydrophobic Image Segmentation.
+Qiuxia Yang,Liangrui Tang,Bing Qi,Jing Zhang
+2009. inproceedings: FSKD (3). key: conf/fskd/YangTQZ09
+
+Numerical Simulation of Bag-Type Collector Flow Field in Biomass Energy Power Plant.
+Manyin Hu,Qi Yin,Jinxing Yu,Jing Zhang
+2009. inproceedings: FSKD (4). key: conf/fskd/HuYYZ09
+
+Service Quality Evaluation for Brand Retailers Based on Fuzzy Comprehensive Appraisal.
+Wenyong Zhou,Jing Zhang
+2009. inproceedings: FSKD (6). key: conf/fskd/ZhouZ09
+
+A Fuzzy Design Algorithm in Nature-Inspired Computation Systems.
+Jianhao Tan,Jing Zhang,Fu Guo
+2009. inproceedings: FSKD (6). key: conf/fskd/TanZG09
+
+Rapid Calculation Research on Water Area Extraction from ASAR Image.
+Lingjun Zhao,Yan Ma,Guoqing Li,Wenyang Yu,Jing Zhang
+2009. inproceedings: GCC. key: conf/gcc/ZhaoMLYZ09
+
+Study on WPS Implement Framework with Shark Workflow.
+Weijie He,Guoqing Li,Jing Zhang,Wenyang Yu,Jibo Xie
+2010. inproceedings: GCC. key: conf/gcc/HeLZYX10
+
+Model-Driven Program Transformation of a Large Avionics Framework.
+Jeffrey G. Gray,Jing Zhang,Yuehua Lin,Suman Roychoudhury,Hui Wu,Rajesh Sudarsan,Aniruddha S. Gokhale,Sandeep Neema,Feng Shi,Ted Bapty
+2004. inproceedings: GPCE. key: conf/gpce/GrayZLRWSGNSB04
+
+Adaptive Noise Reduction for Engineering Drawings Based on Primitives and Noise Assessment.
+Jing Zhang,Wan Zhang,Liu Wenyin
+2005. inproceedings: GREC. key: conf/grec/ZhangZW05
+
+Increase of Potential Intellectual Bandwidth in a Scientific Community through Implementation of an End-User Information System.
+Christian Bach,Salvatore Belardo,Jing Zhang
+2003. inproceedings: HICSS. key: conf/hicss/BachBZ03
+
+Divergent Approaches and Converging Views: Drawing Sensible Linkages between Knowledge Management and Organizational Learning.
+Jing Zhang,Sue R. Faerman
+2003. inproceedings: HICSS. key: conf/hicss/ZhangF03
+
+The Nature of Knowledge and Its Influence on Knowledge Sharing Practice: Experiences from Building the MACROS System.
+Jing Zhang,Sue R. Faerman
+2004. inproceedings: HICSS. key: conf/hicss/ZhangF04
+
+The Effect of Organizational/Technological Factors and the Nature of Knowledge on Knowledge Sharing.
+Jing Zhang,Sue R. Faerman,Anthony M. Cresswell
+2006. inproceedings: HICSS. key: conf/hicss/ZhangFC06
+
+Minitrack: E-Government Information and Knowledge Management.
+Maria Wimmer,Michael Goul,Jing Zhang
+2007. inproceedings: HICSS. key: conf/hicss/WimmerGZ07
+
+Information Strategies to Support Full Information Product Pricing: the Role of Trust.
+Luis F. Luna-Reyes,David F. Andersen,Josune Arcelus de Diego,Jing Zhang,Madeleine Andersen,Andy Whitmore,Rejean Roy
+2009. inproceedings: HICSS. key: conf/hicss/Luna-ReyesADZAWR09
+
+Advances in Fuzzy Method for Natural Computing.
+Jing Zhang
+2009. inproceedings: HIS (2). key: conf/his/Zhang09
+
+Texture-Based Image Retrieval by Edge Detection Matching GLCM.
+Jing Zhang,Gui-li Li,Seok-wun He
+2008. inproceedings: HPCC. key: conf/hpcc/ZhangLH08
+
+Transforming Natural Arguments in Araucaria to Formal Arguments in LMA.
+Yohsuke Takahashi,Hajime Sawamura,Jing Zhang
+2006. inproceedings: IAT. key: conf/iat/TakahashiSZ06
+
+Factor Analysis Based Anomaly Detection.
+Ningning Wu,Jing Zhang
+2003. inproceedings: IAW. key: conf/iaw/WuZ03
+
+The Design of a New Context-Aware Policy Model for Autonomic Networking.
+John Strassner,Srini Samudrala,Greg W. Cox,Yan Liu 0003,Michael Jiang,Jing Zhang,Sven van der Meer,Micheal O Foghlu,Willie Donnelly
+2008. inproceedings: ICAC. key: conf/icac/StrassnerSCLJZMFD08
+
+Exploiting Frame-to-Frame Coherence for Rendering Terrain Using Continuous LOD.
+Jing Zhang,Guojun Chen
+2006. inproceedings: ICAT. key: conf/icat/ZhangC06
+
+Studies on a Class of AWG-Based Node Architectures for Optical Burst-Switched Networks.
+Yurong (Grace) Huang,Debasish Datta,Xue Qiu,Jing Zhang,Hyuk-Kyu Park,Young-Chon Kim,Jonathan P. Heritage,Biswanath Mukherjee
+2004. inproceedings: International Conference on Computational Science. key: conf/iccS/HuangDQZPKHM04
+
+Explicit Routing for Traffic Engineering in Labeled Optical Burst-Switched WDM Networks.
+Jing Zhang,Hae-Joung Lee,Shuang Wang,Xue Qiu,Keyao Zhu,Yurong (Grace) Huang,Debasish Datta,Young-Chon Kim,Biswanath Mukherjee
+2004. inproceedings: International Conference on Computational Science. key: conf/iccS/ZhangLWQZHDKM04
+
+Federation Based Solution for Peer-to-Peer Network Management.
+Jilong Wang,Jing Zhang
+2007. inproceedings: International Conference on Computational Science (4). key: conf/iccS/WangZ07
+
+RSA Extended Modulus Attacks and Their Solutions in a Kind of Fair Exchange Protocols.
+Ping Li,Lalin Jiang,Jiaying Wu,Jing Zhang
+2005. inproceedings: ICCNMC. key: conf/iccnmc/LiJWZ05
+
+A Hybrid Restoration Scheme Based on Threshold Reaction Time in Optical Burst-Switched Networks.
+Hae-Joung Lee,Kyu-Yeop Song,Won-Ho So,Jing Zhang,Debasish Datta,Biswanath Mukherjee,Young-Chon Kim
+2004. inproceedings: ICCSA (4). key: conf/iccsa/LeeSSZDMK04
+
+A Pixel-level Statistical Structural Descriptor for Shape Measure and Recognition.
+Jing Zhang,Wenyin Liu
+2009. inproceedings: ICDAR. key: conf/icdar/ZhangL09
+
+Optimal-Nearest-Neighbor Queries.
+Yunjun Gao,Jing Zhang,Gencai Chen,Qing Li,Shen Liu,Chun Chen
+2008. inproceedings: ICDE. key: conf/icde/GaoZCLLC08
+
+A Topic Modeling Approach and Its Integration into the Random Walk Framework for Academic Search.
+Jie Tang,Ruoming Jin,Jing Zhang
+2008. inproceedings: ICDM. key: conf/icdm/TangJZ08
+
+Topic Distributions over Links on Web.
+Jie Tang,Jing Zhang,Jeffrey Xu Yu,Zi Yang,Keke Cai,Rui Ma,Li Zhang,Zhong Su
+2009. inproceedings: ICDM. key: conf/icdm/TangZYYCMZS09
+
+Dynamic Negotiation for Real-Time Manufacturing Execution.
+Li Zhuang,Jing Zhang,Bryan Ng,Yue Tang,Yi Zhao
+2004. inproceedings: ICEIS (2). key: conf/iceis/ZhuangZNTZ04
+
+The Cluster Distribution of Regulatory Motifs of Transcription in Yeast Introns.
+Jun Hu,Jing Zhang
+2005. inproceedings: ICIC (2). key: conf/icic/HuZ05
+
+Optimizing the Selection of Partners in Collaborative Operation Networks.
+Kai Kang,Jing Zhang,Baoshan Xu
+2007. inproceedings: ICIC (2). key: conf/icic/KangZX07
+
+A Novel Lossless Compression for Hyperspectral Images by Adaptive Classified Arithmetic Coding in Wavelet Domain.
+Jing Zhang,Guizhong Liu
+2006. inproceedings: ICIP. key: conf/icip/ZhangL06
+
+A Multimedia System for Route Sharing and Video-Based Navigation.
+Wen Wu,Jie Yang,Jing Zhang
+2006. inproceedings: ICME. key: conf/icmcs/WuYZ06
+
+A PDA-Based Sign Translator.
+Jing Zhang,Xilin Chen,Jie Yang,Alex Waibel
+2002. inproceedings: ICMI. key: conf/icmi/ZhangCYW02
+
+An Advanced Scheme For Wireless Network Authentication System.
+Jing Zhang,Jinhai Liu,Tiepan Li
+2006. inproceedings: ICN/ICONS/MCL. key: conf/icn/ZhangLL06
+
+A New Scheme For Wireless Network Authentication System.
+Jing Zhang,Bo Wang 0007
+2006. inproceedings: ICN/ICONS/MCL. key: conf/icn/ZhangW06
+
+Neuroinformatics Research in China- Current Status and Future Research Activities.
+Guang Li,Jing Zhang,Faji Gu,Ling Yin,Yiyuan Tang,Xiaowei Tang
+2005. inproceedings: ICNC (1). key: conf/icnc/LiZGYTT05
+
+Eigenspectra Versus Eigenfaces: Classification with a Kernel-Based Nonlinear Representor.
+Benyong Liu,Jing Zhang
+2005. inproceedings: ICNC (1). key: conf/icnc/LiuZ05
+
+Evolutionary Algorithm Based on Overlapped Gene Expression.
+Jing Peng,Changjie Tang,Jing Zhang,Chang-an Yuan
+2005. inproceedings: ICNC (3). key: conf/icnc/PengTZY05
+
+A Novel Approach Using Edge Detection Information for Texture Based Image Retrieval.
+Jing Zhang,Seok-Wun Ha
+2006. inproceedings: ICNC (2). key: conf/icnc/ZhangH06
+
+Image Computing: Fractional Spectra and Circular Moments via FrFT.
+Benyong Liu,Jing Zhang
+2009. inproceedings: ICNC (2). key: conf/icnc/LiuZ09
+
+The computation of two-dimensional manifold of Hyperbolic equilibria for vector fields.
+Meng Jia,Yangyu Fan,Huimin Li,Hengyi Sun,Jing Zhang
+2010. inproceedings: ICNC. key: conf/icnc/JiaFLSZ10
+
+Multimodal Registration using the Discrete Wavelet Frame Transform.
+Shutao Li,Jinglin Peng,James T. Kwok,Jing Zhang
+2006. inproceedings: ICPR (3). key: conf/icpr/LiPKZ06
+
+A Robust Approach for Recognition of Text Embedded in Natural Scenes.
+Jing Zhang,Xilin Chen,Andreas Hanneman,Jie Yang,Alex Waibel
+2002. inproceedings: ICPR (3). key: conf/icpr/ZhangHHYW02
+
+Motion Segmentation by Multibody Trifocal Tensor Using Line Correspondence.
+Jing Zhang,Fanhuai Shi,Yuncai Liu
+2006. inproceedings: ICPR (1). key: conf/icpr/ZhangSL06
+
+A new edge-based text verification approach for video.
+Jing Zhang,Dmitry B. Goldgof,Rangachar Kasturi
+2008. inproceedings: ICPR. key: conf/icpr/ZhangGK08
+
+Weighted Boundary Points for Shape Analysis.
+Jing Zhang,Rangachar Kasturi
+2010. inproceedings: ICPR. key: conf/icpr/ZhangK10
+
+Text Detection Using Edge Gradient and Graph Spectrum.
+Jing Zhang,Rangachar Kasturi
+2010. inproceedings: ICPR. key: conf/icpr/ZhangK10a
+
+Sharing Inertia Load between Multiple Robots with Active Compliant Grippers using Trajectory Pre-shaping.
+Jing Zhang,Ronald Lumia,Gregory P. Starr,John E. Wood
+2004. inproceedings: ICRA. key: conf/icra/ZhangLSW04
+
+Maintaining software product lines - an industrial practice.
+Michael Jiang,Jing Zhang,Hong Zhao,Yuanyuan Zhou
+2008. inproceedings: ICSM. key: conf/icsm/JiangZZZ08
+
+The LLAMA Middleware Support for Accountable Service-Oriented Architecture.
+Mark Panahi,Kwei-Jay Lin,Yue Zhang 0001,Soo-Ho Chang,Jing Zhang,Leonardo Varela
+2008. inproceedings: ICSOC. key: conf/icsoc/PanahiLZCZV08
+
+Personalized QoS Prediction forWeb Services via Collaborative Filtering.
+Lingshuang Shao,Jing Zhang,Yong Wei,Junfeng Zhao,Bing Xie,Hong Mei
+2007. inproceedings: ICWS. key: conf/icws/ShaoZWZXM07
+
+SOA Middleware Support for Service Process Reconfiguration with End-to-End QoS Constraints.
+Yanlong Zhai,Jing Zhang,Kwei-Jay Lin
+2009. inproceedings: ICWS. key: conf/icws/ZhaiZL09
+
+HyperService: Linking and Exploring Services on the Web.
+Chenting Zhao,Chun'e Ma,Jing Zhang,Jun Zhang,Li Yi,Xinsheng Mao
+2010. inproceedings: ICWS. key: conf/icws/ZhaoMZZYM10
+
+Processing and Analysis of Ground Penetrating Radar Landmine Detection.
+Jing Zhang,Baikunth Nath
+2004. inproceedings: IEA/AIE. key: conf/ieaaie/ZhangN04
+
+On the Integration Frame of Collaborative Innovation Support System for Telecom Operators.
+Jing Zhang
+2007. inproceedings: CONFENIS (2). key: conf/ifip8/Zhang07
+
+Applying Virtual Reality to Web-based Education.
+Han Xue,Jing Zhang
+2006. inproceedings: IMSCCS (1). key: conf/imsccs/XueZ06
+
+Real-time Competition Simulation System.
+Jing Zhang,Yan-bo Li,Maozu Guo
+2007. inproceedings: IMSCCS. key: conf/imsccs/ZhangLG07
+
+Model-driven generative techniques for scalable performability analysis of distributed systems.
+Arundhati Kogekar,Dimple Kaul,Aniruddha S. Gokhale,Paul J. Vandal,U. Praphamontripong,Swapna S. Gokhale,Jing Zhang,Yuehua Lin,Jeffrey G. Gray
+2006. inproceedings: IPDPS. key: conf/ipps/KogekarKGVPGZLG06
+
+Approximate treatment for calculation of the rate-distortion slope in EBCOT.
+Yue-xin Zhu,Nan-ning Zheng,Jing Zhang,Zong-ze Wu
+2005. inproceedings: ISCAS (6). key: conf/iscas/ZhuZZW05
+
+Landmine Feature Extraction and Classification of GPR Data Based on SVM Method.
+Jing Zhang,Qun Liu,Baikunth Nath
+2004. inproceedings: ISNN (1). key: conf/isnn/ZhangLN04
+
+Adaptive Training of a Kernel-Based Representative and Discriminative Nonlinear Classifier.
+Benyong Liu,Jing Zhang,Xiaowei Chen
+2007. inproceedings: ISNN (2). key: conf/isnn/LiuZC07
+
+Single Trial Evoked Potentials Study during an Emotional Processing Based on Wavelet Transform.
+Ling Zou,Renlai Zhou,Senqi Hu,Jing Zhang,Yansong Li
+2008. inproceedings: ISNN (1). key: conf/isnn/ZouZHZL08
+
+Sequential Proximity-Based Clustering for Telecommunication Network Alarm Correlation.
+Yan Liu 0003,Jing Zhang,Xin Meng,John Strassner
+2008. inproceedings: ISNN (2). key: conf/isnn/LiuZMS08
+
+Watermarking for Authentication of LZ-77 Compressed Documents.
+Yanfang Du,Jing Zhang,Yuting Su
+2007. inproceedings: IWDW. key: conf/iwdw/DuZS07
+
+ArnetMiner: extraction and mining of academic social networks.
+Jie Tang,Jing Zhang,Limin Yao,Juanzi Li,Li Zhang,Zhong Su
+2008. inproceedings: KDD. key: conf/kdd/TangZYLZS08
+
+A Hand-Eye Robotic Model for Total Knee Replacement Surgery.
+Fanhuai Shi,Jing Zhang,Yuncai Liu,Zijian Zhao
+2005. inproceedings: MICCAI (2). key: conf/miccai/ShiZLZ05
+
+Levels of Independence in Aspect-Oriented Modeling.
+Jeff Gray,Yuehua Lin,Jing Zhang
+2003. inproceedings: Middleware Workshops. key: conf/middleware/GrayLZ03
+
+Hyperspectral images lossless compression by a novel three-dimensional wavelet coding.
+Jing Zhang,Guizhong Liu
+2007. inproceedings: ACM Multimedia. key: conf/mm/ZhangL07
+
+Computer Simulation for Protein Folding.
+Jing Zhang,Yang Yu,Maozu Guo
+2007. inproceedings: MSV. key: conf/msv/ZhangYG07
+
+Speechalator: Two-Way Speech-to-Speech Translation in Your Hand.
+Alex Waibel,Ahmed Badran,Alan W. Black,Robert E. Frederking,Donna Gates,Alon Lavie,Lori S. Levin,Kevin Lenzo,Laura Mayfield Tomokiyo,Jurgen Reichert,Tanja Schultz,Dorcas Wallace,Monika Woszczyna,Jing Zhang
+2003. inproceedings: HLT-NAACL. key: conf/naacl/WaibelBBFGLLLTRSWWZ03
+
+C-SAW and genAWeave: a two-level aspect weaving toolsuite.
+Jeffrey G. Gray,Jing Zhang,Suman Roychoudhury,Ira D. Baxter
+2004. inproceedings: OOPSLA Companion. key: conf/oopsla/GrayZRB04
+
+Supporting software evolution through model-driven program transformation.
+Jing Zhang
+2004. inproceedings: OOPSLA Companion. key: conf/oopsla/Zhang04
+
+Metamodel-driven model interpreter evolution.
+Jing Zhang
+2005. inproceedings: OOPSLA Companion. key: conf/oopsla/Zhang05
+
+A Mixture Model for Expert Finding.
+Jing Zhang,Jie Tang,Liu Liu,Juan-Zi Li
+2008. inproceedings: PAKDD. key: conf/pakdd/ZhangTLL08
+
+A Discriminative Approach to Topic-Based Citation Recommendation.
+Jie Tang,Jing Zhang
+2009. inproceedings: PAKDD. key: conf/pakdd/TangZ09
+
+Core role-based access control: efficient implementations by transformations.
+Yanhong A. Liu,Chen Wang,Michael Gorbovitski,Tom Rothamel,Yongxi Cheng,Yingchao Zhao,Jing Zhang
+2006. inproceedings: PEPM. key: conf/pepm/LiuWGRCZZ06
+
+Rapid and Accurate Protein Side Chain Prediction with Local Backbone Information.
+Jing Zhang,Xin Gao,Jinbo Xu,Ming Li
+2008. inproceedings: RECOMB. key: conf/recomb/ZhangGXL08
+
+An indoor tracking algorithm with the virtual reference based positioning.
+Yile Wang,Junhuai Li,Jing Zhang,Lei Yu
+2010. inproceedings: SAC. key: conf/sac/WangLZY10
+
+Do You Know Where Your Data's Been? - Tamper-Evident Database Provenance.
+Jing Zhang,Adriane Chapman,Kristen LeFevre
+2009. inproceedings: Secure Data Management. key: conf/sdmw/ZhangCL09
+
+ArnetMiner: An Expertise Oriented Search System for Web Community.
+Jie Tang,Jing Zhang,Duo Zhang,Limin Yao,Chunlin Zhu,Juan-Zi Li
+2007. inproceedings: Semantic Web Challenge. key: conf/semweb/TangZZYZL07
+
+Multi-signers Strong Designated Verifier Signature Scheme.
+Yaling Zhang,Jing Zhang,Yikun Zhang
+2008. inproceedings: SNPD. key: conf/snpd/ZhangZZ08
+
+Replicators: Transformations to Address Model Scalability.
+Jeffrey G. Gray,Yuehua Lin,Jing Zhang,Steven Nordstrom,Aniruddha S. Gokhale,Sandeep Neema,Swapna S. Gokhale
+2005. inproceedings: MoDELS. key: conf/uml/GrayLZNGNG05
+
+Automatic Detection of Signs with Affine Transformation.
+Xilin Chen,Jie Yang,Jing Zhang,Alex Waibel
+2002. inproceedings: WACV. key: conf/wacv/ChenYZW02
+
+A New Heuristic Reduct Algorithm Base on Rough Sets Theory.
+Jing Zhang,Jianmin Wang,Deyi Li,Huacan He,Jia-Guang Sun
+2003. inproceedings: WAIM. key: conf/waim/ZhangWLHS03
+
+Name Disambiguation Using Atomic Clusters.
+Feng Wang,Juanzi Li,Jie Tang,Jing Zhang,Kehong Wang
+2008. inproceedings: WAIM. key: conf/waim/WangLTZW08
+
+Recommendation over a Heterogeneous Social Network.
+Jing Zhang,Jie Tang,Bangyong Liang,Zi Yang,Sijie Wang,Jingjing Zuo,Juanzi Li
+2008. inproceedings: WAIM. key: conf/waim/ZhangTLYWZL08
+
+Topic-Level Random Walk through Probabilistic Model.
+Zi Yang,Jie Tang,Jing Zhang,Juanzi Li,Bo Gao
+2009. inproceedings: APWeb/WAIM. key: conf/waim/YangTZLG09
+
+An Efficient Approach for Service Process Reconfiguration in SOA with End-to-End QoS Constraints.
+Kwei-Jay Lin,Jing Zhang,Yanlong Zhai
+2009. inproceedings: CEC. key: conf/wecwis/LinZZ09
+
+Business Process Composition with QoS Optimization.
+Jing Zhang,Weiran Nie,Mark Panahi,Yichin Chang,Kwei-Jay Lin
+2009. inproceedings: CEC. key: conf/wecwis/ZhangNPCL09
+
+EOS: expertise oriented search using social networks.
+Juan-Zi Li,Jie Tang,Jing Zhang,Qiong Luo,Yunhao Liu,MingCai Hong
+2007. inproceedings: WWW. key: conf/www/LiTZLLH07
+
+Extraction and mining of an academic social network.
+Jie Tang,Jing Zhang,Limin Yao,Juan-Zi Li
+2008. inproceedings: WWW. key: conf/www/TangZYL08
+
+A unified framework for name disambiguation.
+Jie Tang,Jing Zhang,Duo Zhang,Juanzi Li
+2008. inproceedings: WWW. key: conf/www/TangZZL08
+
+Enhancing Software Product Line Maintenance with Source Code Mining.
+Michael Jiang,Jing Zhang,Hong Zhao,Yuanyuan Zhou
+2008. inproceedings: WASA. key: conf/wasa/JiangZZZ08
+
+Efficient Video Authentication for H.264/AVC.
+Jing Zhang,Anthony T. S. Ho
+2006. inproceedings: ICICIC (3). key: conf/icicic/ZhangH06
+
+The Research on Application of Granular Transform in Classification based on Domain Knowledge.
+Jing Zhang,Xuegang Hu
+2008. inproceedings: GrC. key: conf/grc/ZhangH08
+
+Study on the Co-Existence of 20ms TTI and 5ms TTI in E-DCH of TD-SCDMA HSUPA.
+Mingke Li,Kai Wang,Jing Zhang,Yafeng Wang,Dacheng Yang
+2007. inproceedings: VTC Fall. key: conf/vtc/LiWZWY07
+
+Multi-User Joint Doppler Spread Estimation in Generalized Distributed Antenna System.
+Jin Xu,Jing Zhang,Juan Han,Xiaofeng Tao,Lihua Li,Ping Zhang 0003
+2007. inproceedings: VTC Fall. key: conf/vtc/XuZHTLZ07
+
+A Novel Load Control Strategy For TD-SCDMA Enhanced Uplink.
+Jing Zhang,Siqing You,Yi Zheng,Yafeng Wang,Yongyu Chang,Dacheng Yang
+2008. inproceedings: VTC Spring. key: conf/vtc/ZhangYZWCY08
+
+3D Motion Segmentation from Straight-Line Optical Flow.
+Jing Zhang,Fanhuai Shi,Jianhua Wang,Yuncai Liu
+2007. inproceedings: MCAM. key: conf/mcam/ZhangSWL07
+
+Evaluating the Disaster Defense Ability of Information Systems.
+Baowen Zhang,Jing Zhang,Ning Zhou,Mingang Chen
+2007. inproceedings: PAISI. key: conf/paisi/ZhangZZC07
+
+An Automatic Voice Query System for Bank Based on Telephone Network.
+Dongming Li,Jing Zhang,Li Zhang,Yaju Liu,Bo Du
+2008. inproceedings: ISIP. key: conf/isip/LiZZLD08
+
+Estimating real-time service process response time using server utilizations.
+Weiran Nie,Jing Zhang,Kwei-Jay Lin
+2010. inproceedings: SOCA. key: conf/soca/NieZL10
+
+Comparison between Voxel-based Morphometry and Volumetric Analysis in Schizophrenia.
+Jing Zhang 0002,Monte S. Buchsbaum,Kingwai Chu,Erin A. Hazlett
+2008. inproceedings: BMEI (2). key: conf/bmei/ZhangBCH08
+
+Business Process-Oriented Software Architecture for Supporting Business Process Change.
+Qing Yao,Jing Zhang,Haiyang Wang
+2008. inproceedings: ISECS. key: conf/isecs/YaoZW08
+
+Semantic Information Extraction of Video Based on Ontology and Inference.
+Jie Ma,Jing Zhang,Hong Lu,Xiangyang Xue
+2007. inproceedings: ICSC. key: conf/semco/MaZLX07
+
+Model-Driven Adaptive Self-healing for Autonomic Computing.
+Yan Liu 0003,Jing Zhang,John Strassner
+2008. inproceedings: MACE. key: conf/mace/LiuZS08
+
+A New Calibration Model and Method of Camera Lens Distortion.
+Jianhua Wang,Fanhuai Shi,Jing Zhang,Yuncai Liu
+2006. inproceedings: IROS. key: conf/iros/WangSZL06
+
+A model-based approach to adding autonomic capabilities to network fault management system.
+Yan Liu 0003,Jing Zhang,Michael Jiang,David Raymer,John Strassner
+2008. inproceedings: NOMS. key: conf/noms/LiuZJRS08
+
+A low complexity method for real-time gaze tracking.
+Jing Zhang,Mengkai Zhao,Li Zhuo,Lansun Shen
+2008. inproceedings: MMSP. key: conf/mmsp/ZhangZZS08
+
+A Novel Approach of Face Detection based on Skin Color Segmentation and PCA.
+Jing Zhang,Yang Liu,Seok-Wun Ha
+2008. inproceedings: ICYCS. key: conf/icycs/ZhangLH08
+
+Biomechanical Modeling of Bone-Needle Interaction for Haptic Rendering in Needle Insertion Simulation.
+Jackson Shin-Kiat Ong,Chee-Kong Chui,Zhenlan Wang,Jing Zhang,Jeremy Choon-Meng Teo,Chye Hwang Yan,Sim Heng Ong,Chee Leong Teo,Swee-Hin Teoh
+2006. inproceedings: ICARCV. key: conf/icarcv/OngCWZTYOTT06
+
+Identification of initial rotor position of a micro-PMSM.
+Jing Zhang,Ningning Wu
+2008. inproceedings: ICARCV. key: conf/icarcv/ZhangW08
+
+Application of multisensor data fusion based on RBF neural networks for fault diagnosis of SAMS.
+Chunling Fan,Zhihua Jin,Jing Zhang,Weifeng Tian
+2002. inproceedings: ICARCV. key: conf/icarcv/FanJZT02
+
+Application of neuro-fuzzy control for satellite AOCS.
+Jing Zhang,Weifeng Tian,Chunling Fan,Zhihua Jin
+2002. inproceedings: ICARCV. key: conf/icarcv/ZhangTFJ02
+
+A Distributed QoS Provision Scheme in IEEE802.16 Mesh Networks with Directional Antennas.
+Jinlong Hu,Jun Zhou,Jihua Zhou,Jing Zhang,Jinglin Shi,Di Pang,Yonghui Li
+2010. inproceedings: WCNC. key: conf/wcnc/HuZZZSPL10
+
+Robust Controller for Networked Control Systems Induced Noise and Long Transmission Delay.
+Zhanshan Zhao,Qun Zong,Jing Zhang
+2008. inproceedings: ICNSC. key: conf/icnsc/ZhaoZZ08
+
+Bath-induced Control of two-qubit entanglement under Markovian noises.
+Jing Zhang,Rebing Wu,Chunwen Li,Tzyh Jong Tarn
+2008. inproceedings: CDC. key: conf/cdc/ZhangWLT08
+
+Quantum-feedback-control induced bifurcation and its application to qubit readout.
+Jing Zhang,Rebing Wu,Yuxi Liu,Chunwen Li,Tzyh Jong Tarn
+2009. inproceedings: CDC. key: conf/cdc/ZhangWLLT09
+
+System Evaluation of PMI Feedback Schemes for MU-MIMO Pairing.
+Yinggang Du,Jianfei Tong,Jing Zhang,Sheng Liu
+2009. inproceedings: AccessNets. key: conf/accessnets/DuTZL09
+
+Fudan University at TRECVID 2008.
+Xiangyang Xue,Wei Zhang,Yue-Fei Guo,Hong Lu,Yuejie Zhang,Zichen Sun,Yingbin Zheng,Shile Zhang,Hong Liu,Yuanzheng Song,Jing Zhang,Xisheng He,Kai Li,Jun Zhou,Yanjie Chen
+2008. inproceedings: TRECVID. key: conf/trecvid/XueZGLZSZZLSZHLZC08
+
+Reliability Modeling and Analysis of Service-Oriented Robot Management System.
+Ping Zhang 0003,Renqing Lu,Jing Zhang
+2006. inproceedings: APSCC. key: conf/apscc/ZhangLZ06
+
+Towards a More Effective Mashup Using Mashable Service Model.
+Chun'e Ma,Jing Zhang,Chenting Zhao,Yuan Ni,Jun Zhang,Li Yi,Xinsheng Mao
+2010. inproceedings: SERVICES. key: conf/services/MaZZNZYM10
+
+Interweave Neural Networks with Evolutionary Algorithms, Cellular Computing, Bayesian Learning and Ensemble Learning.
+Jing Zhang
+2009. inproceedings: BIFE. key: conf/bife/Zhang09
+
+Computer Simulation of Air Flow Distribution Characteristics in Inner Filtering Fabric Filters.
+Qi Yin,Manyin Hu,Jing Zhang,Wen-long Hou
+2009. inproceedings: CSIE (2). key: conf/csie/YinHZH09
+
+A Simplified Learning Algorithm of Incremental Bayesian.
+Hua Chen,Xiao-gang Zhang,Jing Zhang,Li-hua Ding
+2009. inproceedings: CSIE (5). key: conf/csie/ChenZZD09
+
+Spectral Unmixing Technique Based on Flexibly Selected Endmembers.
+Liguo Wang,Jing Zhang,Luqun Deng
+2009. inproceedings: CSIE (7). key: conf/csie/WangZD09
+
+Concern Based Approach to Generating SCR Requirement Specification: A Case Study.
+Ying Jin,Jing Zhang,Weiping Hao,Pengfei Ma
+2009. inproceedings: CSIE (7). key: conf/csie/JinZHM09
+
+Equivalent Inertia Moment in Linear Stability Calculation of Stepped Beam.
+Xin Wang,Jing Zhang,Rumin Teng,Shunde Gao
+2009. inproceedings: ISCID (1). key: conf/iscid/WangZTG09
+
+Optimized NURBS Curve and Surface Fitting Using Simulated Annealing.
+Jing Zhang,Shaowei Feng,Hanguo Cui
+2009. inproceedings: ISCID (2). key: conf/iscid/ZhangFC09
+
+Creditability Modeling of Distributed Embedded System Based on Real-Time Interaction Specification.
+Jing Zhang,Hui Rong,Chunhong Zhang,Fenghong Xiang,Yunsheng Zhang
+2009. inproceedings: ISCID (2). key: conf/iscid/ZhangRZXZ09
+
+High Dependability Design Framework in Real-Time Embedded Control Software.
+Jing Zhang,Feng Yan,Chunhong Zhang,Hui Rong,Fenghong Xiang
+2009. inproceedings: ISCID (2). key: conf/iscid/ZhangYZRX09
+
+A Novel Video Searching Model Based on Ontology Inference and Multimodal Information Fusion.
+Jing Zhang
+2008. inproceedings: ISCSCT (2). key: conf/iscsct/Zhang08
+
+The Application of Cultural Algorithm in Load Balancing of Hybrid P2P Network.
+Xiao-Ling Fu,Jing Zhang
+2009. inproceedings: WGEC. key: conf/wgec/FuZ09
+
+Random patch based video tracking via boosting the relative spaces.
+Duowen Chen,Jing Zhang,Ming Tang
+2009. inproceedings: ICASSP. key: conf/icassp/ChenZT09
+
+Hyperspectral Image Lossy-to-Lossless Compression Using 3D EZBC Algorithm Based on KLT and Wavelet Transform.
+Ying Hou,Guizhong Liu,Jing Zhang
+2010. inproceedings: ICASSP. key: conf/icassp/HouLZ10
+
+A Low-Power and High Slew-rate CMOS Voltage Follower.
+Jing Zhang
+2010. inproceedings: MVHI. key: conf/mvhi/Zhang10
+
+A novel p+ Poly-SiGe Gate CMOS device.
+Jing Zhang,Kaizhou Tan,Siliu Xu,Zhengfan Zhang,Yukui Liu,Guangbing Chen,Kaicheng Li,Heming Zhang,Huiyong Hu
+2009. inproceedings: NEMS. key: conf/nems/ZhangTXZLCLZH09
+
+GIS-based risk assessment model for flood disaster in China.
+Guobin Ma,Jing Zhang,Weiguo Jiang,Jiafu Liu,Lanyan Ma
+2010. inproceedings: Geoinformatics. key: conf/geoinformatics/MaZJLM10
+
+Cognitive experiment based on the landmark of determine directions: Take haidian District in Beijing for example.
+Tong Liu,Jing Zhang
+2010. inproceedings: Geoinformatics. key: conf/geoinformatics/LiuZ10
+
+Hydrologic simulation with HSPF based on Arc Hydro data model.
+Jing Zhang,Linrui Song,Huili Gong,Qian Li,Xiaojuan Li
+2010. inproceedings: Geoinformatics. key: conf/geoinformatics/ZhangSGLL10
+
+Urban road extraction from high-resolution remote sensing images based on semantic model.
+Lianjun Zhang,Jing Zhang,Dapeng Zhang,Xiaohui Hou,Gang Yang
+2010. inproceedings: Geoinformatics. key: conf/geoinformatics/ZhangZZHY10
+
+Application of back propagation neural network in the classification of high resolution remote sensing image: Take remote sensing image of beijing for instance.
+Jiefeng Jiang,Jing Zhang,Gege Yang,Dapeng Zhang,Lianjun Zhang
+2010. inproceedings: Geoinformatics. key: conf/geoinformatics/JiangZYZZ10
+
+Research the patterns of path representation in Chinese based on spatial cognition: Illustrated by the example of capital normal university.
+Dapeng Zhang,Jing Zhang,Lianjun Zhang,Gege Yang,Jiefeng Jiang
+2010. inproceedings: Geoinformatics. key: conf/geoinformatics/ZhangZZYJ10
+
+An Improved Frame Interpolation Algorithm for Side Information in Wyner-Ziv Decoder.
+Jing Zhang,Zhiping Xie
+2010. inproceedings: ICEE. key: conf/icee/ZhangX10a
+
+Evaluation of JP3D for Lossy and Lossless Compression of Hyperspectral Imagery.
+Jing Zhang,James E. Fowler,Nicolas H. Younan,Guizhong Liu
+2009. inproceedings: IGARSS (4). key: conf/igarss/ZhangFYL09
+
+Similarity computing model of high dimension data for symptom classification of Chinese traditional medicine.
+Jing Peng,Chang-jie Tang,Dongqing Yang,Jing Zhang,Jianjun Hu
+2009. article: Appl. Soft Comput.. key: journals/asc/PengTYZH09
+
+ATID: a web-oriented database for collection of publicly available alternative translational initiation events.
+Jun Cai,Jing Zhang,Ying Huang,Yanda Li
+2005. article: Bioinformatics. key: journals/bioinformatics/CaiZHL05
+
+MicroRNA identification based on sequence and structure alignment.
+Xiaowo Wang,Jing Zhang,Fei Li,Jin Gu,Tao He,Xuegong Zhang,Yanda Li
+2005. article: Bioinformatics. key: journals/bioinformatics/WangZLGHZL05
+
+Computing exact P-values for DNA motifs.
+Jing Zhang,Bo Jiang,Ming Li,John Tromp,Xuegong Zhang,Michael Q. Zhang
+2007. article: Bioinformatics. key: journals/bioinformatics/ZhangJLTZZ07
+
+dbNEI2.0: building multilayer network for drug-NEI-disease.
+Jing Zhang,Tao Ma,Yanda Li,Shao Li
+2008. article: Bioinformatics. key: journals/bioinformatics/ZhangMLL08
+
+htSNPer1.0: software for haplotype block partition and htSNPs selection.
+Keyue Ding,Jing Zhang,Kaixin Zhou,Yan Shen,Xuegong Zhang
+2005. article: BMC Bioinformatics. key: journals/bmcbi/DingZZSZ05
+
+Detection of potential positive regulatory motifs of transcription in yeast introns by comparative analysis of oligonucleotide frequencies.
+Jing Zhang,Jun Hu,Xiu-fan Shi,Huai Cao,Wei-bo Liu
+2003. article: Computational Biology and Chemistry. key: journals/candc/ZhangHSCL03
+
+Analysis of transcriptional synergy between upstream regions and introns in ribosomal protein genes of yeast.
+Jun Hu,Huimin Li,Jing Zhang
+2010. article: Computational Biology and Chemistry. key: journals/candc/HuLZ10
+
+Automating Change Evolution in Model-Driven Engineering.
+Jeff Gray,Yuehua Lin,Jing Zhang
+2006. article: IEEE Computer. key: journals/computer/GrayLZ06
+
+Examining Glacier Mass Balances with a Hierarchical Modeling Approach.
+Uma S. Bhatt,Jing Zhang,Craig S. Lingle,Lisa M. Phillips,Wendell V. Tangborn
+2007. article: Computing in Science and Engineering. key: journals/cse/BhattZLPT07
+
+Modeling the evolution of associated data.
+Jie Tang,Jing Zhang
+2010. article: Data Knowl. Eng.. key: journals/dke/TangZ10
+
+The spectrum of cyclic BSEC with block size three.
+Jing Zhang,Yanxun Chang
+2005. article: Discrete Mathematics. key: journals/dm/ZhangC05
+
+Factor-analysis based anomaly detection and clustering.
+Ningning Wu,Jing Zhang
+2006. article: Decision Support Systems. key: journals/dss/WuZ06
+
+Measurements study on sustainability of China's mining cities.
+Shunhua Su,Jing Yu,Jing Zhang
+2010. article: Expert Syst. Appl.. key: journals/eswa/SuYZ10a
+
+Improved Blind Decodings of STBC with Unknown and Known Channel Correlation to Transmitter.
+Zhengwei Gong,Taiyi Zhang,Jing Zhang
+2007. article: IEICE Transactions. key: journals/ieicet/GongZZ07
+
+Epitaxial Growth of SiGe Interband Tunneling Diodes on Si(001) and on Si0.7Ge0.3 Virtual Substrates.
+Mathieu Stoffel,Jing Zhang,Oliver G. Schmidt
+2006. article: IEICE Transactions. key: journals/ieicet/StoffelZS06
+
+Opportunistic Cooperative Communications over Nakagami-m Fading Channels.
+Runping Yuan,Taiyi Zhang,Jing Zhang,Jianxiong Huang,Zhenjie Feng
+2010. article: IEICE Transactions. key: journals/ieicet/YuanZZHF10
+
+Performance Analysis of Opportunistic-Based Two-Way Relaying with Beamforming over Nakagami-m Fading Channels.
+Jianxiong Huang,Taiyi Zhang,Runping Yuan,Jing Zhang
+2011. article: IEICE Transactions. key: journals/ieicet/HuangZYZ11
+
+Aspect mining from a modelling perspective.
+Jing Zhang,Jeff Gray,Yuehua Lin,Robert Tairas
+2008. article: IJCAT. key: journals/ijcat/ZhangGLT08
+
+Systematic benchmarking of microarray data feature extraction and classification.
+Jing Zhang,Tianzi Jiang,Bing Liu,Xingpeng Jiang,Huizhi Zhao
+2008. article: Int. J. Comput. Math.. key: journals/ijcm/ZhangJLJZ08
+
+A Personalized Image Retrieval Based on User Interest Model.
+Jing Zhang,Li Zhuo,Lansun Shen,Lin He
+2010. article: IJPRAI. key: journals/ijprai/ZhangZSH10
+
+A Novel Source MPEG-2 Video Identification Algorithm.
+Yuting Su,Junyu Xu,Bo Dong,Jing Zhang,Qingzhong Liu
+2010. article: IJPRAI. key: journals/ijprai/SuXDZL10
+
+Exposing Digital Video Logo-Removal Forgery by Inconsistency of Blur.
+Yuting Su,Jing Zhang,Yu Han,Jing Chen,Qingzhong Liu
+2010. article: IJPRAI. key: journals/ijprai/SuZHCL10
+
+Weaving Deployment Aspects into Domain-specific Models.
+Krishnakumar Balasubramanian,Aniruddha S. Gokhale,Yuehua Lin,Jing Zhang,Jeff Gray
+2006. article: International Journal of Software Engineering and Knowledge Engineering. key: journals/ijseke/BalasubramanianGLZG06
+
+Building Accountability Middleware to Support Dependable SOA.
+Kwei-Jay Lin,Mark Panahi,Yue Zhang 0001,Jing Zhang,Soo-Ho Chang
+2009. article: IEEE Internet Computing. key: journals/internet/LinPZZC09
+
+Rapid surface registration of 3D volumes using a neural network approach.
+Jing Zhang,Y. Ge,Sim Heng Ong,Chee-Kong Chui,Swee-Hin Teoh,Chye Hwang Yan
+2008. article: Image Vision Comput.. key: journals/ivc/ZhangGOCTY08
+
+Comparative knowledge management: A pilot study of Chinese and American universities.
+Qian Geng,Charles Townley,Kun Huang,Jing Zhang
+2005. article: JASIST. key: journals/jasis/GengTHZ05
+
+Aspect Composition in the Motorola Aspect-Oriented Modeling Weaver.
+Jing Zhang,Thomas Cottenier,Aswin van den Berg,Jeff Gray
+2007. article: Journal of Object Technology. key: journals/jot/ZhangCBG07
+
+A Program Transformation Technique to Support AOP within C++ Template.
+Suman Roychoudhury,Jeff Gray,Jing Zhang,Purushotham Bangalore,Anthony Skjellum
+2010. article: Journal of Object Technology. key: journals/jot/RoychoudhuryGZBS10
+
+Backup reprovisioning to remedy the effect of multiple link failures in WDM mesh networks.
+Jing Zhang,Keyao Zhu,Biswanath Mukherjee
+2006. article: IEEE Journal on Selected Areas in Communications. key: journals/jsac/ZhangZM06
+
+Optimized routing for fault management in optical burst-switched WDM networks.
+Jing Zhang,Shuang Wang,Keyao Zhu,Lei Song,Debasish Datta,Young-Chon Kim,Biswanath Mukherjee
+2007. article: IEEE Journal on Selected Areas in Communications. key: journals/jsac/ZhangWZSDKM07
+
+Dynamic provisioning with availability guarantee for differentiated services in survivable mesh networks.
+Lei Song,Jing Zhang,Biswanath Mukherjee
+2007. article: IEEE Journal on Selected Areas in Communications. key: journals/jsac/SongZM07
+
+A review of fault management in WDM mesh networks: basic concepts and research challenges.
+Jing Zhang,Biswanath Mukherjee
+2004. article: IEEE Network. key: journals/network/ZhangM04
+
+Framework for Performance Evaluation of Face, Text, and Vehicle Detection and Tracking in Video: Data, Metrics, and Protocol.
+Rangachar Kasturi,Dmitry B. Goldgof,Padmanabhan Soundararajan,Vasant Manohar,John S. Garofolo,Rachel Bowers,Matthew Boonstra,Valentina N. Korzhova,Jing Zhang
+2009. article: IEEE Trans. Pattern Anal. Mach. Intell.. key: journals/pami/KasturiGSMGBBKZ09
+
+Motion segmentation of multiple translating objects from line correspondences.
+Fanhuai Shi,Jianhua Wang,Jing Zhang,Yuncai Liu
+2005. article: Pattern Recognition. key: journals/pr/ShiWZL05
+
+A new calibration model of camera lens distortion.
+Jianhua Wang,Fanhuai Shi,Jing Zhang,Yuncai Liu
+2008. article: Pattern Recognition. key: journals/pr/WangSZL08
+
+Model replication: transformations to address model scalability.
+Yuehua Lin,Jeff Gray,Jing Zhang,Steven Nordstrom,Aniruddha S. Gokhale,Sandeep Neema,Swapna S. Gokhale
+2008. article: Softw., Pract. Exper.. key: journals/spe/LinGZNGNG08
+
+Automatic detection and recognition of signs from natural scenes.
+Xilin Chen,Jie Yang,Jing Zhang,Alex Waibel
+2004. article: IEEE Transactions on Image Processing. key: journals/tip/YangZW04
+
+Accurate Measurement of Bone Mineral Density Using Clinical CT Imaging With Single Energy Beam Spectral Intensity Correction.
+Jing Zhang,Chye Hwang Yan,Chee-Kong Chui,Sim Heng Ong
+2010. article: IEEE Trans. Med. Imaging. key: journals/tmi/ZhangYCO10
+
+Availability-aware provisioning strategies for differentiated protection services in wavelength-convertible WDM mesh networks.
+Jing Zhang,Keyao Zhu,Hui Zang,Norman S. Matloff,Biswanath Mukherjee
+2007. article: IEEE/ACM Trans. Netw.. key: journals/ton/ZhangZZMM07
+
+A comprehensive study on backup-bandwidth reprovisioning after network-state updates in survivable telecom mesh networks.
+Lei Song,Jing Zhang,Biswanath Mukherjee
+2008. article: IEEE/ACM Trans. Netw.. key: journals/ton/SongZM08
+
+Fabrication of strained Si channel PMOSFET on thin relaxed Si1-xGex virtual substrate.
+Ding-Lei Mei,Jing-chun Li,Jing Zhang,Wan-jing Xu,Kaizhou Tan,Mo-hua Yang
+2004. article: Microelectronics Journal. key: journals/mj/MeiLZXTY04
+
+Efficient Sports Video Retrieval Based on Index Structure.
+Jing Zhang,Hong Lu,Xiangyang Xue
+2006. article: Journal of Computer Research and Development. key: journals/jcrd/ZhangLX06
+
+Bayesian spatial models with repeated measurements: with application to the herbaceous data analysis.
+Xiaoqian Sun,Zhuoqiong He,Jing Zhang,John Kabrick
+2009. article: Statistical Methods and Applications. key: journals/sma/SunHZK09
+
+A Combination Approach to Web User Profiling.
+Jie Tang,Limin Yao,Duo Zhang,Jing Zhang
+2010. article: TKDD. key: journals/tkdd/TangYZZ10
+
+A component-oriented software toolkit for patient-specific finite element model generation.
+Chee-Kong Chui,Zhenlan Wang,Jing Zhang,Jackson Shin-Kiat Ong,Limeng Bian,Jeremy Choon-Meng Teo,Chye Hwang Yan,Sim Heng Ong,Shih-Chang Wang,Hee-Kit Wong,Swee-Hin Teoh
+2009. article: Advances in Engineering Software. key: journals/aes/ChuiWZOBTYOWWT09
+
+ABEP of amplify-and-forward cooperation in Nakagami-m fading channels with arbitrary m.
+Jing Zhang,Taiyi Zhang,Jianxiong Huang,Runping Yuan
+2009. article: IEEE Transactions on Wireless Communications. key: journals/twc/ZhangZHY09
+
+The design and implementation of service process reconfiguration with end-to-end QoS constraints in SOA.
+Kwei-Jay Lin,Jing Zhang,Yanlong Zhai,Bin Xu
+2010. article: Service Oriented Computing and Applications. key: journals/soca/LinZZX10
+
+A model-driven approach to enforce crosscutting assertion checking.
+Jing Zhang,Jeff Gray,Yuehua Lin
+2005. article: ACM SIGSOFT Software Engineering Notes. key: journals/sigsoft/ZhangGL05
+
+Multi-Index Cooperative Mixed Strategy for Service Selection Problem in Service-Oriented Architecture.
+Yimin Shen,Jing Zhang,Yushun Fan
+2008. article: JCP. key: journals/jcp/ShenZF08
+
+Detection of Double-Compression in JPEG2000 Images for Application in Image Forensics.
+Jing Zhang,Haiying Wang,Yuting Su
+2009. article: Journal of Multimedia. key: journals/jmm2/ZhangWS09
+
+Arnetminer: expertise oriented search using social networks.
+Juanzi Li,Jie Tang,Jing Zhang,Qiong Luo,Yunhao Liu,MingCai Hong
+2008. article: Frontiers of Computer Science in China. key: journals/fcsc/LiTZLLH08
+
+A concern-based approach to generating formal requirements specifications.
+Ying Jin,Jing Zhang,Weiping Hao,Pengfei Ma,Yan Zhang,Haiyan Zhao,Hong Mei
+2010. article: Frontiers of Computer Science in China. key: journals/fcsc/JinZHMZZM10
+
+Adaptive motion selection for online hand-eye calibration.
+Jing Zhang,Fanhuai Shi,Yuncai Liu
+2007. article: Robotica. key: journals/robotica/ZhangSL07
+
+A Task-Based Approach to User Interface Design for a Web-Based Hydrologic Information Systems.
+Leen-Kiat Soh,Jing Zhang,Ashok Samal
+2006. article: T. GIS. key: journals/tgis/SohZS06
+
+Information systems development as emergent socio-technical change: a practice approach.
+Luis F. Luna-Reyes,Jing Zhang,Jose Ramon Gil-Garcia,Anthony M. Cresswell
+2005. article: EJIS. key: journals/ejis/Luna-ReyesZGC05
+
+Distributed leadership in the development of a knowledge sharing system.
+Jing Zhang,Sue R. Faerman
+2007. article: EJIS. key: journals/ejis/ZhangF07
+
+MACROS: Case Study of Knowledge Sharing System Development within New York State Government Agencies.
+Jing Zhang,Theresa A. Pardo,Joseph Sarkis
+2005. article: J. Cases on Inf. Techn.. key: journals/jcit-igi/ZhangPS05
+
+Machine Learning Emulation in Nature-inspired Computation Systems.
+Jianhao Tan,Jing Zhang,Fu Guo
+2009. article: Computer and Information Science. key: journals/ccsecis/TanZG09
+
+An Improved Clustering Algorithm Based on Density Distribution Function.
+Jianhao Tan,Jing Zhang,Weixiong Li
+2010. article: Computer and Information Science. key: journals/ccsecis/TanZL10
+
+Learning-Based Driver Workload Estimation.
+Yilu Zhang,Yuri Owechko,Jing Zhang
+2008. incollection: Computational Intelligence in Automotive Applications. key: series/sci/ZhangOZ08

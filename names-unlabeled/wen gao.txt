@@ -1,0 +1,2103 @@
+An Adaptive Dandelion Model for Reconstructing Spherical Terrain-Like Visual Hull Surfaces.
+Xin Liu,Hongxun Yao,Wen Gao
+2005. inproceedings: 3DIM. key: conf/3dim/LiuYG05
+
+Randomized Parallel Scheduling Algorithm for Input Queued Crossbar Switches.
+Yanfeng Zheng,Wen Gao
+2005. inproceedings: CIT. key: conf/IEEEcit/ZhengG05
+
+Self-calibration Based 3D Information Extraction and Application in Broadcast Soccer Video.
+Yang Liu,Dawei Liang,Qingming Huang,Wen Gao
+2006. inproceedings: ACCV (2). key: conf/accv/LiuLHG06
+
+Image Matching by Multiscale Oriented Corner Correlation.
+Feng Zhao,Qingming Huang,Wen Gao
+2006. inproceedings: ACCV (1). key: conf/accv/ZhaoHG06
+
+The Bunch-Active Shape Model.
+Jingcai Fan,Hongxun Yao,Wen Gao,Yazhou Liu,Xin Liu
+2005. inproceedings: ACII. key: conf/acii/FanYGLL05
+
+Static Gesture Quantization and DCT Based Sign Language Generation.
+Chenxi Zhang,Feng Jiang,Hongxun Yao,Guilin Yao,Wen Gao
+2005. inproceedings: ACII. key: conf/acii/ZhangJYYG05
+
+Semantic Scoring Based on Small-World Phenomenon for Feature Selection in Text Mining.
+Chong Huang,YongHong Tian,Tiejun Huang,Wen Gao
+2006. inproceedings: ADMA. key: conf/adma/HuangTHG06
+
+Robust Collective Classification with Contextual Dependency Network Models.
+YongHong Tian,Tiejun Huang,Wen Gao
+2006. inproceedings: ADMA. key: conf/adma/TianHG06
+
+CSLDS: Chinese Sign Language Dialog System.
+Yiqiang Chen,Wen Gao,Gaolin Fang,Changshui Yang,Zhaoqi Wang
+2003. inproceedings: AMFG. key: conf/amfg/ChenGFYW03
+
+How to Train a Classifier Based on the Huge Face Database?
+Jie Chen,Ruiping Wang,Shengye Yan,Shiguang Shan,Xilin Chen,Wen Gao
+2005. inproceedings: AMFG. key: conf/amfg/ChenWYSCG05
+
+Illumination Normalization for Robust Face Recognition Against Varying Lighting Conditions.
+Shiguang Shan,Wen Gao,Bo Cao,Debin Zhao
+2003. inproceedings: AMFG. key: conf/amfg/ShanGCZ03
+
+AdaBoost Gabor Fisher Classifier for Face Recognition.
+Shiguang Shan,Peng Yang,Xilin Chen,Wen Gao
+2005. inproceedings: AMFG. key: conf/amfg/ShanYCG05
+
+Animating 3D Facial Models with MPEG-4 FaceDefTables.
+Dalong Jiang,Zhiguo Li,Zhaoqi Wang,Wen Gao
+2002. inproceedings: Annual Simulation Symposium. key: conf/anss/JiangLWG02
+
+Text-independent Speaker Identification Based on Spectral Weighting Functions.
+Jiyong Ma,Wen Gao
+1997. inproceedings: AVBPA. key: conf/avbpa/MaG97
+
+Pose Invariant Face Recognition Under Arbitrary Illumination Based on 3D Face Reconstruction.
+Xiujuan Chai,Laiyun Qing,Shiguang Shan,Xilin Chen,Wen Gao
+2005. inproceedings: AVBPA. key: conf/avbpa/ChaiQSCG05
+
+Face Detection Based on the Manifold.
+Ruiping Wang,Jie Chen,Shengye Yan,Wen Gao
+2005. inproceedings: AVBPA. key: conf/avbpa/WangCYG05
+
+Visual Features Extracting & Selecting for Lipreading.
+Hongxun Yao,Wen Gao,Wei Shan,Ming-hui Xu
+2003. inproceedings: AVBPA. key: conf/avbpa/YaoGSX03
+
+Discriminant Analysis Based on Kernelized Decision Boundary for Face Recognition.
+Baochang Zhang,Xilin Chen,Wen Gao
+2005. inproceedings: AVBPA. key: conf/avbpa/ZhangCG05
+
+Constraint Shape Model Using Edge Constraint and Gabor Wavelet Based Search.
+Baochang Zhang,Wen Gao,Shiguang Shan,Wei Wang
+2003. inproceedings: AVBPA. key: conf/avbpa/ZhangGSW03
+
+Multi-resolution Histograms of Local Variation Patterns (MHLVP) for Robust Face Recognition.
+Wenchao Zhang,Shiguang Shan,Hongming Zhang,Wen Gao,Xilin Chen
+2005. inproceedings: AVBPA. key: conf/avbpa/ZhangSZGC05
+
+A Flexible Stem-Based Local Search Algorithm for Predicting RNA Secondary Structures Including Pseudoknots.
+Xiang Chen,Simin He,Dongbo Bu,Runsheng Chen,Wen Gao
+2007. inproceedings: BIBE. key: conf/bibe/ChenHBCG07
+
+Skin Color Weighted Disparity Competition for Hand Segmentation from Stereo Camera.
+Qi Wang,Xilin Chen,Wen Gao
+2010. inproceedings: BMVC. key: conf/bmvc/WangCG10
+
+Manifold Alignment via Corresponding Projections.
+Deming Zhai,Bo Li,Hong Chang,Shiguang Shan,Xilin Chen,Wen Gao
+2010. inproceedings: BMVC. key: conf/bmvc/ZhaiLCSCG10
+
+Large-Scale Cross-Media Retrieval of WikipediaMM Images with Textual and Visual Query Expansion.
+Zhi Zhou,YongHong Tian,Yuanning Li,Tiejun Huang,Wen Gao
+2008. inproceedings: CLEF. key: conf/clef/ZhouTLHG08
+
+Compunication: From Concept to Practice.
+Wen Gao
+1997. inproceedings: COMPSAC. key: conf/compsac/Gao97
+
+An Efficient VLSI Architecture for MC Interpolation in AVC Video Coding.
+Deng Lei,Wen Gao,Ming-Zeng Hu,Zhenzhou Ji
+2004. inproceedings: ESA/VLSI. key: conf/csreaESA/LeiWHJ04
+
+Online Selecting Discriminative Tracking Features Using Particle Filter.
+Jianyu Wang,Xilin Chen,Wen Gao
+2005. inproceedings: CVPR (2). key: conf/cvpr/WangCG05
+
+Nonlinear Face Recognition Based on Maximum Average Margin Criterion.
+Baochang Zhang,Xilin Chen,Shiguang Shan,Wen Gao
+2005. inproceedings: CVPR (1). key: conf/cvpr/ZhangCSG05
+
+Matrix-Structural Learning (MSL) of Cascaded Classifier from Enormous Training Set.
+Shengye Yan,Shiguang Shan,Xilin Chen,Wen Gao,Jie Chen
+2007. inproceedings: CVPR. key: conf/cvpr/YanSCGC07
+
+Locally Assembled Binary (LAB) feature with feature-centric cascade for fast and accurate face detection.
+Shengye Yan,Shiguang Shan,Xilin Chen,Wen Gao
+2008. inproceedings: CVPR. key: conf/cvpr/YanSCG08
+
+Classifiability-based Optimal Discriminatory Projection Pursuit.
+Yu Su,Shiguang Shan,Xilin Chen,Wen Gao
+2008. inproceedings: CVPR. key: conf/cvpr/SuSCG08
+
+Manifold-Manifold Distance with application to face recognition based on image set.
+Ruiping Wang,Shiguang Shan,Xilin Chen,Wen Gao
+2008. inproceedings: CVPR. key: conf/cvpr/WangSCG08
+
+A robust descriptor based on Weber's Law.
+Jie Chen,Shiguang Shan,Guoying Zhao,Xilin Chen,Wen Gao,Matti Pietikainen
+2008. inproceedings: CVPR. key: conf/cvpr/ChenSZCGP08
+
+Unified Principal Component Analysis with generalized Covariance Matrix for face recognition.
+Shiguang Shan,Bo Cao,Yu Su,Laiyun Qing,Xilin Chen,Wen Gao
+2008. inproceedings: CVPR. key: conf/cvpr/ShanCSQCG08
+
+Granularity-tunable gradients partition (GGP) descriptors for human detection.
+Yazhou Liu,Shiguang Shan,Wenchao Zhang,Xilin Chen,Wen Gao
+2009. inproceedings: CVPR. key: conf/cvpr/LiuSZCG09
+
+Maximizing intra-individual correlations for face recognition across pose differences.
+Annan Li,Shiguang Shan,Xilin Chen,Wen Gao
+2009. inproceedings: CVPR. key: conf/cvpr/LiSCG09
+
+Sigma Set: A small second order statistical region descriptor.
+Xiaopeng Hong,Hong Chang,Shiguang Shan,Xilin Chen,Wen Gao
+2009. inproceedings: CVPR. key: conf/cvpr/HongCSCG09
+
+Towards semantic embedding in visual vocabulary.
+Rongrong Ji,Hongxun Yao,Xiaoshuai Sun,Bineng Zhong,Wen Gao
+2010. inproceedings: CVPR. key: conf/cvpr/JiYSZG10
+
+Adaptive generic learning for face recognition from a single sample per person.
+Yu Su,Shiguang Shan,Xilin Chen,Wen Gao
+2010. inproceedings: CVPR. key: conf/cvpr/SuSCG10
+
+Novel observation model for probabilistic object tracking.
+Dawei Liang,Qingming Huang,Hongxun Yao,Shuqiang Jiang,Rongrong Ji,Wen Gao
+2010. inproceedings: CVPR. key: conf/cvpr/LiangHYJJG10
+
+Visual tracking via weakly supervised learning from multiple imperfect oracles.
+Bineng Zhong,Hongxun Yao,Sheng Chen,Rongrong Ji,Xiaotong Yuan,Shaohui Liu,Wen Gao
+2010. inproceedings: CVPR. key: conf/cvpr/ZhongYCJYLG10
+
+Measuring visual saliency by Site Entropy Rate.
+Wei Wang,Yizhou Wang,Qingming Huang,Wen Gao
+2010. inproceedings: CVPR. key: conf/cvpr/WangWHG10
+
+A Biologically Inspired Energy-Aware Routing Algorithm for Communications in Cyberworlds.
+Zhenyu Liu,Wen Gao,Marta Z. Kwiatkowska
+2008. inproceedings: CW. key: conf/cw/LiuGK08
+
+On-Line Sprite Encoding with Large Global Motion Estimation.
+Feng Wu,Wen Gao,Xiang YangZhou,Gao Peng,Chen DaTong
+1998. inproceedings: Data Compression Conference. key: conf/dcc/FengWYPD98
+
+Bandwidth Adaptive Quality Smoothing for Unequal Error Protected Scalable Video Streaming.
+Longshe Huo,Wen Gao,Qingming Huang
+2005. inproceedings: DCC. key: conf/dcc/HuoGH05
+
+Morphological Representation of DCT Data for Image Coding.
+Debin Zhao,Y. K. Chan,Wen Gao
+2001. inproceedings: Data Compression Conference. key: conf/dcc/ZhaoCG01
+
+FACOLA - Face Coder Based on Location and Attention.
+Debin Zhao,Y. K. Chan,Wen Gao
+1998. inproceedings: Data Compression Conference. key: conf/dcc/ZhaoCG98
+
+Extending DACLIC for Near Lossless Compression with Postprocessing of Greyscale Images.
+Debin Zhao,Y. K. Chan,Wen Gao
+1999. inproceedings: Data Compression Conference. key: conf/dcc/ZhaoCG99
+
+An Enhanced Robust Entropy Coder for Video Codecs Based on Context-Adaptive Reversible VLC.
+Qiang Wang,Debin Zhao,Siwei Ma,Wen Gao
+2007. inproceedings: DCC. key: conf/dcc/WangZMG07
+
+Performance Analysis of Dual Frame Motion Compensation.
+Da Liu,Xiangyang Ji,Debin Zhao,Xiaobin Zhu,Zhi Bian,Wen Gao
+2008. inproceedings: DCC. key: conf/dcc/LiuJZZBG08
+
+Compression-Induced Rendering Distortion Analysis for Texture/Depth Rate Allocation in 3D Video Compression.
+Yanwei Liu,Siwei Ma,Qingming Huang,Debin Zhao,Wen Gao,Nan Zhang
+2009. inproceedings: DCC. key: conf/dcc/LiuMHZGZ09
+
+Auto Regressive Model and Weighted Least Squares Based Packet Video Error Concealment.
+Yongbing Zhang,Xinguang Xiang,Siwei Ma,Debin Zhao,Wen Gao
+2010. inproceedings: DCC. key: conf/dcc/ZhangXMZG10
+
+Tanner Graph Based Image Interpolation.
+Ruiqin Xiong,Wen Gao
+2010. inproceedings: DCC. key: conf/dcc/XiongG10
+
+Discovering Sequence Association Rules with User Access Transaction Grammars.
+Shi Wang,Wen Gao,Jintao Li
+2000. inproceedings: DEXA Workshop. key: conf/dexaw/WangGL00
+
+Robust Multi-view Face Detection Using Error Correcting Output Codes.
+Hongming Zhang,Wen Gao,Xilin Chen,Shiguang Shan,Debin Zhao
+2006. inproceedings: ECCV (4). key: conf/eccv/ZhangGCSZ06
+
+Action Recognition in Broadcast Tennis Video Using Optical Flow and Support Vector Machine.
+Guangyu Zhu,Changsheng Xu,Wen Gao,Qingming Huang
+2006. inproceedings: ECCV Workshop on HCI. key: conf/eccv/ZhuXGH06
+
+Spatial-Temporal Granularity-Tunable Gradients Partition (STGGP) Descriptors for Human Detection.
+Yazhou Liu,Shiguang Shan,Xilin Chen,Janne Heikkila,Wen Gao,Matti Pietikainen
+2010. inproceedings: ECCV (1). key: conf/eccv/LiuSCHGP10
+
+Lighting Aware Preprocessing for Face Recognition across Varying Illumination.
+Hu Han,Shiguang Shan,Laiyun Qing,Xilin Chen,Wen Gao
+2010. inproceedings: ECCV (2). key: conf/eccv/HanSQCG10
+
+Transition Movement Models for Large Vocabulary Continuous Sign Language Recognition.
+Wen Gao,Gaolin Fang,Debin Zhao,Yiqiang Chen
+2004. inproceedings: FGR. key: conf/fgr/GaoFZC04
+
+Expand Training Set for Face Detection by GA Re-sampling.
+Jie Chen,Xilin Chen,Wen Gao
+2004. inproceedings: FGR. key: conf/fgr/ChenCG04
+
+A SRN/HMM System for Signer-Independent Continuous Sign Language Recognition.
+Gaolin Fang,Wen Gao
+2002. inproceedings: FGR. key: conf/fgr/FangG02
+
+A Continuous Chinese Sign Language Recognition System.
+Jiyong Ma,Wen Gao,Jiangqin Wu,Chunli Wang
+2000. inproceedings: FG. key: conf/fgr/MaGWW00
+
+Eigen-Harmonics Faces: Face Recognition under Generic Lighting.
+Laiyun Qing,Shiguang Shan,Wen Gao
+2004. inproceedings: FGR. key: conf/fgr/QingSG04
+
+Curse of Mis-alignment in Face Recognition: Problem and a Novel Mis-alignment Learning Solution.
+Shiguang Shan,Yizheng Chang,Wen Gao,Bo Cao,Peng Yang
+2004. inproceedings: FGR. key: conf/fgr/ShanCGCY04
+
+An Approach Based on Phonemes to Large Vocabulary Chinese Sign Language Recognition.
+Chunli Wang,Shiguang Shan,Wen Gao
+2002. inproceedings: FGR. key: conf/fgr/WangSG02
+
+Face Recognition Using Ada-Boosted Gabor Features.
+Peng Yang,Shiguang Shan,Wen Gao,Stan Z. Li,Dong Zhang
+2004. inproceedings: FGR. key: conf/fgr/YangSGLZ04
+
+Expanding Training Set for Chinese Sign Language Recognition.
+Chunli Wang,Xilin Chen,Wen Gao
+2006. inproceedings: FG. key: conf/fgr/WangCG06
+
+Illumination transfer using homomorphic wavelet filtering and its application to light-insensitive face recognition.
+Hu Han,Shiguang Shan,Xilin Chen,Wen Gao
+2008. inproceedings: FG. key: conf/fgr/HanSCG08
+
+Hierarchical Ensemble of Gabor Fisher Classifier for Face Recognition.
+Yu Su,Shiguang Shan,Xilin Chen,Wen Gao
+2006. inproceedings: FG. key: conf/fgr/SuSCG06
+
+Recovering 3D facial shape via coupled 2D/3D space learning.
+Annan Li,Shiguang Shan,Xilin Chen,Xiujuan Chai,Wen Gao
+2008. inproceedings: FG. key: conf/fgr/LiSCCG08
+
+Local Linear Regression (LLR) for Pose Invariant Face Recognition.
+Xiujuan Chai,Shiguang Shan,Xilin Chen,Wen Gao
+2006. inproceedings: FG. key: conf/fgr/ChaiSCG06
+
+Face reconstruction using fixation positions and foveated imaging.
+Fang Fang,Zhiguo Ma,Laiyun Qing,Jun Miao,Xilin Chen,Wen Gao
+2008. inproceedings: FG. key: conf/fgr/FangMQMCG08
+
+Design sparse features for age estimation using hierarchical face model.
+Jin-Li Suo,Tianfu Wu,Song Chun Zhu,Shiguang Shan,Xilin Chen,Wen Gao
+2008. inproceedings: FG. key: conf/fgr/SuoWZSCG08
+
+Discriminant analysis for perceptionally comparable classes.
+Bingpeng Ma,Shiguang Shan,Xilin Chen,Wen Gao
+2008. inproceedings: FG. key: conf/fgr/MaSCG08
+
+A Reconfigurable High Availability Infrastructure in Cluster for Grid.
+Wen Gao,Xinyu Liu,Lei Wang,Takashi Nanya
+2003. inproceedings: GCC (1). key: conf/gcc/GaoLWN03
+
+The Recognition of Finger-Spelling for Chinese Sign Language.
+Jiangqin Wu,Wen Gao
+2001. inproceedings: Gesture Workshop. key: conf/gw/WuG01
+
+Signer-Independent Continuous Sign Language Recognition Based on SRN/HMM.
+Gaolin Fang,Wen Gao,Xilin Chen,Chunli Wang,Jiyong Ma
+2001. inproceedings: Gesture Workshop. key: conf/gw/FangGCWM01
+
+Re-sampling for Chinese Sign Language Recognition.
+Chunli Wang,Xilin Chen,Wen Gao
+2005. inproceedings: Gesture Workshop. key: conf/gw/WangCG05
+
+A Comparison Between Etymon- and Word-Based Chinese Sign Language Recognition Systems.
+Chunli Wang,Xilin Chen,Wen Gao
+2005. inproceedings: Gesture Workshop. key: conf/gw/WangCG05a
+
+A Real-Time Large Vocabulary Recognition System for Chinese Sign Language.
+Chunli Wang,Wen Gao,Jiyong Ma
+2001. inproceedings: Gesture Workshop. key: conf/gw/WangGM01
+
+Visual Sign Language Recognition Based on HMMs and Auto-regressive HMMs.
+Xiaolin Yang,Feng Jiang,Han Liu,Hongxun Yao,Wen Gao,Chunli Wang
+2005. inproceedings: Gesture Workshop. key: conf/gw/YangJLYGW05
+
+Generating Data for Signer Adaptation.
+Chunli Wang,Xilin Chen,Wen Gao
+2007. inproceedings: Gesture Workshop. key: conf/gw/WangCG07
+
+A Cache-Based Distributed Terabyte Text Retrieval System in CADAL.
+Jun Cheng,Wen Gao,Bin Liu,Tiejun Huang,Ling Zhang
+2002. inproceedings: ICADL. key: conf/icadl/ChengGLHZ02
+
+Pose Estimation Based on Gaussian Error Models.
+Xiujuan Chai,Shiguang Shan,Laiyun Qing,Wen Gao
+2006. inproceedings: ICB. key: conf/icb/ChaiSQG06
+
+The Application of Extended Geodesic Distance in Head Poses Estimation.
+Bingpeng Ma,Fei Yang,Wen Gao,Baochang Zhang
+2006. inproceedings: ICB. key: conf/icb/MaYGZ06
+
+Performance Characterisation of Face Recognition Algorithms and Their Sensitivity to Severe Illumination Changes.
+Kieron Messer,Josef Kittler,James Short,Guillaume Heusch,Fabien Cardinaux,Sebastien Marcel,Yann Rodriguez,Shiguang Shan,Yu Su,Wen Gao,Xilin Chen
+2006. inproceedings: ICB. key: conf/icb/MesserKSHCMRSSGC06
+
+Enhance the Alignment Accuracy of Active Shape Models Using Elastic Graph Matching.
+Sanqiang Zhao,Wen Gao,Shiguang Shan,Baocai Yin
+2004. inproceedings: ICBA. key: conf/icba/ZhaoGSY04
+
+A Backward-Compatible Solution for Next Generation DVB-C System.
+Jing Lei,Wen Gao
+2008. inproceedings: ICC. key: conf/icc/LeiG08
+
+Spectrum Sensing for OFDM Systems Employing Pilot Tones and Application to DVB-T OFDM.
+Hou-Shin Chen,Wen Gao,David G. Daut
+2008. inproceedings: ICC. key: conf/icc/ChenGD08
+
+Spectrum Sensing for DMB-T Systems Using PN Frame Headers.
+Hou-Shin Chen,Wen Gao,David G. Daut
+2008. inproceedings: ICC. key: conf/icc/ChenGD08a
+
+Signature Based Spectrum Sensing Algorithms for IEEE 802.22 WRAN.
+Hou-Shin Chen,Wen Gao,David G. Daut
+2007. inproceedings: ICC. key: conf/icc/ChenGD07
+
+Network-Tree Model and Shortest Path Algorithm.
+Guozhen Tan,Xiaojun Han,Wen Gao
+2003. inproceedings: International Conference on Computational Science. key: conf/iccS/TanHG03
+
+Reliability Theory Model and Expected Life Shortest Path in Stochastic and Time-Dependent Networks.
+Guozhen Tan,Xiang-fu Xia,Wen Gao
+2003. inproceedings: International Conference on Computational Science. key: conf/iccS/TanXG03
+
+FaceTracker: A Human Face Tracking and Facial Organ Localizing System.
+Jun Miao,Hongming Zhang,Wen Gao,Gang Deng,Hong Liu,Xilin Chen
+2001. inproceedings: ICCV. key: conf/iccv/MiaoZGDLC01
+
+Local Gabor Binary Pattern Histogram Sequence (LGBPHS): A Novel Non-Statistical Model for Face Representation and Recognition.
+Wenchao Zhang,Shiguang Shan,Wen Gao,Xilin Chen,Hongming Zhang
+2005. inproceedings: ICCV. key: conf/iccv/ZhangSGCZ05
+
+Hierarchical Ensemble of Global and Local Classifiers for Face Recognition.
+Yu Su,Shiguang Shan,Xilin Chen,Wen Gao
+2007. inproceedings: ICCV. key: conf/iccv/SuSCG07
+
+Learning long term face aging patterns from partially dense aging databases.
+Jin-Li Suo,Xilin Chen,Shiguang Shan,Wen Gao
+2009. inproceedings: ICCV. key: conf/iccv/SuoCSG09
+
+Group-sensitive multiple kernel learning for object categorization.
+Jingjing Yang,Yuanning Li,YongHong Tian,Lingyu Duan,Wen Gao
+2009. inproceedings: ICCV. key: conf/iccv/YangLTDG09
+
+A system for automatic Chinese seal imprint verification.
+Wen Gao,Shengfu Dong,Xilin Chen
+1995. inproceedings: ICDAR. key: conf/icdar/GaoDC95
+
+Recognizing components of handwritten characters by attributed relational graphs with stable features.
+Xingyuan Li,Weon-Geun Oh,Jiarong Hong,Wen Gao
+1997. inproceedings: ICDAR. key: conf/icdar/LiOHG97
+
+A Robust Method for Unknown Forms Analysis.
+Li Xingyuan,Wen Gao,David S. Doermann,Weon-Geun Oh
+1999. inproceedings: ICDAR. key: conf/icdar/XingyuanGDO99
+
+Fast Moving Region Detection Scheme in Ad Hoc Sensor Network.
+Yazhou Liu,Wen Gao,Hongxun Yao,Shaohui Liu,Lijun Wang
+2004. inproceedings: ICIAR (2). key: conf/iciar/LiuGYLW04
+
+Inter-frame Differential Energy Video Watermarking Algorithm Based on Compressed Domain.
+Lijun Wang,Hongxun Yao,Shaohui Liu,Wen Gao,Yazhou Liu
+2004. inproceedings: ICIAR (2). key: conf/iciar/WangYLGL04
+
+Minimizing the Distortion Spatial Data Hiding Based on Equivalence Class.
+Shaohui Liu,Hongxun Yao,Wen Gao,Dingguo Yang
+2007. inproceedings: ICIC (1). key: conf/icic/LiuYGY07
+
+A Lattice Based General Blind Watermark Scheme.
+Yongliang Liu,Wen Gao,Zhao Wang,Shaohui Liu
+2003. inproceedings: ICICS. key: conf/icics/LiuGWL03
+
+Reconstruction Problems in 3D for Viral Cryo Electron Microscopy.
+Wen Gao,Peter C. Doerschuk
+1998. inproceedings: ICIP (2). key: conf/icip/GaoD98
+
+New scaling technique for direct mode coding in B pictures.
+Xiangyang Ji,Debin Zhao,Wen Gao,Yan Lu,Siwei Ma
+2004. inproceedings: ICIP. key: conf/icip/JiZGLM04
+
+A novel compressed domain shot segmentation algorithm on H.264/AVC.
+Yang Liu,Weiqiang Wang,Wen Gao,Wei Zeng
+2004. inproceedings: ICIP. key: conf/icip/LiuWGZ04
+
+Rate control for JVT video coding scheme with HRD considerations.
+Siwei Ma,Wen Gao,Feng Wu,Yan Lu
+2003. inproceedings: ICIP (3). key: conf/icip/MaGWL03
+
+Sprite generation for frame-based video coding.
+Yan Lu,Wen Gao,Feng Wu
+2001. inproceedings: ICIP (1). key: conf/icip/LuGW01
+
+High efficient sprite coding with directional spatial prediction.
+Yan Lu,Wen Gao,Feng Wu
+2002. inproceedings: ICIP (1). key: conf/icip/LuGW02
+
+Individual 3D Face Synthesis Based on Orthogonal Photos and Speech-Driven Facial Animation.
+Shiguang Shan,Wen Gao,Jie Yan,Hongming Zhang,Xilin Chen
+2000. inproceedings: ICIP. key: conf/icip/ShanGYZC00
+
+An implemented architecture of deblocking filter for H.264/AVC.
+Bin Sheng,Wen Gao,Di Wu
+2004. inproceedings: ICIP. key: conf/icip/ShengGW04
+
+The improved SP frame coding technique for the JVT standard.
+Xiaoyan Sun,Shipeng Li,Feng Wu,Jacky Shen,Wen Gao
+2003. inproceedings: ICIP (3). key: conf/icip/SunLWSG03
+
+Macroblock-based progressive fine granularity scalable (PFGS) video coding with flexible temporal-SNR scalablilities.
+Xiaoyan Sun,Feng Wu,Shipeng Li,Wen Gao,Ya-Qin Zhang
+2001. inproceedings: ICIP (2). key: conf/icip/SunWLGZ01
+
+A novel pupil localization method based on gaboreye model and radial symmetry operator.
+Peng Yang,Bo Du,Shiguang Shan,Wen Gao
+2004. inproceedings: ICIP. key: conf/icip/YangDSG04
+
+Automatic text segmentation from complex background.
+Qixiang Ye,Wen Gao,Qingming Huang
+2004. inproceedings: ICIP. key: conf/icip/YeGH04
+
+Error resilience video coding in H.264 encoder with potential distortion tracking.
+Yuan Zhang,Wen Gao,Huifang Sun,Qingming Huang,Yan Lu
+2004. inproceedings: ICIP. key: conf/icip/ZhangGSHL04
+
+Mode mapping method for h.264/avc spatial downscaling transcoding.
+Peng Zhang,Yan Lu,Qingming Huang,Wen Gao
+2004. inproceedings: ICIP. key: conf/icip/ZhangLHG04
+
+Video indexing by motion activity maps.
+Wei Zeng,Wen Gao,Debin Zhao
+2002. inproceedings: ICIP (1). key: conf/icip/ZengGZ02
+
+An active volumetric model for 3D reconstruction.
+Xin Liu,Hongxun Yao,Xilin Chen,Wen Gao
+2005. inproceedings: ICIP (2). key: conf/icip/LiuYCG05
+
+Improving particle filter with support vector regression for efficient visual tracking.
+Guangyu Zhu,Dawei Liang,Yang Liu,Qingming Huang,Wen Gao
+2005. inproceedings: ICIP (2). key: conf/icip/ZhuLLHG05
+
+Motion vector prediction in multiview video coding.
+Xun Guo,Wen Gao,Debin Zhao
+2005. inproceedings: ICIP (2). key: conf/icip/GuoGZ05
+
+An adaptive skin color detection algorithm with confusing backgrounds elimination.
+Ming-Ji Zhang,Wen Gao
+2005. inproceedings: ICIP (2). key: conf/icip/ZhangG05
+
+Extended direct mode for hierarchical B picture coding.
+Jiali Zheng,Xiangyang Ji,Guangnan Ni,Wen Gao,Feng Wu
+2005. inproceedings: ICIP (2). key: conf/icip/ZhengJNGW05
+
+Image matching based on a local invariant descriptor.
+Lei Qin,Wen Gao
+2005. inproceedings: ICIP (3). key: conf/icip/QinG05
+
+Viewpoint invariant sign language recognition.
+Qi Wang,Xilin Chen,Liangguo Zhang,Chunli Wang,Wen Gao
+2005. inproceedings: ICIP (3). key: conf/icip/WangCZWG05
+
+An Efficient FGS Coding Scheme for Interlaced Scalable Video Coding.
+Yanyan Zheng,Xiangyang Ji,Feng Wu,Debin Zhao,Wen Gao
+2006. inproceedings: ICIP. key: conf/icip/ZhengJWZG06
+
+Practical Wyner-Ziv Switching Scheme for Multiple Bit-Rate Video Streaming.
+Mei Guo,Yan Lu,Feng Wu,Debin Zhao,Wen Gao
+2006. inproceedings: ICIP. key: conf/icip/GuoLWZG06
+
+Visual Hull Embossment by Graph Cuts.
+Xin Liu,Hongxun Yao,Xilin Chen,Wen Gao
+2006. inproceedings: ICIP. key: conf/icip/LiuYCG06
+
+Adaptive Block-Size Transform Based on Extended Integer 8*8/4*4 Transforms for H.264/AVC.
+Honggang Qi,Wen Gao,Siwei Ma,Debin Zhao
+2006. inproceedings: ICIP. key: conf/icip/QiGMZ06
+
+Wyner-Ziv Video Coding Based on Set Partitioning in Hierarchical Tree.
+Xun Guo,Yan Lu,Feng Wu,Wen Gao,Shipeng Li
+2006. inproceedings: ICIP. key: conf/icip/GuoLWGL06
+
+A Fast Inter Frame Prediction Algorithm for Multi-View Video Coding.
+Xiaoming Li,Debin Zhao,Xiangyang Ji,Qiang Wang,Wen Gao
+2007. inproceedings: ICIP (3). key: conf/icip/LiZJWG07
+
+Mean-Shift Blob Tracking with Adaptive Feature Selection and Scale Adaptation.
+Dawei Liang,Qingming Huang,Shuqiang Jiang,Hongxun Yao,Wen Gao
+2007. inproceedings: ICIP (3). key: conf/icip/LiangHJYG07
+
+Software Pipelines Design for Variable Block-Size Motion Estimation with Large Search Range.
+Zhigang Yang,Wen Gao,Yan Liu,Debin Zhao
+2007. inproceedings: ICIP (5). key: conf/icip/YangGLZ07
+
+A Novel Error Concealment Method for Stereoscopic Video Coding.
+Xinguang Xiang,Debin Zhao,Qiang Wang,Xiangyang Ji,Wen Gao
+2007. inproceedings: ICIP (5). key: conf/icip/XiangZWJG07
+
+Monocular Tracking 3D People By Gaussian Process Spatio-Temporal Variable Model.
+Junbiao Pang,Laiyun Qing,Qingming Huang,Shuqiang Jiang,Wen Gao
+2007. inproceedings: ICIP (5). key: conf/icip/PangQHJG07
+
+Object Recognition Based on Dependent Pachinko Allocation Model.
+Yuanning Li,Weiqiang Wang,Wen Gao
+2007. inproceedings: ICIP (5). key: conf/icip/LiWG07
+
+DSP Implementation of Deblocking Filter for AVS.
+Zhigang Yang,Wen Gao,Yan Liu,Debin Zhao
+2007. inproceedings: ICIP (6). key: conf/icip/YangGLZ07a
+
+People re-detection using Adaboost with sift and color correlogram.
+Lei Hu,Shuqiang Jiang,Qingming Huang,Wen Gao
+2008. inproceedings: ICIP. key: conf/icip/HuJHG08
+
+Shot classification for action movies based on motion characteristics.
+Shuhui Wang,Shuqiang Jiang,Qingming Huang,Wen Gao
+2008. inproceedings: ICIP. key: conf/icip/WangJHG08
+
+Pedestrian detection via logistic multiple instance boosting.
+Junbiao Pang,Qingming Huang,Shuqiang Jiang,Wen Gao
+2008. inproceedings: ICIP. key: conf/icip/PangHJG08
+
+Object tracking using incremental 2D-LDA learning and Bayes inference.
+Guorong Li,Dawei Liang,Qingming Huang,Shuqiang Jiang,Wen Gao
+2008. inproceedings: ICIP. key: conf/icip/LiLHJG08
+
+Multi-polarity text segmentation using graph theory.
+Jia Li,YongHong Tian,Tiejun Huang,Wen Gao
+2008. inproceedings: ICIP. key: conf/icip/LiTHG08
+
+Fast and effective text detection.
+Xiaojun Li,Weiqiang Wang,Shuqiang Jiang,Qingming Huang,Wen Gao
+2008. inproceedings: ICIP. key: conf/icip/LiWJHG08
+
+Fea-Accu cascade for face detection.
+Shengye Yan,Shiguang Shan,Xilin Chen,Wen Gao
+2009. inproceedings: ICIP. key: conf/icip/YanSCG09
+
+Utilizing affective analysis for efficient movie browsing.
+Shiliang Zhang,Qi Tian,Qingming Huang,Wen Gao,Shipeng Li
+2009. inproceedings: ICIP. key: conf/icip/ZhangTHGL09
+
+A no-reference perceptual blur metric using histogram of gradient profile sharpness.
+Luhong Liang,Jianhua Chen,Siwei Ma,Debin Zhao,Wen Gao
+2009. inproceedings: ICIP. key: conf/icip/LiangCMZG09
+
+Joint learning for side information and correlation model based on linear regression model in distributed video coding.
+Xianming Liu,Debin Zhao,Yongbing Zhang,Siwei Ma,Qingming Huang,Wen Gao
+2009. inproceedings: ICIP. key: conf/icip/LiuZZMHG09
+
+Position dependent linear intra prediction for image coding.
+Li Zhang,Siwei Ma,Wen Gao
+2010. inproceedings: ICIP. key: conf/icip/ZhangMG10
+
+An interactive method for curve extraction.
+Ge Guo,Luoqi Liu,Zhebin Zhang,Yizhou Wang,Wen Gao
+2010. inproceedings: ICIP. key: conf/icip/GuoLZWG10
+
+A practical algorithm for tanner graph based image interpolation.
+Ruiqin Xiong,Wenpeng Ding,Siwei Ma,Wen Gao
+2010. inproceedings: ICIP. key: conf/icip/XiongDMG10
+
+Enhanced intra prediction and transform for video coding.
+Kai Zhang,Shawmin Lei,Wen Gao
+2010. inproceedings: ICIP. key: conf/icip/ZhangLG10
+
+A single-pass based adaptive interpolation filtering algorithm for video coding.
+Kai Zhang,Xun Guo,Yu-wen Huang,Shawmin Lei,Wen Gao
+2010. inproceedings: ICIP. key: conf/icip/ZhangGHLG10
+
+Gray-scale super-resolution for face recognition from low Gray-scale resolution face images.
+Hu Han,Shiguang Shan,Xilin Chen,Wen Gao
+2010. inproceedings: ICIP. key: conf/icip/HanSCG10
+
+Maximizing intra-individual correlations for illumination-insensitive face recognition.
+Hu Han,Shiguang Shan,Xilin Chen,Wen Gao
+2010. inproceedings: ICIP. key: conf/icip/HanSCG10a
+
+New bi-prediction techniques for B pictures coding.
+Xiangyang Ji,Debin Zhao,Wen Gao,Qingming Huang,Siwei Ma,Yan Lu
+2004. inproceedings: ICME. key: conf/icmcs/JiZGHML04
+
+Secure watermark verification scheme.
+Yongliang Liu,Wen Gao
+2004. inproceedings: ICME. key: conf/icmcs/LiuG04
+
+Macroblock-Based Progressive Fine Granularity Scalable Video Coding.
+Xiaoyan Sun,Feng Wu,Shipeng Li,Wen Gao,Ya-Qin Zhang
+2001. inproceedings: ICME. key: conf/icmcs/SunWLGZ01
+
+Improved error concealment algorithms based on H.264/AVC non-normative decoder.
+Li Su,Yuan Zhang,Wen Gao,Qingming Huang,Yan Lu
+2004. inproceedings: ICME. key: conf/icmcs/SuZGHL04
+
+Context-based 2D-VLC for video coding.
+Qiang Wang,Debin Zhao,Siwei Ma,Yan Lu,Qingming Huang,Wen Gao
+2004. inproceedings: ICME. key: conf/icmcs/WangZMLHG04
+
+Multiple modes intra-prediction in intra coding.
+Peng Zhang,Debin Zhao,Siwei Ma,Yan Lu,Wen Gao
+2004. inproceedings: ICME. key: conf/icmcs/ZhangZMLG04
+
+Sign Language Recognition from Homography.
+Qi Wang,Xilin Chen,Chunli Wang,Wen Gao
+2006. inproceedings: ICME. key: conf/icmcs/WangCWG06
+
+An Edge-Based Median Filtering Algorithm with Consideration of Motion Vector Reliability for Adaptive Video Deinterlacing.
+Qian Huang,Wen Gao,Debin Zhao,Qingming Huang
+2006. inproceedings: ICME. key: conf/icmcs/HuangGZH06
+
+An Adaptive De-Interlacing Algorithm Based on Texture and Motion Vector Analysis.
+Jianguo Du,Songnan Li,Debin Zhao,Qian Huang,Wen Gao
+2006. inproceedings: ICME. key: conf/icmcs/DuLZHG06
+
+Complexity-Distortion Optimized Motion Estimation Algorithm with Fine-Granular Scalable Complexity.
+Li Zhang,Wen Gao
+2006. inproceedings: ICME. key: conf/icmcs/ZhangG06
+
+Motion Aligned Spatial Scalable Video Coding.
+Debing Liu,Yuwen He,Shipeng Li,Debin Zhao,Wen Gao
+2006. inproceedings: ICME. key: conf/icmcs/LiuHLZG06
+
+A Fast Intra Mode Decision Algorithm for AVS to H.264 Transcoding.
+Zhihang Wang,Wen Gao,Debin Zhao,Qingming Huang
+2006. inproceedings: ICME. key: conf/icmcs/WangGZH06
+
+An Optimal Non-Uniform Scalar Quantizer for Distributed Video Coding.
+Bo Wu,Xun Guo,Debin Zhao,Wen Gao,Feng Wu
+2006. inproceedings: ICME. key: conf/icmcs/WuGZGW06
+
+Performance-Complexity Analysis of High Resolution Video Encoder and its Memory Organization for DSP Implementation.
+Zhigang Yang,Wen Gao,Yan Liu
+2006. inproceedings: ICME. key: conf/icmcs/YangGL06
+
+Low-Complexity Adaptive Block-Size Transform Based on Extended Transforms.
+Honggang Qi,Wen Gao,Siwei Ma,Debin Zhao,Xiangyang Ji
+2006. inproceedings: ICME. key: conf/icmcs/QiGMZJ06
+
+Automatic Multi-Player Detection and Tracking in Broadcast Sports Video using Support Vector Machine and Particle Filter.
+Guangyu Zhu,Changsheng Xu,Qingming Huang,Wen Gao
+2006. inproceedings: ICME. key: conf/icmcs/ZhuXHG06
+
+An Efficient Reference Frame Storage Scheme for H.264 HDTV Decoder.
+Peng Zhang,Wen Gao,Di Wu,Don Xie
+2006. inproceedings: ICME. key: conf/icmcs/ZhangGWX06
+
+An Effective Mode Decision Scheme in Macroblock-Based PFGS.
+Tiantian Sun,Jizheng Xu,Feng Wu,Wen Gao
+2006. inproceedings: ICME. key: conf/icmcs/SunXWG06
+
+A System for Automatic Generation of Music Sports-Video.
+Weigang Zhang,Liyuan Xing,Qingming Huang,Wen Gao
+2005. inproceedings: ICME. key: conf/icmcs/ZhangXHG05
+
+Hybrid Algorithm with Adaptive Complexity for Integer Pel Motion Estimation of H.264.
+Li Zhang,Wen Gao
+2005. inproceedings: ICME. key: conf/icmcs/ZhangG05
+
+Generating Video Sequence from Photo Image for Mobile Screens by Content Analysis.
+Shuqiang Jiang,Huiying Liu,Zhao Zhao,Qingming Huang,Wen Gao
+2007. inproceedings: ICME. key: conf/icmcs/JiangLZHG07
+
+3D Haar-Like Features for Pedestrian Detection.
+Xinyi Cui,Yazhou Liu,Shiguang Shan,Xilin Chen,Wen Gao
+2007. inproceedings: ICME. key: conf/icmcs/CuiLSCG07
+
+Statistical Analysis and Modeling of Rate-Distortion Function in SVC Fine-Granular SNR Scalable Videos.
+Jun Sun,Wen Gao,Debin Zhao
+2007. inproceedings: ICME. key: conf/icmcs/SunGZ07
+
+Direct Mode Coding for B Pictures using Virtual Reference Picture.
+Da Liu,Debin Zhao,Jun Sun,Wen Gao
+2007. inproceedings: ICME. key: conf/icmcs/LiuZSG07
+
+A Real-Time Score Detection and Recognition Approach for Broadcast Basketball Video.
+Guangyi Miao,Guangyu Zhu,Shuqiang Jiang,Qingming Huang,Changsheng Xu,Wen Gao
+2007. inproceedings: ICME. key: conf/icmcs/MiaoZJHCG07
+
+The Demo: A Real-Time Score Detection and Recognition Approach in Broadcast Basketball Sports Video.
+Guangyi Miao,Guangyu Zhu,Shuqiang Jiang,Qingming Huang,Changsheng Xu,Wen Gao
+2007. inproceedings: ICME. key: conf/icmcs/MiaoZJHXG07
+
+Highlight Ranking for Racquet Sports Video in User Attention Subspaces Based on Relevance Feedback.
+Yijia Zheng,Guangyu Zhu,Shuqiang Jiang,Qingming Huang,Wen Gao
+2007. inproceedings: ICME. key: conf/icmcs/ZhengZJHG07
+
+An Effective Local Invariant Descriptor Combining Luminance and Color Information.
+Dong Zhang,Weiqiang Wang,Wen Gao,Shuqiang Jiang
+2007. inproceedings: ICME. key: conf/icmcs/ZhangWGJ07
+
+Mining Information of Attack-Defense Status from Soccer Video Based on Scene Analysis.
+Shuqiang Jiang,Qingming Huang,Wen Gao
+2007. inproceedings: ICME. key: conf/icmcs/JiangHG07
+
+Adaptive Spatial and Transform Domain FGS Coding.
+Li Zhang,Xiangyang Ji,Wen Gao,Debin Zhao
+2007. inproceedings: ICME. key: conf/icmcs/ZhangJGZ07
+
+Mahalanobis distance based Polynomial Segment Model for Chinese Sign Language Recogniton.
+Yu Zhou,Xilin Chen,Debin Zhao,Hongxun Yao,Wen Gao
+2008. inproceedings: ICME. key: conf/icmcs/ZhouCZYG08
+
+Affective MTV analysis based on arousal and valence features.
+Shiliang Zhang,Qi Tian,Shuqiang Jiang,Qingming Huang,Wen Gao
+2008. inproceedings: ICME. key: conf/icmcs/ZhangTJHG08
+
+Coarse-to-fine video text detection.
+Guangyi Miao,Qingming Huang,Shuqiang Jiang,Wen Gao
+2008. inproceedings: ICME. key: conf/icmcs/MiaoHJG08
+
+A hybrid text segmentation approach.
+Xiaojun Li,Weiqiang Wang,Qingming Huang,Wen Gao,Laiyun Qing
+2009. inproceedings: ICME. key: conf/icmcs/LiWHGQ09
+
+Multiple kernel active learning for image classification.
+Jingjing Yang,Yuanning Li,YongHong Tian,Ling-Yu Duan,Wen Gao
+2009. inproceedings: ICME. key: conf/icmcs/YangLTDG09
+
+Linking video ADS with product or service information by web search.
+Jinqiao Wang,Ling-Yu Duan,Bo Wang,Shi Chen,Yi Ouyang,Jing Liu,Hanqing Lu,Wen Gao
+2009. inproceedings: ICME. key: conf/icmcs/WangDWCOLLG09
+
+VLSI friendly me search window buffer structure optimization and algorithm verification for high definition H.264/AVS video encoder.
+Hai Bing Yin,Lei Deng,Honggang Qi,Wen Gao
+2009. inproceedings: ICME. key: conf/icmcs/YinDQG09
+
+A dataset and evaluation methodology for visual saliency in video.
+Jia Li,YongHong Tian,Tiejun Huang,Wen Gao
+2009. inproceedings: ICME. key: conf/icmcs/LiTHG09
+
+A steganography strategy based on equivalence partitions of hiding units.
+Shaohui Liu,Hongxun Yao,Shengping Zhang,Wen Gao
+2010. inproceedings: ICME. key: conf/icmcs/LiuYZG10
+
+Interactive viewpoint-space navigation for visual-audio exhibition of painting.
+Wei Ma,Yang Liu,Yizhou Wang,Yingqing Xu,Hongbin Zha,Wen Gao
+2010. inproceedings: ICME. key: conf/icmcs/MaLWXZG10
+
+Fast weighted algorithms for bitstream extraction of SVC Medium-Grain scalable video coding.
+Ruiheng Li,Jun Sun,Wen Gao
+2010. inproceedings: ICME. key: conf/icmcs/LiSG10
+
+HandTalker:  A Multimodal Dialog System Using Sign Language and 3-D Virtual Human.
+Wen Gao,Jiyong Ma,Shiguang Shan,Xilin Chen,Wei Zheng,Hongming Zhang,Jie Yan,Jiangqin Wu
+2000. inproceedings: ICMI. key: conf/icmi/GaoMSCZZYW00
+
+A Fast Sign Word Recognition Method for Chinese Sign Language.
+Jiangqin Wu,Wen Gao
+2000. inproceedings: ICMI. key: conf/icmi/WuG00
+
+Large vocabulary sign language recognition based on hierarchical decision trees.
+Gaolin Fang,Wen Gao,Debin Zhao
+2003. inproceedings: ICMI. key: conf/icmi/FangGZ03
+
+Animating Arbitrary Topology 3D Facial Model Using the MPEG-4 FaceDefTables.
+Dalong Jiang,Wen Gao,Zhiguo Li,Zhaoqi Wang
+2002. inproceedings: ICMI. key: conf/icmi/JiangGLW02
+
+A Parallel Multistream Model for Integration of Sign Language Recognition and Lip Motion.
+Jiyong Ma,Wen Gao,Rui Wang
+2000. inproceedings: ICMI. key: conf/icmi/MaGW00
+
+Gravity-Center Template Based Human Face Feature Detection.
+Jun Miao,Wen Gao,Yiqiang Chen,Jie Lu
+2000. inproceedings: ICMI. key: conf/icmi/MiaoGCL00
+
+An Approach to Robust and Fast Locating Lip Motion.
+Rui Wang,Wen Gao,Jiyong Ma
+2000. inproceedings: ICMI. key: conf/icmi/WangGM00
+
+An Improved Active Shape Model for Face Alignment.
+Wei Wang,Shiguang Shan,Wen Gao,Bo Cao,Baocai Yin
+2002. inproceedings: ICMI. key: conf/icmi/WangSGCY02
+
+A vision-based sign language recognition system using tied-mixture density HMM.
+Liang-Guo Zhang,Yiqiang Chen,Gaolin Fang,Xilin Chen,Wen Gao
+2004. inproceedings: ICMI. key: conf/icmi/ZhangCFCG04
+
+Recognition of sign language subwords based on boosted hidden Markov models.
+Liang-Guo Zhang,Xilin Chen,Chunli Wang,Yiqiang Chen,Wen Gao
+2005. inproceedings: ICMI. key: conf/icmi/ZhangCWCG05
+
+Combining Skin Color Model and Neural Network for Rotation Invariant Face Detection.
+Hongming Zhang,Debin Zhao,Wen Gao,Xilin Chen
+2000. inproceedings: ICMI. key: conf/icmi/ZhangZGC00
+
+Spatial Video Watermarking Based on Stability of DC Coefficients.
+Tianhang Chen,Shaohui Liu,Hongxun Yao,Wen Gao
+2005. inproceedings: ICMLC. key: conf/icmlc/ChenLYG05
+
+Scheduling Algorithms for Input Queued Switches Using Local Search Technique.
+Yanfeng Zheng,Simin He,Shutao Sun,Wen Gao
+2005. inproceedings: ICN (1). key: conf/icn/ZhengHSG05
+
+AppManager: A Powerful Service-Based Application Management System for Clusters.
+Qinghua Ye,Limin Xiao,Dan Meng,Wen Gao,Yi Liang,Ying Jiang
+2002. inproceedings: ICPP Workshops. key: conf/icppw/YeXMGLJ02
+
+Resampling for Face Detection by Self-Adaptive Genetic Algorithm.
+Jie Chen,Xilin Chen,Wen Gao
+2004. inproceedings: ICPR (3). key: conf/icpr/ChenCG04
+
+Modification of the AdaBoost-based Detector for Partially Occluded Faces.
+Jie Chen,Shiguang Shan,Shengye Yan,Xilin Chen,Wen Gao
+2006. inproceedings: ICPR (2). key: conf/icpr/ChenSYCG06
+
+Isomap Based on the Image Euclidean Distance.
+Jie Chen,Ruiping Wang,Shiguang Shan,Xilin Chen,Wen Gao
+2006. inproceedings: ICPR (2). key: conf/icpr/ChenWSCG06
+
+Support Vector Machines for Face Recognition with Two-layer Generated Virtual Data.
+Guoqin Cui,Wen Gao
+2004. inproceedings: ICPR (3). key: conf/icpr/CuiG04
+
+A Novel Approach to Automatically Extracting Basic Units from Chinese Sign Language.
+Gaolin Fang,Xiujuan Gao,Wen Gao,Yiqiang Chen
+2004. inproceedings: ICPR (4). key: conf/icpr/FangGGC04
+
+Bagging Based Efficient Kernel Fisher Discriminant Analysis for Face Recognition.
+Yi Li,Baochang Zhang,Shiguang Shan,Xilin Chen,Wen Gao
+2006. inproceedings: ICPR (3). key: conf/icpr/LiZSCG06
+
+Nonparametric Background Generation.
+Yazhou Liu,Hongxun Yao,Wen Gao,Xilin Chen,Debin Zhao
+2006. inproceedings: ICPR (4). key: conf/icpr/LiuYGCZ06
+
+A Novel Volumetric Shape from Silhouette Algorithm Based on a Centripetal Pentahedron Model.
+Xin Liu,Hongxun Yao,Guilin Yao,Wen Gao
+2006. inproceedings: ICPR (1). key: conf/icpr/LiuYYG06
+
+Robust Head Pose Estimation Using LGBP.
+Bingpeng Ma,Wenchao Zhang,Shiguang Shan,Xilin Chen,Wen Gao
+2006. inproceedings: ICPR (2). key: conf/icpr/MaZSCG06
+
+Local Visual Primitives (LVP) for Face Modelling and Recognition.
+Xin Meng,Shiguang Shan,Xilin Chen,Wen Gao
+2006. inproceedings: ICPR (2). key: conf/icpr/MengSCG06
+
+2D Cascaded AdaBoost for Eye Localization.
+Zhiheng Niu,Shiguang Shan,Shengye Yan,Xilin Chen,Wen Gao
+2006. inproceedings: ICPR (2). key: conf/icpr/NiuSYCG06
+
+Unsupervised Texture Classification: Automatically Discover and Classify Texture Patterns.
+Lei Qin,Weiqiang Wang,Qingming Huang,Wen Gao
+2006. inproceedings: ICPR (2). key: conf/icpr/QinWHG06
+
+Face Recognition under Varying Lighting Based on the Probabilistic Model of Gabor Phase.
+Laiyun Qing,Shiguang Shan,Xilin Chen,Wen Gao
+2006. inproceedings: ICPR (3). key: conf/icpr/QingSCG06
+
+Review the Strength of Gabor Features for Face Recognition from the Angle of Its Robustness to Mis-Alignment.
+Shiguang Shan,Wen Gao,Yizheng Chang,Bo Cao,Pang Yang
+2004. inproceedings: ICPR (1). key: conf/icpr/ShanGCCY04
+
+A Riemannian Weighted Filter for Edge-sensitive Image Smoothing.
+Shiguang Shan,Wenchao Zhang,Yu Su,Xilin Chen,Wen Gao
+2006. inproceedings: ICPR (3). key: conf/icpr/ShanZSCG06
+
+Ensemble of Piecewise FDA Based on Spatial Histograms of Local (Gabor) Binary Patterns for Face Recognition.
+Shiguang Shan,Wenchao Zhang,Yu Su,Xilin Chen,Wen Gao
+2006. inproceedings: ICPR (4). key: conf/icpr/ShanZSCG06a
+
+Patch-Based Gabor Fisher Classifier for Face Recognition.
+Yu Su,Shiguang Shan,Xilin Chen,Wen Gao
+2006. inproceedings: ICPR (2). key: conf/icpr/SuSCG06
+
+Enhancing Training Set for Face Detection.
+Ruiping Wang,Jie Chen,Shiguang Shan,Wen Gao
+2006. inproceedings: ICPR (3). key: conf/icpr/WangCSG06
+
+A Verification Method for Viewpoint Invariant Sign Language Recognition.
+Qi Wang,Xilin Chen,Chunli Wang,Wen Gao
+2006. inproceedings: ICPR (1). key: conf/icpr/WangCWG06
+
+Robust Frontal Face Detection in Complex Environment.
+Quan Yuan,Wen Gao,Hongxun Yao
+2002. inproceedings: ICPR (1). key: conf/icpr/YuanGY02
+
+Recognition of Strong and Weak Connection Models in Continuous Sign Language.
+Quan Yuan,Wen Gao,Hongxun Yao,Chunli Wang
+2002. inproceedings: ICPR (1). key: conf/icpr/YuanGYW02
+
+Information Fusion in Face Identification.
+Wenchao Zhang,Shiguang Shan,Wen Gao,Yizheng Chang,Bo Cao,Peng Yang
+2004. inproceedings: ICPR (3). key: conf/icpr/ZhangSGCCY04
+
+Semantic Object Segmentation by a Spatio-Temporal MRF Model.
+Wei Zeng,Wen Gao
+2004. inproceedings: ICPR (4). key: conf/icpr/ZengG04
+
+A Robust Split-and-Merge Text Segmentation Approach for Images.
+Yaowen Zhan,Weiqiang Wang,Wen Gao
+2006. inproceedings: ICPR (2). key: conf/icpr/ZhanWG06
+
+Action Recognition in Broadcast Tennis Video.
+Guangyu Zhu,Changsheng Xu,Qingming Huang,Wen Gao
+2006. inproceedings: ICPR (1). key: conf/icpr/ZhuXHG06
+
+A covariance-based method for dynamic background subtraction.
+Shengping Zhang,Hongxun Yao,Shaohui Liu,Xilin Chen,Wen Gao
+2008. inproceedings: ICPR. key: conf/icpr/ZhangYLCG08
+
+V-LGBP: Volume based local Gabor binary patterns for face representation and recognition.
+Shufu Xie,Shiguang Shan,Xilin Chen,Wen Gao
+2008. inproceedings: ICPR. key: conf/icpr/XieSCG08
+
+Human reappearance detection based on on-line learning.
+Lei Hu,Yizhou Wang,Shuqiang Jiang,Qingming Huang,Wen Gao
+2008. inproceedings: ICPR. key: conf/icpr/HuWJHG08
+
+Matching images more efficiently with local descriptors.
+Dong Zhang,Weiqiang Wang,Qingming Huang,Shuqiang Jiang,Wen Gao
+2008. inproceedings: ICPR. key: conf/icpr/ZhangWHJG08
+
+Hierarchical background subtraction using local pixel clustering.
+Bineng Zhong,Hongxun Yao,Shiguang Shan,Xilin Chen,Wen Gao
+2008. inproceedings: ICPR. key: conf/icpr/ZhongYSCG08
+
+Hallucinating facial images and features.
+Bo Li,Hong Chang,Shiguang Shan,Xilin Chen,Wen Gao
+2008. inproceedings: ICPR. key: conf/icpr/LiCSCG08
+
+Effective scene matching with local feature representatives.
+Shugao Ma,Weiqiang Wang,Qingming Huang,Shuqiang Jiang,Wen Gao
+2008. inproceedings: ICPR. key: conf/icpr/MaWHJG08
+
+Symmetric segment-based stereo matching of motion blurred images with illumination variations.
+Wei Wang,Yizhou Wang,Longshe Huo,Qingming Huang,Wen Gao
+2008. inproceedings: ICPR. key: conf/icpr/WangWHHG08
+
+Parzen Discriminant Analysis.
+Youhan Fang,Shiguang Shan,Hong Chang,Xilin Chen,Wen Gao
+2008. inproceedings: ICPR. key: conf/icpr/FangSCCG08
+
+Boosted Sigma Set for Pedestrian Detection.
+Xiaopeng Hong,Hong Chang,Xilin Chen,Wen Gao
+2010. inproceedings: ICPR. key: conf/icpr/HongCCG10
+
+Finding Multiple Object Instances with Occlusion.
+Ge Guo,Tingting Jiang,Yizhou Wang,Wen Gao
+2010. inproceedings: ICPR. key: conf/icpr/GuoJWG10
+
+Interactive Web Video Advertising with Context Analysis and Search.
+Bo Wang,Jinqiao Wang,Ling-Yu Duan,Qi Tian,Hanqing Lu,Wen Gao
+2010. inproceedings: ICPR. key: conf/icpr/WangWDTLG10
+
+Independent Hand Gesture Recognition in HandTalker.
+Wen Gao,Shuanglin Wang
+1995. inproceedings: ICSC. key: conf/icsc/GaoW95
+
+Context-Based Classification for Link Data.
+YongHong Tian,Wen Gao,Tiejun Huang
+2004. inproceedings: ICWL. key: conf/icwl/TianGH04
+
+Illumination Invariant Shot Boundary Detection.
+Laiyun Qing,Weiqiang Wang,Wen Gao
+2003. inproceedings: IDEAL. key: conf/ideal/QingWG03
+
+News Content Highlight via Fast Caption Text Detection on Compressed Video.
+Weiqiang Wang,Wen Gao,Jintao Li,Shouxun Lin
+2000. inproceedings: IDEAL. key: conf/ideal/WangGLL00
+
+Objectionable Image Recognition System in Compression Domain.
+Qixiang Ye,Wen Gao,Wei Zeng,Tao Zhang,Weiqiang Wang,Yang Liu
+2003. inproceedings: IDEAL. key: conf/ideal/YeGZZWL03
+
+Learning and Memory of Spatial Relationship by a Neural Network with Sparse Features.
+Jun Miao,Lijuan Duan,Laiyun Qing,Wen Gao,Yiqiang Chen
+2007. inproceedings: IJCNN. key: conf/ijcnn/MiaoDQGC07
+
+A Visual Perceiving and Eyeball-Motion Controlling Neural Network for Object Searching and Locating.
+Jun Miao,Xilin Chen,Wen Gao,Yiqiang Chen
+2006. inproceedings: IJCNN. key: conf/ijcnn/MiaoCGC06
+
+Visual context representation using a combination of feature-driven and object-driven mechanisms.
+Jun Miao,Lijuan Duan,Laiyun Qing,Xilin Chen,Wen Gao
+2008. inproceedings: IJCNN. key: conf/ijcnn/MiaoDQCG08
+
+VBMAR: Virtual Network Load Balanced Minimal Adaptive Routing.
+Xicheng Liu,Timothy J. Li,Wen Gao
+1999. inproceedings: IPPS/SPDP. key: conf/ipps/LiuLG99
+
+A proactive fault-detection mechanism in large-scale cluster systems.
+Linping Wu,Dan Meng,Wen Gao,Jianfeng Zhan
+2006. inproceedings: IPDPS. key: conf/ipps/LinpingDWJ06
+
+Real-time scheduling on scalable media stream delivery.
+Kui Gao,Wen Gao,Simin He,Peng Gao,Yuan Zhang
+2003. inproceedings: ISCAS (2). key: conf/iscas/GaoGHGZ03
+
+Enhanced direct mode coding for bi-predictive pictures.
+Xiangyang Ji,Yan Lu,Debin Zhao,Wen Gao,Siwei Ma
+2004. inproceedings: ISCAS (3). key: conf/iscas/JiLZGM04
+
+Linear transform based motion compensated prediction for luminance intensity changes.
+Debing Liu,Yuwen He,Shipeng Li,Qingming Huang,Wen Gao
+2005. inproceedings: ISCAS (1). key: conf/iscas/LiuHLHG05
+
+Rate control for advance video coding (AVC) standard.
+Siwei Ma,Wen Gao,Peng Gao,Yan Lu
+2003. inproceedings: ISCAS (2). key: conf/iscas/MaGGL03
+
+A regularized simultaneous autoregressive model for texture classification.
+Yao-wei Wang,Yan-fei Wang,Wen Gao,Yong Xue
+2003. inproceedings: ISCAS (4). key: conf/iscas/WangWGX03
+
+The fast close-loop video transcoder with limited drifting error.
+Lujun Yuan,Feng Wu,Qi Chen,Shipeng Li,Wen Gao
+2004. inproceedings: ISCAS (3). key: conf/iscas/YuanWCLG04
+
+Automatic moving object extraction in MPEG video.
+Wei Zeng,Wen Gao,Debin Zhao
+2003. inproceedings: ISCAS (2). key: conf/iscas/ZengGZ03
+
+A robust watermarking method based on wavelet and Zernike transform.
+Jie Chen,Hongxun Yao,Wen Gao,Shaohui Liu
+2004. inproceedings: ISCAS (2). key: conf/iscas/ChenYGL04
+
+A texture-based tamper detection scheme by fragile watermark.
+Yazhou Liu,Wen Gao,Hongxun Yao,Shaohui Liu
+2004. inproceedings: ISCAS (2). key: conf/iscas/LiuGYL04
+
+Seamless switching of scalable video bitstreams for efficient streaming.
+Xiaoyan Sun,Feng Wu,Shipeng Li,Wen Gao,Ya-Qin Zhang
+2002. inproceedings: ISCAS (3). key: conf/iscas/SunWLGZ02
+
+High-Accuracy and Low-Complexity Fixed-Point Inverse Discrete Cosine Transform Based on AAN's Fast Algortihm.
+Honggang Qi,Wen Gao
+2007. inproceedings: ISCAS. key: conf/iscas/QiG07
+
+Macroblock-Level Adaptive Scan Scheme for Discrete Cosine Transform Coefficients.
+Li Zhang,Wen Gao,Qiang Wang,Debin Zhao
+2007. inproceedings: ISCAS. key: conf/iscas/ZhangGWZ07
+
+Distributed Video Coding with Spatial Correlation Exploited Only at the Decoder.
+Mei Guo,Yan Lu,Feng Wu,Shipeng Li,Wen Gao
+2007. inproceedings: ISCAS. key: conf/iscas/GuoLWLG07
+
+Macroblock-level Reduced Resolution Video Coding Allowing Adaptive DCT Coefficients Selection.
+Qiang Hao,Xiangyang Ji,Qingming Huang,Debin Zhao,Wen Gao,Xilin Chen
+2007. inproceedings: ISCAS. key: conf/iscas/HaoJHZGC07
+
+Context-based Arithmetic Coding Reexamined for DCT Video Compression.
+Li Zhang,Xiaolin Wu,Ning Zhang,Wen Gao,Qiang Wang,Debin Zhao
+2007. inproceedings: ISCAS. key: conf/iscas/ZhangWZGWZ07
+
+Low-delay View Random Access for Multi-view Video Coding.
+Yanwei Liu,Qingming Huang,Debin Zhao,Wen Gao
+2007. inproceedings: ISCAS. key: conf/iscas/LiuHZG07
+
+Rate Control for Hierarchical B-picture Coding with Scaling-factors.
+Long Xu,Wen Gao,Xiangyang Ji,Debin Zhao
+2007. inproceedings: ISCAS. key: conf/iscas/XuGJZ07
+
+Accurately weighting subbands in temporal wavelet transform.
+Tiantian Sun,Feng Wu,Wen Gao
+2006. inproceedings: ISCAS. key: conf/iscas/SunWG06
+
+An efficient SNR scalability coding framework hybrid open-close loop FGS coding.
+Xiangyang Ji,Debin Zhao,Wen Gao,Jizheng Xu,Feng Wu
+2006. inproceedings: ISCAS. key: conf/iscas/JiZGXW06
+
+Distributed video coding using wavelet.
+Xun Guo,Yan Lu,Feng Wu,Wen Gao
+2006. inproceedings: ISCAS. key: conf/iscas/GuoLWG06
+
+Shot change detection on H.264/AVC compressed video.
+Wei Zeng,Wen Gao
+2005. inproceedings: ISCAS (4). key: conf/iscas/ZengG05
+
+Viewpoint switching in multiview video streaming.
+Xun Guo,Yan Lu,Wen Gao,Qingming Huang
+2005. inproceedings: ISCAS (4). key: conf/iscas/GuoLGH05
+
+A novel algorithm of spatial scalability for scrambled video.
+YuanZhi Zou,Wen Gao
+2005. inproceedings: ISCAS (4). key: conf/iscas/ZouG05
+
+Low complexity RDO mode decision based on a fast coding-bits estimation model for H.264/AVC.
+Qiang Wang,Debin Zhao,Wen Gao,Siwei Ma
+2005. inproceedings: ISCAS (4). key: conf/iscas/WangZGM05
+
+Wavelet based distributed video coding with spatial scalability.
+Bo Wu,Xiangyang Ji,Debin Zhao,Wen Gao
+2008. inproceedings: ISCAS. key: conf/iscas/WuJZG08
+
+An efficient VLSI architecture for rate disdortion optimization in AVS video encoder.
+Hai Bing Yin,Xi Zhong Lou,Zhe Lei Xia,Wen Gao
+2008. inproceedings: ISCAS. key: conf/iscas/YinLXG08
+
+Research on the Discrimination of Pornographic and Bikini Images.
+Yushi Wang,Weiqiang Wang,Wen Gao
+2005. inproceedings: ISM. key: conf/ism/WangWG05
+
+Intelligent Protein 3D Structure Retrieval System.
+Yiqiang Chen,Wen Gao,Lijuan Duan,Xiang Chen,Charles X. Ling
+2003. inproceedings: ISMIS. key: conf/ismis/ChenGDCL03
+
+Enhanced Active Shape Models with Global Texture Constraints for Image Analysis.
+Shiguang Shan,Wen Gao,Wei Wang,Debin Zhao,Baocai Yin
+2003. inproceedings: ISMIS. key: conf/ismis/ShanGWZY03
+
+Searching Eye Centers Using a Context-Based Neural Network.
+Jun Miao,Laiyun Qing,Lijuan Duan,Wen Gao
+2007. inproceedings: ISNN (2). key: conf/isnn/MiaoQDG07
+
+Steganalysis of Data Hiding Techniques in Wavelet Domain.
+Shaohui Liu,Hongxun Yao,Wen Gao
+2004. inproceedings: ITCC (1). key: conf/itcc/LiuYG04
+
+Watermark Detection Schemes with High Security.
+Yongliang Liu,Xiaolin Yang,Hongxun Yao,Tiejun Huang,Wen Gao
+2005. inproceedings: ITCC (2). key: conf/itcc/LiuYYHG05
+
+Enhance ASMs Based on AdaBoost-Based Salient Landmarks Localization and Confidence-Constraint Shape Modeling.
+Zhiheng Niu,Shiguang Shan,Xilin Chen,Bingpeng Ma,Wen Gao
+2005. inproceedings: IWBRS. key: conf/iwbrs/NiuSCMG05
+
+Using Score Normalization to Solve the Score Variation Problem in Face Authentication.
+Fei Yang,Shiguang Shan,Bingpeng Ma,Xilin Chen,Wen Gao
+2005. inproceedings: IWBRS. key: conf/iwbrs/YangSMCG05
+
+An Efficient VLSI Implementation of MC Interpolation for MPEG-4.
+Deng Lei,Wen Gao,Ming-Zeng Hu,Zhenzhou Ji
+2004. inproceedings: IWSOC. key: conf/iwsoc/LeiWHJ04
+
+Different cultures meet: lessons learned in global digital library development (panel session).
+Ching Chen,Wen Gao,Hsueh-hua Chen,Li-Zhu Zhou,Von-Wun Soo
+2001. inproceedings: JCDL. key: conf/jcdl/ChenGCZS01
+
+Toward a distributed terabyte text retrieval system in China-US million book digital library.
+Bin Liu,Wen Gao,Ling Zhang,Tiejun Huang,Xiao-ming Zhang,Jun Cheng
+2002. inproceedings: JCDL. key: conf/jcdl/LiuGZHZC02
+
+Quantitatively evaluating the influence of online social interactions in the community-assisted digital library.
+YongHong Tian,Tiejun Huang,Wen Gao
+2002. inproceedings: JCDL. key: conf/jcdl/TianHG02
+
+A Novel Method to Compensate Variety of Illumination in Face Detection.
+Hong Liu,Wen Gao,Jun Miao,Jintao Li
+2002. inproceedings: JCIS. key: conf/jcis/LiuGML02
+
+System Identification for Nonlinear Control Using Lifted Wavelet.
+Yongliang Liu,Hongxun Yao,Wen Gao,Yaxiao Song,Shaohui Liu
+2002. inproceedings: JCIS. key: conf/jcis/YongLiangYGSL02
+
+Mouth-Shape Classification and Recognition for Lipreading.
+Hongxun Yao,Wen Gao,Wei Shan,Xiujuan Chai
+2002. inproceedings: JCIS. key: conf/jcis/YaoGSC02
+
+Learning Prosodic Patterns for Mandarin Speech Synthesis.
+Yiqiang Chen,Wen Gao,Tingshao Zhu
+2000. inproceedings: MDM/KDD. key: conf/kdd/ChenGZ00
+
+Video retargeting with multi-scale trajectory optimization.
+Yuanning Li,YongHong Tian,Jingjing Yang,Ling-Yu Duan,Wen Gao
+2010. inproceedings: Multimedia Information Retrieval. key: conf/mir/LiTYDG10
+
+A new method to segment playfield and its applications in match analysis in sports video.
+Shuqiang Jiang,Qixiang Ye,Wen Gao,Tiejun Huang
+2004. inproceedings: ACM Multimedia. key: conf/mm/JiangYGH04
+
+Video2Cartoon: generating 3D cartoon from broadcast soccer video.
+Dawei Liang,Yang Liu,Qingming Huang,Guangyu Zhu,Shuqiang Jiang,Zhebin Zhang,Wen Gao
+2005. inproceedings: ACM Multimedia. key: conf/mm/LiangLHZJZG05
+
+Exciting event detection in broadcast soccer video with mid-level description and incremental learning.
+Qixiang Ye,Qingming Huang,Wen Gao,Shuqiang Jiang
+2005. inproceedings: ACM Multimedia. key: conf/mm/YeHGJ05
+
+Hierarchical voting classification scheme for improving visual sign language recognition.
+Liang-Guo Zhang,Xilin Chen,Chunli Wang,Wen Gao
+2005. inproceedings: ACM Multimedia. key: conf/mm/ZhangCWG05
+
+Effective and efficient object-based image retrieval using visual phrases.
+Qing-Fang Zheng,Wei-Qiang Wang,Wen Gao
+2006. inproceedings: ACM Multimedia. key: conf/mm/ZhengWG06
+
+Mapping learning in eigenspace for harmonious caricature generation.
+Junfa Liu,Yiqiang Chen,Wen Gao
+2006. inproceedings: ACM Multimedia. key: conf/mm/LiuCG06
+
+Diversifying the image retrieval results.
+Kai Song,YongHong Tian,Wen Gao,Tiejun Huang
+2006. inproceedings: ACM Multimedia. key: conf/mm/SongTGH06
+
+Player action recognition in broadcast tennis video with applications to semantic analysis of sports game.
+Guangyu Zhu,Changsheng Xu,Qingming Huang,Wen Gao,Liyuan Xing
+2006. inproceedings: ACM Multimedia. key: conf/mm/ZhuXHGX06
+
+Trajectory based event tactics analysis in broadcast sports video.
+Guangyu Zhu,Qingming Huang,Changsheng Xu,Yong Rui,Shuqiang Jiang,Wen Gao,Hongxun Yao
+2007. inproceedings: ACM Multimedia. key: conf/mm/ZhuHXRJGY07
+
+Region-based visual attention analysis with its application in image browsing on small displays.
+Huiying Liu,Shuqiang Jiang,Qingming Huang,Changsheng Xu,Wen Gao
+2007. inproceedings: ACM Multimedia. key: conf/mm/LiuJHXG07
+
+i.MTV: an integrated system for mtv affective analysis.
+Shiliang Zhang,Qingming Huang,Qi Tian,Shuqiang Jiang,Wen Gao
+2008. inproceedings: ACM Multimedia. key: conf/mm/ZhangHTJG08
+
+Vicept: link visual features to concepts for large-scale image understanding.
+Zhipeng Wu,Shuqiang Jiang,Liang Li,Peng Cui,Qingming Huang,Wen Gao
+2010. inproceedings: ACM Multimedia. key: conf/mm/WuJLCHG10
+
+Building contextual visual vocabulary for large-scale image applications.
+Shiliang Zhang,Qingming Huang,Gang Hua,Shuqiang Jiang,Wen Gao,Qi Tian
+2010. inproceedings: ACM Multimedia. key: conf/mm/ZhangHHJGT10
+
+Sports video analysis.
+Wen Gao
+2006. inproceedings: MMM. key: conf/mmm/Gao06
+
+Semi-supervised Learning of Caricature Pattern from Manifold Regularization.
+Junfa Liu,Yiqiang Chen,Jinjing Xie,Xingyu Gao,Wen Gao
+2009. inproceedings: MMM. key: conf/mmm/LiuCXGG09
+
+A New Multiple Kernel Approach for Visual Concept Learning.
+Jingjing Yang,Yuanning Li,YongHong Tian,Lingyu Duan,Wen Gao
+2009. inproceedings: MMM. key: conf/mmm/YangLTDG09
+
+Grid-Based Retargeting with Transformation Consistency Smoothing.
+Bing Li,Ling-Yu Duan,Jinqiao Wang,Jie Chen,Rongrong Ji,Wen Gao
+2011. inproceedings: MMM (2). key: conf/mmm/LiDWCJG11
+
+A Human Face Detection and Tracking System for Complex Backgrounds.
+Mingbao Liu,Wen Gao
+1996. inproceedings: Multimedia Technology and Applications. key: conf/mta/LiuG96
+
+Open Issues on Intelligent Sensor Networks.
+Yiqiang Chen,Wen Gao,Junfa Liu
+2004. inproceedings: NPC. key: conf/npc/ChenGL04
+
+BLOSSOMS: A CAS/HKUST Joint Project to Build Lightweight Optimized Sensor Systems on a Massive Scale.
+Wen Gao,Lionel M. Ni,Zhiwei Xu
+2004. inproceedings: NPC. key: conf/npc/GaoNX04
+
+Correlation Learning Method Based on Image Internal Semantic Model for CBIR.
+Lijuan Duan,Guojun Mao,Wen Gao
+2004. inproceedings: PCM (2). key: conf/pcm/DuanMG04
+
+Face Samples Re-lighting for Detection Based on the Harmonic Images.
+Jie Chen,Yuemin Li,Laiyun Qing,Baocai Yin,Wen Gao
+2004. inproceedings: PCM (2). key: conf/pcm/ChenLQYG04
+
+An Efficient VLSI Implementation for MC Interpolation of AVS Standard.
+Lei Deng,Wen Gao,Ming-Zeng Hu,Zhenzhou Ji
+2004. inproceedings: PCM (3). key: conf/pcm/DengGHJ04
+
+Speech Driven MPEG-4 Based Face Animation via Neural Network.
+Yiqiang Chen,Wen Gao,Zhaoqi Wang,Li Zuo
+2001. inproceedings: IEEE Pacific Rim Conference on Multimedia. key: conf/pcm/ChenGWZ01
+
+Fusion of Biometrics Based on D-S Theory.
+Xiujuan Gao,Hongxun Yao,Wen Gao,Wei Zeng
+2001. inproceedings: IEEE Pacific Rim Conference on Multimedia. key: conf/pcm/GaoYGZ01
+
+Reducing Spatial Resolution for MPEG-2 to H.264/AVC Transcoding.
+Bo Hu,Peng Zhang,Qingming Huang,Wen Gao
+2005. inproceedings: PCM (2). key: conf/pcm/HuZHG05
+
+A Real-Time Video Deinterlacing Scheme for MPEG-2 to AVS Transcoding.
+Qian Huang,Wen Gao,Debin Zhao,Cliff Reader
+2006. inproceedings: PCM. key: conf/pcm/HuangGZR06
+
+Adaptive Deinterlacing for Real-Time Applications.
+Qian Huang,Wen Gao,Debin Zhao,Huifang Sun
+2005. inproceedings: PCM (2). key: conf/pcm/HuangGZS05
+
+A Broadcast Model for Web Image Annotation.
+Jia Li,Ting Liu,Weiqiang Wang,Wen Gao
+2006. inproceedings: PCM. key: conf/pcm/LiLWG06
+
+A Robust Approach for Object Recognition.
+Yuanning Li,Weiqiang Wang,Wen Gao
+2006. inproceedings: PCM. key: conf/pcm/LiWG06
+
+Online Selection of Discriminative Features Using Bayes Error Rate for Visual Tracking.
+Dawei Liang,Qingming Huang,Wen Gao,Hongxun Yao
+2006. inproceedings: PCM. key: conf/pcm/LiangHGY06
+
+A Scheme for Ball Detection and Tracking in Broadcast Soccer Video.
+Dawei Liang,Yang Liu,Qingming Huang,Wen Gao
+2005. inproceedings: PCM (1). key: conf/pcm/LiangLHG05
+
+Classification of Facial Images Using Gaussian Mixture Models.
+Pin Liao,Wen Gao,Li Shen,Xilin Chen,Shiguang Shan,Wenbing Zeng
+2001. inproceedings: IEEE Pacific Rim Conference on Multimedia. key: conf/pcm/LiaoGSCSZ01
+
+Creative Cartoon Face Synthesis System for Mobile Entertainment.
+Junfa Liu,Yiqiang Chen,Wen Gao,Rong Fu,Renqin Zhou
+2005. inproceedings: PCM (2). key: conf/pcm/LiuCGFZ05
+
+Multi-view Video Coding with Flexible View-Temporal Prediction Structure for Fast Random Access.
+Yanwei Liu,Qingming Huang,Xiangyang Ji,Debin Zhao,Wen Gao
+2006. inproceedings: PCM. key: conf/pcm/LiuHJZG06
+
+Illumination Invariant Feature Selection for Face Recognition.
+Yazhou Liu,Hongxun Yao,Wen Gao,Debin Zhao
+2005. inproceedings: PCM (2). key: conf/pcm/LiuYGZ05
+
+An Improved Motion Vector Prediction Scheme for Video Coding.
+Da Liu,Debin Zhao,Qiang Wang,Wen Gao
+2006. inproceedings: PCM. key: conf/pcm/LiuZWG06
+
+Fast and Robust Sprite Generation for MPEG-4 Video Coding.
+Yan Lu,Wen Gao,Feng Wu
+2001. inproceedings: IEEE Pacific Rim Conference on Multimedia. key: conf/pcm/LuGW01
+
+A Study on the Quantization Scheme in H.264/AVC and Its Application to Rate Control.
+Siwei Ma,Wen Gao,Debin Zhao,Yan Lu
+2004. inproceedings: PCM (3). key: conf/pcm/MaGZL04
+
+A Framework for Background Detection in Video.
+Laiyun Qing,Weiqiang Wang,Tiejun Huang,Wen Gao
+2002. inproceedings: IEEE Pacific Rim Conference on Multimedia. key: conf/pcm/QingWHG02
+
+A Face-Unlock Screen Saver by Using Face Verification Based on Identity-Specific Subspaces.
+Shiguang Shan,Wen Gao,Xilin Chen,Bo Cao,Wenbin Zeng
+2001. inproceedings: IEEE Pacific Rim Conference on Multimedia. key: conf/pcm/ShanGCCZ01
+
+Automatic Segmentation of News Items Based on Video and Audio Features.
+Weiqiang Wang,Wen Gao
+2001. inproceedings: IEEE Pacific Rim Conference on Multimedia. key: conf/pcm/WangG01
+
+A Fast Anchor Shot Detection Algorithm on Compressed Video.
+Weiqiang Wang,Wen Gao
+2001. inproceedings: IEEE Pacific Rim Conference on Multimedia. key: conf/pcm/WangG01a
+
+An Index Model for MPEG-2 Streams.
+Weiqiang Wang,Wen Gao
+2002. inproceedings: IEEE Pacific Rim Conference on Multimedia. key: conf/pcm/WangG02
+
+A Real-Time Large Vocabulary Continuous Recognition System for Chinese Sign Language.
+Chunli Wang,Wen Gao,Zhaoguo Xuan
+2001. inproceedings: IEEE Pacific Rim Conference on Multimedia. key: conf/pcm/WangGX01
+
+Flexible and Efficient Switching Techniques between Scalable Video Bitstreams.
+Xiaoyan Sun,Feng Wu,Shipeng Li,Wen Gao,Ya-Qin Zhang
+2002. inproceedings: IEEE Pacific Rim Conference on Multimedia. key: conf/pcm/SunWLGZ02
+
+Mapping Energy Video Watermarking Algorithm Based on Compressed Domain.
+Lijun Wang,Hongxun Yao,Shaohui Liu,Wen Gao
+2004. inproceedings: PCM (3). key: conf/pcm/WangYLG04
+
+High Efficient Context-Based Variable Length Coding with Parallel Orientation.
+Qiang Wang,Debin Zhao,Wen Gao,Siwei Ma
+2005. inproceedings: PCM (1). key: conf/pcm/WangZGM05
+
+Approximating Inference on Complex Motion Models Using Multi-model Particle Filter.
+Jianyu Wang,Debin Zhao,Shiguang Shan,Wen Gao
+2004. inproceedings: PCM (2). key: conf/pcm/WangZSG04
+
+Vision-Based Sign Language Recognition Using Sign-Wise Tied Mixture HMM.
+Liangguo Zhang,Gaolin Fang,Wen Gao,Xilin Chen,Yiqiang Chen
+2004. inproceedings: PCM (2). key: conf/pcm/ZhangFGCC04
+
+Key Techniques of Bit Rate Reduction for H.264 Streams.
+Peng Zhang,Qingming Huang,Wen Gao
+2004. inproceedings: PCM (2). key: conf/pcm/ZhangHG04
+
+Adaptive Search Range Scaling for B Pictures Coding.
+Zhigang Yang,Wen Gao,Yan Liu,Debin Zhao
+2006. inproceedings: PCM. key: conf/pcm/YangGLZ06
+
+Optimum End-to-End Distortion Estimation for Error Resilient Video Coding.
+Yuan Zhang,Qingming Huang,Yan Lu,Wen Gao
+2004. inproceedings: PCM (2). key: conf/pcm/ZhangHLG04
+
+Video Coding by Texture Analysis and Synthesis Using Graph Cut.
+Yongbing Zhang,Xiangyang Ji,Debin Zhao,Wen Gao
+2006. inproceedings: PCM. key: conf/pcm/ZhangJZG06
+
+LLEC: An Image Coder with Low-Complexity and Low-Memory Requirement.
+Debin Zhao,Wen Gao,Shiguang Shan,Y. K. Chan
+2001. inproceedings: IEEE Pacific Rim Conference on Multimedia. key: conf/pcm/ZhaoGSC01
+
+Fast Adaptive Skin Detection in JPEG Images.
+Qing-Fang Zheng,Wen Gao
+2005. inproceedings: PCM (2). key: conf/pcm/ZhengG05
+
+A Motion Vector Predictor Architecture for AVS and MPEG-2 HDTV Decoder.
+Junhao Zheng,Di Wu,Lei Deng,Don Xie,Wen Gao
+2006. inproceedings: PCM. key: conf/pcm/ZhengWDXG06
+
+Secure Watermark Verification Scheme.
+Yongliang Liu,Wen Gao,Hongxun Yao,Yaxiao Song
+2002. inproceedings: IEEE Pacific Rim Conference on Multimedia. key: conf/pcm/YongliangGYS02
+
+Text Segmentation in Complex Background Based on Color and Scale Information of Character Strokes.
+Weiqiang Wang,Libo Fu,Wen Gao
+2007. inproceedings: PCM. key: conf/pcm/WangFG07
+
+Personalized MTV Affective Analysis Using User Profile.
+Shiliang Zhang,Qingming Huang,Qi Tian,Shuqiang Jiang,Wen Gao
+2008. inproceedings: PCM. key: conf/pcm/ZhangHTJG08
+
+A Novel Pipeline Design for H.264 CABAC Decoding.
+Junhao Zheng,David Wu,Don Xie,Wen Gao
+2007. inproceedings: PCM. key: conf/pcm/ZhengWXG07
+
+Signer Adaptation Based on Etyma for Large Vocabulary Chinese Sign Language Recognition.
+Yu Zhou,Wen Gao,Xilin Chen,Liang-Guo Zhang,Chunli Wang
+2007. inproceedings: PCM. key: conf/pcm/ZhouGCZW07
+
+A No-Reference Blocking Artifacts Metric Using Selective Gradient and Plainness Measures.
+Jianhua Chen,Yongbing Zhang,Luhong Liang,Siwei Ma,Ronggang Wang,Wen Gao
+2008. inproceedings: PCM. key: conf/pcm/ChenZLMWG08
+
+Detecting Violent Scenes in Movies by Auditory and Visual Cues.
+Yu Gong,Weiqiang Wang,Shuqiang Jiang,Qingming Huang,Wen Gao
+2008. inproceedings: PCM. key: conf/pcm/GongWJHG08
+
+Laplacian Distortion Model (LDM) for Rate Control in Video Coding.
+Long Xu,Xiangyang Ji,Wen Gao,Debin Zhao
+2007. inproceedings: PCM. key: conf/pcm/XuJGZ07
+
+An End-to-End Application System of AVS: AVS-IPTV in China.
+Wen Gao,Siwei Ma,Cliff Reader
+2007. inproceedings: PCM. key: conf/pcm/GaoMR07
+
+An AVS Based IPTV System Network Trial.
+Zhifeng Jiang,Wen Gao,Hongqi Liu
+2007. inproceedings: PCM. key: conf/pcm/JiangGL07
+
+Learning-Based Image Restoration for Compressed Image through Neighboring Embedding.
+Lin Ma,Feng Wu,Debin Zhao,Wen Gao,Siwei Ma
+2008. inproceedings: PCM. key: conf/pcm/MaWZGM08
+
+AAML Based Avatar Animation with Personalized Expression for Online Chatting System.
+Junfa Liu,Yiqiang Chen,Xingyu Gao,Jinjing Xie,Wen Gao
+2008. inproceedings: PCM. key: conf/pcm/LiuCGXG08
+
+Theoretic Analysis of Inter Frame Dependency in Video Coding.
+Yue Wang,Jun Sun,Siwei Ma,Wen Gao
+2008. inproceedings: PCM. key: conf/pcm/WangSMG08
+
+Nonlocal Edge-Directed Interpolation.
+Xinfeng Zhang,Siwei Ma,Yongbing Zhang,Li Zhang,Wen Gao
+2009. inproceedings: PCM. key: conf/pcm/ZhangMZZG09
+
+A Novel Macro-Block Group Based AVS Coding Scheme for Many-Core Processor.
+Zhenyu Wang,Luhong Liang,Xianguo Zhang,Jun Sun,Debin Zhao,Wen Gao
+2009. inproceedings: PCM. key: conf/pcm/WangLZSZG09
+
+Block Adaptive Super Resolution Video Coding.
+Siwei Ma,Li Zhang,Xinfeng Zhang,Wen Gao
+2009. inproceedings: PCM. key: conf/pcm/MaZZG09
+
+Low-Complexity and Sampling-Aided Multi-view Video Coding at Low Bitrate.
+Xin Zhao,Xinfeng Zhang,Li Zhang,Siwei Ma,Wen Gao
+2010. inproceedings: PCM (2). key: conf/pcm/ZhaoZZMG10
+
+Fast Mode Decision Based on RDO for AVS High Definition Video Encoder.
+Xiaohan Wang,Chuang Zhu,Hai Bing Yin,Wen Gao,Xiaodong Xie,Huizhu Jia
+2010. inproceedings: PCM (2). key: conf/pcm/WangZYGXJ10
+
+NCPN: A Simulation Tool for Coloured Petri Nets.
+Xinyu Liu,Wen Gao,Ninghui Sun
+2002. inproceedings: IASTED PDCS. key: conf/pdcs/LiuGS02
+
+A Kernel-Based Case Retrieval Algorithm with Application to Bioinformatics.
+Yan Fu,Qiang Yang,Charles X. Ling,Haipeng Wang,Dequan Li,Ruixiang Sun,Hu Zhou,Rong Zeng,Yiqiang Chen,Simin He,Wen Gao
+2004. inproceedings: PRICAI. key: conf/pricai/FuYLWLSZZCHG04
+
+An SVM Scorer for More Sensitive and Reliable Peptide Identification via Tandem Mass Spectrometry.
+Haipeng Wang,Yan Fu,Ruixiang Sun,Simin He,Rong Zeng,Wen Gao
+2006. inproceedings: Pacific Symposium on Biocomputing. key: conf/psb/WangFSHZG06
+
+Mining Tandem Mass Spectral Data to Develop a More Accurate Mass Error Model for Peptide Identification.
+Yan Fu,Wen Gao,Simin He,Ruixiang Sun,Hu Zhou,Rong Zeng
+2007. inproceedings: Pacific Symposium on Biocomputing. key: conf/psb/FuGHSZZ07
+
+The Discretization of Continuous Attributes Based on Compatibility Rough Set and Generic Algorithm.
+Lixin Sun,Wen Gao
+1999. inproceedings: RSFDGrC. key: conf/rsfdgrc/SunG99
+
+Smooth switching problem in buffered crossbar switches.
+Simin He,Shutao Sun,Wei Zhao,Yanfeng Zheng,Wen Gao
+2005. inproceedings: SIGMETRICS. key: conf/sigmetrics/HeSZZG05
+
+Baseline Evaluations on the CAS-PEAL-R1 Face Database.
+Bo Cao,Shiguang Shan,Xiaohua Zhang,Wen Gao
+2004. inproceedings: SINOBIOMETRICS. key: conf/sinobiometrics/CaoSZG04
+
+Component-Based Cascade Linear Discriminant Analysis for Face Recognition.
+Wenchao Zhang,Shiguang Shan,Wen Gao,Yizheng Chang,Bo Cao
+2004. inproceedings: SINOBIOMETRICS. key: conf/sinobiometrics/ZhangSGCC04
+
+Pose Normalization Using Generic 3D Face Model as a Priori for Pose-Insensitive Face Recognition.
+Xiujuan Chai,Shiguang Shan,Wen Gao,Xin Liu
+2004. inproceedings: SINOBIOMETRICS. key: conf/sinobiometrics/ChaiSGL04
+
+Novel Face Detection Method Based on Gabor Features.
+Jie Chen,Shiguang Shan,Peng Yang,Shengye Yan,Xilin Chen,Wen Gao
+2004. inproceedings: SINOBIOMETRICS. key: conf/sinobiometrics/ChenSYYCG04
+
+Face Recognition Under Varying Lighting Based on Derivates of Log Image.
+Laiyun Qing,Shiguang Shan,Wen Gao
+2004. inproceedings: SINOBIOMETRICS. key: conf/sinobiometrics/QingSG04
+
+An Overview of Streaming Video.
+Yongliang Liu,Wen Gao
+2004. inproceedings: SNPD. key: conf/snpd/LiuG04
+
+Real-time scheduling and online resource allocation on scalable streaming media server.
+Kui Gao,Wen Gao,Simin He,Yuan Zhang
+2003. inproceedings: VCIP. key: conf/vcip/GaoGHZ03
+
+A Rich Get Richer Strategy for Content-Based Image Retrieval.
+Lijuan Duan,Wen Gao,Jiyong Ma
+2000. inproceedings: VISUAL. key: conf/visual/DuanGM00
+
+Steganalysis of Images Created in Wavelet Domain Using Quantization Modulation.
+Shaohui Liu,Hongxun Yao,Xiaopen Fan,Wen Gao
+2003. inproceedings: WAA. key: conf/waa/LiuYFG03
+
+A Fast Globally Supervised Learning Algorithm for Gaussian Mixture Models.
+Jiyong Ma,Wen Gao
+2000. inproceedings: Web-Age Information Management. key: conf/waim/MaG00
+
+Adaptive Online Retail Web Site Based on Hidden Markov Model.
+Shi Wang,Wen Gao,Tiejun Huang,Jiyong Ma,Jintao Li,Hui Xie
+2000. inproceedings: Web-Age Information Management. key: conf/waim/WangGHMLX00
+
+Web Clustering and Association Rule Discovery for Web Broadcast.
+Shi Wang,Wen Gao,Jintao Li,Tiejun Huang,Hui Xie
+2000. inproceedings: Web-Age Information Management. key: conf/waim/WangGLHX00
+
+IISM: An Image Internal Semantic Model for Image Database Based on Relevance Feedback.
+Lijuan Duan,Wen Gao
+2003. inproceedings: Web Intelligence. key: conf/webi/DuanG03
+
+An Ontology-based Approach to Retrieve Digitized Art Images.
+Shuqiang Jiang,Tiejun Huang,Wen Gao
+2004. inproceedings: Web Intelligence. key: conf/webi/JiangHG04
+
+Two-Phase Web Site Classification Based on Hidden Markov Tree Models.
+YongHong Tian,Tiejun Huang,Wen Gao,Jun Cheng,PingBo Kang
+2003. inproceedings: Web Intelligence. key: conf/webi/TianHGCK03
+
+Motion Retargeting for the Hand Gesture.
+Chunbao Ge,Yiqiang Chen,Changshui Yang,Baocai Yin,Wen Gao
+2005. inproceedings: WSCG (Full Papers). key: conf/wscg/GeCYYG05
+
+Parallelized scheduling algorithm for input queued switches using local search technique.
+Yanfeng Zheng,Simin He,Shutao Sun,Wen Gao
+2005. inproceedings: IPCCC. key: conf/ipccc/ZhengHSG05
+
+FBSA: A Self-adjustable Multi-source Data Scheduling Algorithm for P2P Media Streaming.
+Shuangjia Chen,Longshe Huo,Qiang Fu,Rui Guo,Wen Gao
+2007. inproceedings: MCAM. key: conf/mcam/ChenHFGG07
+
+Challenges on Peer-to-Peer Live Media Streaming.
+Wen Gao,Longshe Huo
+2007. inproceedings: MCAM. key: conf/mcam/GaoH07
+
+An Optimized Topology Maintenance Framework for P2P Media Streaming.
+Rui Guo,Longshe Huo,Qiang Fu,Shuangjia Chen,Wen Gao
+2007. inproceedings: MCAM. key: conf/mcam/GuoHFCG07
+
+QoS Adaptive Data Organizing and Delivery Framework for P2P Media Streaming.
+Longshe Huo,Wen Gao,Qiang Fu,Rui Guo,Shuangjia Chen
+2007. inproceedings: MCAM. key: conf/mcam/HuoGFGC07
+
+Practical Algorithms of Bandwidth Regulation for Rate-Based Switching.
+Yi Wang,Simin He,Youjian Zhao,Qiang Zheng,Wen Gao
+2007. inproceedings: GLOBECOM. key: conf/globecom/WangHZZG07
+
+Spectrum Sensing Using Cyclostationary Properties and Application to IEEE 802.22 WRAN.
+Hou-Shin Chen,Wen Gao,David G. Daut
+2007. inproceedings: GLOBECOM. key: conf/globecom/ChenGD07
+
+Fast Identification of Error-Prone Patterns for LDPC Codes under Message Passing Decoding.
+Jing Lei,Wen Gao
+2008. inproceedings: GLOBECOM. key: conf/globecom/LeiG08
+
+Application Research of Design Patterns in Virtual Trade Platform.
+QingSheng Wang,Wen Gao,YueQin Zhang
+2009. inproceedings: WKDD. key: conf/wkdd/WangGZ09
+
+HandTalker II: a Chinese sign language recognition and synthesis system.
+Wen Gao,Yiqiang Chen,Gaolin Fang,Changshui Yang,Dalong Jiang,Chunbao Ge,Chunli Wang
+2004. inproceedings: ICARCV. key: conf/icarcv/GaoCFYJGW04
+
+Code-matched interleaver design over surrogate channels.
+Jing Lei,Wen Gao
+2009. inproceedings: WCNC. key: conf/wcnc/LeiG09
+
+Visual-aural attention modeling for talk show video highlight detection.
+Yijia Zheng,Guangyu Zhu,Shuqiang Jiang,Qingming Huang,Wen Gao
+2008. inproceedings: ICASSP. key: conf/icassp/ZhengZJHG08
+
+2D to 3D convertion based on edge defocus and segmentation.
+Ge Guo,Nan Zhang,Longshe Huo,Wen Gao
+2008. inproceedings: ICASSP. key: conf/icassp/GuoZHG08
+
+Robust video fingerprinting based on visual attention regions.
+Xing Su,Tiejun Huang,Wen Gao
+2009. inproceedings: ICASSP. key: conf/icassp/SuHG09
+
+Rate-distortion optimized transform for intra-frame coding.
+Xin Zhao,Li Zhang,Siwei Ma,Wen Gao
+2010. inproceedings: ICASSP. key: conf/icassp/ZhaoZMG10
+
+Context-adaptive pixel based prediction for intra frame encoding.
+Yongbing Zhang,Li Zhang,Siwei Ma,Debin Zhao,Wen Gao
+2010. inproceedings: ICASSP. key: conf/icassp/ZhangZMZG10
+
+Building pair-wise visual word tree for efficent image re-ranking.
+Shiliang Zhang,Qingming Huang,Yijuan Lu,Wen Gao,Qi Tian
+2010. inproceedings: ICASSP. key: conf/icassp/ZhangHLGT10
+
+Exploiting the kernel trick to correlate fragment ions for peptide identification via tandem mass spectrometry.
+Yan Fu,Qiang Yang,Ruixiang Sun,Dequan Li,Rong Zeng,Charles X. Ling,Wen Gao
+2004. article: Bioinformatics. key: journals/bioinformatics/FuYSLZLG04
+
+pFind: a novel database-searching software system for automated peptide and protein identification via tandem mass spectrometry.
+Dequan Li,Yan Fu,Ruixiang Sun,Charles X. Ling,Yonggang Wei,Hu Zhou,Rong Zeng,Qiang Yang,Simin He,Wen Gao
+2005. article: Bioinformatics. key: journals/bioinformatics/LiFSLWZZYHG05
+
+IndexToolkit: an open source toolbox to index protein databases for high-throughput proteomics.
+Dequan Li,Wen Gao,Charles X. Ling,Xiaobiao Wang,Ruixiang Sun,Simin He
+2006. article: Bioinformatics. key: journals/bioinformatics/LiGLWSH06
+
+FlexStem: improving predictions of RNA secondary structures with pseudoknots by reducing the search space.
+Xiang Chen,Simin He,Dongbo Bu,Fa Zhang,Zhiyong Wang,Runsheng Chen,Wen Gao
+2008. article: Bioinformatics. key: journals/bioinformatics/ChenHBZWCG08
+
+Efficient discovery of abundant post-translational modifications and spectral pairs using peptide mass and retention time differences.
+Yan Fu,Wei Jia,Zhuang Lu,Haipeng Wang,Zuofei Yuan,Hao Chi,You Li,Liyun Xiu,Wenping Wang,Chao Liu,Leheng Wang,Ruixiang Sun,Wen Gao,Xiaohong Qian,Simin He
+2009. article: BMC Bioinformatics. key: journals/bmcbi/FuJLWYCLXWLWSGQH09
+
+Semi-Supervised Learning in Reconstructed Manifold Space for 3D Caricature Generation.
+Junfa Liu,Yiqiang Chen,Chunyan Miao,Jinjing Xie,Charles X. Ling,Xingyu Gao,Wen Gao
+2009. article: Comput. Graph. Forum. key: journals/cgf/LiuCMXLGG09
+
+Mediaprinting: Identifying Multimedia Content for Digital Rights Management.
+Tiejun Huang,YongHong Tian,Wen Gao,Jian Lu
+2010. article: IEEE Computer. key: journals/computer/HuangTGL10
+
+How Many Users should be Turned On in a Multi-Antenna Broadcast Channel?
+Wei Dai,Youjian Liu,Brian Rider,Wen Gao
+2008. article: CoRR. key: journals/corr/abs-0805-1442
+
+Vlogging: A survey of videoblogging technology on the web.
+Wen Gao,YongHong Tian,Tiejun Huang,Qiang Yang
+2010. article: ACM Comput. Surv.. key: journals/csur/GaoTHY10
+
+Shape from silhouettes based on a centripetal pentahedron model.
+Xin Liu,Hongxun Yao,Xilin Chen,Wen Gao
+2008. article: Graphical Models. key: journals/cvgip/LiuYCG08
+
+Shape from silhouette outlines using an adaptive dandelion model.
+Xin Liu,Hongxun Yao,Wen Gao
+2007. article: Computer Vision and Image Understanding. key: journals/cviu/LiuYG07
+
+Viewpoint invariant sign language recognition.
+Qi Wang,Xilin Chen,Liang-Guo Zhang,Chunli Wang,Wen Gao
+2007. article: Computer Vision and Image Understanding. key: journals/cviu/WangCZWG07
+
+A framework for flexible summarization of racquet sports video using multiple modalities.
+Chunxi Liu,Qingming Huang,Shuqiang Jiang,Liyuan Xing,Qixiang Ye,Wen Gao
+2009. article: Computer Vision and Image Understanding. key: journals/cviu/LiuHJXYG09
+
+Probabilistic Multi-Task Learning for Visual Saliency Estimation in Video.
+Jia Li,YongHong Tian,Tiejun Huang,Wen Gao
+2010. article: International Journal of Computer Vision. key: journals/ijcv/LiTHG10
+
+A Dynamic Recommendation System Based on Log Mining.
+Wen Gao,Shi Wang,Bin Liu
+2002. article: Int. J. Found. Comput. Sci.. key: journals/ijfcs/GaoWL02
+
+A System for Human Face and Facial Feature Location.
+Jun Miao,Hong Liu,Wen Gao,Hongming Zhang,Gang Deng,Xilin Chen
+2003. article: Int. J. Image Graphics. key: journals/ijig/MiaoLGZDC03
+
+Shape-based Adult Image Detection.
+Qing-Fang Zheng,Wei Zeng,Wei-Qiang Wang,Wen Gao
+2006. article: Int. J. Image Graphics. key: journals/ijig/ZhengZWG06
+
+Local Gabor Binary Patterns Based on Mutual Information for Face Recognition.
+Wenchao Zhang,Shiguang Shan,Xilin Chen,Wen Gao
+2007. article: Int. J. Image Graphics. key: journals/ijig/ZhangSCG07
+
+Spatial relationship representation for visual object searching.
+Jun Miao,Lijuan Duan,Laiyun Qing,Wen Gao,Xilin Chen,Yuan Yuan
+2008. article: Neurocomputing. key: journals/ijon/MiaoDQGCY08
+
+Sign Language Recognition Based on HMM/ANN/DP.
+Wen Gao,Jiyong Ma,Jiangqin Wu,Chunli Wang
+2000. article: IJPRAI. key: journals/ijprai/GaoMWW00
+
+Face recognition under generic illumination based on harmonic relighting.
+Laiyun Qing,Shiguang Shan,Wen Gao,Bo Du
+2005. article: IJPRAI. key: journals/ijprai/QingSGD05
+
+Pornographic Image Detection Based on Multilevel Representation.
+Yushi Wang,Qingming Huang,Wen Gao
+2009. article: IJPRAI. key: journals/ijprai/WangHG09
+
+Mobile Robot Sonar Backscatter Algorithm for Automatically Distinguishing Walls, Fences, and Hedges.
+Wen Gao,Mark K. Hinders
+2006. article: I. J. Robotic Res.. key: journals/ijrr/GaoH06
+
+Fast and robust text detection in images and video frames.
+Qixiang Ye,Qingming Huang,Wen Gao,Debin Zhao
+2005. article: Image Vision Comput.. key: journals/ivc/YeHGZ05
+
+Object detection using spatial histogram features.
+Hongming Zhang,Wen Gao,Xilin Chen,Debin Zhao
+2006. article: Image Vision Comput.. key: journals/ivc/ZhangGCZ06
+
+Extracting 3D information from broadcast soccer video.
+Yang Liu,Dawei Liang,Qingming Huang,Wen Gao
+2006. article: Image Vision Comput.. key: journals/ivc/LiuLHG06
+
+Unsupervised texture classification: Automatically discover and classify texture patterns.
+Lei Qin,Qingfang Zheng,Shuqiang Jiang,Qingming Huang,Wen Gao
+2008. article: Image Vision Comput.. key: journals/ivc/QinZJHG08
+
+An Admission Control Scheme for End-to-End Statistical QoS Provision in IP Networks.
+Pang Bin,HuaiRong Shao,Wen Gao
+2003. article: J. Comput. Sci. Technol.. key: journals/jcst/BinSG03
+
+BLOSSOMS: Building Lightweight Optimized Sensor Systems on a Massive Scale.
+Wen Gao,Lionel M. Ni,Zhiwei Xu,S. C. Cheung,Li Cui,Qiong Luo
+2005. article: J. Comput. Sci. Technol.. key: journals/jcst/GaoNXCCL05
+
+Incorporating Linguistic Structure into Maximum Entropy Language Models.
+Gaolin Fang,Wen Gao,Zhaoqi Wang
+2003. article: J. Comput. Sci. Technol.. key: journals/jcst/FangWW03
+
+Visual Ontology Construction for Digitized Art Image Retrieval.
+Shuqiang Jiang,Jun Du,Qingming Huang,Tiejun Huang,Wen Gao
+2005. article: J. Comput. Sci. Technol.. key: journals/jcst/JiangDHHG05
+
+Robust Speech Recognition Method Based on Discriminative Environment Feature Extraction.
+Jiqing Han,Wen Gao
+2001. article: J. Comput. Sci. Technol.. key: journals/jcst/JiqingG01
+
+Study on Translating Chinese into Chinese Sign Language.
+Xu Lin,Wen Gao
+2000. article: J. Comput. Sci. Technol.. key: journals/jcst/LinG00
+
+Automatic Segmentation of News Items Based on Video and Audio Features.
+Wangqiang Wei,Wen Gao
+2002. article: J. Comput. Sci. Technol.. key: journals/jcst/WeiG02
+
+Low Complexity Integer Transform and Adaptive Quantization Optimization.
+Siwei Ma,Wen Gao
+2006. article: J. Comput. Sci. Technol.. key: journals/jcst/MaG06
+
+Context-Based 2D-VLC Entropy Coder in AVS Video Coding Standard.
+Qiang Wang,Debin Zhao,Wen Gao
+2006. article: J. Comput. Sci. Technol.. key: journals/jcst/WangZG06
+
+Learning Prosodic Patterns for Mandarin Speech Synthesis.
+Yiqiang Chen,Wen Gao,Tingshao Zhu,Charles X. Ling
+2002. article: J. Intell. Inf. Syst.. key: journals/jiis/ChenGZL02
+
+Latent linkage semantic kernels for collective classification of link data.
+YongHong Tian,Tiejun Huang,Wen Gao
+2006. article: J. Intell. Inf. Syst.. key: journals/jiis/TianHG06
+
+How many users should be turned on in a multi-antenna broadcast channel?
+Wei Dai,Youjian Liu,Brian Rider,Wen Gao
+2008. article: IEEE Journal on Selected Areas in Communications. key: journals/jsac/DaiLRG08
+
+Effective algorithms for fast transcoding of AVS to H.264/AVC in the spatial domain.
+Zhihang Wang,Xiangyang Ji,Wen Gao,Qingming Huang,Debin Zhao
+2007. article: Multimedia Tools Appl.. key: journals/mta/WangJGHZ07
+
+Are Gabor phases really useless for face recognition?
+Wenchao Zhang,Shiguang Shan,Laiyun Qing,Xilin Chen,Wen Gao
+2009. article: Pattern Anal. Appl.. key: journals/paa/ZhangSQCG09
+
+WLD: A Robust Local Image Descriptor.
+Jie Chen,Shiguang Shan,Chu He,Guoying Zhao,Matti Pietikainen,Xilin Chen,Wen Gao
+2010. article: IEEE Trans. Pattern Anal. Mach. Intell.. key: journals/pami/ChenSHZPCG10
+
+A Chinese sign language recognition system based on SOFM/SRN/HMM.
+Wen Gao,Gaolin Fang,Debin Zhao,Yiqiang Chen
+2004. article: Pattern Recognition. key: journals/pr/GaoFZC04
+
+Robust telephone speech recognition based on channel compensation.
+Jiqing Han,Wen Gao
+1999. article: Pattern Recognition. key: journals/pr/HanG99
+
+Efficient 3D reconstruction for face recognition.
+Dalong Jiang,Yuxiao Hu,Shuicheng Yan,Lei Zhang 0001,HongJiang Zhang,Wen Gao
+2005. article: Pattern Recognition. key: journals/pr/JiangHYZZG05
+
+Face detection and location based on skin chrominance and lip chrominance transformation from color images.
+Hongxun Yao,Wen Gao
+2001. article: Pattern Recognition. key: journals/pr/YaoG01
+
+Optimization of a training set for more robust face detection.
+Jie Chen,Xilin Chen,Jie Yang,Shiguang Shan,Ruiping Wang,Wen Gao
+2009. article: Pattern Recognition. key: journals/pr/ChenCYSWG09
+
+Thresholding technique with adaptive window selection for uneven lighting image.
+Qingming Huang,Wen Gao,Wenjian Cai
+2005. article: Pattern Recognition Letters. key: journals/prl/HuangGC05
+
+An effective method to detect and categorize digitized traditional Chinese paintings.
+Shuqiang Jiang,Qingming Huang,Qixiang Ye,Wen Gao
+2006. article: Pattern Recognition Letters. key: journals/prl/JiangHYG06
+
+Synthetic data generation technique in Signer-independent sign language recognition.
+Feng Jiang,Wen Gao,Hongxun Yao,Debin Zhao,Xilin Chen
+2009. article: Pattern Recognition Letters. key: journals/prl/JiangGYZC09
+
+Contour-motion feature (CMF): A space-time approach for robust pedestrian detection.
+Yazhou Liu,Xilin Chen,Hongxun Yao,Xinyi Cui,Chaoran Liu,Wen Gao
+2009. article: Pattern Recognition Letters. key: journals/prl/LiuCYCLG09
+
+Mobile robot sonar interpretation algorithm for distinguishing trees from poles.
+Wen Gao,Mark K. Hinders
+2005. article: Robotics and Autonomous Systems. key: journals/ras/GaoH05
+
+Real-time scheduling based on imprecise computation for scalable streaming media system over the Internet.
+Kui Gao,Wen Gao,Simin He,Yuan Zhang
+2004. article: Real-Time Imaging. key: journals/rti/GaoGHZ04
+
+Robust real-time transmission of scalable multimedia for heterogeneous client bandwidths.
+Longshe Huo,Wen Gao,Qingming Huang
+2005. article: Real-Time Imaging. key: journals/rti/HuoGH05
+
+Robust moving object segmentation on H.264/AVC compressed video using the block-based MRF model.
+Wei Zeng,Jun Du,Wen Gao,Qingming Huang
+2005. article: Real-Time Imaging. key: journals/rti/ZengDGH05
+
+A block-based support vector machine approach to the protein homology prediction task in KDD Cup 2004.
+Yan Fu,Ruixiang Sun,Qiang Yang,Simin He,Chunli Wang,Haipeng Wang,Shiguang Shan,Junfa Liu,Wen Gao
+2004. article: SIGKDD Explorations. key: journals/sigkdd/FuSYHWWSLG04
+
+Predicting Molecular Formulas of Fragment Ions with Isotope Patterns in Tandem Mass Spectra.
+Jingfen Zhang,Wen Gao,Jinjin Cai,Simin He,Rong Zeng,Runsheng Chen
+2005. article: IEEE/ACM Trans. Comput. Biology Bioinform.. key: journals/tcbb/ZhangGCHZC05
+
+Learning and synthesizing MPEG-4 compatible 3-D face animation from video sequence.
+Wen Gao,Yiqiang Chen,Rui Wang,Shiguang Shan,Dalong Jiang
+2003. article: IEEE Trans. Circuits Syst. Video Techn.. key: journals/tcsv/GaoCWSJ03
+
+Efficient background video coding with static sprite generation and arbitrary-shape spatial prediction techniques.
+Yan Lu,Wen Gao,Feng Wu
+2003. article: IEEE Trans. Circuits Syst. Video Techn.. key: journals/tcsv/LuGW03
+
+Rate-distortion analysis for H.264/AVC video coding and its application to rate control.
+Siwei Ma,Wen Gao,Yan Lu
+2005. article: IEEE Trans. Circuits Syst. Video Techn.. key: journals/tcsv/MaGL05
+
+Statistical model, analysis and approximation of rate-distortion function in MPEG-4 FGS videos.
+Jun Sun,Wen Gao,Debin Zhao,Qingming Huang
+2006. article: IEEE Trans. Circuits Syst. Video Techn.. key: journals/tcsv/SunGZH06
+
+Drift-free switching of compressed video bitstreams at predictive frames.
+Xiaoyan Sun,Feng Wu,Shipeng Li,Guobin Shen,Wen Gao
+2006. article: IEEE Trans. Circuits Syst. Video Techn.. key: journals/tcsv/SunWLSG06
+
+Low-complexity and low-memory entropy coder for image compression.
+Debin Zhao,Y. K. Chan,Wen Gao
+2001. article: IEEE Trans. Circuits Syst. Video Techn.. key: journals/tcsv/ZhaoCG01
+
+Morphological representation of DCT coefficients for image compression.
+Debin Zhao,Wen Gao,Y. K. Chan
+2002. article: IEEE Trans. Circuits Syst. Video Techn.. key: journals/tcsv/ZhaoGC02
+
+Block-Wise Adaptive Motion Accuracy Based B-Picture Coding With Low-Complexity Motion Compensation.
+Xiangyang Ji,Debin Zhao,Wen Gao
+2007. article: IEEE Trans. Circuits Syst. Video Techn.. key: journals/tcsv/JiZG07
+
+Wyner-Ziv Switching Scheme for Multiple Bit-Rate Video Streaming.
+Mei Guo,Yan Lu,Feng Wu,Debin Zhao,Wen Gao
+2008. article: IEEE Trans. Circuits Syst. Video Techn.. key: journals/tcsv/GuoLWZG08
+
+Wyner-Ziv-Based Multiview Video Coding.
+Xun Guo,Yan Lu,Feng Wu,Debin Zhao,Wen Gao
+2008. article: IEEE Trans. Circuits Syst. Video Techn.. key: journals/tcsv/GuoLWZG08a
+
+Modeling Background and Segmenting Moving Objects from Compressed Video.
+Weiqiang Wang,Jie Yang,Wen Gao
+2008. article: IEEE Trans. Circuits Syst. Video Techn.. key: journals/tcsv/WangYG08
+
+FGS Coding Using Cycle-Based Leaky Prediction Through Multiple Leaky Factors.
+Xiangyang Ji,Yanyan Zheng,Debin Zhao,Feng Wu,Wen Gao
+2008. article: IEEE Trans. Circuits Syst. Video Techn.. key: journals/tcsv/JiZZWG08
+
+On Rate-Distortion Modeling and Extraction of H.264/SVC Fine-Granular Scalable Video.
+Jun Sun,Wen Gao,Debin Zhao,Weiping Li
+2009. article: IEEE Trans. Circuits Syst. Video Techn.. key: journals/tcsv/SunGZL09
+
+A Spatio-Temporal Auto Regressive Model for Frame Rate Upconversion.
+Yongbing Zhang,Debin Zhao,Xiangyang Ji,Ronggang Wang,Wen Gao
+2009. article: IEEE Trans. Circuits Syst. Video Techn.. key: journals/tcsv/ZhangZJWG09
+
+Complexity-Constrained H.264 Video Encoding.
+Li Su,Yan Lu,Feng Wu,Shipeng Li,Wen Gao
+2009. article: IEEE Trans. Circuits Syst. Video Techn.. key: journals/tcsv/SuLWLG09
+
+Locally Linear Regression for Pose-Invariant Face Recognition.
+Xiujuan Chai,Shiguang Shan,Xilin Chen,Wen Gao
+2007. article: IEEE Transactions on Image Processing. key: journals/tip/ChaiSCG07
+
+Hierarchical Ensemble of Global and Local Classifiers for Face Recognition.
+Yu Su,Shiguang Shan,Xilin Chen,Wen Gao
+2009. article: IEEE Transactions on Image Processing. key: journals/tip/SuSCG09
+
+A Motion-Aligned Auto-Regressive Model for Frame Rate Up Conversion.
+Yongbing Zhang,Debin Zhao,Siwei Ma,Ronggang Wang,Wen Gao
+2010. article: IEEE Transactions on Image Processing. key: journals/tip/ZhangZMWG10
+
+Continuous-Time Equivalents of Welch Bound Equality Sequences.
+Joon Ho Cho,Wen Gao
+2005. article: IEEE Transactions on Information Theory. key: journals/tit/ChoG05
+
+Learning Contextual Dependency Network Models for Link-Based Classification.
+YongHong Tian,Qiang Yang,Tiejun Huang,Charles X. Ling,Wen Gao
+2006. article: IEEE Trans. Knowl. Data Eng.. key: journals/tkde/TianYHLG06
+
+Seamless switching of scalable video bitstreams for efficient streaming.
+Xiaoyan Sun,Feng Wu,Shipeng Li,Wen Gao,Ya-Qin Zhang
+2004. article: IEEE Transactions on Multimedia. key: journals/tmm/SunWLGZ04
+
+Joint Source-Channel Rate-Distortion Optimization for H.264 Video Coding Over Error-Prone Networks.
+Yuan Zhang,Wen Gao,Yan Lu,Qingming Huang,Debin Zhao
+2007. article: IEEE Transactions on Multimedia. key: journals/tmm/ZhangGLHZ07
+
+Human Behavior Analysis for Highlight Ranking in Broadcast Racket Sports Video.
+Guangyu Zhu,Qingming Huang,Changsheng Xu,Liyuan Xing,Wen Gao,Hongxun Yao
+2007. article: IEEE Transactions on Multimedia. key: journals/tmm/ZhuHXXGY07
+
+Concealment of Whole-Picture Loss in Hierarchical B-Picture Scalable Video Coding.
+Xiangyang Ji,Debin Zhao,Wen Gao
+2009. article: IEEE Transactions on Multimedia. key: journals/tmm/JiZG09
+
+Event Tactic Analysis Based on Broadcast Sports Video.
+Guangyu Zhu,Changsheng Xu,Qingming Huang,Yong Rui,Shuqiang Jiang,Wen Gao,Hongxun Yao
+2009. article: IEEE Transactions on Multimedia. key: journals/tmm/ZhuXHRJGY09
+
+Affective Visualization and Retrieval for Music Video.
+Shiliang Zhang,Qingming Huang,Shuqiang Jiang,Wen Gao,Qi Tian
+2010. article: IEEE Transactions on Multimedia. key: journals/tmm/ZhangHJGT10
+
+Sequence Multi-Labeling: A Unified Video Annotation Scheme With Spatial and Temporal Context.
+Yuanning Li,YongHong Tian,Ling-Yu Duan,Jingjing Yang,Tiejun Huang,Wen Gao
+2010. article: IEEE Transactions on Multimedia. key: journals/tmm/LiTDYHG10
+
+Constructing visual phrases for effective and efficient object-based image retrieval.
+Qing-Fang Zheng,Wen Gao
+2008. article: TOMCCAP. key: journals/tomccap/ZhengG08
+
+On guaranteed smooth switching for buffered crossbar switches.
+Simin He,Shutao Sun,Hong-Tao Guan,Qiang Zheng,Youjian Zhao,Wen Gao
+2008. article: IEEE/ACM Trans. Netw.. key: journals/ton/HeSGZZG08
+
+Large vocabulary sign language recognition based on fuzzy decision trees.
+Gaolin Fang,Wen Gao,Debin Zhao
+2004. article: IEEE Transactions on Systems, Man, and Cybernetics, Part A. key: journals/tsmc/FangGZ04
+
+Enhancing Human Face Detection by Resampling Examples Through Manifolds.
+Jie Chen,Ruiping Wang,Shengye Yan,Shiguang Shan,Xilin Chen,Wen Gao
+2007. article: IEEE Transactions on Systems, Man, and Cybernetics, Part A. key: journals/tsmc/ChenWYSCG07
+
+Large-Vocabulary Continuous Sign Language Recognition Based on Transition-Movement Models.
+Gaolin Fang,Wen Gao,Debin Zhao
+2007. article: IEEE Transactions on Systems, Man, and Cybernetics, Part A. key: journals/tsmc/FangGZ07
+
+The CAS-PEAL Large-Scale Chinese Face Database and Baseline Evaluations.
+Wen Gao,Bo Cao,Shiguang Shan,Xilin Chen,Delong Zhou,Xiaohua Zhang,Debin Zhao
+2008. article: IEEE Transactions on Systems, Man, and Cybernetics, Part A. key: journals/tsmc/GaoCSCZZZ08
+
+Head Yaw Estimation From Asymmetry of Facial Appearance.
+Bingpeng Ma,Shiguang Shan,Xilin Chen,Wen Gao
+2008. article: IEEE Transactions on Systems, Man, and Cybernetics, Part B. key: journals/tsmc/MaSCG08
+
+Variable-Bin-Rate CABAC Engine for H.264/AVC High Definition Real-Time Decoding.
+Peng Zhang,Don Xie,Wen Gao
+2009. article: IEEE Trans. VLSI Syst.. key: journals/tvlsi/ZhangXG09
+
+Real-time smoothing for network adaptive video streaming.
+Kui Gao,Wen Gao,Simin He,Yuan Zhang
+2005. article: J. Visual Communication and Image Representation. key: journals/jvcir/GaoGHZ05
+
+Nonparametric background generation.
+Yazhou Liu,Hongxun Yao,Wen Gao,Xilin Chen,Debin Zhao
+2007. article: J. Visual Communication and Image Representation. key: journals/jvcir/LiuYGCZ07
+
+Adaptive rate control for H.264.
+Zhengguo Li,Wen Gao,Feng Pan,S. W. Ma,Keng Pang Lim,G. N. Feng,Xiao Lin,Susanto Rahardja,H. Q. Lu,Yan Lu
+2006. article: J. Visual Communication and Image Representation. key: journals/jvcir/LiGPMLFLRLL06
+
+RD-optimized interactive streaming of multiview video with multiple encodings.
+Yanwei Liu,Qingming Huang,Siwei Ma,Debin Zhao,Wen Gao
+2010. article: J. Visual Communication and Image Representation. key: journals/jvcir/LiuHMZG10
+
+A joint encoder-decoder error control framework for stereoscopic video coding.
+Xinguang Xiang,Debin Zhao,Qiang Wang,Siwei Ma,Wen Gao
+2010. article: J. Visual Communication and Image Representation. key: journals/jvcir/XiangZWMG10
+
+An image fragile watermark scheme based on chaotic image pattern and pixel-pairs.
+Shaohui Liu,Hongxun Yao,Wen Gao,Yongliang Liu
+2007. article: Applied Mathematics and Computation. key: journals/amc/LiuYGL07
+
+Adaptive relevance feedback based on Bayesian inference for image retrieval.
+Lijuan Duan,Wen Gao,Wei Zeng,Debin Zhao
+2005. article: Signal Processing. key: journals/sigpro/DuanGZZ05
+
+Learned local Gabor patterns for face representation and recognition.
+Shufu Xie,Shiguang Shan,Xilin Chen,Xin Meng,Wen Gao
+2009. article: Signal Processing. key: journals/sigpro/XieSCMG09
+
+Two-phase Web site classification based on Hidden Markov Tree models.
+YongHong Tian,Tiejun Huang,Wen Gao
+2004. article: Web Intelligence and Agent Systems. key: journals/wias/TianHG04
+
+Security on Aydos et al's Elliptic Curve Cryptography Based Wireless Authentication Protocol.
+Yongliang Liu,Wen Gao,Hongxun Yao,Tiejun Huang
+2006. article: Journal of Computer Research and Development. key: journals/jcrd/LiuGYH06
+
+A High Efficient Architecture for Motion Estimation Based on AVC/AVS Coding Standard.
+Lei Deng,Wen Gao,Mingzeng Hu,Zhenzhou Ji
+2006. article: Journal of Computer Research and Development. key: journals/jcrd/DengGHJ06
+
+Error-resistance and Low-complexity Integer Inverse Discrete Cosine Transform.
+Honggang Qi,Qingming Huang,Wen Gao,Debin Zhao
+2010. article: Signal Processing Systems. key: journals/vlsisp/QiHGZ10
+
+Spectrum sensing for OFDM systems employing pilot tones.
+Hou-Shin Chen,Wen Gao,David G. Daut
+2009. article: IEEE Transactions on Wireless Communications. key: journals/twc/ChenGD09
+
+Novel Secure Communication Protocol for Conditional Access System.
+Yongliang Liu,Xiaolin Yang,Hongxun Yao,Wen Gao
+2007. article: I. J. Network Security. key: journals/ijnsec/LiuYYG07
+
+Elliptic Curve Cryptography Based Wireless Authentication Protocol.
+Yongliang Liu,Wen Gao,Hongxun Yao,Xinghua Yu
+2007. article: I. J. Network Security. key: journals/ijnsec/YongliangGYY07
+
+Salient object extraction for user-targeted video content association.
+Jia Li,Han-nan Yu,YongHong Tian,Tiejun Huang,Wen Gao
+2010. article: Journal of Zhejiang University - Science C. key: journals/jzusc/LiYTHG10
+
+Face Misalignment Problem.
+Shiguang Shan,Xilin Chen,Wen Gao
+2009. incollection: Encyclopedia of Biometrics. key: reference/bio/ShanCG09
+
+Performance Evaluation, Overview.
+Shiguang Shan,Xilin Chen,Wen Gao
+2009. incollection: Encyclopedia of Biometrics. key: reference/bio/ShanCG09a
+
+AVS Video Coding Standard.
+Wen Gao,Siwei Ma,Li Zhang,Li Su,Debin Zhao
+2010. incollection: Intelligent Multimedia Communication. key: series/sci/GaoMZSZ10

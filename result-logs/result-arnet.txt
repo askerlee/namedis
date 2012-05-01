@@ -1,0 +1,954 @@
+shaohua@lsh:/media/tough/namedis$ bash competitors-scripts/alignarnet.sh
+ajay gupta:
+Open groundtruth file 'ajay gupta-labels.txt' to process...
+25 publications of 8 authors loaded
+IBM Research India: 12 | HP Laboratories Bristol: 4 | HP Laboratories, Bangalore: 4 | Western Michigan University: 1 | University of Illinois at Chicago: 1 | Airtight Networks, Pune: 1 | Old Dominion University: 1 | University of Iowa: 1
+Groundtruth total pairs: 78
+
+Open Arnetminer file 'arnet/ajay gupta-arnet.txt' to process...
+WiSe Lab Department of Computer Science Western Michigan University [1230697]:
+11 pubs read, 1 unmatched. 10 matched, distribution:
+IBM Research India: 10
+
+[1230705]:
+9 pubs read, 0 unmatched. 9 matched, distribution:
+IBM Research India: 2 | HP Laboratories Bristol: 2 | Airtight Networks, Pune: 1 | University of Iowa: 1 | Western Michigan University: 1 | HP Laboratories, Bangalore: 1 | Old Dominion University: 1
+
+Hewlett-Packard Labs, Bangalore, India [1230703]:
+3 pubs read, 0 unmatched. 3 matched, distribution:
+HP Laboratories, Bangalore: 3
+
+[1230698]:
+2 pubs read, 0 unmatched. 2 matched, distribution:
+HP Laboratories Bristol: 2
+
+[1230701]:
+1 pubs read, 0 unmatched. 1 matched, distribution:
+University of Illinois at Chicago: 1
+
+26 pubs of 5 Arnet authors loaded. Matched:
+WiSe Lab Department of Computer Science Western Michigan University [1230697]: 10 | [1230705]: 9 | Hewlett-Packard Labs, Bangalore, India [1230703]: 3 | [1230698]: 2 | [1230701]: 1
+Correspond to 8 true authors:
+IBM Research India: 12 | HP Laboratories, Bangalore: 4 | HP Laboratories Bristol: 4 | Airtight Networks, Pune: 1 | University of Iowa: 1 | Western Michigan University: 1 | Old Dominion University: 1 | University of Illinois at Chicago: 1
+
+25 groundtruth publications, 25 matched, 25 matched title-year pair
+Groundtruth pairs total: 78, between matched pubs: 78
+Arnet total pairs: 85
+Arnet total correct pairs: 51
+Summary:
+Prec: 0.6. Recall: 0.6538. F1: 0.6258
+
+
+bing liu:
+Open groundtruth file 'bing liu-labels.txt' to process...
+192 publications of 28 authors loaded
+UIC: 132 | Department of Computing and Information Technology, Fudan University: 10 | Institute of Automation, CAS: 5 | Huazhong University of Science and Technology: 5 | EEE, NTU: 4 | Centre for Cancer Biology, SA Pathology, Adelaide, AU: 3 | Virginia Polytechnic Institute and State University: 3 | Wuhan Polytechnic University: 3 | Information Sciences Institute, USC: 2 | Software Center, Northeastern University, China: 2 | Beijing University of Posts and Telecommunications: 2 | University of Mannheim: 2 | Concordia University, Montreal, Canada: 2 | Xinjiang University: 2 | Department of Mathematics, Anshan Normal University: 2 | Tongji University: 1 | School of Management, USTC: 1 | NUS: 1 | Nankai University: 1 | Department of Automation, Tsinghua University: 1 | [bingl@ccs.neu.edu] Northeastern University: 1 | HKUST: 1 | Shandong University of Science and Technology: 1 | Shanghai Ocean University: 1 | Saginaw Valley State University: 1 | School of Software, Dalian University of Technology: 1 | Institute of Process Engineering, CAS: 1 | Harbin Institute of Technology: 1
+Groundtruth total pairs: 8733
+
+Open Arnetminer file 'arnet/bing liu-arnet.txt' to process...
+Department of Computer Science,, University of Illinois at Chicago [UIC] [64027]:
+153 pubs read, 34 unmatched. 119 matched, distribution:
+UIC: 107 | Department of Computing and Information Technology, Fudan University: 10 | Institute of Automation, CAS: 1 | NUS: 1
+
+[64041]:
+40 pubs read, 3 unmatched. 37 matched, distribution:
+UIC: 15 | Huazhong University of Science and Technology: 4 | Virginia Polytechnic Institute and State University: 3 | Centre for Cancer Biology, SA Pathology, Adelaide, AU: 2 | Wuhan Polytechnic University: 1 | Shandong University of Science and Technology: 1 | Institute of Process Engineering, CAS: 1 | Shanghai Ocean University: 1 | Department of Automation, Tsinghua University: 1 | Department of Mathematics, Anshan Normal University: 1 | Harbin Institute of Technology: 1 | Institute of Automation, CAS: 1 | School of Management, USTC: 1 | Tongji University: 1 | HKUST: 1 | Saginaw Valley State University: 1 | [bingl@ccs.neu.edu] Northeastern University: 1
+
+[64028]:
+10 pubs read, 1 unmatched. 9 matched, distribution:
+UIC: 6 | Nankai University: 1 | School of Software, Dalian University of Technology: 1 | Department of Mathematics, Anshan Normal University: 1
+
+Inf. Sci. Inst., Univ. of Southern California, Marina del Rey, CA, USA [64039]:
+4 pubs read, 1 unmatched. 3 matched, distribution:
+Information Sciences Institute, USC: 2 | UIC: 1
+
+Coll. of Inf. Eng., Xiangtan Univ., China [64036]:
+4 pubs read, 0 unmatched. 4 matched, distribution:
+EEE, NTU: 4
+
+[64037]:
+3 pubs read, 0 unmatched. 3 matched, distribution:
+UIC: 3
+
+National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences Beijing 100080, People's Republic of China [64031]:
+3 pubs read, 0 unmatched. 3 matched, distribution:
+Institute of Automation, CAS: 3
+
+Lehrstuhl fÃ¼r Informatik V, UniversitÃ¤t Mannheim, Mannheim, Germany D-68131 [64032]:
+2 pubs read, 0 unmatched. 2 matched, distribution:
+University of Mannheim: 2
+
+Software Center, Northeast Univ. of Technol., Shenyang [64033]:
+2 pubs read, 0 unmatched. 2 matched, distribution:
+Software Center, Northeastern University, China: 2
+
+Department of Mathematics, Anshan Normal University, Anshan, Liaoning, PR China and College of Mathematics and System Sciences, Xinjiang University, Urumqi, Xinjiang, PR China [64038]:
+2 pubs read, 0 unmatched. 2 matched, distribution:
+Xinjiang University: 2
+
+Beijing University of Posts and Telecommunications, China [64029]:
+2 pubs read, 0 unmatched. 2 matched, distribution:
+Beijing University of Posts and Telecommunications: 2
+
+[64034]:
+2 pubs read, 0 unmatched. 2 matched, distribution:
+Wuhan Polytechnic University: 2
+
+[1571551]:
+2 pubs read, 0 unmatched. 2 matched, distribution:
+Concordia University, Montreal, Canada: 2
+
+Department of Mathematics, Huazhong University of Science and Technology, Wuhan 430074, People's Republic of China, College of Mathematics and Statistics, Wuhan University, Wuhan 430072, People's Republic of China [64040]:
+1 pubs read, 0 unmatched. 1 matched, distribution:
+Huazhong University of Science and Technology: 1
+
+[1569814]:
+1 pubs read, 0 unmatched. 1 matched, distribution:
+Centre for Cancer Biology, SA Pathology, Adelaide, AU: 1
+
+bogus [64035]:
+1 pubs read, 1 unmatched. 0 matched, distribution:
+
+
+232 pubs of 16 Arnet authors loaded. Matched:
+Department of Computer Science,, University of Illinois at Chicago [UIC] [64027]: 119 | [64041]: 37 | [64028]: 9 | Coll. of Inf. Eng., Xiangtan Univ., China [64036]: 4 | Inf. Sci. Inst., Univ. of Southern California, Marina del Rey, CA, USA [64039]: 3 | [64037]: 3 | National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences Beijing 100080, People's Republic of China [64031]: 3 | Lehrstuhl fÃ¼r Informatik V, UniversitÃ¤t Mannheim, Mannheim, Germany D-68131 [64032]: 2 | Software Center, Northeast Univ. of Technol., Shenyang [64033]: 2 | Department of Mathematics, Anshan Normal University, Anshan, Liaoning, PR China and College of Mathematics and System Sciences, Xinjiang University, Urumqi, Xinjiang, PR China [64038]: 2 | Beijing University of Posts and Telecommunications, China [64029]: 2 | [64034]: 2 | [1571551]: 2 | Department of Mathematics, Huazhong University of Science and Technology, Wuhan 430074, People's Republic of China, College of Mathematics and Statistics, Wuhan University, Wuhan 430072, People's Republic of China [64040]: 1 | [1569814]: 1
+Correspond to 28 true authors:
+UIC: 132 | Department of Computing and Information Technology, Fudan University: 10 | Huazhong University of Science and Technology: 5 | Institute of Automation, CAS: 5 | EEE, NTU: 4 | Wuhan Polytechnic University: 3 | Centre for Cancer Biology, SA Pathology, Adelaide, AU: 3 | Virginia Polytechnic Institute and State University: 3 | Software Center, Northeastern University, China: 2 | Xinjiang University: 2 | Department of Mathematics, Anshan Normal University: 2 | Concordia University, Montreal, Canada: 2 | Beijing University of Posts and Telecommunications: 2 | University of Mannheim: 2 | Information Sciences Institute, USC: 2 | Shandong University of Science and Technology: 1 | Institute of Process Engineering, CAS: 1 | Nankai University: 1 | Shanghai Ocean University: 1 | Department of Automation, Tsinghua University: 1 | NUS: 1 | School of Software, Dalian University of Technology: 1 | Harbin Institute of Technology: 1 | School of Management, USTC: 1 | Tongji University: 1 | HKUST: 1 | Saginaw Valley State University: 1 | [bingl@ccs.neu.edu] Northeastern University: 1
+
+192 groundtruth publications, 192 matched, 192 matched title-year pair
+Groundtruth pairs total: 8733, between matched pubs: 8733
+Arnet total pairs: 7744
+Arnet total correct pairs: 5865
+Summary:
+Prec: 0.7574. Recall: 0.6716. F1: 0.7119
+
+
+bin yu:
+Open groundtruth file 'bin yu-labels.txt' to process...
+104 publications of 19 authors loaded
+stat, berkeley: 34 | cmu / NCSU: 19 | uiuc: 11 | levellimited, inc.: 7 | Electroglas, inc.: 7 | Dalian Maritime University: 5 | Xidian University: 4 | Quantum Leap Innovations, Inc.: 3 | Information Engineering University, China: 3 | EE, Tsinghua: 2 | Northern Jiaotong University: 1 | Zhejiang University of Technology: 1 | Qingdao University of Science and Technology: 1 | northwest univ, China: 1 | CS, Tsinghua: 1 | University of California, Riverside: 1 | Shenzhen University: 1 | Xi'an Jiaotong University: 1 | Graduate School of Business, Columbia University: 1
+Groundtruth total pairs: 852
+
+Open Arnetminer file 'arnet/bin yu-arnet.txt' to process...
+School of Computer Science, Carnegie Mellon University [652766]:
+27 pubs read, 6 unmatched. 21 matched, distribution:
+stat, berkeley: 21
+
+School of Computer Science at Carnegie Mellon University [652767]:
+24 pubs read, 2 unmatched. 22 matched, distribution:
+cmu / NCSU: 19 | stat, berkeley: 2 | Xidian University: 1
+
+Univ. of Illinois at Urbana, Champaign, IL, Dept. of Comput. Sci., Michigan State Univ., East Lansing, MI, University of Illinois at Urbana-Champaign, Dept. of Comput. Sci., Illinois Univ., Urbana, IL, USA, Electroglas Inc., Santa Clara, CA [652774]:
+17 pubs read, 0 unmatched. 17 matched, distribution:
+uiuc: 11 | Electroglas, inc.: 6
+
+[652779]:
+13 pubs read, 1 unmatched. 12 matched, distribution:
+Quantum Leap Innovations, Inc.: 3 | stat, berkeley: 3 | Information Engineering University, China: 1 | Shenzhen University: 1 | Zhejiang University of Technology: 1 | northwest univ, China: 1 | Xi'an Jiaotong University: 1 | Graduate School of Business, Columbia University: 1
+
+University of California, Berkeley [652778]:
+11 pubs read, 5 unmatched. 6 matched, distribution:
+stat, berkeley: 6
+
+Institute of Transportation Engineering, Dalian Maritime University, Dalian, PR China [652768]:
+7 pubs read, 2 unmatched. 5 matched, distribution:
+Dalian Maritime University: 5
+
+Brunel University, UK [652776]:
+7 pubs read, 0 unmatched. 7 matched, distribution:
+levellimited, inc.: 7
+
+Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, Inst. of Inf. Sci., Northern Jiaotong Univ., Beijing [652769]:
+5 pubs read, 0 unmatched. 5 matched, distribution:
+EE, Tsinghua: 2 | Northern Jiaotong University: 1 | CS, Tsinghua: 1 | Electroglas, inc.: 1
+
+Inst. of Comput. Theor. & Technol., Xidian Univ., Xi'an [652773]:
+3 pubs read, 0 unmatched. 3 matched, distribution:
+Xidian University: 3
+
+Inst. of Electron. Technol., Inf. Eng. Univ., China [652775]:
+2 pubs read, 0 unmatched. 2 matched, distribution:
+Information Engineering University, China: 2
+
+[652772]:
+2 pubs read, 1 unmatched. 1 matched, distribution:
+stat, berkeley: 1
+
+School of Mathematics and Physics, Qingdao University of Science and Technology, Qingdao 266061, China [652771]:
+1 pubs read, 0 unmatched. 1 matched, distribution:
+Qingdao University of Science and Technology: 1
+
+119 pubs of 12 Arnet authors loaded. Matched:
+School of Computer Science at Carnegie Mellon University [652767]: 22 | School of Computer Science, Carnegie Mellon University [652766]: 21 | Univ. of Illinois at Urbana, Champaign, IL, Dept. of Comput. Sci., Michigan State Univ., East Lansing, MI, University of Illinois at Urbana-Champaign, Dept. of Comput. Sci., Illinois Univ., Urbana, IL, USA, Electroglas Inc., Santa Clara, CA [652774]: 17 | [652779]: 12 | Brunel University, UK [652776]: 7 | University of California, Berkeley [652778]: 6 | Institute of Transportation Engineering, Dalian Maritime University, Dalian, PR China [652768]: 5 | Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, Inst. of Inf. Sci., Northern Jiaotong Univ., Beijing [652769]: 5 | Inst. of Comput. Theor. & Technol., Xidian Univ., Xi'an [652773]: 3 | Inst. of Electron. Technol., Inf. Eng. Univ., China [652775]: 2 | [652772]: 1 | School of Mathematics and Physics, Qingdao University of Science and Technology, Qingdao 266061, China [652771]: 1
+Correspond to 18 true authors:
+stat, berkeley: 33 | cmu / NCSU: 19 | uiuc: 11 | levellimited, inc.: 7 | Electroglas, inc.: 7 | Dalian Maritime University: 5 | Xidian University: 4 | Information Engineering University, China: 3 | Quantum Leap Innovations, Inc.: 3 | EE, Tsinghua: 2 | Northern Jiaotong University: 1 | Shenzhen University: 1 | Xi'an Jiaotong University: 1 | Qingdao University of Science and Technology: 1 | Zhejiang University of Technology: 1 | northwest univ, China: 1 | CS, Tsinghua: 1 | Graduate School of Business, Columbia University: 1
+
+104 groundtruth publications, 102 matched, 102 matched title-year pair
+Groundtruth pairs total: 852, between matched pubs: 819
+Arnet total pairs: 703
+Arnet total correct pairs: 509
+Summary:
+Prec: 0.724. Recall: 0.6215. F1: 0.6689
+
+
+hui fang:
+Open groundtruth file 'hui fang-labels.txt' to process...
+45 publications of 8 authors loaded
+University of Delaware: 19 | Swansea University, Wales, UK: 12 | Google, Inc.: 6 | SMA, NTU: 3 | University of Jinan, Shandong, China: 2 | College of Biosystems Engineering and Food Science, Zhejiang University: 1 | Laboratory of Underwater Acoustic Communication and Marine Information Technology, Xiamen University: 1 | Kunming University of Science and Technology: 1
+Groundtruth total pairs: 256
+
+Open Arnetminer file 'arnet/hui fang-arnet.txt' to process...
+Electrical and Computer Engineering, University of Delaware [1310077]:
+40 pubs read, 18 unmatched. 22 matched, distribution:
+University of Delaware: 16 | Google, Inc.: 6
+
+Department of Computing and Mathematics, Manchester Metropolitan University, UK M1 5GD [1310078]:
+9 pubs read, 2 unmatched. 7 matched, distribution:
+Swansea University, Wales, UK: 4 | University of Delaware: 3
+
+School of Informatics, University of Bradford, Richmond Road, Bradford, West Yorkshire BD7 1DP, UK [1310080]:
+6 pubs read, 0 unmatched. 6 matched, distribution:
+Swansea University, Wales, UK: 6
+
+[1310084]:
+4 pubs read, 0 unmatched. 4 matched, distribution:
+Swansea University, Wales, UK: 2 | Kunming University of Science and Technology: 1 | University of Jinan, Shandong, China: 1
+
+Singapore-MIT Alliance, Nanyang Technological University, Singapore 637460 [1310082]:
+3 pubs read, 0 unmatched. 3 matched, distribution:
+SMA, NTU: 3
+
+College of Biosystems Engineering and Food Science, Zhejiang University, Hangzhou 310029, PR China [1310083]:
+2 pubs read, 1 unmatched. 1 matched, distribution:
+College of Biosystems Engineering and Food Science, Zhejiang University: 1
+
+University of Jinan, School of Control Science and Engineering, 250022, Jinan, People&#x2019;s Republic of China [1310081]:
+1 pubs read, 0 unmatched. 1 matched, distribution:
+University of Jinan, Shandong, China: 1
+
+Key Laboratory of Underwater Acoustic Communication and Marine Information Technology, Ministry of Education, Xiamen, China [1310079]:
+1 pubs read, 0 unmatched. 1 matched, distribution:
+Laboratory of Underwater Acoustic Communication and Marine Information Technology, Xiamen University: 1
+
+66 pubs of 8 Arnet authors loaded. Matched:
+Electrical and Computer Engineering, University of Delaware [1310077]: 22 | Department of Computing and Mathematics, Manchester Metropolitan University, UK M1 5GD [1310078]: 7 | School of Informatics, University of Bradford, Richmond Road, Bradford, West Yorkshire BD7 1DP, UK [1310080]: 6 | [1310084]: 4 | Singapore-MIT Alliance, Nanyang Technological University, Singapore 637460 [1310082]: 3 | College of Biosystems Engineering and Food Science, Zhejiang University, Hangzhou 310029, PR China [1310083]: 1 | University of Jinan, School of Control Science and Engineering, 250022, Jinan, People&#x2019;s Republic of China [1310081]: 1 | Key Laboratory of Underwater Acoustic Communication and Marine Information Technology, Ministry of Education, Xiamen, China [1310079]: 1
+Correspond to 8 true authors:
+University of Delaware: 19 | Swansea University, Wales, UK: 12 | Google, Inc.: 6 | SMA, NTU: 3 | University of Jinan, Shandong, China: 2 | College of Biosystems Engineering and Food Science, Zhejiang University: 1 | Kunming University of Science and Technology: 1 | Laboratory of Underwater Acoustic Communication and Marine Information Technology, Xiamen University: 1
+
+45 groundtruth publications, 45 matched, 45 matched title-year pair
+Groundtruth pairs total: 256, between matched pubs: 256
+Arnet total pairs: 276
+Arnet total correct pairs: 163
+Summary:
+Prec: 0.5906. Recall: 0.6367. F1: 0.6128
+
+
+jim smith:
+Open groundtruth file 'jim smith-labels.txt' to process...
+54 publications of 5 authors loaded
+University of the West of England: 31 | University of Newcastle upon Tyne, UK: 19 | University of Melbourne: 2 | Carnegie Mellon Software Engineering Institute: 1 | University of Wisconsin: 1
+Groundtruth total pairs: 637
+
+Open Arnetminer file 'arnet/jim smith-arnet.txt' to process...
+Electrical and Computer Engineerin Computer Sciences [1190390]:
+20 pubs read, 3 unmatched. 17 matched, distribution:
+University of Newcastle upon Tyne, UK: 17
+
+University of the West of England, Bristol, United Kingdom [1190394]:
+15 pubs read, 0 unmatched. 15 matched, distribution:
+University of the West of England: 15
+
+[1190396]:
+12 pubs read, 0 unmatched. 12 matched, distribution:
+University of the West of England: 8 | University of Newcastle upon Tyne, UK: 2 | Carnegie Mellon Software Engineering Institute: 1 | University of Wisconsin: 1
+
+[1190395]:
+6 pubs read, 0 unmatched. 6 matched, distribution:
+University of the West of England: 6
+
+[1190391]:
+3 pubs read, 1 unmatched. 2 matched, distribution:
+University of the West of England: 2
+
+[1190392]:
+2 pubs read, 0 unmatched. 2 matched, distribution:
+University of Melbourne: 2
+
+58 pubs of 6 Arnet authors loaded. Matched:
+Electrical and Computer Engineerin Computer Sciences [1190390]: 17 | University of the West of England, Bristol, United Kingdom [1190394]: 15 | [1190396]: 12 | [1190395]: 6 | [1190391]: 2 | [1190392]: 2
+Correspond to 5 true authors:
+University of the West of England: 31 | University of Newcastle upon Tyne, UK: 19 | University of Melbourne: 2 | Carnegie Mellon Software Engineering Institute: 1 | University of Wisconsin: 1
+
+54 groundtruth publications, 54 matched, 54 matched title-year pair
+Groundtruth pairs total: 637, between matched pubs: 637
+Arnet total pairs: 324
+Arnet total correct pairs: 287
+Summary:
+Prec: 0.8858. Recall: 0.4505. F1: 0.5973
+
+
+joseph hellerstein:
+Open groundtruth file 'joseph hellerstein-labels.txt' to process...
+WARN: Two papers are with the same title/year:
+The Asilomar Report on Database Research
+philip a. bernstein, michael l. brodie, stefano ceri, david j. dewitt, michael j. franklin, hector garcia-molina, jim gray, gerald held, joseph hellerstein, h. v. jagadish, michael lesk, david maier, jeffrey f. naughton, hamid pirahesh, michael stonebraker, jeffrey d. ullman
+1998. CoRR. key: journals/corr/cs-DB-9811013
+The Asilomar Report on Database Research
+philip a. bernstein, michael l. brodie, stefano ceri, david j. dewitt, michael j. franklin, hector garcia-molina, jim gray, gerald held, joseph hellerstein, h. v. jagadish, michael lesk, david maier, jeffrey f. naughton, hamid pirahesh, michael stonebraker, jeffrey d. ullman
+1998. SIGMOD Record. key: journals/sigmod/BernsteinBCDFGGHHJLMNPSU98
+
+WARN: Two papers are with the same title/year:
+Multiresolution Cube Estimators for Sensor Network Aggregate Queries
+alexandra meliou, carlos guestrin, joseph hellerstein
+2010. AMW. key: conf/amw/MeliouGH10
+Multiresolution Cube Estimators for Sensor Network Aggregate Queries
+alexandra meliou, carlos guestrin, joseph hellerstein
+2010. CoRR. key: journals/corr/abs-1007-3781
+
+235 publications of 2 authors loaded
+CS, Berkeley: 141 | Google, Inc [was in IBM T. J. Watson Research Center]: 94
+Groundtruth total pairs: 14241
+
+Open Arnetminer file 'arnet/joseph hellerstein-arnet.txt' to process...
+EECS Computer Science Division, UC Berkeley [1170134]:
+161 pubs read, 17 unmatched. 144 matched, distribution:
+CS, Berkeley: 139 | Google, Inc [was in IBM T. J. Watson Research Center]: 5
+
+[1153653]:
+103 pubs read, 13 unmatched. 90 matched, distribution:
+Google, Inc [was in IBM T. J. Watson Research Center]: 89 | CS, Berkeley: 1
+
+264 pubs of 2 Arnet authors loaded. Matched:
+EECS Computer Science Division, UC Berkeley [1170134]: 144 | [1153653]: 90
+Correspond to 2 true authors:
+CS, Berkeley: 140 | Google, Inc [was in IBM T. J. Watson Research Center]: 94
+
+235 groundtruth publications, 234 matched, 232 matched title-year pair
+Groundtruth pairs total: 14241, between matched pubs: 14101
+Arnet total pairs: 14301
+Arnet total correct pairs: 13517
+Summary:
+Prec: 0.9452. Recall: 0.9586. F1: 0.9518
+
+
+lei wang:
+Open groundtruth file 'lei wang-labels.txt' to process...
+405 publications of 146 authors loaded
+Australian National University: 44 | [leiwang@engr.uconn.edu] University of Connecticut: 25 | [wl@ncic.ac.cn] ICT, CAS: 19 | The University of Electro-Communications, Chofu-shi, Tokyo, Japan: 14 | [leiwang@xaut.edu.cn] Xi'an University of Technology: 13 | UTDallas: 10 | [lwang@cc.gatech.edu] College of Computing, Georgia Tech: 9 | National University of Defense Technology, China: 8 | Department of Electronics, University of York: 8 | [alwaysbeing@cs.zju.edu.cn] Zhejiang University: 8 | [wanglei@buaa.edu.cn] BUAA: 8 | [lei.wang@dlut.edu.cn] School of Software, Dalian University of Technology: 7 | [wanglei@hnu.cn] sup by Yaping Lin, Hunan University: 6 | [wanglei@tongji.edu.cn] Tongji University: 6 | [wanglei@cis.pku.edu.cn] Peking University: 5 | Nanjing University of Posts and Telecom: 5 | Queensland University of Technology: 4 | [wlei@ict.ac.cn] student, ICT, CAS: 4 | [wanglei99@mails.tsinghua.edu.cn] CS, Tsinghua University: 4 | SCE, NTU: 4 | [leiw@hp.com] HP Labs China: 4 | Microprocessor Technology Laboratories, HP: 4 | UESTC: 4 | EEE, NTU: 4 | Bond University: 3 | co with assoc/P xin yuan, CS, Zhejiang University: 3 | Brigham Young University: 3 | Waseda University: 3 | PLA University of Science and Technology: 3 | University of Waterloo: 3 | SmartOps Corporation, Pittsburgh: 3 | PAI Group, University of Fribourg, Switzerland: 3 | College of Economics and Management, Nanjing Forestry University: 3 | [leiwangxd@gmail.com] SE Institute, Xidian University: 2 | EE, University of Southern California: 2 | University of Cincinnati: 2 | Peking University, Shenzhen: 2 | Deutsche Bank AG: 2 | Northeastern University, China: 2 | sup by Dafang Zhang, Hunan University: 2 | Lab of Optical Communication and Lightwave Technologies, BUPT: 2 | [wanglei_hn@ie165.com] CIS, Fujian University of Technology: 2 | School of Electronic Engineering, Xidian University: 2 | Center for Imaging Science, Washington University: 2 | UCSB: 2 | [wlei04@mails.tsinghua.edu.cn] Automation, Tsinghua University: 2 | Hebei University of Science and Technology: 2 | Shenyang Institute of Engineering: 2 | Lanzhou University of Technology: 2 | University of North Carolina: 2 | Shenyang Neusoft Software Co., Ltd: 2 | TRLabs, Saskatoon/Calgary, Canada: 2 | Lab of e-Business, Peking University: 2 | Southwest Jiaotong University: 2 | Alcatel Shanghai Bell Co., Ltd: 2 | TAMU: 2 | University of Houston: 2 | Kyoto University: 2 | [leiwang03@mails.tsinghua.edu.cn] Automation, Tsinghua University: 2 | Department of Applied Mathematics, Dalian University of Technology: 2 | Comm, Xi'an Jiaotong University: 2 | Hanyang University: 2 | University of Michigan: 2 | Beijing Institute of Genomics, CAS: 2 | National Institute of Metrology, Beijing: 2 | Feng Chia University, Taiwan: 2 | [wanglei@ics.uci.edu] University of California, Irvine: 2 | Shenzhen Institute of Advanced Technology, CAS: 2 | Department of Mathematics, Zhejiang University: 2 | student 2, ICT, CAS: 2 | Institute of Intelligent Information Processing, Xidian University: 2 | Soochow University: 1 | Institute of Software, CAS: 1 | Department of Medicine, UCSD: 1 | Soochow University 2: 1 | Northwestern Polytechnical University, Xi An, China: 1 | Hunan University 2: 1 | Yanshan University: 1 | Rutgers University: 1 | University Duisburg-Essen, Germany: 1 | Imperial College London: 1 | Tianjin University: 1 | Daqing Petroleum Institute: 1 | Shanghai University: 1 | [leiwang@tongji.edu.cn] CDHK, Tongji University: 1 | Stony Brook University: 1 | College of Science, Hefei University of Technology: 1 | Intel China Research Center: 1 | Institute of Automation, CAS: 1 | Material, Harbin University of Science and Technology: 1 | Harbin Engineering University: 1 | Hebei University of Technology: 1 | Beijing University of Technology: 1 | Port and Shipping Management, Bureau of Yantai: 1 | Maxim Integrated Products Boston Design Center: 1 | Fudan University: 1 | Shandong University of Technology: 1 | Harbin Institute of Technology Shenzhen Graduate School: 1 | University of Wollongong: 1 | CS, Xi'an Jiaotong University: 1 | Hubei University of Economics: 1 | Beijing Information of Science and Technology University: 1 | Fraunhofer MEVIS, Germany: 1 | Shandong University: 1 | Washington State University: 1 | Zhongshan University: 1 | Staff room of Electronic and Technology, Chongqing Communication College: 1 | [sarahwanglei@gmail.com] BUAA: 1 | Institute of Electronics and Information Engineering, Tongji University: 1 | Queen's University: 1 | School of Management, Harbin Institute of Technology: 1 | Institute of Information Science, Beijing Jiaotong University: 1 | NUAA: 1 | Institute of computing theory and technology, Xidian University: 1 | CAS-MPG PICB, Shanghai: 1 | University of New Brunswick: 1 | Lab of Computer Networks and Information Security, Xidian University: 1 | EIEE, Fujian University of Technology: 1 | EEE, NTU 2: 1 | Lab of Universal Wireless Communications, BUPT, China: 1 | SE Institute, Xidian University: 1 | China University of Mining and Technology: 1 | Information Engineering School, Communication University of China: 1 | C4ISR, National University of Defense Technology, China: 1 | Tianjin Polytechnic University: 1 | College of Engineering Technolog, Northeast Forestry University: 1 | He'nan Electric Power Research Institute: 1 | [wangleics@pku.edu.cn] Lab of Computational Linguistics, Peking University: 1 | Beijing Forestry University: 1 | Louisiana State University: 1 | USTC: 1 | Xinjiang Medical University: 1 | [1976] Computer Architecture, Xi'an Jiaotong University: 1 | Bell Labs Research China: 1 | Department of Mathematics, Georgia Tech: 1 | Department of Psychiatry, Washington University in St. Louis: 1 | TAMU 2: 1 | Lab of Fluid Mechanics, BUAA: 1 | Shanghai Institute of Microsystem and Information Technology: 1 | Wuhan University: 1 | School of Computer and Information, Hefei University of Technology: 1 | Huaxun Microelectronics Corporation: 1 | Lab of Modern Optical Instrumentation, Zhejiang University: 1 | Department of Mathematics, Huazhong University of Science and Technology: 1 | NTU: 1 | Civil Aviation University of China: 1
+Groundtruth total pairs: 1963
+
+Open Arnetminer file 'arnet/lei wang-arnet.txt' to process...
+!!!!!! WARN: Too many papers matching the same groundtruth paper(s):
+Positive Semidefinite Metric Learning with Boosting
+chunhua shen, junae kim, lei wang, anton van den hengel
+2009. NIPS
+Positive Semidefinite Metric Learning with Boosting
+chunhua shen, junae kim, lei wang, anton van den hengel
+2009. CoRR
+Groundtruth paper:
+Positive Semidefinite Metric Learning with Boosting
+chunhua shen, junae kim, lei wang, anton van den hengel
+2009. CoRR. key: journals/corr/abs-0910-2279
+College of Engineering and Computer Science [CECS], The Australian National University [ANU] [505277]:
+204 pubs read, 114 unmatched. 90 matched, distribution:
+Australian National University: 39 | [wl@ncic.ac.cn] ICT, CAS: 18 | National University of Defense Technology, China: 8 | SCE, NTU: 4 | [wanglei99@mails.tsinghua.edu.cn] CS, Tsinghua University: 4 | EEE, NTU: 4 | [wlei@ict.ac.cn] student, ICT, CAS: 3 | Deutsche Bank AG: 2 | [leiwang03@mails.tsinghua.edu.cn] Automation, Tsinghua University: 2 | [wlei04@mails.tsinghua.edu.cn] Automation, Tsinghua University: 2 | Material, Harbin University of Science and Technology: 1 | Hebei University of Technology: 1 | Beijing University of Technology: 1 | EEE, NTU 2: 1
+
+[505327]:
+82 pubs read, 2 unmatched. 80 matched, distribution:
+Australian National University: 4 | University of Michigan: 2 | [wanglei@ics.uci.edu] University of California, Irvine: 2 | UCSB: 2 | Shenzhen Institute of Advanced Technology, CAS: 2 | National Institute of Metrology, Beijing: 2 | Shenyang Neusoft Software Co., Ltd: 2 | Beijing Institute of Genomics, CAS: 2 | Kyoto University: 2 | [wanglei@buaa.edu.cn] BUAA: 2 | Department of Mathematics, Zhejiang University: 2 | School of Electronic Engineering, Xidian University: 2 | Shenyang Institute of Engineering: 2 | [lwang@cc.gatech.edu] College of Computing, Georgia Tech: 2 | SE Institute, Xidian University: 1 | Hunan University 2: 1 | Department of Electronics, University of York: 1 | Washington State University: 1 | China University of Mining and Technology: 1 | [leiwang@xaut.edu.cn] Xi'an University of Technology: 1 | Yanshan University: 1 | [wangleics@pku.edu.cn] Lab of Computational Linguistics, Peking University: 1 | Feng Chia University, Taiwan: 1 | College of Economics and Management, Nanjing Forestry University: 1 | Harbin Institute of Technology Shenzhen Graduate School: 1 | School of Management, Harbin Institute of Technology: 1 | EIEE, Fujian University of Technology: 1 | Port and Shipping Management, Bureau of Yantai: 1 | University of New Brunswick: 1 | Daqing Petroleum Institute: 1 | Queen's University: 1 | Tianjin University: 1 | Fudan University: 1 | Department of Psychiatry, Washington University in St. Louis: 1 | CS, Xi'an Jiaotong University: 1 | Lab of Computer Networks and Information Security, Xidian University: 1 | Stony Brook University: 1 | Soochow University: 1 | Imperial College London: 1 | School of Computer and Information, Hefei University of Technology: 1 | Department of Medicine, UCSD: 1 | Xinjiang Medical University: 1 | [leiwang@engr.uconn.edu] University of Connecticut: 1 | Lab of Fluid Mechanics, BUAA: 1 | Lab of Modern Optical Instrumentation, Zhejiang University: 1 | Civil Aviation University of China: 1 | College of Science, Hefei University of Technology: 1 | USTC: 1 | Information Engineering School, Communication University of China: 1 | Intel China Research Center: 1 | University Duisburg-Essen, Germany: 1 | CAS-MPG PICB, Shanghai: 1 | Staff room of Electronic and Technology, Chongqing Communication College: 1 | [1976] Computer Architecture, Xi'an Jiaotong University: 1 | Tianjin Polytechnic University: 1 | NTU: 1 | Shanghai University: 1 | C4ISR, National University of Defense Technology, China: 1 | [lei.wang@dlut.edu.cn] School of Software, Dalian University of Technology: 1 | University of Wollongong: 1 | Beijing Forestry University: 1 | [wl@ncic.ac.cn] ICT, CAS: 1 | Shandong University of Technology: 1 | Department of Mathematics, Georgia Tech: 1
+
+Bond University, Queensland, Australia [505278]:
+45 pubs read, 9 unmatched. 36 matched, distribution:
+Nanjing University of Posts and Telecom: 5 | [leiw@hp.com] HP Labs China: 4 | Bond University: 3 | TAMU: 2 | Southwest Jiaotong University: 2 | Hebei University of Science and Technology: 2 | [wanglei@hnu.cn] sup by Yaping Lin, Hunan University: 2 | [leiwang@tongji.edu.cn] CDHK, Tongji University: 1 | Beijing Information of Science and Technology University: 1 | [wlei@ict.ac.cn] student, ICT, CAS: 1 | Institute of Information Science, Beijing Jiaotong University: 1 | Zhongshan University: 1 | Department of Mathematics, Huazhong University of Science and Technology: 1 | College of Engineering Technolog, Northeast Forestry University: 1 | Wuhan University: 1 | Shandong University: 1 | Harbin Engineering University: 1 | Institute of Software, CAS: 1 | Northwestern Polytechnical University, Xi An, China: 1 | Australian National University: 1 | Fraunhofer MEVIS, Germany: 1 | PLA University of Science and Technology: 1 | He'nan Electric Power Research Institute: 1
+
+Inst. of Intell. Inf. Process., Xidian Univ., Xi'an, Comput. Sch., Beijing Univ. of Aeronaut. & Astronaut., Beijing, School of Computer Science & Technology, Soochow University, Suzhou, 215006, China, Department of Computer Science, University of Texas at Dallas, Richardson, USA 75083, School of Computer Science and Engineering, University of Electronic Science and Technology of China, Chengdu, Si Chuan 610054, China, School of Economics Information Engineering, Southwest University of Finance and Economics, Chengdu, China 610074 and Research Center of China Payment System, Southwest University of Finance and Economics, Chengdu, China 610074, Xi'an University of Technology, Xi'an, China, Dept. of Comput. Sci., Univ. of Texas at Dallas, Dallas, TX, Sch. of Comput. Sci. & Eng., BeiHang Univ., Beijing, School of Computer Science & Engineering, University of Electronic Science & Technology of China, Chengdu, 610054, P.R. China, Sch. of Econ. Inf. Eng., Southwestern Univ. of Finance & Econ., Chengdu, Beijing University of Aeronautics and Astronautics [505290]:
+39 pubs read, 5 unmatched. 34 matched, distribution:
+[leiwang@xaut.edu.cn] Xi'an University of Technology: 10 | UTDallas: 10 | [wanglei@buaa.edu.cn] BUAA: 5 | UESTC: 3 | [leiwangxd@gmail.com] SE Institute, Xidian University: 2 | Institute of Intelligent Information Processing, Xidian University: 2 | Soochow University 2: 1 | Institute of computing theory and technology, Xidian University: 1
+
+Department of Applied Mathematics, Dalian University of Technology, Dalian, 116024, PR China, Digital Enterprise Res. Inst., Nat. Univ. of Ireland, Galway, Ireland [505316]:
+29 pubs read, 21 unmatched. 8 matched, distribution:
+[lei.wang@dlut.edu.cn] School of Software, Dalian University of Technology: 6 | Department of Applied Mathematics, Dalian University of Technology: 2
+
+University of Connecticut, Storrs, CT, USA, Univ. of Connecticut, Storrs, CT [505325]:
+26 pubs read, 2 unmatched. 24 matched, distribution:
+[leiwang@engr.uconn.edu] University of Connecticut: 24
+
+The University of Electro-Communications,, The author is with the School of Electronic, Information and Electrical Engineering, Shanghai Jiao Tong University, P.R.China., [505319]:
+24 pubs read, 10 unmatched. 14 matched, distribution:
+The University of Electro-Communications, Chofu-shi, Tokyo, Japan: 14
+
+Sch. of Mech. & Autom. Eng., Shanghai Inst. of Technol., Shanghai, Tongji University, China [505284]:
+15 pubs read, 7 unmatched. 8 matched, distribution:
+[wanglei@tongji.edu.cn] Tongji University: 6 | Louisiana State University: 1 | Institute of Electronics and Information Engineering, Tongji University: 1
+
+College of Computer Science, Zhejiang University [505321]:
+9 pubs read, 1 unmatched. 8 matched, distribution:
+[alwaysbeing@cs.zju.edu.cn] Zhejiang University: 8
+
+Shenzhen Graduate School of Peking University, Shenzhen, China [505285]:
+9 pubs read, 0 unmatched. 9 matched, distribution:
+[wanglei@cis.pku.edu.cn] Peking University: 5 | Peking University, Shenzhen: 2 | Lab of e-Business, Peking University: 2
+
+Communications Research Group, Department of Electronics, The University of York, York YO10 5DD, UK, Dept. of Electron., Univ. of York, York [505299]:
+8 pubs read, 1 unmatched. 7 matched, distribution:
+Department of Electronics, University of York: 7
+
+Department of Mathematics, Georgia Institute of Technology, Atlanta, GA [505293]:
+8 pubs read, 1 unmatched. 7 matched, distribution:
+[lwang@cc.gatech.edu] College of Computing, Georgia Tech: 7
+
+Queensland University of Technology, Brisbane Qld, Australia [505282]:
+6 pubs read, 0 unmatched. 6 matched, distribution:
+Queensland University of Technology: 4 | student 2, ICT, CAS: 2
+
+Brigham Young Univ. Provo, Provo, Computer Science Department, Brigham Young University, Provo, UT 84602-6576, USA [505300]:
+6 pubs read, 3 unmatched. 3 matched, distribution:
+Brigham Young University: 3
+
+[505289]:
+6 pubs read, 1 unmatched. 5 matched, distribution:
+Waseda University: 3 | Comm, Xi'an Jiaotong University: 2
+
+Coordinated Science Laboratory, Department of Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, 1308 West Main Street, Urbana, IL, Coordinated Sci. Lab., Illinois Univ., Urbana, IL, Microprocessor Technol. Labs., Hewlett-Packard Co., Fort Collins, CO, USA, Microprocessor Technology Laboratories, Hewlett-Packard Company, Fort Collins, CO [505306]:
+5 pubs read, 1 unmatched. 4 matched, distribution:
+Microprocessor Technology Laboratories, HP: 4
+
+Dept. of Electr. & Comput. Eng., Univ. of Houston, Houston, TX [505292]:
+5 pubs read, 3 unmatched. 2 matched, distribution:
+University of Houston: 2
+
+Multimedia Center, Beijing Univ. of Posts Telecommun. [505322]:
+5 pubs read, 2 unmatched. 3 matched, distribution:
+Lab of Optical Communication and Lightwave Technologies, BUPT: 2 | Lab of Universal Wireless Communications, BUPT, China: 1
+
+Department of Computer Science, Hunan University, Hunan, Changsha, P.R. China, wanglei@hnu.cn, Fujian University of Technology, China [505323]:
+4 pubs read, 0 unmatched. 4 matched, distribution:
+[wanglei@hnu.cn] sup by Yaping Lin, Hunan University: 4
+
+Dept. of Electr. & Comput. Eng., Univ. of Waterloo, Ont., Canada [505310]:
+3 pubs read, 0 unmatched. 3 matched, distribution:
+University of Waterloo: 3
+
+[505303]:
+3 pubs read, 0 unmatched. 3 matched, distribution:
+co with assoc/P xin yuan, CS, Zhejiang University: 3
+
+Dept. of Informatics, Fribourg Univ., Switzerland [505309]:
+3 pubs read, 0 unmatched. 3 matched, distribution:
+PAI Group, University of Fribourg, Switzerland: 3
+
+SmartOps Corporation, Pittsburgh, Pennsylvania 15212 [505313]:
+3 pubs read, 0 unmatched. 3 matched, distribution:
+SmartOps Corporation, Pittsburgh: 3
+
+Sch. of Mech. Eng. & Autom., Northeastern Univ., Shenyang, China [505311]:
+3 pubs read, 1 unmatched. 2 matched, distribution:
+Northeastern University, China: 2
+
+Department of Applied Mathematics and Statistics, Hubei University of Economics, Wuhan, China 430205 [505317]:
+3 pubs read, 0 unmatched. 3 matched, distribution:
+Lanzhou University of Technology: 2 | Hubei University of Economics: 1
+
+[505279]:
+2 pubs read, 0 unmatched. 2 matched, distribution:
+[wanglei_hn@ie165.com] CIS, Fujian University of Technology: 2
+
+Dept. of EE - Syst., Univ. of Southern California, Los Angeles, CA, USA, University of Southern California, Los Angeles, CA [505304]:
+2 pubs read, 0 unmatched. 2 matched, distribution:
+EE, University of Southern California: 2
+
+[505287]:
+2 pubs read, 0 unmatched. 2 matched, distribution:
+University of North Carolina: 2
+
+[505281]:
+2 pubs read, 0 unmatched. 2 matched, distribution:
+University of Cincinnati: 2
+
+Beijing University of Aeronautics & Astronautics, China [505286]:
+2 pubs read, 0 unmatched. 2 matched, distribution:
+[wanglei@buaa.edu.cn] BUAA: 1 | [sarahwanglei@gmail.com] BUAA: 1
+
+Dept. of Comput. Sci., Saskatchewan Univ., Saskatoon, Sask. [505288]:
+2 pubs read, 0 unmatched. 2 matched, distribution:
+TRLabs, Saskatoon/Calgary, Canada: 2
+
+Fac. of Comput. Sci. & Eng., Xi'an Univ. of Technol., Xi'an [505291]:
+2 pubs read, 0 unmatched. 2 matched, distribution:
+[leiwang@xaut.edu.cn] Xi'an University of Technology: 2
+
+Alcatel Shanghai Bell Co. Ltd., Shanghai [505296]:
+2 pubs read, 0 unmatched. 2 matched, distribution:
+Alcatel Shanghai Bell Co., Ltd: 2
+
+Department of Psychiatry, Washington University School of Medicine, St. Louis, MO, 63110, Centre for Intelligent Machines, McGill Univ., Montreal, Que., Div. of Appl. Sci., Harvard Univ., Cambridge, MA [505298]:
+2 pubs read, 0 unmatched. 2 matched, distribution:
+Center for Imaging Science, Washington University: 2
+
+Dept. of Electrical Engineering of Feng Chia University, [505301]:
+2 pubs read, 1 unmatched. 1 matched, distribution:
+Feng Chia University, Taiwan: 1
+
+[505283]:
+2 pubs read, 0 unmatched. 2 matched, distribution:
+sup by Dafang Zhang, Hunan University: 2
+
+Inst. of Autom., Chinese Acad. of Sci., Beijing [505297]:
+2 pubs read, 1 unmatched. 1 matched, distribution:
+Institute of Automation, CAS: 1
+
+Coll. of Econ. & Manage., Nanjing Forestry Univ., Nanjing [505295]:
+2 pubs read, 0 unmatched. 2 matched, distribution:
+College of Economics and Management, Nanjing Forestry University: 2
+
+[505302]:
+2 pubs read, 0 unmatched. 2 matched, distribution:
+Hanyang University: 2
+
+Tianjin University, Tianjin, People's Republic of China [505312]:
+1 pubs read, 0 unmatched. 1 matched, distribution:
+Bell Labs Research China: 1
+
+Department of Computer Science and Engineering, Texas A&MUniversity, College Station, 77843 USA [505326]:
+1 pubs read, 0 unmatched. 1 matched, distribution:
+TAMU 2: 1
+
+Institute of Signal Processing and Transmission, Nanjing University of Posts and Telecommunications, Nanjing, P. R. of China, Nanjing Univ. of Aeronaut. & Astronaut., Nanjing, College of Information Science and Technology, Nanjing University of Aeronautics and Astronautics, Nanjing, China [505315]:
+1 pubs read, 0 unmatched. 1 matched, distribution:
+NUAA: 1
+
+Maxim Integrated Products Boston Design Center, Chelmsford, MA, USA, New England Design Center, Maxim Integrated Products, North Chelmsford, MA, USA [505314]:
+1 pubs read, 0 unmatched. 1 matched, distribution:
+Maxim Integrated Products Boston Design Center: 1
+
+Rutgers University, Department of Computer Science, Piscataway, NJ, USA [505294]:
+1 pubs read, 0 unmatched. 1 matched, distribution:
+Rutgers University: 1
+
+586 pubs of 44 Arnet authors loaded. Matched:
+College of Engineering and Computer Science [CECS], The Australian National University [ANU] [505277]: 90 | [505327]: 80 | Bond University, Queensland, Australia [505278]: 36 | Inst. of Intell. Inf. Process., Xidian Univ., Xi'an, Comput. Sch., Beijing Univ. of Aeronaut. & Astronaut., Beijing, School of Computer Science & Technology, Soochow University, Suzhou, 215006, China, Department of Computer Science, University of Texas at Dallas, Richardson, USA 75083, School of Computer Science and Engineering, University of Electronic Science and Technology of China, Chengdu, Si Chuan 610054, China, School of Economics Information Engineering, Southwest University of Finance and Economics, Chengdu, China 610074 and Research Center of China Payment System, Southwest University of Finance and Economics, Chengdu, China 610074, Xi'an University of Technology, Xi'an, China, Dept. of Comput. Sci., Univ. of Texas at Dallas, Dallas, TX, Sch. of Comput. Sci. & Eng., BeiHang Univ., Beijing, School of Computer Science & Engineering, University of Electronic Science & Technology of China, Chengdu, 610054, P.R. China, Sch. of Econ. Inf. Eng., Southwestern Univ. of Finance & Econ., Chengdu, Beijing University of Aeronautics and Astronautics [505290]: 34 | University of Connecticut, Storrs, CT, USA, Univ. of Connecticut, Storrs, CT [505325]: 24 | The University of Electro-Communications,, The author is with the School of Electronic, Information and Electrical Engineering, Shanghai Jiao Tong University, P.R.China., [505319]: 14 | Shenzhen Graduate School of Peking University, Shenzhen, China [505285]: 9 | Department of Applied Mathematics, Dalian University of Technology, Dalian, 116024, PR China, Digital Enterprise Res. Inst., Nat. Univ. of Ireland, Galway, Ireland [505316]: 8 | Sch. of Mech. & Autom. Eng., Shanghai Inst. of Technol., Shanghai, Tongji University, China [505284]: 8 | College of Computer Science, Zhejiang University [505321]: 8 | Communications Research Group, Department of Electronics, The University of York, York YO10 5DD, UK, Dept. of Electron., Univ. of York, York [505299]: 7 | Department of Mathematics, Georgia Institute of Technology, Atlanta, GA [505293]: 7 | Queensland University of Technology, Brisbane Qld, Australia [505282]: 6 | [505289]: 5 | Coordinated Science Laboratory, Department of Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, 1308 West Main Street, Urbana, IL, Coordinated Sci. Lab., Illinois Univ., Urbana, IL, Microprocessor Technol. Labs., Hewlett-Packard Co., Fort Collins, CO, USA, Microprocessor Technology Laboratories, Hewlett-Packard Company, Fort Collins, CO [505306]: 4 | Department of Computer Science, Hunan University, Hunan, Changsha, P.R. China, wanglei@hnu.cn, Fujian University of Technology, China [505323]: 4 | Brigham Young Univ. Provo, Provo, Computer Science Department, Brigham Young University, Provo, UT 84602-6576, USA [505300]: 3 | Multimedia Center, Beijing Univ. of Posts Telecommun. [505322]: 3 | Dept. of Electr. & Comput. Eng., Univ. of Waterloo, Ont., Canada [505310]: 3 | [505303]: 3 | Dept. of Informatics, Fribourg Univ., Switzerland [505309]: 3 | SmartOps Corporation, Pittsburgh, Pennsylvania 15212 [505313]: 3 | Department of Applied Mathematics and Statistics, Hubei University of Economics, Wuhan, China 430205 [505317]: 3 | Dept. of Electr. & Comput. Eng., Univ. of Houston, Houston, TX [505292]: 2 | Sch. of Mech. Eng. & Autom., Northeastern Univ., Shenyang, China [505311]: 2 | [505279]: 2 | Dept. of EE - Syst., Univ. of Southern California, Los Angeles, CA, USA, University of Southern California, Los Angeles, CA [505304]: 2 | [505287]: 2 | [505281]: 2 | Beijing University of Aeronautics & Astronautics, China [505286]: 2 | Dept. of Comput. Sci., Saskatchewan Univ., Saskatoon, Sask. [505288]: 2 | Fac. of Comput. Sci. & Eng., Xi'an Univ. of Technol., Xi'an [505291]: 2 | Alcatel Shanghai Bell Co. Ltd., Shanghai [505296]: 2 | Department of Psychiatry, Washington University School of Medicine, St. Louis, MO, 63110, Centre for Intelligent Machines, McGill Univ., Montreal, Que., Div. of Appl. Sci., Harvard Univ., Cambridge, MA [505298]: 2 | [505283]: 2 | Coll. of Econ. & Manage., Nanjing Forestry Univ., Nanjing [505295]: 2 | [505302]: 2 | Dept. of Electrical Engineering of Feng Chia University, [505301]: 1 | Inst. of Autom., Chinese Acad. of Sci., Beijing [505297]: 1 | Tianjin University, Tianjin, People's Republic of China [505312]: 1 | Department of Computer Science and Engineering, Texas A&MUniversity, College Station, 77843 USA [505326]: 1 | Institute of Signal Processing and Transmission, Nanjing University of Posts and Telecommunications, Nanjing, P. R. of China, Nanjing Univ. of Aeronaut. & Astronaut., Nanjing, College of Information Science and Technology, Nanjing University of Aeronautics and Astronautics, Nanjing, China [505315]: 1 | Maxim Integrated Products Boston Design Center, Chelmsford, MA, USA, New England Design Center, Maxim Integrated Products, North Chelmsford, MA, USA [505314]: 1 | Rutgers University, Department of Computer Science, Piscataway, NJ, USA [505294]: 1
+Correspond to 144 true authors:
+Australian National University: 44 | [leiwang@engr.uconn.edu] University of Connecticut: 25 | [wl@ncic.ac.cn] ICT, CAS: 19 | The University of Electro-Communications, Chofu-shi, Tokyo, Japan: 14 | [leiwang@xaut.edu.cn] Xi'an University of Technology: 13 | UTDallas: 10 | [lwang@cc.gatech.edu] College of Computing, Georgia Tech: 9 | [wanglei@buaa.edu.cn] BUAA: 8 | Department of Electronics, University of York: 8 | [alwaysbeing@cs.zju.edu.cn] Zhejiang University: 8 | National University of Defense Technology, China: 8 | [lei.wang@dlut.edu.cn] School of Software, Dalian University of Technology: 7 | [wanglei@tongji.edu.cn] Tongji University: 6 | [wanglei@hnu.cn] sup by Yaping Lin, Hunan University: 6 | Nanjing University of Posts and Telecom: 5 | [wanglei@cis.pku.edu.cn] Peking University: 5 | [wlei@ict.ac.cn] student, ICT, CAS: 4 | SCE, NTU: 4 | EEE, NTU: 4 | [leiw@hp.com] HP Labs China: 4 | Queensland University of Technology: 4 | [wanglei99@mails.tsinghua.edu.cn] CS, Tsinghua University: 4 | Microprocessor Technology Laboratories, HP: 4 | Waseda University: 3 | College of Economics and Management, Nanjing Forestry University: 3 | SmartOps Corporation, Pittsburgh: 3 | Bond University: 3 | UESTC: 3 | PAI Group, University of Fribourg, Switzerland: 3 | Brigham Young University: 3 | University of Waterloo: 3 | co with assoc/P xin yuan, CS, Zhejiang University: 3 | [leiwangxd@gmail.com] SE Institute, Xidian University: 2 | [wanglei@ics.uci.edu] University of California, Irvine: 2 | UCSB: 2 | TAMU: 2 | Peking University, Shenzhen: 2 | National Institute of Metrology, Beijing: 2 | Kyoto University: 2 | Department of Applied Mathematics, Dalian University of Technology: 2 | Hanyang University: 2 | Department of Mathematics, Zhejiang University: 2 | student 2, ICT, CAS: 2 | University of North Carolina: 2 | Shenyang Institute of Engineering: 2 | Center for Imaging Science, Washington University: 2 | EE, University of Southern California: 2 | University of Michigan: 2 | Feng Chia University, Taiwan: 2 | Comm, Xi'an Jiaotong University: 2 | Shenzhen Institute of Advanced Technology, CAS: 2 | Lanzhou University of Technology: 2 | Shenyang Neusoft Software Co., Ltd: 2 | sup by Dafang Zhang, Hunan University: 2 | Beijing Institute of Genomics, CAS: 2 | [wanglei_hn@ie165.com] CIS, Fujian University of Technology: 2 | Lab of e-Business, Peking University: 2 | University of Houston: 2 | [wlei04@mails.tsinghua.edu.cn] Automation, Tsinghua University: 2 | Alcatel Shanghai Bell Co., Ltd: 2 | Lab of Optical Communication and Lightwave Technologies, BUPT: 2 | [leiwang03@mails.tsinghua.edu.cn] Automation, Tsinghua University: 2 | Southwest Jiaotong University: 2 | School of Electronic Engineering, Xidian University: 2 | Hebei University of Science and Technology: 2 | Deutsche Bank AG: 2 | TRLabs, Saskatoon/Calgary, Canada: 2 | Institute of Intelligent Information Processing, Xidian University: 2 | Northeastern University, China: 2 | University of Cincinnati: 2 | Louisiana State University: 1 | SE Institute, Xidian University: 1 | Hunan University 2: 1 | Washington State University: 1 | [wangleics@pku.edu.cn] Lab of Computational Linguistics, Peking University: 1 | Institute of Automation, CAS: 1 | Harbin Institute of Technology Shenzhen Graduate School: 1 | Institute of Information Science, Beijing Jiaotong University: 1 | Port and Shipping Management, Bureau of Yantai: 1 | Daqing Petroleum Institute: 1 | Fudan University: 1 | Institute of Electronics and Information Engineering, Tongji University: 1 | Wuhan University: 1 | Lab of Computer Networks and Information Security, Xidian University: 1 | Stony Brook University: 1 | Rutgers University: 1 | Shandong University: 1 | Harbin Engineering University: 1 | Imperial College London: 1 | Institute of Software, CAS: 1 | School of Computer and Information, Hefei University of Technology: 1 | Xinjiang Medical University: 1 | NUAA: 1 | College of Science, Hefei University of Technology: 1 | Soochow University 2: 1 | CAS-MPG PICB, Shanghai: 1 | He'nan Electric Power Research Institute: 1 | Staff room of Electronic and Technology, Chongqing Communication College: 1 | Bell Labs Research China: 1 | Shanghai University: 1 | C4ISR, National University of Defense Technology, China: 1 | University of Wollongong: 1 | Beijing Forestry University: 1 | Hubei University of Economics: 1 | Lab of Universal Wireless Communications, BUPT, China: 1 | [leiwang@tongji.edu.cn] CDHK, Tongji University: 1 | China University of Mining and Technology: 1 | Beijing Information of Science and Technology University: 1 | Yanshan University: 1 | School of Management, Harbin Institute of Technology: 1 | EIEE, Fujian University of Technology: 1 | Maxim Integrated Products Boston Design Center: 1 | Zhongshan University: 1 | University of New Brunswick: 1 | Department of Mathematics, Huazhong University of Science and Technology: 1 | Queen's University: 1 | Hebei University of Technology: 1 | Tianjin University: 1 | Department of Psychiatry, Washington University in St. Louis: 1 | College of Engineering Technolog, Northeast Forestry University: 1 | CS, Xi'an Jiaotong University: 1 | Soochow University: 1 | Northwestern Polytechnical University, Xi An, China: 1 | Department of Medicine, UCSD: 1 | Lab of Fluid Mechanics, BUAA: 1 | Beijing University of Technology: 1 | EEE, NTU 2: 1 | Lab of Modern Optical Instrumentation, Zhejiang University: 1 | Civil Aviation University of China: 1 | Fraunhofer MEVIS, Germany: 1 | USTC: 1 | Information Engineering School, Communication University of China: 1 | PLA University of Science and Technology: 1 | TAMU 2: 1 | University Duisburg-Essen, Germany: 1 | Intel China Research Center: 1 | [1976] Computer Architecture, Xi'an Jiaotong University: 1 | Tianjin Polytechnic University: 1 | NTU: 1 | [sarahwanglei@gmail.com] BUAA: 1 | Material, Harbin University of Science and Technology: 1 | Shandong University of Technology: 1 | Institute of computing theory and technology, Xidian University: 1 | Department of Mathematics, Georgia Tech: 1
+
+!!!!!! WARN: Matched groundtruth pub counts disagree: 400 != 401
+405 groundtruth publications, 400 matched, 400 matched title-year pair
+Groundtruth pairs total: 1963, between matched pubs: 1957
+Arnet total pairs: 8957
+Arnet total correct pairs: 1626
+Summary:
+Prec: 0.1815. Recall: 0.8309. F1: 0.298
+
+
+michael wagner:
+Open groundtruth file 'michael wagner-labels.txt' to process...
+61 publications of 16 authors loaded
+University of Canberra, Australia: 22 | Distributed Systems Group, University of Kassel, Germany: 9 | Cincinnati Children's Hospital Research Foundation: 6 | shared-reality.com, Germany: 5 | Department of Mathematics and Statistics, University of Saskatchewan, Canada: 3 | Compumedics Neuroscan, Germany: 2 | Robotics Institute, Carnegie Mellon University: 2 | Fraunhofer FOKUS, Germany: 2 | Lehrstuhl fur Mikrobiologie, TUM, Germany: 2 | Donau-Universitat Krems: 2 | Institut fur Informatik, TUM, Germany: 1 | Cornell: 1 | Department of Biomedical Informatics, University of Pittsburgh: 1 | University of Technology Darmstadt, Germany: 1 | University of Iowa: 1 | ZIH, TU Dresden, Germany: 1
+Groundtruth total pairs: 300
+
+Open Arnetminer file 'arnet/michael wagner-arnet.txt' to process...
+[622849]:
+24 pubs read, 18 unmatched. 6 matched, distribution:
+University of Canberra, Australia: 6
+
+[622862]:
+16 pubs read, 2 unmatched. 14 matched, distribution:
+University of Canberra, Australia: 2 | Fraunhofer FOKUS, Germany: 2 | Donau-Universitat Krems: 2 | Institut fur Informatik, TUM, Germany: 1 | Cornell: 1 | University of Technology Darmstadt, Germany: 1 | University of Iowa: 1 | Distributed Systems Group, University of Kassel, Germany: 1 | ZIH, TU Dresden, Germany: 1 | Department of Biomedical Informatics, University of Pittsburgh: 1 | Cincinnati Children's Hospital Research Foundation: 1
+
+[622851]:
+12 pubs read, 5 unmatched. 7 matched, distribution:
+University of Canberra, Australia: 7
+
+Universität Kassel, Kassel, Germany 34121 [622854]:
+10 pubs read, 2 unmatched. 8 matched, distribution:
+Distributed Systems Group, University of Kassel, Germany: 8
+
+[622852]:
+8 pubs read, 1 unmatched. 7 matched, distribution:
+University of Canberra, Australia: 7
+
+[622855]:
+6 pubs read, 1 unmatched. 5 matched, distribution:
+shared-reality.com, Germany: 5
+
+Cincinnati Children&#x2019;s Hospital Research Foundation, University of Cincinnati, Biomedical Informatics, OH 45229-3039, Cincinnati, USA [622850]:
+4 pubs read, 0 unmatched. 4 matched, distribution:
+Cincinnati Children's Hospital Research Foundation: 4
+
+[622860]:
+3 pubs read, 0 unmatched. 3 matched, distribution:
+Department of Mathematics and Statistics, University of Saskatchewan, Canada: 3
+
+[622853]:
+3 pubs read, 1 unmatched. 2 matched, distribution:
+Compumedics Neuroscan, Germany: 2
+
+[622858]:
+2 pubs read, 0 unmatched. 2 matched, distribution:
+Lehrstuhl fur Mikrobiologie, TUM, Germany: 2
+
+Carnegie Mellon University [622859]:
+2 pubs read, 0 unmatched. 2 matched, distribution:
+Robotics Institute, Carnegie Mellon University: 2
+
+!!!!!! WARN: Too many papers matching the same groundtruth paper(s):
+Preface
+michael wagner, dieter hogrefe, kurt geihs, klaus david
+2009. ECEASST
+Preface
+romain rouvoy, michael wagner
+2009. ECEASST
+Groundtruth paper:
+Preface
+michael wagner, dieter hogrefe, kurt geihs, klaus david
+2009. ECEASST. key: journals/eceasst/WagnerHGD09
+[622861]:
+2 pubs read, 2 unmatched. 0 matched, distribution:
+
+
+Cincinnati Children's Hospital, Medical Center, Cincinnati, OH [622857]:
+1 pubs read, 0 unmatched. 1 matched, distribution:
+Cincinnati Children's Hospital Research Foundation: 1
+
+93 pubs of 13 Arnet authors loaded. Matched:
+[622862]: 14 | Universität Kassel, Kassel, Germany 34121 [622854]: 8 | [622851]: 7 | [622852]: 7 | [622849]: 6 | [622855]: 5 | Cincinnati Children&#x2019;s Hospital Research Foundation, University of Cincinnati, Biomedical Informatics, OH 45229-3039, Cincinnati, USA [622850]: 4 | [622860]: 3 | [622853]: 2 | [622858]: 2 | Carnegie Mellon University [622859]: 2 | Cincinnati Children's Hospital, Medical Center, Cincinnati, OH [622857]: 1
+Correspond to 16 true authors:
+University of Canberra, Australia: 22 | Distributed Systems Group, University of Kassel, Germany: 9 | Cincinnati Children's Hospital Research Foundation: 6 | shared-reality.com, Germany: 5 | Department of Mathematics and Statistics, University of Saskatchewan, Canada: 3 | Compumedics Neuroscan, Germany: 2 | Robotics Institute, Carnegie Mellon University: 2 | Lehrstuhl fur Mikrobiologie, TUM, Germany: 2 | Fraunhofer FOKUS, Germany: 2 | Donau-Universitat Krems: 2 | Institut fur Informatik, TUM, Germany: 1 | Cornell: 1 | University of Technology Darmstadt, Germany: 1 | University of Iowa: 1 | ZIH, TU Dresden, Germany: 1 | Department of Biomedical Informatics, University of Pittsburgh: 1
+
+!!!!!! WARN: Matched groundtruth pub counts disagree: 61 != 62
+61 groundtruth publications, 61 matched, 61 matched title-year pair
+Groundtruth pairs total: 300, between matched pubs: 300
+Arnet total pairs: 198
+Arnet total correct pairs: 110
+Summary:
+Prec: 0.5556. Recall: 0.3667. F1: 0.4418
+
+
+rakesh kumar:
+Open groundtruth file 'rakesh kumar-labels.txt' to process...
+WARN: Two papers are with the same title/year:
+Annotation of Video by Alignment to Reference Imagery
+keith j. hanna, harpreet s. sawhney, rakesh kumar, yanlin guo, supun samarasekera
+1999. Workshop on Vision Algorithms. key: conf/iccvw/HannaSKGS99
+Annotation of Video by Alignment to Reference Imagery
+keith j. hanna, harpreet s. sawhney, rakesh kumar, yanlin guo, supun samarasekera
+1999. ICMCS. key: conf/icmcs/HannaSKGS99
+
+104 publications of 8 authors loaded
+Sarnoff Corporation: 49 | PASSAT Group, UIUC: 37 | Polytechnic University, Brooklyn, NY: 7 | Institute of Microelectronics, Singapore: 5 | IIT, India: 2 | Kurukshetra University, India: 2 | S.S.M College Dinanagar, India: 1 | La Trobe University, Melbourne, Australia: 1
+Groundtruth total pairs: 1875
+
+Open Arnetminer file 'arnet/rakesh kumar-arnet.txt' to process...
+Electrical and Computer Engineering Department, University of Illinois at Urbana Champaign [267580]:
+65 pubs read, 16 unmatched. 49 matched, distribution:
+Sarnoff Corporation: 49
+
+University of California, San Diego, La Jolla, CA, Coordinated Science Laboratory, University of Illinois, Urbana, IL, USA [267584]:
+38 pubs read, 7 unmatched. 31 matched, distribution:
+PASSAT Group, UIUC: 31
+
+[267590]:
+12 pubs read, 3 unmatched. 9 matched, distribution:
+PASSAT Group, UIUC: 4 | Institute of Microelectronics, Singapore: 3 | La Trobe University, Melbourne, Australia: 1 | S.S.M College Dinanagar, India: 1
+
+Department of Electrical and Computer Engineering, Polytechnic University, Brooklyn, NY 11201, United States [267586]:
+7 pubs read, 0 unmatched. 7 matched, distribution:
+Polytechnic University, Brooklyn, NY: 7
+
+Northern Illinois univ., DeKalb [267581]:
+3 pubs read, 1 unmatched. 2 matched, distribution:
+PASSAT Group, UIUC: 2
+
+[267585]:
+3 pubs read, 1 unmatched. 2 matched, distribution:
+IIT, India: 2
+
+Faculty of Computer Science, Department of Computer Science and Applications, Kurukshetra University, Kurukshetra, Haryana, India [267583]:
+2 pubs read, 0 unmatched. 2 matched, distribution:
+Kurukshetra University, India: 2
+
+[267588]:
+2 pubs read, 0 unmatched. 2 matched, distribution:
+Institute of Microelectronics, Singapore: 2
+
+Columbia University, New York, NY [267589]:
+2 pubs read, 2 unmatched. 0 matched, distribution:
+
+
+[267582]:
+1 pubs read, 1 unmatched. 0 matched, distribution:
+
+
+135 pubs of 10 Arnet authors loaded. Matched:
+Electrical and Computer Engineering Department, University of Illinois at Urbana Champaign [267580]: 49 | University of California, San Diego, La Jolla, CA, Coordinated Science Laboratory, University of Illinois, Urbana, IL, USA [267584]: 31 | [267590]: 9 | Department of Electrical and Computer Engineering, Polytechnic University, Brooklyn, NY 11201, United States [267586]: 7 | Northern Illinois univ., DeKalb [267581]: 2 | [267585]: 2 | Faculty of Computer Science, Department of Computer Science and Applications, Kurukshetra University, Kurukshetra, Haryana, India [267583]: 2 | [267588]: 2
+Correspond to 8 true authors:
+Sarnoff Corporation: 49 | PASSAT Group, UIUC: 37 | Polytechnic University, Brooklyn, NY: 7 | Institute of Microelectronics, Singapore: 5 | IIT, India: 2 | Kurukshetra University, India: 2 | La Trobe University, Melbourne, Australia: 1 | S.S.M College Dinanagar, India: 1
+
+104 groundtruth publications, 104 matched, 103 matched title-year pair
+Groundtruth pairs total: 1875, between matched pubs: 1875
+Arnet total pairs: 1702
+Arnet total correct pairs: 1675
+Summary:
+Prec: 0.9841. Recall: 0.8933. F1: 0.9365
+
+
+wei wang:
+Open groundtruth file 'wei wang-labels.txt' to process...
+846 publications of 217 authors loaded
+UNC: 105 | [weiwang1@fudan.edu.cn] Fudan University: 103 | CSE, University of New South Wales: 55 | TEL, University of Nebraska-Lincoln: 37 | University at Albany, SUNY: 35 | [wang.wei@nus.edu.sg] MSRA & NUS: 24 | [wangwei@dlut.edu.cn] Research Center of Information and Control, Dalian University of Technology: 20 | [willtongji@gmail.com] Tongji University: 18 | University of Luxembourg: 15 | IBM China Research Laboratory: 12 | Robotics Institute, BUAA, China: 10 | Harbin Engineering University: 10 | [wwsunny@126.com] Wireless Signal Processing and Network Lab, BUPT: 9 | Motorola Labs, Multimedia Research Lab, IL, USA: 8 | EECS, UC Berkeley: 8 | Math, Xi'an Jiaotong University: 8 | Language Weaver, Inc.: 7 | Department of Chemistry and Biochemistry, UCSD: 7 | DOCOMO Beijing Communications Laboratories: 6 | German Aerospace Center: 6 | University of Maryland Baltimore County: 6 | Lab for Novel Software Technology, Nanjing University: 6 | Institute of Microelectronics, PKU: 6 | School of Transportation, Southeast University: 6 | UC Riverside: 5 | [wwang@nlpr.ia.ac.cn] Lab of Pattern Recognition, IA, CAS: 5 | EEE, NTU: 5 | [wwang@jdl.ac.cn] Lab for Video Technology, CAS: 5 | Lab of Crypt, Shandong University: 5 | [njnuwangwei@yahoo.com] Education Science Institute, Nanjing Normal University: 5 | Laboratory of Computational Linguistics, PKU: 5 | Department of Automation & Computer-Aided Engineering, CUHK: 4 | Iowa State University: 4 | University of Sydney: 4 | Lab of Complex System and Intelligence Science, IA, CAS: 4 | Beijing University of Chinese Medicine: 4 | Chongqing University: 4 | Ideal Institute, Northeast Normal University, China: 4 | Alcatel-Lucent Shanghai Bell: 4 | CS, New York University: 4 | College of Mechatronics and Automation, National University of Defense Technology: 4 | Tianjin University: 3 | CS, Rutgers University: 3 | Northwestern Polytechnical University, China: 3 | USTB, China: 3 | [wangweiuser@126.com] School of Economy, Tianjin Polytechnic University: 3 | National Taiwan University: 3 | Capital Medical University, Beijing: 3 | Naval Aeronautical Engineering Institute, Qingdao: 3 | Department of Mathematics, Nanjing University: 3 | [weiw@zju.edu.cn] Center for Computation, Zhejiang University: 3 | Ningbo University of Technology: 3 | Bohai University: 2 | Huazhong Agricultural University: 2 | Department of Information Engineering, CUHK: 2 | [wei@ics.ict.ac.cn] ICT, CAS: 2 | Lab of Machine Perception, PKU: 2 | College of Computer and Communication, Hunan University: 2 | School of Computer Science and Engineering, Southeast University: 2 | Nokia Research Center: 2 | Nagaoka University of Technology: 2 | School of Electronic and Information Engineering, Xi'an Jiaotong University: 2 | Department of Systems Engineering and Engineering Management, CUHK: 2 | Department of Electrical and Computer Engineering, NUS: 2 | Department of Systems Science & Industrial Engineering, SUNY: 2 | CS, Lehigh University: 2 | Seismological Bureau of Shanghai: 2 | Wuhan National Laboratory of Optoelectronics: 2 | Microsoft Research Asia: 2 | University of Shanghai for Science and Technology: 2 | Service Computing Technology and System Lab, HUST: 2 | York University: 2 | [was in EEE, NTU] SOC, NUS: 2 | [wangw@zju.edu.cn] Lab of Integrate Information Network, Zhejiang University: 2 | CS, USTC: 2 | EE, Shanghai Jiaotong University: 2 | Stevens Institute of Technology, Hoboken: 2 | CS, UCDavis: 2 | EE, University of Melbourne: 2 | CUPS, Nankai University: 2 | Heriot-Watt University: 2 | Jiangxi University of Science and Technology: 2 | School of Optoelectronical Engineering, Xi'an Technological University: 2 | Xi'an University of Finance and Economics: 2 | CS, Zhongshan University: 2 | Nonlinear Systems Lab, MIT: 2 | Physics, Nanjing University: 2 | University of Toyama: 2 | CS, Purdue University: 2 | CS, UCLA: 2 | [vince.wang@intel.com] Intel China: 2 | Information and Communication Engineering, Tianjin Polytechnic University: 2 | [ww.cs.tj@gmail.com] School of Electronics and Information Engineering, Tongji University: 2 | Math, Renmin University of China: 2 | School of Computer and Information, Hefei University of Technology: 2 | College of Engineering Technology, Northeast Forestry University: 2 | Lab of Information Engineering in Surveying, Wuhan University: 2 | Center for Bioimage Informatics, CMU: 2 | University of Utah: 1 | University of Trento, Italy: 1 | CS, Shandong University: 1 | Air Force Engineering University: 1 | WKW, NTU: 1 | Computer School, Northeast Normal University, China: 1 | School of Computer, North China Electric Power University: 1 | CS, CUHK: 1 | CBMI, University of Pittsburgh: 1 | Math, CUHK: 1 | [weiw@cs.zju.edu.cn] CS, Zhejiang University: 1 | Security Lab, Department of Automation, Tsinghua: 1 | Lab of Infosec, GUCAS: 1 | Department of Modern Education Technology, University at Weihai: 1 | Software School, Xiamen University: 1 | College of Civil Engineering, Shandong University: 1 | Wuhan University of Science and Technology: 1 | CS, Duke University: 1 | Department of Education Technologies, Nanjing University of Posts and Telecommunications: 1 | Technical University of Denmark: 1 | Institute of Acoustics, CAS: 1 | Institute of Image Processing and Pattern Recognition, Shanghai Jiaotong University: 1 | Dept. of Systems and Computer Eng., Carleton University: 1 | Department of Automation, Tsinghua 2: 1 | [w.w@mail.ia.ac.cn] IA, CAS: 1 | Space Control Center, Harbin Institute of Technology: 1 | Math, PKU: 1 | Harbin Institute of Technology: 1 | College of Mechanical and Electrical Engineering, Northeast Forestry University: 1 | Concordia University: 1 | School of Communication Engineering, Xidian University: 1 | [sethvivid@163.com] School of Information Engineering, BUPT: 1 | Baylor College of Medicine: 1 | ECE, Portland State University: 1 | School of Mechanical Engineering, BUAA: 1 | Ordnance Engineering College, Shijiazhuang: 1 | CS, McGill University: 1 | CS, Rutgers University 2: 1 | University of Guelph, Canada: 1 | Zhejiang University: 1 | Master student [1983], Renmin University of China: 1 | [wangwei@icst.pku.edu.cn] ICST, PKU: 1 | University of Cambridge Computer Laboratory: 1 | Department of Automation, Tsinghua 3: 1 | School of Electronics & Information, Shanghai Jiaotong University: 1 | School of Information Science and Technology, Beijing Institute of Technology: 1 | College of Automation, Qingdao University of Science & Technology: 1 | School of Electronics and Information Engineering, Beijing Jiaotong University: 1 | Inner Mongolia University of Science and Technology: 1 | ICT, CAS: 1 | CS, Xi'an Jiaotong University: 1 | Chalmers University of Technology: 1 | Lab of Universal Wireless Communication, BUPT: 1 | Lab of Urban Water, Harbin Institute of Technology: 1 | Nanjing KEDE Electronics Company: 1 | Computer Network Information Center, CAS: 1 | School of Electrical Engineering and Automation, Harbin Institute of Technology: 1 | Hong Kong Polytechnic University: 1 | School of Mechanical Engineering, BUAA 2: 1 | Chiba University: 1 | [wongwei@buaa.edu.cn, 1977] School of Instrument Science, BUAA: 1 | Civil Aviation University of China: 1 | School of Mechanical Engineering, Xi'an Jiaotong University: 1 | [wang20080813@gmail.com] CS, Tongji University: 1 | Ocean University of China: 1 | [vv8819@hotmail.com] Wuhan University of Technology: 1 | Chinese North Industries Planning Institute: 1 | Math, Guangxi University for Nationalities: 1 | College of Mechanical Engineering and Automation, Fuzhou University: 1 | Lab of Water, Beijing Normal University: 1 | Lab of Animal, Sichuan Agricultural University: 1 | Chongqing University of Posts and Telecommunications: 1 | CSE, Hebei University of Technology: 1 | EE, Guilin University of electronic technology: 1 | Software Engineering Institute, Xidian University: 1 | China University of Geosciences: 1 | [xiaokedou_720@yahoo.com.cn] Wuhan University of Technology: 1 | MEMS Center, Harbin Institute of Technology: 1 | Handan Polytechechnic College: 1 | Dalian Nationalities University: 1 | Harbin University of Commerce: 1 | Shenyang University of Technology: 1 | Electromagnetics Laboratory, BUAA: 1 | Department of Applied Mathematics, Dalian University of Technology: 1 | Math, East China University of Science and Technology: 1 | Sinopec Research Institute of Petroleum Engineering: 1 | Cascade Fibers Co., Sanford, NC, USA: 1 | CS, National Chiao Tung University: 1 | Math, Northwest University: 1 | Central Queensland University: 1 | [wangweibh@126.com, 1984] School of Instrument Science, BUAA: 1 | Beckman Institute, UIUC: 1 | CST, Tsinghua: 1 | Queen Mary University of London: 1 | Institute of Genetics, Fudan University: 1 | Institute of Image and Information, Sichuan University: 1 | H. Milton Stewart School of Industrial and Systems Engineering, GIT: 1 | Department of Systems Engineering, National University of Defense Technology: 1 | CSE, De Montfort University: 1 | [weiwang@scu.edu.cn] Sichuan University: 1 | Math, Liaoning Normal University: 1 | Millimeter Wave Technology Lab, Nanjing University of Science and Technology: 1 | Center for Robotics, Oakland University: 1 | Lab of Integrated Optoelectronics, Jilin University: 1 | ECE, UCSD: 1 | School of Management, HUST: 1 | Department of Management and Marketing, The Hong Kong Polytechnic University: 1 | Software Institute, Dalian Jiaotong University: 1 | Makineni Theoretical Laboratories, University of Pennsylvania: 1 | University of South Florida: 1 | Zhongshan University: 1 | CUHK: 1 | College of Computer and Automatization, Tianjin Polytechnic University: 1 | University of Nottingham, Malaysia: 1 | Lab for Intelligent Network and Network Security, Xi'an Jiaotong University: 1 | [wangwei_wei@yahoo.cn] Northeastern University, China: 1 | INRIA, France: 1 | Department of Elect. Eng, HKUST: 1 | [wei.wang@intel.com] Intel Corporation: 1
+Groundtruth total pairs: 14800
+
+Open Arnetminer file 'arnet/wei wang-arnet.txt' to process...
+University of North Carolina at Chapel Hill [1128214]:
+727 pubs read, 229 unmatched. 498 matched, distribution:
+UNC: 101 | [weiwang1@fudan.edu.cn] Fudan University: 99 | CSE, University of New South Wales: 44 | University at Albany, SUNY: 27 | [willtongji@gmail.com] Tongji University: 17 | [wangwei@dlut.edu.cn] Research Center of Information and Control, Dalian University of Technology: 17 | University of Luxembourg: 15 | IBM China Research Laboratory: 12 | Harbin Engineering University: 10 | Robotics Institute, BUAA, China: 10 | [wwsunny@126.com] Wireless Signal Processing and Network Lab, BUPT: 9 | DOCOMO Beijing Communications Laboratories: 6 | EECS, UC Berkeley: 6 | Motorola Labs, Multimedia Research Lab, IL, USA: 6 | School of Transportation, Southeast University: 6 | UC Riverside: 5 | Institute of Microelectronics, PKU: 5 | [wwang@jdl.ac.cn] Lab for Video Technology, CAS: 5 | Laboratory of Computational Linguistics, PKU: 5 | Math, Xi'an Jiaotong University: 5 | [wwang@nlpr.ia.ac.cn] Lab of Pattern Recognition, IA, CAS: 5 | [wang.wei@nus.edu.sg] MSRA & NUS: 5 | Lab of Crypt, Shandong University: 4 | Beijing University of Chinese Medicine: 4 | University of Sydney: 4 | College of Mechatronics and Automation, National University of Defense Technology: 4 | Capital Medical University, Beijing: 3 | CS, New York University: 3 | Naval Aeronautical Engineering Institute, Qingdao: 3 | Ideal Institute, Northeast Normal University, China: 3 | [wangw@zju.edu.cn] Lab of Integrate Information Network, Zhejiang University: 2 | CS, Purdue University: 2 | Huazhong Agricultural University: 2 | Center for Bioimage Informatics, CMU: 2 | School of Electronic and Information Engineering, Xi'an Jiaotong University: 2 | Nokia Research Center: 2 | Wuhan National Laboratory of Optoelectronics: 2 | CS, UCDavis: 2 | College of Computer and Communication, Hunan University: 2 | CS, UCLA: 2 | Service Computing Technology and System Lab, HUST: 2 | Lab of Machine Perception, PKU: 2 | TEL, University of Nebraska-Lincoln: 2 | CS, McGill University: 1 | CS, Shandong University: 1 | Math, East China University of Science and Technology: 1 | [ww.cs.tj@gmail.com] School of Electronics and Information Engineering, Tongji University: 1 | Department of Elect. Eng, HKUST: 1 | School of Mechanical Engineering, BUAA: 1 | Lab for Intelligent Network and Network Security, Xi'an Jiaotong University: 1 | Space Control Center, Harbin Institute of Technology: 1 | University of Utah: 1 | Department of Modern Education Technology, University at Weihai: 1 | University of Shanghai for Science and Technology: 1 | School of Information Science and Technology, Beijing Institute of Technology: 1 | Department of Automation, Tsinghua 3: 1 | Department of Management and Marketing, The Hong Kong Polytechnic University: 1 | Department of Automation, Tsinghua 2: 1 | Institute of Image and Information, Sichuan University: 1 | School of Mechanical Engineering, BUAA 2: 1 | [wei.wang@intel.com] Intel Corporation: 1 | [wangwei_wei@yahoo.cn] Northeastern University, China: 1 | School of Mechanical Engineering, Xi'an Jiaotong University: 1 | INRIA, France: 1 | University of Nottingham, Malaysia: 1 | Lab of Animal, Sichuan Agricultural University: 1 | College of Mechanical and Electrical Engineering, Northeast Forestry University: 1
+
+[1128272]:
+120 pubs read, 3 unmatched. 117 matched, distribution:
+Department of Chemistry and Biochemistry, UCSD: 5 | Alcatel-Lucent Shanghai Bell: 4 | [weiwang1@fudan.edu.cn] Fudan University: 3 | CSE, University of New South Wales: 3 | University at Albany, SUNY: 3 | School of Computer Science and Engineering, Southeast University: 2 | [vince.wang@intel.com] Intel China: 2 | CUPS, Nankai University: 2 | [wangwei@dlut.edu.cn] Research Center of Information and Control, Dalian University of Technology: 2 | Xi'an University of Finance and Economics: 2 | EECS, UC Berkeley: 2 | Lab of Crypt, Shandong University: 1 | Concordia University: 1 | Zhongshan University: 1 | Software School, Xiamen University: 1 | [willtongji@gmail.com] Tongji University: 1 | School of Communication Engineering, Xidian University: 1 | ECE, UCSD: 1 | Security Lab, Department of Automation, Tsinghua: 1 | College of Mechanical Engineering and Automation, Fuzhou University: 1 | Department of Applied Mathematics, Dalian University of Technology: 1 | Institute of Genetics, Fudan University: 1 | Cascade Fibers Co., Sanford, NC, USA: 1 | Lab of Water, Beijing Normal University: 1 | WKW, NTU: 1 | Institute of Acoustics, CAS: 1 | School of Management, HUST: 1 | University of Trento, Italy: 1 | Chiba University: 1 | Dalian Nationalities University: 1 | Hong Kong Polytechnic University: 1 | [w.w@mail.ia.ac.cn] IA, CAS: 1 | [wongwei@buaa.edu.cn, 1977] School of Instrument Science, BUAA: 1 | Queen Mary University of London: 1 | CUHK: 1 | Chalmers University of Technology: 1 | College of Computer and Automatization, Tianjin Polytechnic University: 1 | Air Force Engineering University: 1 | Technical University of Denmark: 1 | Lab of Information Engineering in Surveying, Wuhan University: 1 | Computer School, Northeast Normal University, China: 1 | Department of Education Technologies, Nanjing University of Posts and Telecommunications: 1 | Ocean University of China: 1 | University of Cambridge Computer Laboratory: 1 | Math, Renmin University of China: 1 | Software Institute, Dalian Jiaotong University: 1 | CS, New York University: 1 | Math, CUHK: 1 | School of Electronics and Information Engineering, Beijing Jiaotong University: 1 | Lab of Integrated Optoelectronics, Jilin University: 1 | Civil Aviation University of China: 1 | College of Automation, Qingdao University of Science & Technology: 1 | Makineni Theoretical Laboratories, University of Pennsylvania: 1 | Inner Mongolia University of Science and Technology: 1 | University of Shanghai for Science and Technology: 1 | University of Guelph, Canada: 1 | CST, Tsinghua: 1 | CSE, Hebei University of Technology: 1 | Harbin Institute of Technology: 1 | [wangweibh@126.com, 1984] School of Instrument Science, BUAA: 1 | Lab of Infosec, GUCAS: 1 | Institute of Image Processing and Pattern Recognition, Shanghai Jiaotong University: 1 | School of Electrical Engineering and Automation, Harbin Institute of Technology: 1 | CS, Rutgers University 2: 1 | [sethvivid@163.com] School of Information Engineering, BUPT: 1 | School of Computer and Information, Hefei University of Technology: 1 | H. Milton Stewart School of Industrial and Systems Engineering, GIT: 1 | Software Engineering Institute, Xidian University: 1 | Math, Northwest University: 1 | Nanjing KEDE Electronics Company: 1 | Shenyang University of Technology: 1 | Math, Xi'an Jiaotong University: 1 | Electromagnetics Laboratory, BUAA: 1 | Beckman Institute, UIUC: 1 | ICT, CAS: 1 | Information and Communication Engineering, Tianjin Polytechnic University: 1 | Master student [1983], Renmin University of China: 1 | [wang20080813@gmail.com] CS, Tongji University: 1 | Zhejiang University: 1 | Sinopec Research Institute of Petroleum Engineering: 1 | Lab of Universal Wireless Communication, BUPT: 1 | Baylor College of Medicine: 1 | [njnuwangwei@yahoo.com] Education Science Institute, Nanjing Normal University: 1 | Lab for Novel Software Technology, Nanjing University: 1 | Motorola Labs, Multimedia Research Lab, IL, USA: 1 | CBMI, University of Pittsburgh: 1 | Ordnance Engineering College, Shijiazhuang: 1 | [vv8819@hotmail.com] Wuhan University of Technology: 1 | Central Queensland University: 1 | School of Computer, North China Electric Power University: 1 | CS, National Chiao Tung University: 1 | Computer Network Information Center, CAS: 1 | Chinese North Industries Planning Institute: 1 | Dept. of Systems and Computer Eng., Carleton University: 1 | Harbin University of Commerce: 1 | China University of Geosciences: 1 | Math, Liaoning Normal University: 1 | [weiwang@scu.edu.cn] Sichuan University: 1
+
+University of Nebraska Lincoln, Univ. of Nebraska-Lincoln, Omaha, Nebraska Univ., Lincoln, Univ. Nebraska Lincoln, Omaha, NE [1128216]:
+42 pubs read, 11 unmatched. 31 matched, distribution:
+TEL, University of Nebraska-Lincoln: 31
+
+Department of Systems Science & Industrial Engineering, Thomas J. Watson School of Engineering and Applied Science, Binghamton University-SUNY, Binghamton, NY 13902-6000, USA [1128215]:
+40 pubs read, 11 unmatched. 29 matched, distribution:
+Department of Systems Science & Industrial Engineering, SUNY: 2 | Jiangxi University of Science and Technology: 2 | EE, Shanghai Jiaotong University: 2 | EE, University of Melbourne: 2 | School of Optoelectronical Engineering, Xi'an Technological University: 2 | College of Engineering Technology, Northeast Forestry University: 2 | [xiaokedou_720@yahoo.com.cn] Wuhan University of Technology: 1 | Institute of Microelectronics, PKU: 1 | [ww.cs.tj@gmail.com] School of Electronics and Information Engineering, Tongji University: 1 | Math, PKU: 1 | Lab of Information Engineering in Surveying, Wuhan University: 1 | Math, Renmin University of China: 1 | Handan Polytechechnic College: 1 | Lab of Urban Water, Harbin Institute of Technology: 1 | CS, Xi'an Jiaotong University: 1 | MEMS Center, Harbin Institute of Technology: 1 | Wuhan University of Science and Technology: 1 | Information and Communication Engineering, Tianjin Polytechnic University: 1 | University of South Florida: 1 | CSE, University of New South Wales: 1 | University at Albany, SUNY: 1 | Ideal Institute, Northeast Normal University, China: 1 | [wangwei@icst.pku.edu.cn] ICST, PKU: 1
+
+Department of Computer Science, University of North Carolina at Chapel Hill [1128240]:
+22 pubs read, 1 unmatched. 21 matched, distribution:
+[wang.wei@nus.edu.sg] MSRA & NUS: 19 | Microsoft Research Asia: 2
+
+School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore, Positioning & Wireless Technol. Centre, Nanyang Technol. Univ., Singapore, Sch. of Mech. Eng. & Autom., Northeastern Univ., Shenyang [1128265]:
+10 pubs read, 4 unmatched. 6 matched, distribution:
+EEE, NTU: 4 | [was in EEE, NTU] SOC, NUS: 2
+
+[1544237]:
+8 pubs read, 3 unmatched. 5 matched, distribution:
+CSE, University of New South Wales: 5
+
+Center for Engineering and Scientific Computation, and College of Computer Science, Zhejiang University, Hangzhou, Zhejiang, 310027, P. R. China, Zhejiang Univ. Hangzhou, Hangzhou [1128238]:
+7 pubs read, 0 unmatched. 7 matched, distribution:
+[weiw@zju.edu.cn] Center for Computation, Zhejiang University: 3 | Ningbo University of Technology: 3 | [weiw@cs.zju.edu.cn] CS, Zhejiang University: 1
+
+!!!!!! WARN: Too many papers matching the same groundtruth paper(s):
+Multi-View Active Learning in the Non-Realizable Case
+wei wang, zhi-hua zhou
+2010. NIPS
+Multi-View Active Learning in the Non-Realizable Case
+wei wang, zhi-hua zhou
+2010. CoRR
+Groundtruth paper:
+Multi-View Active Learning in the Non-Realizable Case
+wei wang, zhihua zhou
+2010. CoRR. key: journals/corr/abs-1005-5581
+Millimeter Wave Technology Laboratory, School of Electronic Engineering and Optoelectronic Technique, Nanjing University of Science and Technology, Nanjing 210094, China [1128242]:
+7 pubs read, 1 unmatched. 6 matched, distribution:
+Lab for Novel Software Technology, Nanjing University: 5 | Millimeter Wave Technology Lab, Nanjing University of Science and Technology: 1
+
+Institute of Communications and Navigation, German Aerospace Center, Wessling, Germany [1128262]:
+7 pubs read, 1 unmatched. 6 matched, distribution:
+German Aerospace Center: 6
+
+School of Mathematics and Computer Science, Nanjing Normal University, Nanjing 210097, PR China, Department of Mathematics, Bohai University, Jinzhou 121000, PR China [1128257]:
+7 pubs read, 1 unmatched. 6 matched, distribution:
+[njnuwangwei@yahoo.com] Education Science Institute, Nanjing Normal University: 4 | Bohai University: 2
+
+Department of Computer Science and Electrical Engineering, University of Maryland, Baltimore County, 1000 Hilltop Circle, Baltimore, MD 21250, USA, Dept. of Comput. Sci. & Electr. Eng., Maryland Univ., Baltimore, MD, USA, Dept. of Comput. Sci. & Electr. Eng., Univ. of Maryland Baltimore County, Baltimore, MD [1128259]:
+6 pubs read, 0 unmatched. 6 matched, distribution:
+University of Maryland Baltimore County: 6
+
+Dept. of Inf. Eng., Chinese Univ. of Hong Kong, Shatin, China [1128244]:
+6 pubs read, 0 unmatched. 6 matched, distribution:
+Department of Automation & Computer-Aided Engineering, CUHK: 4 | Department of Information Engineering, CUHK: 2
+
+[1556578]:
+6 pubs read, 2 unmatched. 4 matched, distribution:
+UNC: 4
+
+Division of Applied Mathematics, Brown University, Providence, USA 02912, Center for Turbulence Research, Stanford University, Stanford, CA 94305, United States [1128258]:
+5 pubs read, 5 unmatched. 0 matched, distribution:
+
+
+Language Weaver, Inc., Marina del Rey, CA, Language Weaver Inc., Marina del Rey, CA [1128270]:
+4 pubs read, 0 unmatched. 4 matched, distribution:
+Language Weaver, Inc.: 4
+
+Iowa State University [1128236]:
+4 pubs read, 0 unmatched. 4 matched, distribution:
+Iowa State University: 4
+
+College of Electronics Engineering, Chongqing University of Posts and Telecommunications, Chongqing, P. R. China [1128266]:
+4 pubs read, 0 unmatched. 4 matched, distribution:
+Chongqing University: 4
+
+Department of Electrical and Computer Engineering, Stevens Institute of Technology, Hoboken, NJ [1128263]:
+4 pubs read, 3 unmatched. 1 matched, distribution:
+Stevens Institute of Technology, Hoboken: 1
+
+Dept. of Electr. Eng., Nat. Taiwan Univ., Taipei, Taiwan [1128229]:
+4 pubs read, 1 unmatched. 3 matched, distribution:
+National Taiwan University: 3
+
+Department of Computer Science, Rutgers University, 110 Frelinghuysen Rd, Piscataway, NJ 08854, USA. ww@cs.rutgers.edu [1128234]:
+4 pubs read, 1 unmatched. 3 matched, distribution:
+CS, Rutgers University: 3
+
+Sch. of Inf. Eng., Univ. of Sci. & Technol. Beijing, Beijing, China [1128219]:
+4 pubs read, 1 unmatched. 3 matched, distribution:
+USTB, China: 3
+
+[1128293]:
+4 pubs read, 0 unmatched. 4 matched, distribution:
+TEL, University of Nebraska-Lincoln: 4
+
+Sch. of Econ., Tianjin Polytech. Univ., Tianjin, China [1128220]:
+4 pubs read, 1 unmatched. 3 matched, distribution:
+[wangweiuser@126.com] School of Economy, Tianjin Polytechnic University: 3
+
+Key Lab. of Complex Syst. & Intell. Sci., Chinese Acad. of Sci., Beijing [1128251]:
+4 pubs read, 0 unmatched. 4 matched, distribution:
+Lab of Complex System and Intelligence Science, IA, CAS: 4
+
+Grad. Sch. of Innovative Life Sci., Univ. of Toyama, Toyama, University of Toyama, Faculty of Engineering, 930-8555, Toyama-shi, Japan [1128267]:
+3 pubs read, 1 unmatched. 2 matched, distribution:
+University of Toyama: 2
+
+Sch. of Comput. Sci., Northwestern Polytech. Univ., Xi'an, Northwestern Polytechnical University, Xi'an, China [1128237]:
+3 pubs read, 0 unmatched. 3 matched, distribution:
+Northwestern Polytechnical University, China: 3
+
+Department of Computer Science and Engineering, Lehigh University, Bethlehem, PA [1128221]:
+3 pubs read, 1 unmatched. 2 matched, distribution:
+CS, Lehigh University: 2
+
+[1553791]:
+3 pubs read, 0 unmatched. 3 matched, distribution:
+Language Weaver, Inc.: 3
+
+[1128248]:
+3 pubs read, 1 unmatched. 2 matched, distribution:
+Department of Mathematics, Nanjing University: 2
+
+Department of Applied Chemistry, School of Chemical Engineering and Technology, Tianjin University, Tianjin 300072, PR China [1128217]:
+3 pubs read, 0 unmatched. 3 matched, distribution:
+Tianjin University: 3
+
+[1128230]:
+2 pubs read, 0 unmatched. 2 matched, distribution:
+Department of Electrical and Computer Engineering, NUS: 2
+
+York University [1128231]:
+2 pubs read, 0 unmatched. 2 matched, distribution:
+York University: 2
+
+[1128235]:
+2 pubs read, 0 unmatched. 2 matched, distribution:
+Nonlinear Systems Lab, MIT: 2
+
+[1128249]:
+2 pubs read, 0 unmatched. 2 matched, distribution:
+Physics, Nanjing University: 2
+
+[1128226]:
+2 pubs read, 0 unmatched. 2 matched, distribution:
+University at Albany, SUNY: 2
+
+[1128225]:
+2 pubs read, 0 unmatched. 2 matched, distribution:
+Seismological Bureau of Shanghai: 2
+
+[1128247]:
+2 pubs read, 0 unmatched. 2 matched, distribution:
+Department of Systems Engineering and Engineering Management, CUHK: 2
+
+[1128218]:
+2 pubs read, 0 unmatched. 2 matched, distribution:
+[wei@ics.ict.ac.cn] ICT, CAS: 2
+
+[1128239]:
+2 pubs read, 0 unmatched. 2 matched, distribution:
+CS, Zhongshan University: 2
+
+Dept. of Inf. & Commun. Eng., Univ. of Electro-Commun., Tokyo [1128233]:
+2 pubs read, 0 unmatched. 2 matched, distribution:
+Nagaoka University of Technology: 2
+
+Dept. of Comput. Sci. & Technol., Univ. of Sci. & Technol. of China, Hefei [1128232]:
+2 pubs read, 0 unmatched. 2 matched, distribution:
+CS, USTC: 2
+
+[1128261]:
+2 pubs read, 0 unmatched. 2 matched, distribution:
+Heriot-Watt University: 2
+
+[1128227]:
+2 pubs read, 1 unmatched. 1 matched, distribution:
+Department of Chemistry and Biochemistry, UCSD: 1
+
+Chinese Academy of Sciences [1128243]:
+1 pubs read, 0 unmatched. 1 matched, distribution:
+School of Computer and Information, Hefei University of Technology: 1
+
+Dept. of Syst. Eng., Nat. Univ. of Defense Technol., Changsha [1128252]:
+1 pubs read, 0 unmatched. 1 matched, distribution:
+Department of Systems Engineering, National University of Defense Technology: 1
+
+Duke University [1128245]:
+1 pubs read, 0 unmatched. 1 matched, distribution:
+CS, Duke University: 1
+
+Center for Robotics Adv. Autom., Oakland Univ., Rochester, MI [1128228]:
+1 pubs read, 0 unmatched. 1 matched, distribution:
+Center for Robotics, Oakland University: 1
+
+Fac. of Comput. Sci. & Eng., De Montfort Univ., Leicester, UK [1128264]:
+1 pubs read, 0 unmatched. 1 matched, distribution:
+CSE, De Montfort University: 1
+
+Dept. of Comput. Sci. & Eng., Hong Kong Chinese Univ., China [1128241]:
+1 pubs read, 0 unmatched. 1 matched, distribution:
+CS, CUHK: 1
+
+[1562308]:
+1 pubs read, 0 unmatched. 1 matched, distribution:
+EEE, NTU: 1
+
+[1128254]:
+1 pubs read, 1 unmatched. 0 matched, distribution:
+
+
+[1128222]:
+1 pubs read, 0 unmatched. 1 matched, distribution:
+College of Civil Engineering, Shandong University: 1
+
+Dept. of Electr. & Comput. Eng., Portland State Univ., OR [1128246]:
+1 pubs read, 0 unmatched. 1 matched, distribution:
+ECE, Portland State University: 1
+
+The School of Computer and Control, Guilin university of electronic technology, Guilin, china, Sch. of Electron. Eng., Guilin Univ. of Electron. Technol., Guilin, China [1128223]:
+1 pubs read, 0 unmatched. 1 matched, distribution:
+EE, Guilin University of electronic technology: 1
+
+Dept. of Autom. Control, Shanghai Jiao Tong Univ. [1128260]:
+1 pubs read, 0 unmatched. 1 matched, distribution:
+School of Electronics & Information, Shanghai Jiaotong University: 1
+
+[1128253]:
+1 pubs read, 0 unmatched. 1 matched, distribution:
+Chongqing University of Posts and Telecommunications: 1
+
+1117 pubs of 57 Arnet authors loaded. Matched:
+University of North Carolina at Chapel Hill [1128214]: 498 | [1128272]: 117 | University of Nebraska Lincoln, Univ. of Nebraska-Lincoln, Omaha, Nebraska Univ., Lincoln, Univ. Nebraska Lincoln, Omaha, NE [1128216]: 31 | Department of Systems Science & Industrial Engineering, Thomas J. Watson School of Engineering and Applied Science, Binghamton University-SUNY, Binghamton, NY 13902-6000, USA [1128215]: 29 | Department of Computer Science, University of North Carolina at Chapel Hill [1128240]: 21 | Center for Engineering and Scientific Computation, and College of Computer Science, Zhejiang University, Hangzhou, Zhejiang, 310027, P. R. China, Zhejiang Univ. Hangzhou, Hangzhou [1128238]: 7 | School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore, Positioning & Wireless Technol. Centre, Nanyang Technol. Univ., Singapore, Sch. of Mech. Eng. & Autom., Northeastern Univ., Shenyang [1128265]: 6 | Millimeter Wave Technology Laboratory, School of Electronic Engineering and Optoelectronic Technique, Nanjing University of Science and Technology, Nanjing 210094, China [1128242]: 6 | Institute of Communications and Navigation, German Aerospace Center, Wessling, Germany [1128262]: 6 | School of Mathematics and Computer Science, Nanjing Normal University, Nanjing 210097, PR China, Department of Mathematics, Bohai University, Jinzhou 121000, PR China [1128257]: 6 | Department of Computer Science and Electrical Engineering, University of Maryland, Baltimore County, 1000 Hilltop Circle, Baltimore, MD 21250, USA, Dept. of Comput. Sci. & Electr. Eng., Maryland Univ., Baltimore, MD, USA, Dept. of Comput. Sci. & Electr. Eng., Univ. of Maryland Baltimore County, Baltimore, MD [1128259]: 6 | Dept. of Inf. Eng., Chinese Univ. of Hong Kong, Shatin, China [1128244]: 6 | [1544237]: 5 | [1556578]: 4 | Language Weaver, Inc., Marina del Rey, CA, Language Weaver Inc., Marina del Rey, CA [1128270]: 4 | Iowa State University [1128236]: 4 | College of Electronics Engineering, Chongqing University of Posts and Telecommunications, Chongqing, P. R. China [1128266]: 4 | [1128293]: 4 | Key Lab. of Complex Syst. & Intell. Sci., Chinese Acad. of Sci., Beijing [1128251]: 4 | Dept. of Electr. Eng., Nat. Taiwan Univ., Taipei, Taiwan [1128229]: 3 | Department of Computer Science, Rutgers University, 110 Frelinghuysen Rd, Piscataway, NJ 08854, USA. ww@cs.rutgers.edu [1128234]: 3 | Sch. of Inf. Eng., Univ. of Sci. & Technol. Beijing, Beijing, China [1128219]: 3 | Sch. of Econ., Tianjin Polytech. Univ., Tianjin, China [1128220]: 3 | Sch. of Comput. Sci., Northwestern Polytech. Univ., Xi'an, Northwestern Polytechnical University, Xi'an, China [1128237]: 3 | [1553791]: 3 | Department of Applied Chemistry, School of Chemical Engineering and Technology, Tianjin University, Tianjin 300072, PR China [1128217]: 3 | Grad. Sch. of Innovative Life Sci., Univ. of Toyama, Toyama, University of Toyama, Faculty of Engineering, 930-8555, Toyama-shi, Japan [1128267]: 2 | Department of Computer Science and Engineering, Lehigh University, Bethlehem, PA [1128221]: 2 | [1128248]: 2 | [1128230]: 2 | York University [1128231]: 2 | [1128235]: 2 | [1128249]: 2 | [1128226]: 2 | [1128225]: 2 | [1128247]: 2 | [1128218]: 2 | [1128239]: 2 | Dept. of Inf. & Commun. Eng., Univ. of Electro-Commun., Tokyo [1128233]: 2 | Dept. of Comput. Sci. & Technol., Univ. of Sci. & Technol. of China, Hefei [1128232]: 2 | [1128261]: 2 | Department of Electrical and Computer Engineering, Stevens Institute of Technology, Hoboken, NJ [1128263]: 1 | [1128227]: 1 | Chinese Academy of Sciences [1128243]: 1 | Dept. of Syst. Eng., Nat. Univ. of Defense Technol., Changsha [1128252]: 1 | Duke University [1128245]: 1 | Center for Robotics Adv. Autom., Oakland Univ., Rochester, MI [1128228]: 1 | Fac. of Comput. Sci. & Eng., De Montfort Univ., Leicester, UK [1128264]: 1 | Dept. of Comput. Sci. & Eng., Hong Kong Chinese Univ., China [1128241]: 1 | [1562308]: 1 | [1128222]: 1 | Dept. of Electr. & Comput. Eng., Portland State Univ., OR [1128246]: 1 | The School of Computer and Control, Guilin university of electronic technology, Guilin, china, Sch. of Electron. Eng., Guilin Univ. of Electron. Technol., Guilin, China [1128223]: 1 | Dept. of Autom. Control, Shanghai Jiao Tong Univ. [1128260]: 1 | [1128253]: 1
+Correspond to 216 true authors:
+UNC: 105 | [weiwang1@fudan.edu.cn] Fudan University: 102 | CSE, University of New South Wales: 53 | TEL, University of Nebraska-Lincoln: 37 | University at Albany, SUNY: 33 | [wang.wei@nus.edu.sg] MSRA & NUS: 24 | [wangwei@dlut.edu.cn] Research Center of Information and Control, Dalian University of Technology: 19 | [willtongji@gmail.com] Tongji University: 18 | University of Luxembourg: 15 | IBM China Research Laboratory: 12 | Harbin Engineering University: 10 | Robotics Institute, BUAA, China: 10 | [wwsunny@126.com] Wireless Signal Processing and Network Lab, BUPT: 9 | EECS, UC Berkeley: 8 | Language Weaver, Inc.: 7 | Motorola Labs, Multimedia Research Lab, IL, USA: 7 | University of Maryland Baltimore County: 6 | DOCOMO Beijing Communications Laboratories: 6 | Department of Chemistry and Biochemistry, UCSD: 6 | German Aerospace Center: 6 | Math, Xi'an Jiaotong University: 6 | Institute of Microelectronics, PKU: 6 | Lab for Novel Software Technology, Nanjing University: 6 | School of Transportation, Southeast University: 6 | Lab of Crypt, Shandong University: 5 | [wwang@jdl.ac.cn] Lab for Video Technology, CAS: 5 | [wwang@nlpr.ia.ac.cn] Lab of Pattern Recognition, IA, CAS: 5 | UC Riverside: 5 | EEE, NTU: 5 | Laboratory of Computational Linguistics, PKU: 5 | [njnuwangwei@yahoo.com] Education Science Institute, Nanjing Normal University: 5 | Lab of Complex System and Intelligence Science, IA, CAS: 4 | Chongqing University: 4 | Iowa State University: 4 | College of Mechatronics and Automation, National University of Defense Technology: 4 | Beijing University of Chinese Medicine: 4 | CS, New York University: 4 | Alcatel-Lucent Shanghai Bell: 4 | University of Sydney: 4 | Department of Automation & Computer-Aided Engineering, CUHK: 4 | Ideal Institute, Northeast Normal University, China: 4 | Capital Medical University, Beijing: 3 | Ningbo University of Technology: 3 | CS, Rutgers University: 3 | National Taiwan University: 3 | [weiw@zju.edu.cn] Center for Computation, Zhejiang University: 3 | Northwestern Polytechnical University, China: 3 | USTB, China: 3 | [wangweiuser@126.com] School of Economy, Tianjin Polytechnic University: 3 | Naval Aeronautical Engineering Institute, Qingdao: 3 | Tianjin University: 3 | [was in EEE, NTU] SOC, NUS: 2 | [ww.cs.tj@gmail.com] School of Electronics and Information Engineering, Tongji University: 2 | School of Computer Science and Engineering, Southeast University: 2 | Nonlinear Systems Lab, MIT: 2 | CUPS, Nankai University: 2 | Seismological Bureau of Shanghai: 2 | Center for Bioimage Informatics, CMU: 2 | School of Optoelectronical Engineering, Xi'an Technological University: 2 | School of Electronic and Information Engineering, Xi'an Jiaotong University: 2 | CS, USTC: 2 | University of Toyama: 2 | CS, UCDavis: 2 | Department of Electrical and Computer Engineering, NUS: 2 | Microsoft Research Asia: 2 | Xi'an University of Finance and Economics: 2 | Service Computing Technology and System Lab, HUST: 2 | Information and Communication Engineering, Tianjin Polytechnic University: 2 | Heriot-Watt University: 2 | Department of Mathematics, Nanjing University: 2 | Department of Systems Science & Industrial Engineering, SUNY: 2 | Jiangxi University of Science and Technology: 2 | [wangw@zju.edu.cn] Lab of Integrate Information Network, Zhejiang University: 2 | EE, Shanghai Jiaotong University: 2 | Department of Systems Engineering and Engineering Management, CUHK: 2 | [vince.wang@intel.com] Intel China: 2 | CS, Purdue University: 2 | EE, University of Melbourne: 2 | Lab of Information Engineering in Surveying, Wuhan University: 2 | Math, Renmin University of China: 2 | CS, Lehigh University: 2 | Huazhong Agricultural University: 2 | [wei@ics.ict.ac.cn] ICT, CAS: 2 | Nokia Research Center: 2 | Wuhan National Laboratory of Optoelectronics: 2 | Bohai University: 2 | College of Computer and Communication, Hunan University: 2 | York University: 2 | University of Shanghai for Science and Technology: 2 | CS, UCLA: 2 | CS, Zhongshan University: 2 | School of Computer and Information, Hefei University of Technology: 2 | Nagaoka University of Technology: 2 | Lab of Machine Perception, PKU: 2 | Physics, Nanjing University: 2 | Department of Information Engineering, CUHK: 2 | College of Engineering Technology, Northeast Forestry University: 2 | CS, McGill University: 1 | CS, Shandong University: 1 | Concordia University: 1 | Zhongshan University: 1 | Software School, Xiamen University: 1 | ECE, UCSD: 1 | Institute of Genetics, Fudan University: 1 | CS, CUHK: 1 | CSE, De Montfort University: 1 | Lab of Water, Beijing Normal University: 1 | Institute of Acoustics, CAS: 1 | University of Trento, Italy: 1 | Chiba University: 1 | Dalian Nationalities University: 1 | Hong Kong Polytechnic University: 1 | College of Computer and Automatization, Tianjin Polytechnic University: 1 | Computer School, Northeast Normal University, China: 1 | Department of Education Technologies, Nanjing University of Posts and Telecommunications: 1 | Ocean University of China: 1 | Millimeter Wave Technology Lab, Nanjing University of Science and Technology: 1 | Software Institute, Dalian Jiaotong University: 1 | School of Electronics and Information Engineering, Beijing Jiaotong University: 1 | Lab of Integrated Optoelectronics, Jilin University: 1 | Space Control Center, Harbin Institute of Technology: 1 | University of Utah: 1 | Civil Aviation University of China: 1 | College of Automation, Qingdao University of Science & Technology: 1 | Department of Modern Education Technology, University at Weihai: 1 | Makineni Theoretical Laboratories, University of Pennsylvania: 1 | Chongqing University of Posts and Telecommunications: 1 | Center for Robotics, Oakland University: 1 | Inner Mongolia University of Science and Technology: 1 | University of Guelph, Canada: 1 | [wangweibh@126.com, 1984] School of Instrument Science, BUAA: 1 | Institute of Image Processing and Pattern Recognition, Shanghai Jiaotong University: 1 | School of Electrical Engineering and Automation, Harbin Institute of Technology: 1 | Software Engineering Institute, Xidian University: 1 | Department of Management and Marketing, The Hong Kong Polytechnic University: 1 | School of Electronics & Information, Shanghai Jiaotong University: 1 | Math, Northwest University: 1 | Department of Automation, Tsinghua 2: 1 | MEMS Center, Harbin Institute of Technology: 1 | Institute of Image and Information, Sichuan University: 1 | Nanjing KEDE Electronics Company: 1 | Electromagnetics Laboratory, BUAA: 1 | Beckman Institute, UIUC: 1 | ICT, CAS: 1 | Wuhan University of Science and Technology: 1 | Master student [1983], Renmin University of China: 1 | Sinopec Research Institute of Petroleum Engineering: 1 | Baylor College of Medicine: 1 | [wangwei_wei@yahoo.cn] Northeastern University, China: 1 | School of Mechanical Engineering, Xi'an Jiaotong University: 1 | CBMI, University of Pittsburgh: 1 | Ordnance Engineering College, Shijiazhuang: 1 | [vv8819@hotmail.com] Wuhan University of Technology: 1 | Chinese North Industries Planning Institute: 1 | Harbin University of Commerce: 1 | [weiw@cs.zju.edu.cn] CS, Zhejiang University: 1 | University of Nottingham, Malaysia: 1 | College of Mechanical and Electrical Engineering, Northeast Forestry University: 1 | [weiwang@scu.edu.cn] Sichuan University: 1 | [xiaokedou_720@yahoo.com.cn] Wuhan University of Technology: 1 | Department of Systems Engineering, National University of Defense Technology: 1 | School of Communication Engineering, Xidian University: 1 | Math, East China University of Science and Technology: 1 | Security Lab, Department of Automation, Tsinghua: 1 | Department of Applied Mathematics, Dalian University of Technology: 1 | College of Mechanical Engineering and Automation, Fuzhou University: 1 | Cascade Fibers Co., Sanford, NC, USA: 1 | Math, PKU: 1 | WKW, NTU: 1 | College of Civil Engineering, Shandong University: 1 | School of Management, HUST: 1 | [w.w@mail.ia.ac.cn] IA, CAS: 1 | [wongwei@buaa.edu.cn, 1977] School of Instrument Science, BUAA: 1 | Queen Mary University of London: 1 | CUHK: 1 | Chalmers University of Technology: 1 | Air Force Engineering University: 1 | EE, Guilin University of electronic technology: 1 | Technical University of Denmark: 1 | Department of Elect. Eng, HKUST: 1 | University of Cambridge Computer Laboratory: 1 | School of Mechanical Engineering, BUAA: 1 | Lab for Intelligent Network and Network Security, Xi'an Jiaotong University: 1 | Math, CUHK: 1 | Handan Polytechechnic College: 1 | CST, Tsinghua: 1 | CSE, Hebei University of Technology: 1 | School of Information Science and Technology, Beijing Institute of Technology: 1 | Harbin Institute of Technology: 1 | Lab of Urban Water, Harbin Institute of Technology: 1 | CS, Xi'an Jiaotong University: 1 | Lab of Infosec, GUCAS: 1 | CS, Rutgers University 2: 1 | [sethvivid@163.com] School of Information Engineering, BUPT: 1 | Stevens Institute of Technology, Hoboken: 1 | Department of Automation, Tsinghua 3: 1 | H. Milton Stewart School of Industrial and Systems Engineering, GIT: 1 | Shenyang University of Technology: 1 | School of Mechanical Engineering, BUAA 2: 1 | Zhejiang University: 1 | [wang20080813@gmail.com] CS, Tongji University: 1 | [wei.wang@intel.com] Intel Corporation: 1 | ECE, Portland State University: 1 | Lab of Universal Wireless Communication, BUPT: 1 | University of South Florida: 1 | CS, Duke University: 1 | Central Queensland University: 1 | INRIA, France: 1 | CS, National Chiao Tung University: 1 | School of Computer, North China Electric Power University: 1 | Computer Network Information Center, CAS: 1 | Dept. of Systems and Computer Eng., Carleton University: 1 | [wangwei@icst.pku.edu.cn] ICST, PKU: 1 | China University of Geosciences: 1 | Lab of Animal, Sichuan Agricultural University: 1 | Math, Liaoning Normal University: 1
+
+!!!!!! WARN: Matched groundtruth pub counts disagree: 833 != 834
+846 groundtruth publications, 833 matched, 833 matched title-year pair
+Groundtruth pairs total: 14800, between matched pubs: 14476
+Arnet total pairs: 131813
+Arnet total correct pairs: 12769
+Summary:
+Prec: 0.0969. Recall: 0.8821. F1: 0.1746
+
+
+shaohua@lsh:/media/tough/namedis$ 

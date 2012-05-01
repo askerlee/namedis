@@ -1,0 +1,1848 @@
+44 clusters.
+
+Cluster 1, 204 papers:	College of Engineering and Computer Science (CECS), The Australian National University (ANU) (505277)
+Spatial summation in simple cells: computational and experimental results.
+florentin wörgötter, eckart nelle, bing li, lei wang, yun-chen diao
+1995. ESANN
+Texture classification using multiresolution Markov random field models.
+lei wang, jun liu
+1999. Pattern Recognition Letters
+Bayesian Learning for Image Retrieval Using Multiple Features.
+lei wang, kap luk chan
+2000. IDEAL
+Texture segmentation based on MRMRF modeling.
+lei wang, jun liu
+2000. Pattern Recognition Letters
+MRF parameter estimation by MCMC method.
+lei wang, jun liu, stan z. li
+2000. Pattern Recognition
+Characterization of current-mode CMOS R-2R ladder digital-to-analog converters.
+lei wang, yasunori fukatsu, kenzo watanabe
+2001. IEEE T. Instrumentation and Measurement
+A Sub-Vector Weighting Scheme for Image Retrieval with Relevance Feedback.
+lei wang, kap luk chan, xuejian xiong
+2002. Int. J. Image Graphics
+Variable-rate data sampling for low-power microsystems using modified Adams methods.
+geoff b. irvine, lei wang, peter dickman, david r. s. cumming
+2003. IEEE Transactions on Signal Processing
+Image retrieval with SVM active learning embedding Euclidean search.
+lei wang, kap luk chan, yap peng tan
+2003. ICIP
+Bootstrapping SVM Active Learning by Incorporating Unlabelled Images for Image Retrieval.
+lei wang, kap luk chan, zhihua zhang
+2003. CVPR
+Image orientation detection with integrated human perception cues (or which way is up).
+lei wang, xu liu, lirong xia, guangyou xu, alfred m. bruckstein
+2003. ICIP
+A Dynamic Sub-vector Weighting Scheme for Image Retrieval with Relevance Feedback.
+lei wang, kap luk chan
+2003. Pattern Anal. Appl.
+Multi-label SVM active learning for image classification.
+xuchun li, lei wang, eric sung
+2004. ICIP
+Face Recognition Based on Discriminative Manifold Learning.
+yiming wu, kap luk chan, lei wang
+2004. ICPR
+Multi-Level Video Representation with Application to Keyframe Extraction.
+xiao-dong yu, lei wang, qi tian, ping xue
+2004. MMM
+Generic slow-motion replay detection in sports video.
+lei wang, xu liu, steve lin, guangyou xu, heung-yeung shum
+2004. ICIP
+TengYue-1TengYue: In Chinese means jump over.: A High Performance Embedded SoC.
+lei wang, hongyi lu, kui dai, zhiying wang
+2004. Asia-Pacific Computer Systems Architecture Conference
+Offense based temporal segmentation for event detection in soccer video.
+lei wang, michael lew, guangyou xu
+2004. Multimedia Information Retrieval
+Robust multi-level video representation using mean shift analysis.
+hai gao, xiao-dong yu, lei wang, ping xue, qi tian
+2004. ICME
+Synthesis and Characteration of Phenolic Resin/Montmorillonite Nanocomposites.
+yujun zhang, maoqing lin, fengfu li, lei wang, zhenhao jin
+2004. ICMENS
+Breast Mass Segmentation based on Information Theory.
+aize cao, qing song, xulei yang, lei wang
+2004. ICPR
+Incorporating Prior Knowledge into SVM for Image Retrieval.
+lei wang, ping xue, kap luk chan
+2004. ICPR
+Relevancy based semantic interoperation of reuse repositories.
+ying pan, lei wang, lu zhang, bing xie, fuqing yang
+2004. SIGSOFT FSE
+Error Analysis of Pure Rotation-Based Self-Calibration.
+lei wang, sing bing kang, heung-yeung shum, guangyou xu
+2004. IEEE Trans. Pattern Anal. Mach. Intell.
+An Extended Approach to Improving the Semantic Interoperation Among Reuse Repositories.
+ying pan, lei wang, lu zhang, bing xie, fuqing yang
+2005. COMPSAC
+A Framework of 2D Fisher Discriminant Analysis: Application to Face Recognition with Small Number of Training Samples.
+hui kong, lei wang, eam khwang teoh, jian-gang wang, ronda venkateswarlu
+2005. CVPR
+Retrieval with Knowledge-driven Kernel Design: An Approach to Improving SVM-Based CBIR with Relevance Feedback.
+lei wang, yan gao, kap luk chan, ping xue, wei-yun yau
+2005. ICCV
+A novel framework for SVM-based image retrieval on large databases.
+lei wang, xuchun li, ping xue, kap luk chan
+2005. ACM Multimedia
+Generalized 2D principal component analysis for face image representation and recognition.
+hui kong, lei wang, eam khwang teoh, xuchun li, jian-gang wang, ronda venkateswarlu
+2005. Neural Networks
+Auto-Calibration of a Compound-Type Omnidirectional Camera.
+hongdong li, richard i. hartley, lei wang
+2005. DICTA
+A criterion for optimizing kernel parameters in KBDA for image retrieval.
+lei wang, kap luk chan, ping xue
+2005. IEEE Transactions on Systems
+Redundant source routing for real-time services in ad hoc networks.
+lei wang, seungho jang, tae-young lee
+2005. MASS
+PhoenixG: A Unified Management Framework for Industrial Information Grid.
+jianfeng zhan, gengpu liu, lei wang, bibo tu, yi jin, yang li, yan hao, xuehai hong, dan meng, ninghui sun
+2006. CCGRID
+Cycle Period Analysis and Optimization of Timed Circuits.
+lei wang, zhiying wang, kui dai
+2006. Asia-Pacific Computer Systems Architecture Conference
+Video Local Pattern based Image Matching for Visual Mapping.
+lei wang, hongdong li, richard i. hartley
+2006. ICPR
+Easy and reliable cluster management: the self-management experience of Fire Phoenix.
+zhihong zhang, dan meng, jianfeng zhan, lei wang, linping wu, huang wei
+2006. IPDPS
+The IIR Submission to CSLP 2006 Speaker Recognition Evaluation.
+kong-aik lee, hanwu sun, rong tong, bin ma, minghui dong, changhuai you, donglai zhu, chin-wei eugene koh, lei wang, tomi kinnunen, chng eng siong, haizhou li
+2006. ISCSLP
+An Approximate Method for Performance Evaluation of Asynchronous Pipeline Rings.
+lei wang, zhiying wang, kui dai
+2006. CIT
+Design Patterns of Scalable Cluster System Software.
+bibo tu, ming zou, jianfeng zhan, lei wang, jianping fan
+2006. PDCAT
+A novel multi-resolution video representation scheme based on kernel PCA.
+xiao-dong yu, lei wang, qi tian, ping xue
+2006. The Visual Computer
+Research and Implementation of a 32-Bit Asynchronous Multiplier.
+yong li, lei wang, rui gong, kui dai, zhiying wang
+2006. Journal of Computer Research and Development
+The design methodology of Phoenix cluster system software stack.
+jianfeng zhan, lei wang, bibo tu, hui wang, zhihong zhang, yi jin, yu wen, yuansheng chen, peng wang, bizhu qiu, dan meng, ninghui sun
+2007. China HPC
+Object Class Recognition Using SNoW with a Part Vocabulary.
+ming wen, lu wang, lei wang, qing zhuo, wenyuan wang
+2007. RSFDGrC
+Grid Unit: A Self-Managing Building Block for Grid System.
+jianfeng zhan, lei wang, ming zou, hui wang, shuang gao, yulei ding
+2007. PDCAT
+Where's the Weet-Bix?
+yuhang zhang, lei wang, richard i. hartley, hongdong li
+2007. ACCV
+An Optimal Design Method for De-synchronous Circuit Based on Control Graph.
+gang jin, lei wang, zhiying wang, kui dai
+2007. APPT
+Embedded Real-Time Heart Variability Analysis.
+eleftheria katsiri, mel ho, lei wang, benny lo, chris toumazou
+2007. BSN
+A layered design methodology of cluster system stack.
+jianfeng zhan, lei wang, bibo tu, zhihong zhang, yu wen, yuansheng chen, wei zhou, dan meng, ninghui sun
+2007. CLUSTER
+Background Subtraction using Incremental Subspace Learning.
+lu wang, lei wang, ming wen, qing zhuo, wenyuan wang
+2007. ICIP
+A Vector-Based Approach to Broadcast Audio Database Indexing and Retrieval.
+lei wang, haizhou li, engsiong chng
+2007. ICME
+Design and implementation of a web-based spatial decision support system for flood forecasting and flood risk mapping.
+lei wang, qiuming cheng
+2007. IGARSS
+Toward A Discriminative Codebook: Codeword Selection across Multi-resolution.
+lei wang
+2007. CVPR
+A Fast Algorithm for Creating a Compact and Discriminative Visual Codebook.
+lei wang, luping zhou, chunhua shen
+2008. ECCV
+Exploiting idle register classes for fast spill destination.
+fang lu, lei wang, xiaobing feng, zhiyuan li, zhaoqing zhang
+2008. ICS
+Predicting Soil Organic Carbon Dynamics Under Various Scenarios using Data Assimilation Strategy: a Case Study in the North China Plain.
+xiangzheng deng, jinyan zhan, lei wang, hongbo su, huimin yan
+2008. IGARSS
+Assessment of Suitability of Land Uses using a Multi-Source Information Fusion Method: A Case Study in the Hilly Area of Shandong Peninsular of China.
+lei wang, xiangzheng deng, jinyan zhan, yujiang li, hongbo su
+2008. IGARSS
+Regularized Discriminative Direction for Shape Difference Analysis.
+luping zhou, richard i. hartley, lei wang, paulette lieby, nick barnes
+2008. MICCAI
+PSDBoost: Matrix-Generation Linear Programming for Positive Semidefinite Matrices Learning.
+chunhua shen, alan welsh, lei wang
+2008. NIPS
+AdaBoost with SVM-based component classifiers.
+xuchun li, lei wang, eric sung
+2008. Eng. Appl. of AI
+Flood Forecasting and Risk Maping using a Web-based Spatial Decision Support Services Approach.
+lei wang, qiuming cheng
+2008. IGARSS
+A Performance Model for Domino Mail Server.
+yi liang, lei wang, jianfeng zhan, ruihua di
+2008. CSSE
+Two Criteria for Model Selection in Multiclass Support Vector Machines.
+lei wang, ping xue, kap luk chan
+2008. IEEE Transactions on Systems
+Performance Bound Analysis and Retiming of Timed Circuits.
+lei wang, zhiying wang, kui dai
+2008. ICYCS
+Multi-view Human Motion Capture with an Improved Deformation Skin Model.
+yifan lu, lei wang, richard i. hartley, hongdong li, chunhua shen
+2008. DICTA
+Feature Selection with Kernel Class Separability.
+lei wang
+2008. IEEE Trans. Pattern Anal. Mach. Intell.
+A Kernel-Induced Space Selection Approach to Model Selection in KLDA.
+lei wang, kap luk chan, ping xue, luping zhou
+2008. IEEE Transactions on Neural Networks
+Soil Moisture Change Retrieval Using S-Band Radar Data During SGP99 and SMEX02.
+quan chert, zhen li, lei wang, yun shao, tianhai cheng
+2008. IGARSS
+Learning Cascaded Reduced-Set SVMs Using Linear Programming.
+junae kim, chunhua shen, lei wang
+2008. DICTA
+Identifying Anatomical Shape Difference by Regularized Discriminative Direction.
+luping zhou, richard i. hartley, lei wang, paulette lieby, nick barnes
+2009. IEEE Trans. Med. Imaging
+Modelling of Bio-inspired Manufacturing System.
+dunbing tang, lei wang, wenbin gu, weidong yuan, dingshan tang
+2009. DET
+Efficient sparse self-similarity matrix construction for repeating sequence detection.
+lei wang, chng eng siong, haizhou li
+2009. ICME
+A Fast-locking and Wide-range Reversible SAR DLL.
+lei wang, leibo liu, hongyi chen
+2009. ISCAS
+Measurement and Statistics of Application Business in Complex Internet.
+lei wang, yang li, yipeng li, shuhang wu, shiji song, yong ren
+2009. Complex
+Phoenix Cloud : Consolidating Heterogeneous Workloads of Large Organizations on Cloud Computing Platforms
+jianfeng zhan, lei wang, bibo tu, yong li, peng wang, wei zhou, dan meng
+2009. CoRR
+Positive Semidefinite Metric Learning with Boosting.
+chunhua shen, junae kim, lei wang, anton van den hengel
+2009. NIPS
+Fast dynamic power estimation considering glitch filtering.
+lei wang, markus olbrich, erich barke, thomas büchner, markus bühler
+2009. SoCC
+IT's Impact on Organizational Performance: A Meta-Analysis.
+prashant palvia, tim jacks, richard a. m. schilhavy, lei wang
+2009. AMCIS
+In cloud, do MTC or HTC service providers benefit from the economies of scale?
+lei wang, jianfeng zhan, weisong shi, yi liang, lin yuan
+2009. SC-MTAGS
+Valuation of Game Options in Jump-Diffusion Model and with Applications to Convertible Bonds.
+lei wang, zhiming jin
+2009. JAMDS
+The Design of Asynchronous Microprocessor Based on Optimized NCL_X Design-Flow.
+gang jin, lei wang, zhiying wang
+2009. NAS
+An Optimal Algorithm for Prufer Codes.
+xiaodong wang, lei wang, yingjie wu
+2009. JSEA
+Positive Semidefinite Metric Learning with Boosting
+chunhua shen, junae kim, lei wang, anton van den hengel
+2009. CoRR
+Hierarchical Hypercube Based Pairwise Key Establishment Scheme for Sensor Networks.
+lei wang
+2009. IJCNS
+The Application of Non-linear Regression Method to the Functional Connectivity during the Encoding and the Retrieval of Chinese Semantic Memory.
+manling ge, guoya dong, tingting wang, li yang, xuelian pang, lei wang
+2009. ICNC
+Planning and Control of Biped Walking along Curved Paths on Unknown and Uneven Terrain.
+guoqing zhang, ming xie, hang yin, lei wang, hejin yang
+2009. ICIRA
+Traffic Localizing Strategy for Peer-to-Peer Systems.
+lei wang, yong ren, yue wang, jian yuan, shiji song, xiuming shan
+2009. CSIE
+A New Description Language for Data-Driven Asynchronous Circuits and its Design Flow.
+gang jin, lei wang, zhiying wang
+2009. PACCS
+Nonzero solutions for a system of variational inequalities in reflexive Banach spaces.
+lei wang, yeol je cho, nan-jing huang
+2009. Mathematical and Computer Modelling
+Handling Significant Scale Difference for Object Retrieval in a Supermarket.
+yuhang zhang, lei wang, richard i. hartley, hongdong li
+2009. DICTA
+Comparative Study on Bionic Optimization Algorithms for Sewer Optimal Design.
+lei wang, yuwen zhou, weiwei zhao
+2009. ICNC
+A Scalable Algorithm for Learning a Mahalanobis Distance Metric.
+junae kim, chunhua shen, lei wang
+2009. ACCV
+Precise request tracing and performance debugging for multi-tier services of black boxes.
+zhihong zhang, jianfeng zhan, yong li, lei wang, dan meng, bo sang
+2009. DSN
+Scalable Large-Margin Mahalanobis Distance Metric Learning
+chunhua shen, junae kim, lei wang
+2010. CoRR
+Illumination invariant sequential filtering human tracking.
+yifan lu, dan xu, lei wang, richard i. hartley, hongdong li
+2010. ICMLC
+An adaptive task creation strategy for work-stealing scheduling.
+lei wang, huimin cui, yuelu duan, fang lu, xiaobing feng, pen-chung yew
+2010. CGO
+Wide-Area Frequency Monitoring Network (FNET) Architecture and Applications.
+yingchen zhang, p. markham, tao xia, lang chen, yanzhu ye, zhongyu wu, zhiyong yuan, lei wang, jason n. bank, jon burgett, richard w. conners, yilu liu
+2010. IEEE Trans. Smart Grid
+Design of a link-controller architecture for multiple serial link protocols.
+lei wang, pawankumar hegde, vishal nawathe, roman staszewski, poras t. balsara, vojin g. oklobdzija
+2010. SoCC
+Clubfoot Pattern Recognition towards Personalized Insole Design.
+cong liu, teng zhang, guoru zhao, tiexiang wen, lei wang
+2010. BSN
+A Multiple-Hop Synchronization Protocol with Packet Reconstitution.
+zi-fei chen, zhi cheng li, bang-yu huang, xin liu, lei wang
+2010. BSN
+An Implementation of Fast-Locking and Wide-Range 11-bit Reversible SAR DLL.
+lei wang, leibo liu, hongyi chen
+2010. IEEE Trans. on Circuits and Systems
+Scalable Group Management in Large-Scale Virtualized Clusters
+wei zhou, lei wang, dan meng, lin yuan, jianfeng zhan
+2010. CoRR
+Stakeholder Interactions to Support Service Creation in Cloud Computing.
+lei wang, luís ferreira pires, andreas wombacher, marten van sinderen, chihung chi
+2010. EDOCW
+A FDD method by combining transfer entropy and signed digraph and its application to air separation unit.
+qian hou, lei wang, ningyun lu, bin jiang, jianhua lu
+2010. ICARCV
+Compressive Evaluation in Human Motion Tracking.
+yifan lu, lei wang, richard i. hartley, hongdong li, dan xu
+2010. ACCV
+Gradual Sampling and Mutual Information Maximisation for Markerless Motion Capture.
+yifan lu, lei wang, richard i. hartley, hongdong li, dan xu
+2010. ACCV
+Efficient Structured Support Vector Regression.
+ke jia, lei wang, nianjun liu
+2010. ACCV
+Feature selection with redundancy-constrained class separability.
+luping zhou, lei wang, chunhua shen
+2010. IEEE Transactions on Neural Networks
+Scalable large-margin Mahalanobis distance metric learning.
+chunhua shen, junae kim, lei wang
+2010. IEEE Transactions on Neural Networks
+Landing Stencil Code on Godson-T.
+huimin cui, lei wang, dong-rui fan, xiaobing feng
+2010. J. Comput. Sci. Technol.
+Hippocampal Shape Classification Using Redundancy Constrained Feature Selection.
+luping zhou, lei wang, chunhua shen, nick barnes
+2010. MICCAI
+Fast Multi-labelling for Stereo Matching.
+yuhang zhang, richard i. hartley, lei wang
+2010. ECCV
+A tree-construction search approach for multivariate time series motifs discovery.
+lei wang, engsiong chng, haizhou li
+2010. Pattern Recognition Letters
+PowerTracer: Tracing requests in multi-tier services to save cluster power consumption
+lin yuan, jianfeng zhan, bo sang, lei wang, haining wang
+2010. CoRR
+Precise, Scalable and Online Request Tracing for Multi-tier Services of Black Boxes
+bo sang, jianfeng zhan, zhihong zhang, lei wang, dongyan xu, yabing huang, dan meng
+2010. CoRR
+PhoenixCloud: Provisioning Resources for Heterogeneous Workloads in Cloud Computing
+jianfeng zhan, lei wang, weisong shi, shimin gong, xiutao zang
+2010. CoRR
+In Cloud, Can Scientific Communities Benefit from the Economies of Scale?
+lei wang, jianfeng zhan, weisong shi, yi liang
+2010. CoRR
+In Cloud, Do MTC or HTC Service Providers Benefit from the Economies of Scale?
+lei wang, jianfeng zhan, weisong shi, yi liang, lin yuan
+2010. CoRR
+PhoenixCloud: Provisioning Resources for Heterogeneous Cloud Workloads
+jianfeng zhan, lei wang, weisong shi, shimin gong, xiutao zang
+2010. CoRR
+Precise Request Tracing and Performance Debugging for Multi-tier Services of Black Boxes
+zhihong zhang, jianfeng zhan, yong li, lei wang, dan meng, bo sang
+2010. CoRR
+Extendable pattern-oriented optimization directives.
+huimin cui, jingling xue, lei wang, yang yang, xiaobing feng, dongrui fan
+2011. CGO
+A theoretical probabilistic simulation framework for dynamic power estimation.
+lei wang, markus olbrich, erich barke, thomas büchner, markus bühler, philipp v. panitz
+2011. ICCAD
+Competing across Different Channels for Personalized Service.
+lei wang
+2011. ICIS
+Automatic Performance Debugging of SPMD-style Parallel Programs
+xu liu, jianfeng zhan, kunlin zhan, weisong shi, lin yuan, dan meng, lei wang
+2011. CoRR
+Positive Semidefinite Metric Learning Using Boosting-like Algorithms
+chunhua shen, junae kim, lei wang, anton van den hengel
+2011. CoRR
+Feature selection via simultaneous sparse approximation for person specific face verification
+yixiong liang, lei wang, shenghui liao, beiji zou
+2011. CoRR
+An improved adaptive genetic algorithm based on hormone modulation mechanism for job-shop scheduling problem.
+lei wang, dun-bing tang
+2011. Expert Syst. Appl.
+Localized Cocone surface reconstruction.
+tamal k. dey, ramsay dyer, lei wang
+2011. Computers & Graphics
+Interactive Media in Social Innovation.
+xiaohua sun, lei wang
+2011. HCI
+Video Retrieval Based on Words-of-Interest Selection.
+lei wang, dawei song, eyad elyan
+2011. ECIR
+Quantization and analysis of hippocampal morphometric changes due to dementia of Alzheimer type using metric distances based on large deformation diffeomorphic metric mapping.
+elvan ceyhan, mirza faisal beg, can ceritoglu, lei wang, john c. morris, john g. csernansky, michael i. miller, j. tilak ratnanather
+2011. Comp. Med. Imag. and Graph.
+The robustness of generalized abstract fuzzy economies in generalized convex spaces.
+lei wang, yeol je cho, nan-jing huang
+2011. Fuzzy Sets and Systems
+Automatic performance debugging of SPMD-style parallel programs.
+xu liu, jianfeng zhan, kunlin zhan, weisong shi, lin yuan, dan meng, lei wang
+2011. J. Parallel Distrib. Comput.
+Global dynamics of a two-patch SIS model with infection during transport.
+lei wang, wei yang
+2011. Applied Mathematics and Computation
+Cable inspection robot for cable-stayed bridges: Design, analysis, and application.
+fengyu xu, xingsong wang, lei wang
+2011. J. Field Robotics
+Feature Selection via Sparse Approximation for Face Recognition
+yixiong liang, lei wang, yao xiang, beiji zou
+2011. CoRR
+Number estimation of controllers for pinning a complex dynamical network.
+lei wang, huan shi, you-xian sun
+2011. Journal of Zhejiang University - Science C
+Oscillation of second-order nonlinear delay dynamic equations on time scales.
+quanxin zhang, li gao, lei wang
+2011. Computers & Mathematics with Applications
+Evaluation of three lattice Boltzmann models for multiphase flows in porous media.
+haibo huang, lei wang, xi-yun lu
+2011. Computers & Mathematics with Applications
+A study of leaf modeling technology based on morphological features.
+lei wang, ling lu, niande jiang
+2011. Mathematical and Computer Modelling
+Exploring latent class information for image retrieval using the bag-of-feature model.
+lingqiao liu, lei wang
+2011. ACM Multimedia
+ICESat GLAS Data for Urban Environment Monitoring.
+peng gong, zhan li, huabing huang, guoqing sun, lei wang
+2011. IEEE T. Geoscience and Remote Sensing
+Uncertainty quantification and propagation analysis of structures based on measurement data.
+xiaojun wang, lei wang
+2011. Mathematical and Computer Modelling
+Pipeline Reconstruction from Fisheye Images.
+yuhang zhang, richard i. hartley, john mashford, lei wang, stewart burn
+2011. Journal of WSCG
+Modeling of Photoelectric Micro-Power Supply for Wireless Sensor Nodes.
+yongtai he, yanqiu li, lihui liu, lei wang
+2011. IJWIN
+Fast Evaluation of Multiquadric RBF Sums by a Cartesian Treecode.
+robert krasny, lei wang
+2011. SIAM J. Scientific Computing
+Fast scanning schemes for IEEE 802.11 WLANs in virtual AP environments.
+sunggeun jin, munhwan choi, lei wang, sunghyun choi
+2011. Computer Networks
+Fatigue life evaluation of anisotropic conductive adhesive film joints under mechanical and hygrothermal loads.
+li-lan gao, lei wang, hong gao, gang chen, xu chen
+2011. Microelectronics Reliability
+Learning Valuation Functions
+maria-florina balcan, florin constantin, satoru iwata, lei wang
+2011. CoRR
+A hierarchical Path Computation Element (PCE)-based k-random-paths routing algorithm in multi-domain WDM networks.
+shengfeng shang, nan hua, lei wang, rui lu, xiaoping zheng, hanyi zhang
+2011. Optical Switching and Networking
+Soliton solutions, Bäcklund transformation and Wronskian solutions for the extended (2+1)-dimensional Konopelchenko-Dubrovsky equations in fluid mechanics.
+peng-bo xu, yi-tian gao, xiao-ling gai, de-xin meng, yu-jia shen, lei wang
+2011. Applied Mathematics and Computation
+Painlevé property, auto-Bäcklund transformation and analytic solutions of a variable-coefficient modified Korteweg-de Vries model in a hot magnetized dusty plasma with charge fluctuations.
+xiao-ling gai, yi-tian gao, xin yu, lei wang
+2011. Applied Mathematics and Computation
+Darboux transformation and explicit solutions for the integrable sixth-order KdV equation for nonlinear waves.
+xiao-yong wen, yi-tian gao, lei wang
+2011. Applied Mathematics and Computation
+N-fold Darboux transformation and solitonic interactions of a variable-coefficient generalized Boussinesq system in shallow water.
+de-xin meng, yi-tian gao, lei wang, xiao-ling gai
+2011. Applied Mathematics and Computation
+Differences in Knowledge Seeking Ties between the US and Singapore Students: An Exploratory Study.
+lei wang, rajiv kishore
+2011. ICIS
+Evaluating Optimized Implementations of Stream Cipher ZUC Algorithm on FPGA.
+lei wang, jiwu jing, zongbin liu, lingchen zhang, wuqiong pan
+2011. ICICS
+Quantum Interaction - 5th International Symposium, QI 2011, Aberdeen, UK, June 26-29, 2011, Revised Selected Papers
+dawei song, massimo melucci, ingo frommholz, peng zhang, lei wang, sachi arafat
+2011. QI
+Automatic Library Generation for BLAS3 on GPUs.
+huimin cui, lei wang, jingling xue, yang yang, xiaobing feng
+2011. IPDPS
+The Experimental Study on Ozone to Remove NO by DBD.
+haiping xiao, xu du, lei huang, lei wang
+2011. CSISE
+A Structure for the Model of Intelligent Plan Agent.
+lei wang
+2011. CSISE
+Tele-education Technology Eliminating Chinese Knowledge Poverty Based on Information Technology.
+lei wang, dan han
+2011. CSISE
+Recognition and Reply of Adversarial Planning Based on Simulation State Graph.
+lei wang
+2011. CSEE
+Selecting Principle and Equipment of Valve Tappets.
+lian-hu xu, yi-bao yuan, lei wang
+2011. ICAIC
+Study on the Current Situation of Soil Lead Pollution and Health Risk in Harbin.
+peng zhang, xueping zhang, lei wang
+2011. ICAIC
+Gregex: GPU Based High Speed Regular Expression Matching Engine.
+lei wang, shuhui chen, yong tang, jinshu su
+2011. IMIS
+Area Division Based Semi-auto DV-Hop Localization algorithm in IEEGS.
+keji mao, xiaomin zhao, wenxiu he, lei wang, qingzhang chen
+2011. FSKD
+Knowledge discovery of hailstone echo time series based on Mutual Information network model.
+zhiying lu, huisong wan, lei wang, huizhen jia
+2011. FSKD
+GA-SVM based feature selection and parameters optimization for BCI research.
+lei wang, guizhi xu, jiang wang, shuo yang, lei guo, weili yan
+2011. ICNC
+Research on Decision-making of Distribution Channels for Manufacturers in the Presence of Disruption Risks under Internet Environment.
+lei wang, jiapeng liu
+2011. LISS
+Research on Industrial Clusters Development based on Brand.
+lei wang, shukai zhang
+2011. LISS
+Words-of-interest selection based on temporal motion coherence for video retrieval.
+lei wang, dawei song, eyad elyan
+2011. SIGIR
+Experimental Studies on Human Body Communication Characteristics Based Upon Capacitive Coupling.
+wen-cheng wang, ze-dong nie, feng guan, teng-fei leng, lei wang
+2011. BSN
+Influencing factors on re-tracking accuracies of SAR altimeter ocean power waveforms.
+lingwei shi, heguang liu, ke xu, shuangbao yang, lei wang
+2011. EMEIT
+Research and design of an emergency command system based on mobile devices.
+bo yin, yonglei xing, lei wang, zhiqiang wei
+2011. EMEIT
+A hybrid artificial fish swarm algorithm for Bin-packing problem.
+lei wang, leijuan ma
+2011. EMEIT
+Simulation research on the aircraft orbit transferring based on dragging force using STK.
+yi tan, yang wang, lei wang, jiaze sun
+2011. EMEIT
+A generalized probabilistic framework for compact codebook creation.
+lingqiao liu, lei wang, chunhua shen
+2011. CVPR
+A scalable dual approach to semidefinite metric learning.
+chunhua shen, junae kim, lei wang
+2011. CVPR
+QSPR study of Setschenow constants of organic compounds using MLR, ANN, and SVM analyses.
+jie xu, lei wang, luoxin wang, xiaolin shen, weilin xu
+2011. Journal of Computational Chemistry
+Hippocampal Surface Mapping of Genetic Risk Factors in AD via Sparse Learning Models.
+jing wan, sungeun kim, mark inlow, kwangsik nho, shanker swaminathan, shannon l. risacher, shiaofen fang, michael w. weiner, mirza faisal beg, lei wang, andrew j. saykin, li shen
+2011. MICCAI
+Topic-Oriented Information Detection and Scoring.
+saike he, xiaolong zheng, changli zhang, lei wang
+2011. PAISI
+Black-Box Reductions in Mechanism Design.
+zhiyi huang, lei wang, yuan zhou
+2011. APPROX-RANDOM
+Wide-Baseline Correspondence from Locally Affine Invariant Contour Matching.
+zhaozhong wang, lei wang
+2011. ICIAR
+Research on cost information divulgence mechanism in supply chain.
+li-na tian, shao-hui dong, lei wang
+2011. ICMLC
+Multi-machines communication mechanism and load balancing design on peer-to-peer structure.
+lei wang, pei wang
+2011. ICMLC
+A gate sizing method for glitch power reduction.
+lei wang, markus olbrich, erich barke, thomas büchner, markus bühler, philipp v. panitz
+2011. SoCC
+A language model approach to capture commercial intent and information relevance for sponsored search.
+lei wang, mingjiang ye, yu zou
+2011. CIKM
+Video Quality in Transmission over Burst-Loss Channels: A Forward Error Correction Perspective.
+zhicheng li, jacob chakareski, lili shen, lei wang
+2011. IEEE Communications Letters
+Spatiotemporal Segmentation of Spaceborne Passive Microwave Data for Change Detection.
+lei wang, jaehyung yu
+2011. IEEE Geosci. Remote Sensing Lett.
+A 60-GHz 1-V Supply Band-Tunable Power Amplifier in 65-nm CMOS.
+xiaojun bi, yongxin guo, james brinkhoff, lin jia, lei wang, yong zhong xiong, mook seng leong, fujiang lin
+2011. IEEE Trans. on Circuits and Systems
+A 12-bit fully differential SAR ADC with dynamic latch comparator for portable physiological monitoring applications.
+li yu, jingyong zhang, lei wang, jianguo lu
+2011. BMEI
+A Dynamical Optimization Approach for Service Process Library.
+lei wang, jian cao, haiyan zhao
+2011. DASC
+In defense of soft-assignment coding.
+lingqiao liu, lei wang, xinwang liu
+2011. ICCV
+Exploring regularized feature selection for person specific face verification.
+yixiong liang, shenghui liao, lei wang, beiji zou
+2011. ICCV
+Face recognition using maximum local Fisher Discriminant Analysis.
+lei wang, hongbing ji, ya shi
+2011. ICIP
+Feature selection via simultaneous sparse approximation for person specific face verification.
+yixiong liang, lei wang, shenghui liao, beiji zou
+2011. ICIP
+Ultrasound-based surgical navigation for percutaneous renal intervention: In vivo measurements and in vitro assessment.
+zhicheng li, jia gu, jacob chakareski, lei wang
+2011. ICIP
+On the Optimality of Sequential Forward Feature Selection Using Class Separability Measure.
+lei wang, chunhua shen, richard hartley
+2011. DICTA
+Dacoop: Accelerating Data-Iterative Applications on Map/Reduce Cluster.
+yi liang, guangrui li, lei wang, yanpeng hu
+2011. PDCAT
+A Matrix-free Approach for Solving the Parametric Gaussian Process Maximum Likelihood Problem.
+mihai anitescu, jie chen, lei wang
+2012. SIAM J. Scientific Computing
+Modified Dendrogram of Attribute Space for Multidimensional Transfer Function Design.
+lei wang, xin zhao, arie e. kaufman
+2012. IEEE Trans. Vis. Comput. Graph.
+In Cloud, Can Scientific Communities Benefit from the Economies of Scale?
+lei wang, jianfeng zhan, weisong shi, yi liang
+2012. IEEE Trans. Parallel Distrib. Syst.
+Texture-guided volumetric deformation and visualization using 3D moving least squares.
+xin zhao, bo li, lei wang, arie e. kaufman
+2012. The Visual Computer
+Automated detection of amnestic mild cognitive impairment in community-dwelling elderly adults: A combined spatial atrophy and white matter alteration approach.
+yue cui, wei wen, darren m. lipnicki, mirza faisal beg, jesse s. jin, suhuai luo, wanlin zhu, nicole a. kochan, simone reppermund, lin zhuang, pradeep reddy raamana, tao liu, julian n. trollor, lei wang, henry brodaty, perminder s. sachdev
+2012. NeuroImage
+Optimal broadcasting for locally twisted cubes.
+xiaofan yang, lei wang, luxing yang
+2012. Inf. Process. Lett.
+
+Cluster 2, 82 papers:	(505327)
+Active Network Supports for Mobile IP.
+yueming lu, depei qian, bin xu, lei wang
+2001. J. Comput. Sci. Technol.
+A semantic representation for image retrieval.
+lei wang, b. s. manjunath
+2003. ICIP
+A Reconfigurable High Availability Infrastructure in Cluster for Grid.
+wen gao, xinyu liu, lei wang, takashi nanya
+2003. GCC
+An Initial Framework for Collaboration-Based Component Selection.
+lei wang, daniela mehandjiska-stavreva
+2004. Software Engineering Research and Practice
+Issues in managing image and video data.
+shawn d. newsam, jelena tesic, lei wang, b. s. manjunath
+2004. Storage and Retrieval Methods and Applications for Multimedia
+A novel method for a class of nonlinear singular perturbation problems.
+lei wang
+2004. Applied Mathematics and Computation
+A new algorithm for solving classical Blasius equation.
+lei wang
+2004. Applied Mathematics and Computation
+A practical approach to modeling skin effect in on-chip interconnects.
+bhaskar mukherjee, lei wang, andrea pacelli
+2004. ACM Great Lakes Symposium on VLSI
+Image Segmentation by a Robust Clustering Algorithm Using Gaussian Estimator.
+lei wang, hongbing ji, xinbo gao
+2004. ICIAR
+A Compiler and Runtime Infrastructure for Automatic Program Distribution.
+roxana diaconescu, lei wang, zachary mouri, matt chu
+2005. IPDPS
+Intelligent Hierarchical Intrusion Detection System for Secure Wireless Ad Hoc Network.
+peng fu, deyun zhang, lei wang, zhongxing duan
+2005. ISNN
+A Novel Genetic Algorithm Based on Cure Mechanism of Traditional Chinese Medicine.
+chao-xue wang, du-wu cui, lei wang, zhu-rong wang
+2005. ICNC
+Facial Features Location by Analytic Boosted Cascade Detector.
+lei wang, beiji zou, jiaguang sun
+2005. CIS
+An energy-efficient skew compensation technique for high-speed skew-sensitive signaling.
+lei wang
+2005. ISCAS
+Real-Time Solution in Petroleum Industry's Cyber Data Acquisition Simulation System.
+wei li, lei wang
+2005. RTCSA
+Enhancing Security Using Legality Assertions.
+lei wang, james r. cordy, thomas r. dean
+2005. WCRE
+SCMP: An E-Learning Content Migration and Standardization Approach.
+hinny p. kong, william k. h. lim, lei wang, robert gay
+2006. IJDET
+Study on Traffic Information Fusion Algorithm Based on Support Vector Machines.
+haihong liu, xiaoyuan wang, derong tan, lei wang
+2006. ISDA
+Analysis on Appearance Reasons of the Positive Feedback Traders.
+shi an, lei wang, he huang
+2006. ICICIC
+Information Acquisition in Desert Ant Navigation.
+jun gao, lei wang, mei bo, zhiguo fan
+2006. I. J. Information Acquisition
+Efficient and Secure Authentication Protocols for Mobile VoIP Communications.
+huang-ju chen, jyh-ming huang, lei wang
+2006. Security and Management
+Round-Robin with VirtualClock Scheduling Algorithm in Multiservice Packet Networks.
+lei wang, mike h. macgregor
+2006. IEICE Transactions
+Body Detection and Tracking with Hierarchical Scheme in Dynamic Scenes.
+xiaofeng tong, lei wang, yimin zhang
+2007. ICME
+A High-Speed High-Resolution Low-Distortion CMOS Bootstrapped Switch.
+lei wang, junyan ren, wenjing yin, tingqian chen, jun xu
+2007. ISCAS
+A Model Predictive Control of a Grain Dryer with Four Stages Based on Recurrent Fuzzy Neural Network.
+chunyu zhao, qinglei chi, lei wang, bangchun wen
+2007. ISNN
+Large Deformation Diffeomorphism and Momentum Based Hippocampal Shape Discrimination in Dementia of the Alzheimer type.
+lei wang, mirza faisal beg, j. tilak ratnanather, c. ceritoglu, laurent younes, john c. morris, john g. csernansky, michael i. miller
+2007. IEEE Trans. Med. Imaging
+The Representation of Chinese Semantic Knowledge and its Application in the Document Copy Detection.
+xu li, guo-hua liu, huidong ma, lei wang
+2007. CIS
+The Design and Optimization of H.264 Encoder Based on the Nexperia Platform.
+zhengdong li, xianwen zeng, zhongcheng yin, shaobin hu, lei wang
+2007. SNPD
+The Finite Element Analysis Based on ANSYS Pressure-Sensitive Conductive Rubber Three-Dimensional Tactile Sensor.
+ying huang, panfeng huang, min wang, lei wang, yunjian ge
+2007. ICIC
+Discovering Prediction Model for Environmental Distribution Maps.
+ke zhang, huidong jin, nianjun liu, rob lesslie, lei wang, zhouyu fu, terry caelli
+2007. PAKDD Workshops
+Skew Detection Algorithm for Form Document Based on Elongate Feature.
+feng-ying xie, zhi-guo jiang, lei wang
+2007. EMMCVPR
+Feature Subset Selection for Multi-class SVM Based Image Classification.
+lei wang
+2007. ACCV
+Automatic Partitioning of Object-Oriented Programs for Resource-Constrained Mobile Devices with Multiple Distribution Objectives.
+lei wang, michael franz
+2008. ICPADS
+Data Compression Algorithm Based on Hierarchical Cluster Model for Sensor Networks.
+tongsen wang, lei wang, zhijun xie, ronghua yang
+2008. FGCN
+P2P Recommendation Trust Model.
+xuan wang, lei wang
+2008. ISDA
+MM-Correction: Meta-analysis-Based Multiple Hypotheses Correction in Omic Studies.
+christine nardini, lei wang, hesen peng, luca benini, michael d. kuo
+2008. BIOSTEC
+Context-aware application programming for mobile devices.
+weichang du, lei wang
+2008. C3S2E
+A Lightweight Sensor Network Management System Design.
+fenghua yuan, wen-zhan song, nina peterson, yang peng, lei wang, behrooz shirazi, richard lahusen
+2008. PerCom
+MU-MAQAS: A P2P based Model Updatable Mobile Automatic Q/A System.
+lei wang
+2008. FSKD
+Hailstone Detection Based on Image Mining.
+zhiying lu, lei wang, hongmin ma, qimeng zhang, huizhen jia
+2008. FSKD
+Natural Language Specification of Performance Trees.
+lei wang, nicholas j. dingle, william j. knottenbelt
+2008. EPEW
+An Efficient Algorithm for the Longest Pattern Subsequence Problem.
+xiaodong wang, lei wang, yingjie wu
+2008. BIOCOMP
+A pharmacogenomic study on the polymorphic gene response to risperidone in schizophrenia patients.
+lei wang, daniel o'connor, ying wang, guoyin feng, lin he
+2008. IEEE ICCI
+Trust Mechanism in Distributed Access Control Model of P2P Networks.
+lei wang, yanqin zhu, lanfang jin, xizhao luo
+2008. ACIS-ICIS
+Solitonic solutions for a variable-coefficient variant Boussinesq system in the long gravity waves.
+de-xin meng, yi-tian gao, xiao-ling gai, lei wang, xin yu, zhi-yuan sun, ming-zhen wang, xing lÃ¼
+2009. Applied Mathematics and Computation
+The Research on Controlling Method of Loom Warp Tension.
+lei wang, jiancheng yang, xiaoqin han, lei li, yan liu, liangchao cong
+2009. ISCID
+Fuzzy Control Strategy of Sub-mini Underwater Robots in Rectifying Control.
+yuyi zhai, liang liu, lei wang, zhenbang gong
+2009. FSKD
+SVM Model Based on Signal Transformation and its Applications in Oil Water-Flooded Identification.
+fuhua shang, lei wang
+2009. FSKD
+Service View Description of a Service Oriented C4ISR Architecture Framework.
+lei wang, ai-min luo
+2009. SSME
+A New Rights Processing Method for DRM Systems.
+lei wang, peiyu guo, jinhui xie, yingying yao, jinchun liang
+2009. CAR
+A Robust Closed-Loop Control Algorithm for Mean Arterial Blood Pressure Regulation.
+guan-zheng liu, lei wang, yuan-ting zhang
+2009. BSN
+Fault Diagnosis of Regenerative Water Heater Based-On Multi-class Support Vector Machines.
+lei wang, ruiqing zhang
+2009. ICNC
+Layer Key Management Scheme on Wireless Sensor Networks.
+qingqi pei, lei wang, hao yin, liaojun pang, hong tang
+2009. IAS
+Constructing symmetric boolean functions with maximum algebraic immunity.
+longjiang qu, keqin feng, feng liu, lei wang
+2009. IEEE Transactions on Information Theory
+An analytic approximation to the cardinal functions of Gaussian radial basis functions on an infinite lattice.
+john p. boyd, lei wang
+2009. Applied Mathematics and Computation
+Design and analysis of a mode-hop-free tunable laser based on etched diffraction grating.
+rui-xing zeng, lei wang, jian-jun he
+2010. Journal of Zhejiang University - Science C
+A Pervasive Simplified Method for Human Movement Pattern Assessing.
+mianbo huang, guoru zhao, lei wang, feng yang
+2010. ICPADS
+Research on Extracting Skeleton of Mechanism Based on Digital Mockup.
+tianzhong sui, lei wang, xiaopeng li, feng wen, xin liu, bangchun wen
+2010. PDPTA
+Speeding up the Algorithms for the Subset-Sum Problem with the Bitset Class.
+xiaodong wang, lei wang, yingjie wu
+2010. Software Engineering Research and Practice
+Particle Size Distribution Control of Coal-Water Slurry with Effective Medium Model.
+weidong wang, lei wang, chenglian zhang
+2010. DBTA
+Remote sensing of insect pests in larch forest based on physical model.
+lei wang, huaguo huang, youqing luo
+2010. IGARSS
+Characterization of Evolutionarily Conserved MicroRNAs in Amphioxus.
+lei wang, lan jiang, songnian hu, yejun wang
+2010. Genomics
+Sequence Signatures of Nucleosome Positioning in Caenorhabditis elegans.
+kaifu chen, lei wang, meng yang, jiucheng liu, chengqi xin, songnian hu, jun yu
+2010. Genomics
+An inter-domain authentication scheme for pervasive computing environment.
+lin yao, lei wang, xiangwei kong, guowei wu, feng xia
+2010. Computers & Mathematics with Applications
+Harmonic Power Standard at NIM and Its Compensation Algorithm.
+zuliang lu, lei wang, min li, lijuan liu, hao zhou
+2010. IEEE T. Instrumentation and Measurement
+A New Method for Measuring the Level Dependence of AC Shunts.
+jiangtao zhang, xianlin pan, jun lin, lei wang, zuliang lu, deshi zhang
+2010. IEEE T. Instrumentation and Measurement
+A Knowledge-Based System for Sharing and Reusing Tacit Knowledge in Robotic Manufacturing.
+lei wang, yajie tian, tetsuo sawaragi, yukio horiguchi
+2010. IJKSS
+Culture Influences on Implementation of HILAS Systems.
+lei wang, ruishan sun
+2010. In Proceedings of the Second Singapore International Conference on Intelligent Systems
+Guided Informative Image Partitioning.
+nathan brewer, nianjun liu, lei wang
+2010. SSPR/SPR
+Integrating Case based Reasoning and Explanation based Learning in an Apprentice Agent.
+lei wang, tetsuo sawaragi, yajie tian, yukio horiguchi
+2010. ICAART
+Knowledge Points Organization Model based on AND/OR Graph in ICAI.
+shuyan li, xiangnan li, lei wang
+2010. ICNC
+A Method of Automatic Translation of Words of Multiple Affixes in Scientific Literature.
+lei wang, baobao chang, janet harkness
+2010. IALP
+The study of norm vacuum for duplex pressure condenser based on support vector regression and genetic algorithm.
+lei wang, wei sheng, ruiqing zhang
+2010. ICNC
+Efficient Learning to Label Images.
+ke jia, li cheng, nianjun liu, lei wang
+2010. ICPR
+Inter-Domain Routing Validator Based Spoofing Defence System.
+lei wang, tianbing xia, jennifer seberry
+2010. ISI
+DCISL: Dynamic Control Integration Script Language.
+qingshan li, lei wang, hua chu, shaojie mao
+2010. ALA
+Feature extraction and optimization of representative-slice in ambiguity function for moving radar emitter recognition.
+lei wang, hongbing ji, ya shi
+2010. ICASSP
+Adaptive reduced-rank LCMV beamforming algorithms based on joint iterative optimization of filters: Design and analysis.
+rodrigo c. de lamare, lei wang, rui fa
+2010. Signal Processing
+Generalized KPCA by adaptive rules in feature space.
+yanwei pang, lei wang, yuan yuan
+2010. Int. J. Comput. Math.
+Stability and bifurcation of genetic regulatory networks with delays.
+kai wang, lei wang, zhidong teng, haijun jiang
+2010. Neurocomputing
+Asymptotic coefficients for Gaussian radial basis function interpolants.
+john p. boyd, lei wang
+2010. Applied Mathematics and Computation
+Design of a low power GPS receiver in 0.18 Âµm CMOS technology with a SigmaDeltafractional-N synthesizer.
+di li, yin-tang yang, jiang-an wang, bing li, qiang long, jary wei, nai-di wang, lei wang, qian-kun liu, da-long zhang
+2010. Journal of Zhejiang University - Science C
+
+Cluster 3, 45 papers:	Bond University, Queensland, Australia (505278)
+Supporting Partial Component Matching.
+padmanabhan krishnan, lei wang
+2004. ICDCIT
+An Approach to Provisioning E-Commerce Applications with Commercial Components.
+lei wang, padmanabhan krishnan
+2006. ICEBE
+A Framework for Checking Behavioral Compatibility for Component Selection.
+lei wang, padmanabhan krishnan
+2006. ASWEC
+Emergent Periodic Behavior in Coupled Chaotic Systems.
+xiao-song yang, lei wang
+2006. Advances in Complex Systems
+Distributed space-time-frequency coding for cooperative OFDM systems.
+weiwei yang, yueming cai, lei wang
+2009. Science in China Series F: Information Sciences
+Detecting and Eliminating Potential Violations of Sequential Consistency for Concurrent C/C++ Programs.
+yuelu duan, xiaobing feng, lei wang, chao zhang, pen-chung yew
+2009. CGO
+Parallel particle filter algorithm in face tracking.
+ke-yan liu, liang tang, shan-qing li, lei wang, wei liu
+2009. ICME
+Parameter Setting and 2-D Stability Conditions for TCP/RED Networks.
+seok woo, kiseon kim, lei wang, yang xiao
+2009. GLOBECOM
+Fast face tracking using parallel particle filter algorithm.
+ke-yan liu, shan-qing li, liang tang, lei wang, wei liu
+2009. ICME
+Cooperative Spectrum Sensing Using Free Probability Theory.
+lei wang, baoyu zheng, jingwu cui, sulan tang, haie dou
+2009. GLOBECOM
+Recursive partitioning multicast: A bandwidth-efficient routing for Networks-on-Chip.
+lei wang, yuho jin, hyungjun kim, eun jung kim
+2009. NOCS
+Cooperative Spectrum Sensing Using Free Probability Theory.
+lei wang, baoyu zheng, qingmin meng, chao chen
+2010. IEICE Transactions
+Outage Performance of Decode-and-Forward Relay Systems Using Imperfect MRC Receiver over Nakagami- Fading Channels.
+weiwei yang, yueming cai, lei wang
+2010. IEICE Transactions
+Spectrum Sensing for Multiuser Network Based on Free Probability Theory.
+lei wang, baoyu zheng, qingmin meng, chao chen
+2010. IEICE Transactions
+Efficient lookahead routing and header compression for multicasting in networks-on-chip.
+lei wang, poornachandran kumar, rahul boyapati, ki hwan yum, eun jung kim
+2010. ANCS
+A clique base node scheduling method for wireless sensor networks.
+lei wang, ruizhong wei, yaping lin, bo wang
+2010. J. Network and Computer Applications
+Parallel face analysis platform.
+lei wang, ke-yan liu, tong zhang, qin-long wang, yue ma
+2010. ICME
+A new parallel video understanding and retrieval system.
+ke-yan liu, tong zhang, lei wang
+2010. ICME
+Reputation Model based Dynamic Pair-wise Key Establishment Scheme for Sensor Networks.
+lei wang, ruizhong wei
+2010. Ad Hoc & Sensor Wireless Networks
+Control Strategy of Scheduling Invalidation of Data Broadcasting.
+wen-bin hu, zhengbing hu, fu-qiang yang, cun-lian fan, lei wang, xin-long tan
+2010. JNW
+Application of SOA-based Business Process Management in Outage Management System.
+bo wu, lei wang
+2010. NCM
+Prediction of Coal Mine Safety Level Based on LSSVM.
+desheng liu, zhiru xu, wei wang, lei wang
+2010. MVHI
+An integration text extraction approach in video frame.
+li-jie li, jin li, lei wang
+2010. ICMLC
+Improved cooperative spectrum sensing for cognitive radio under bandwidth constraints.
+wenjing yue, baoyu zheng, jingwu cui, sulan tang, lei wang
+2010. IWCMC
+Spectrum sensing for cognitive OFDM system using free probability theory.
+lei wang, baoyu zheng, jingwu cui, sulan tang, haie dou
+2010. IWCMC
+Supplier Selection Based on Rough Sets and Analytic Hierarchy Process.
+lei wang, jun ye, tianrui li
+2010. GrC
+An Evaluation Method Based on Combinatorial Judgement Matrix.
+jun ye, lei wang
+2010. GrC
+Two Natural Heuristics for 3D Packing with Practical Loading Constraints.
+lei wang, songshan guo, shi chen, wenbin zhu, andrew lim
+2010. PRICAI
+Adaptive Energy Diffusion for Blind Inverse Halftoning.
+lei wang, binh-son hua, xueqing li
+2010. PCM
+Concepts for Efficient and Reliable Multi-modal Breast Image Reading.
+horst k. hahn, markus thorsten harz, heike seyffarth, fabian zÃ¶hrer, tobias bÃ¶hler, konstantinos filippatos, lei wang, andrÃ© homeyer, felix ritter, hendrik laue, matthias gÃ¼nther, thorsten twellmann, lÃ¡szlÃ³ k. tabÃ¡r, ulrich bick, kathy j. schilling
+2010. Digital Mammography / IWDM
+Research and Application to Automatic Indexing.
+lei wang, shui-cai shi, xue-qiang lv, yu-qin li
+2010. ISNN
+Simulation of energy and carbon fluxes over a typical cropland during the summer maize growing in the Yellow River irrigation region by use of SIB2.
+zai-jian yuan, yan-jun shen, lei wang, chang liu, shugui cao, zhang-wei lin
+2010. ICMLC
+Design of a soil erosion prediction information system for Daqinghe Basin.
+ying-min chu, ya-nan fu, zai-jian yuan, lei wang
+2010. ICMLC
+Survey on game-theoretic information fusion.
+huilin yin, lei wang, jing nong
+2010. FSKD
+Efficient Spectral Feature Selection with Minimum Redundancy.
+zheng zhao, lei wang, huan liu
+2010. AAAI
+Accelerating Linpack Performance with Mixed Precision Algorithm on CPU+GPGPU Heterogeneous Cluster.
+lei wang, yunquan zhang, xianyi zhang, fangfang liu
+2010. CIT
+A portable parallel finite element simulation system.
+yufeng nie, lei wang, weiwei zhang
+2010. Conf. Computing Frontiers
+Performance Analysis of Amplify-and-Forward Cooperative Communication Systems with Channel Estimation Errors over Nakagami-m Channels.
+lei wang, yueming cai, junquan hu, weiwei yang
+2011. CMC
+Neighborhood Rough Sets Based Matrix Approach for Calculation of the Approximations.
+junbo zhang, tian-rui li, yan yang, lei wang
+2011. RSKT
+The Effect of the Characteristics of the Dataset on the Selection Stability.
+salem alelyani, huan liu, lei wang
+2011. ICTAI
+Impact of Channel Estimation Errors in Cooperative Transmission over Nakagami- Fading Channels.
+lei wang, yueming cai, weiwei yang
+2011. IEICE Transactions
+Fast automated segmentation of femoral heads in fluoroscopic X-ray images.
+lei wang, michael kohnen, ola friman, horst k. hahn
+2011. ISBI
+Spectrum Sensing Based on Asymptotic Behavior of Random Vandermonde Matrices.
+lei wang, baoyu zheng, wei-ping zhu
+2011. ICC
+Performance Analysis of Opportunistic and All-Participate Relaying with Imperfect Channel Estimation.
+lei wang, yueming cai, weiwei yang
+2011. IEICE Transactions
+A two-stage tabu search algorithm with enhanced packing heuristics for the 3L-CVRP and M3L-CVRP.
+wenbin zhu, hu qin, andrew lim, lei wang
+2012. Computers & OR
+
+Cluster 4, 39 papers:	Inst. of Intell. Inf. Process., Xidian Univ., Xi'an, Comput. Sch., Beijing Univ. of Aeronaut. & Astronaut., Beijing, School of Computer Science & Technology, Soochow University, Suzhou, 215006, China, Department of Computer Science, University of Texas at Dallas, Richardson, USA 75083, School of Computer Science and Engineering, University of Electronic Science and Technology of China, Chengdu, Si Chuan 610054, China, School of Economics Information Engineering, Southwest University of Finance and Economics, Chengdu, China 610074 and Research Center of China Payment System, Southwest University of Finance and Economics, Chengdu, China 610074, Xi'an University of Technology, Xi'an, China, Dept. of Comput. Sci., Univ. of Texas at Dallas, Dallas, TX, Sch. of Comput. Sci. & Eng., BeiHang Univ., Beijing, School of Computer Science & Engineering, University of Electronic Science & Technology of China, Chengdu, 610054, P.R. China, Sch. of Econ. Inf. Eng., Southwestern Univ. of Finance & Econ., Chengdu, Beijing University of Aeronautics and Astronautics (505290)
+A novel genetic algorithm based on immunity.
+licheng jiao, lei wang
+2000. IEEE Transactions on Systems
+An Immune Neural Network Used for Classification.
+lei wang, licheng jiao
+2001. ICDM
+Object Detection for Hierarchical Image Classification.
+latifur khan, lei wang
+2002. Revised Papers from MDM/KDD and PAKDD/KDMCD
+Object Boundary Detection For Ontology-Based Image Classification.
+lei wang, latifur khan, casey breen
+2002. MDM/KDD
+Automatic Ontology Derivation Using Clustering for Image Classification.
+latifur khan, lei wang
+2002. Multimedia Information Systems
+Change Detection in XML Documents for Fixed Structures using Exclusive-Or (XOR).
+latifur khan, qing chen, lei wang
+2004. JDIM
+Automatic image annotation and retrieval using subspace clustering algorithm.
+lei wang, li liu, latifur khan
+2004. MMDB
+A New Approach of Network Intrusion Detection Using HVDM-Based SOM.
+lei wang, yong yang, shixin sun
+2005. ISNN
+A Novel Classifier with the Immune-Training Based Wavelet Neural Network.
+lei wang, yinling nie, weike nie, licheng jiao
+2005. ISNN
+Improving Image Annotations Using WordNet.
+yohan jin, lei wang, latifur khan
+2005. Multimedia Information Systems
+Image annotations by combining multiple evidence & wordNet.
+yohan jin, latifur khan, lei wang, mamoun awad
+2005. ACM Multimedia
+Artificial Immune Strategies Improve the Security of Data Storage.
+lei wang, yinling nie, weike nie, licheng jiao
+2005. ICNC
+A Novel Artificial Immune Network Model and Analysis on Its Dynamic Behavior and Stabilities.
+liya wang, lei wang, yinling nie
+2006. ICNC
+A Novel Model of Artificial Immune Network and Simulations on Its Dynamics.
+lei wang, yinling nie, weike nie, licheng jiao
+2006. ISNN
+Automatic image annotation and retrieval using weighted feature selection.
+lei wang, latifur khan
+2006. Multimedia Tools Appl.
+Recognizing Chinese Proper Nouns with Transformation-Based Learning and Ontology.
+peifeng li, qiaoming zhu, lei wang
+2007. AI*IA
+A Fast and Accurate Progressive Algorithm for Training Transductive SVMs.
+lei wang, huading jia, shixin sun
+2007. ISNN
+A fast approximate algorithm for training L-SVMs in primal space.
+lei wang, shixin sun, kai zhang
+2007. Neurocomputing
+Fitness calculation approach for nested if-else construct in evolutionary testing.
+xiyang liu, lei wang, xiubin zhu, zhiwen bai, miao zhang, hehui liu
+2007. GECCO
+Function Call Flow based Fitness Function Design in Evolutionary Testing.
+xiyang liu, miao zhang, zhiwen bai, lei wang, wen du, yan wang
+2007. APSEC
+An Effective Evidence Theory Based K-Nearest Neighbor (KNN) Classification.
+lei wang, latifur khan, bhavani m. thuraisingham
+2008. Web Intelligence
+Automated Detection of Code Vulnerabilities Based on Program Analysis and Model Checking.
+lei wang, qiang zhang, pengchao zhao
+2008. SCAM
+Managing and Mining Multimedia Data, Animations and Annotations.
+bhavani m. thuraisingham, b. prabhakaran, latifur khan, lei wang
+2008. Wiley Encyclopedia of Computer Science and Engineering
+Lossy to lossless image compression based on reversible integer DCT.
+lei wang, jiaji wu, licheng jiao, li zhang, guangming shi
+2008. ICIP
+DECF: A Coarse-Grained Data-Parallel Programming Framework for Seismic Processing.
+changhai zhao, haihua yan, xiaohua shi, lei wang
+2008. CSSE
+Kapa: A File Sharing System Based on HP2P.
+bo wang, zhenhua duan, lei wang
+2008. ICIW
+Multi-path GEM for Routing in Wireless Sensor Networks.
+qiang ye, yuxing huang, andrew reddin, lei wang, wuman luo
+2008. WASA
+Research on the Clustering and Composition of P2P-Based Web Services.
+lei wang, jing si, xiao-bo hu
+2009. BMEI
+Association based immune network for multimodal function optimization.
+qingzheng xu, jing si, lei wang
+2009. GEC Summit
+Selective Ensemble Algorithms of Support Vector Machines Based on Constraint Projection.
+lei wang, yong yang
+2009. ISNN
+Linux kernels as complex networks: A novel method to study evolution.
+lei wang, zheng wang, chen yang, li zhang, qiang ye
+2009. ICSM
+3D medical image compression based on multiplierless low-complexity RKLT and shape-adaptive wavelet transform.
+lei wang, jiaji wu, licheng jiao, guangming shi
+2009. ICIP
+Lattice-Based Artificial Endocrine System.
+qingzheng xu, lei wang, na wang
+2010. LSMS/ICSEE
+Predication based immune network for multimodal function optimization.
+qingzheng xu, lei wang, jing si
+2010. Eng. Appl. of AI
+Lossy-to-lossless image compression based on multiplier-less reversible integer time domain lapped transform.
+lei wang, licheng jiao, jiaji wu, guangming shi, yanjun gong
+2010. Sig. Proc.: Image Comm.
+Long-Haul Transmission Performance in the Internet.
+qiang ye, dianzhang cui, zheng wang, lei wang, mike h. macgregor
+2010. CNSR
+Lattice-based artificial endocrine system model and its application in robotic swarms.
+qingzheng xu, lei wang
+2011. SCIENCE CHINA Information Sciences
+Recent advances in the artificial endocrine system.
+qingzheng xu, lei wang
+2011. Journal of Zhejiang University - Science C
+Shape-Adaptive Reversible Integer Lapped Transform for Lossy-to-Lossless ROI Coding of Remote Sensing Two-Dimensional Images.
+licheng jiao, lei wang, jiaji wu, jing bai, shuang wang, biao hou
+2011. IEEE Geosci. Remote Sensing Lett.
+
+Cluster 5, 29 papers:	Department of Applied Mathematics, Dalian University of Technology, Dalian, 116024, PR China, Digital Enterprise Res. Inst., Nat. Univ. of Ireland, Galway, Ireland (505316)
+NetTopo: Beyond Simulator and Visualizer for Wireless Sensor Networks.
+lei shu, chun wu, yan zhang, jiming chen, lei wang, manfred hauswirth
+2008. FGCN
+A Remote Monitoring System of IDC Room Based on ZigBee Wireless Sensor Networks.
+shuchao ma, ming zhu, lei wang, lei shu, suran li, shumin huang
+2009. DASC
+A Proportional Fair Backoff Scheme for Wireless Sensor Networks.
+yuanfang chen, yuanfang chen, mingchu li, lei wang, lei shu
+2009. MASS
+Cross-Layer Optimized Data Gathering in Wireless Multimedia Sensor Networks.
+lei shu, manfred hauswirth, lei wang, yan zhang, jong hyuk park
+2009. CSE
+Modeling and Properties of Nonlinear Stochastic Dynamical System of Continuous Culture.
+lei wang, enmin feng, jianxiong ye, zhilong xiu
+2009. Complex
+Modeling and Robustness Analysis of Biochemical Networks of Glycerol Metabolism by Klebsiella Pneumoniae.
+jianxiong ye, enmin feng, lei wang, zhilong xiu, yaqin sun
+2009. Complex
+SFL: Energy-Aware Spline Function Localization Scheme for Wireless Sensor Networks.
+yuanfang chen, shaojie tang, xiang-yang li, min gyung kwak, cheng wang, lei wang
+2010. MSN
+An Efficient Trust Mechanism in P2P Network.
+zhenquan qin, lei wang, mingchu li, weifeng sun
+2010. IIH-MSP
+A Survey of Congestion Control Mechanisms in Wireless Sensor Networks.
+jing zhao, lei wang, suran li, xiaokang liu, zhuxiu yuan, zhengjiu gao
+2010. IIH-MSP
+Impacts of duty-cycle on TPGF geographical multipath routing in wireless sensor networks.
+lei shu, zhuxiu yuan, takahiro hara, lei wang, yan zhang
+2010. IWQoS
+NetViewer: A Universal Visualization Tool for Wireless Sensor Networks.
+longhui ma, lei wang, lei shu, jing zhao, suran li, zhuxiu yuan, ning ding
+2010. GLOBECOM
+Multi-Attribute Data Fusion for Energy Equilibrium Routing in Wireless Sensor Networks.
+kai lin, lei wang, keqiu li, lei shu
+2010. TIIS
+A calibration scheme based on pool adjacent violators for localization in wireless sensor networks.
+yuanfang chen, xiaokang liu, lei wang, lei shu, han-chieh chao
+2010. IWCMC
+SMAC-based proportional fairness backoff scheme in wireless sensor networks.
+chunsheng zhu, yuanfang chen, lei wang, lei shu, yan zhang
+2010. IWCMC
+Predictive-TDMA: A Markov Chain Based MAC Protocol for Mesh Networks.
+ziqi fan, lei wang, xiaohui wang
+2011. VTC Spring
+The Insights of DV-Based Localization Algorithms in the Wireless Sensor Networks with Duty-Cycled and Radio Irregular Sensors.
+yuanfang chen, lei shu, mingchu li, ziqi fan, lei wang, takahiro hara
+2011. ICC
+A Study on Relationship Migration among Social Networking Providers.
+suran li, lei wang, zhenquan qin, zhu ming, lei shu
+2011. MSN
+A Geographic Routing Algorithm in Duty-Cycled Sensor Networks with Mobile Sinks.
+can ma, lei wang, jiaqi xu, zhenquan qin, ming zhu, lei shu
+2011. MSN
+Mitigating Radio Irregularity Impact: An RSSI Calibration Method for Range-Free Localization in Sensor Networks.
+xiaokang liu, lei wang, zhuxiu yuan, yuanfang chen, lei shu, chunsheng zhu
+2011. MSN
+A Fast Handoff Mechanism with Pre-scanning for Wireless Mesh Networks.
+chao pang, lei wang, jiaqi xu, zhenquan qin, ming zhu
+2011. MSN
+Removing Heavily Curved Path: Improved DV-hop Localization in Anisotropic Sensor Networks.
+ziqi fan, yuanfang chen, lei wang, lei shu, takahiro hara
+2011. MSN
+Load Migrating for the Hot Spots in Wireless Sensor Networks Using CTP.
+jing zhao, lei wang, wenlong yue, zhenquan qin, ming zhu
+2011. MSN
+An Experimental Study of BATMAN Performance in a Campus Deployment of Wireless Mesh Networks.
+jiaqi xu, lei wang, yongnan li, zhenquan qin, ming zhu
+2011. MSN
+Poster: a green solution for intelligent metropolitan heating system with uSDcard.
+wenlong yue, lei wang, ming zhu, zhenquan qin, lei shu, canfeng chen
+2011. MobiSys
+Sleep scheduling towards geographic routing in duty-cycled sensor networks with a mobile sink.
+chunsheng zhu, laurence tianruo yang, lei shu, lei wang, takahiro hara
+2011. SECON
+A balanced energy consumption sleep scheduling algorithm in wireless sensor networks.
+zhuxiu yuan, lei wang, lei shu, takahiro hara, zhenquan qin
+2011. IWCMC
+Guest Editorial.
+lei shu, hsiao-hwa chen, takahiro hara, der-jiunn deng, lei wang
+2011. JCM
+Guest Editorial.
+lei shu, hsiao-hwa chen, takahiro hara, der-jiunn deng, lei wang
+2011. JCM
+Sensitivity analysis and identification of kinetic parameters in batch fermentation of glycerol.
+juan wang, jianxiong ye, hongchao yin, enmin feng, lei wang
+2012. J. Computational Applied Mathematics
+
+Cluster 6, 26 papers:	University of Connecticut, Storrs, CT, USA, Univ. of Connecticut, Storrs, CT (505325)
+Error-tolerance memory Microarchitecture via Dynamic Multithreading.
+lei wang
+2005. ICCD
+Thread-associative memory for multicore and multithreaded computing.
+shuo wang, lei wang
+2006. ISLPED
+Reducing error accumulation effect in multithreaded memory systems.
+lei wang, niral patel
+2006. ISCAS
+Adaptive timing for analysis of skew tolerance.
+lei wang, shuo wang
+2006. ISCAS
+Joint Performance Improvement and Error Tolerance for Memory Design Based on Soft Indexing.
+shuo wang, lei wang
+2006. ICCD
+Exploiting soft redundancy for error-resilient on-chip memory design.
+shuo wang, lei wang
+2006. ICCAD
+Low-Complexity Analysis of Repetitive Regularities for Biometric Applications.
+lei wang, niral patel
+2007. JCP
+Defect-tolerant digital filtering with unreliable molecular electronics.
+shuo wang, jianwei dai, lei wang
+2008. SiPS
+Cooperative OFDM for energy-efficient wireless sensor networks.
+weiguo tang, lei wang
+2008. SiPS
+Improving Error Tolerance for Multithreaded Register Files.
+lei wang, niral patel
+2008. IEEE Trans. VLSI Syst.
+Programmable threshold voltage using quantum dot transistors for low-power mobile computing.
+shuo wang, jianwei dai, el-sayed hasaneen, lei wang, faquir jain
+2008. ISCAS
+Design of error-tolerant cache memory for multithreaded computing.
+shuo wang, lei wang
+2008. ISCAS
+Making register file resistant to power analysis attacks.
+shuo wang, fan zhang, jianwei dai, lei wang, zhijie jerry shi
+2008. ICCD
+Exploiting Memory Soft Redundancy for Joint Improvement of Error Tolerance and Access Efficiency.
+shuo wang, lei wang
+2009. IEEE Trans. VLSI Syst.
+Analysis of Defect Tolerance in Molecular Crossbar Electronics.
+jianwei dai, lei wang, faquir jain
+2009. IEEE Trans. VLSI Syst.
+A Novel High-Density Single-Event Upset Hardened Configurable SRAM Applied to FPGA.
+lei wang, lei chen, zhiping wen, huabo sun, shuo wang
+2009. RECONFIG
+A defect/error-tolerant nanosystem architecture for DSP.
+weiguo tang, lei wang, fabrizio lombardi
+2009. JETC
+A Study of Side-Channel Effects in Reliability-Enhancing Techniques.
+jianwei dai, lei wang
+2009. DFT
+Utilizing quantum dot transistors with programmable threshold voltages for low-power mobile computing.
+shuo wang, jianwei dai, el-sayed hasaneen, lei wang, faquir jain
+2009. JETC
+Way-tagged cache: an energy-efficient L2 cache architecture under write-through policy.
+jianwei dai, lei wang
+2009. ISLPED
+Analysis of Deskew Signaling Via Adaptive Timing.
+shuo wang, lei wang
+2009. IEEE Trans. on CAD of Integrated Circuits and Systems
+Towards achieving reliable and high-performance nanocomputing via dynamic redundancy allocation.
+shuo wang, lei wang, faquir jain
+2009. JETC
+Data rate maximization by adaptive thresholding RF power management under renewable energy.
+weiguo tang, lei wang
+2010. ICCD
+An information-theoretic analysis of quantum-dot cellular automata for defect tolerance.
+jianwei dai, lei wang, fabrizio lombardi
+2010. JETC
+Manufacturing yield of QCA circuits by synthesized DNA self-assembled templates.
+xiaojun ma, masoud hashempour, lei wang, fabrizio lombardi
+2010. ACM Great Lakes Symposium on VLSI
+Nonbinary LDPC decoding by min-sum with Adaptive Message Control.
+weiguo tang, jie huang, lei wang, shengli zhou
+2011. ICASSP
+
+Cluster 7, 24 papers:	The University of Electro-Communications,, The author is with the School of Electronic, Information and Electrical Engineering, Shanghai Jiao Tong University, P.R.China., (505319)
+Visual Secret Sharing Schemes for Multiple Secret Images Allowing the Rotation of Shares.
+mitsugu iwamoto, lei wang, kazuki yoneyama, noboru kunihiro, kazuo ohta
+2006. IEICE Transactions
+New Message Difference for MD4.
+yu sasaki, lei wang, kazuo ohta, noboru kunihiro
+2007. FSE
+New Message Differences for Collision Attacks on MD4 and MD5.
+yu sasaki, lei wang, noboru kunihiro, kazuo ohta
+2008. IEICE Transactions
+Password Recovery on Challenge and Response: Impossible Differential Attack on Hash Function.
+yu sasaki, lei wang, kazuo ohta, noboru kunihiro
+2008. AFRICACRYPT
+New Key-Recovery Attacks on HMAC/NMAC-MD4 and NMAC-MD5.
+lei wang, kazuo ohta, noboru kunihiro
+2008. EUROCRYPT
+Security of MD5 Challenge and Response: Extension of APOP Password Recovery Attack.
+yu sasaki, lei wang, kazuo ohta, noboru kunihiro
+2008. CT-RSA
+Security of Practical Cryptosystems Using Merkle-Damgard Hash Function in the Ideal Cipher Model.
+yusuke naito, kazuki yoneyama, lei wang, kazuo ohta
+2009. IACR Cryptology ePrint Archive
+How to Prove the Security of Practical Cryptosystems with Merkle-DamgÃ¥rd Hashing by Adopting Indifferentiability.
+yusuke naito, kazuki yoneyama, lei wang, kazuo ohta
+2009. IACR Cryptology ePrint Archive
+How to Construct Cryptosystems and Hash Functions in Weakened Random Oracle Models.
+yusuke naito, lei wang, kazuo ohta
+2009. IACR Cryptology ePrint Archive
+Preimage Attacks on 41-Step SHA-256 and 46-Step SHA-512.
+yu sasaki, lei wang, kazumaro aoki
+2009. IACR Cryptology ePrint Archive
+How to Confirm Cryptosystems Security: The Original Merkle-DamgÃ¥rd Is Still Alive!
+yusuke naito, kazuki yoneyama, lei wang, kazuo ohta
+2009. ASIACRYPT
+Preimages for Step-Reduced SHA-2.
+kazumaro aoki, jian guo, krystian matusiewicz, yu sasaki, lei wang
+2009. ASIACRYPT
+Bit-Free Collision: Application to APOP Attack.
+lei wang, yu sasaki, kazuo sakiyama, kazuo ohta
+2009. IWSEC
+Extended Password Recovery Attacks against APOP, SIP, and Digest Authentication.
+yu sasaki, lei wang, kazuo ohta, noboru kunihiro
+2009. IEICE Transactions
+Near-Collision Attacks on MD4: Applied to MD4-Based Protocols.
+lei wang, kazuo ohta, noboru kunihiro
+2009. IEICE Transactions
+Cryptanalysis of Two MD5-Based Authentication Protocols: APOP and NMAC.
+lei wang, kazuo ohta, yu sasaki, kazuo sakiyama, noboru kunihiro
+2010. IEICE Transactions
+Practical Password Recovery Attacks on MD4 Based Prefix and Hybrid Authentication Protocols.
+yu sasaki, lei wang, kazuo ohta, kazumaro aoki, noboru kunihiro
+2010. IEICE Transactions
+Non-full-active Super-Sbox Analysis: Applications to ECHO and GrÃ¸stl.
+yu sasaki, yang li, lei wang, kazuo sakiyama, kazuo ohta
+2010. ASIACRYPT
+Finding Preimages of Tiger Up to 23 Steps.
+lei wang, yu sasaki
+2010. FSE
+Security of Practical Cryptosystems Using Merkle-DamgÃ¥rd Hash Function in the Ideal Cipher Model.
+yusuke naito, kazuki yoneyama, lei wang, kazuo ohta
+2011. ProvSec
+Preimage Attack on 23-Step Tiger.
+lei wang, yu sasaki
+2011. IEICE Transactions
+Security of Cryptosystems Using Merkle-DamgÃ¥rd in the Random Oracle Model.
+yusuke naito, kazuki yoneyama, lei wang, kazuo ohta
+2011. IEICE Transactions
+(Second) Preimage Attacks on Step-Reduced RIPEMD/RIPEMD-128 with a New Local-Collision Approach.
+lei wang, yu sasaki, wataru komatsubara, kazuo ohta, kazuo sakiyama
+2011. CT-RSA
+Meet-in-the-Middle (Second) Preimage Attacks on Two Double-Branch Hash Functions RIPEMD and RIPEMD-128.
+lei wang, yu sasaki, wataru komatsubara, kazuo sakiyama, kazuo ohta
+2012. IEICE Transactions
+
+Cluster 8, 15 papers:	Sch. of Mech. & Autom. Eng., Shanghai Inst. of Technol., Shanghai, Tongji University, China (505284)
+The Research of Complex System Modeling Based on Fractal Conception.
+lei wang, z. zuo, yunshi xiao, q. wu
+2003. WAA
+Automated delineation of dry and melt snow zones in Antarctica using active and passive microwave observations from space.
+hongxing liu, lei wang, kenneth c. jezek
+2006. IEEE T. Geoscience and Remote Sensing
+Traffic Intelligent Optimization and Local Traffic-Flow Control Inside Shanghai-EXPO-Area.
+lei wang, qi kang, hui xiao, qidi wu
+2007. ICNSC
+Evaluation Mode Research on Particle Swarm Optimization Algorithm.
+qi kang, lei wang, hui xiao, qidi wu
+2007. ICNSC
+A novel ecological particle swarm optimization algorithm and its population dynamics analysis.
+qi kang, lei wang, qidi wu
+2008. Applied Mathematics and Computation
+A turbo codes optimization method using particle swarm algorithm.
+jing an, qi kang, lei wang, qidi wu
+2008. IJCNN
+Swarm-based approximate dynamic optimization process for discrete particle swarm optimization system.
+qi kang, lei wang, qidi wu
+2009. IJBIC
+Parameter approximate dynamic optimization for PSO systems.
+qi kang, lei wang, derong liu, qidi wu
+2009. CDC
+An object-based conceptual framework and computational method for representing and analyzing coastal morphological changes.
+hongxing liu, lei wang, douglas sherman, yige gao, qiusheng wu
+2010. International Journal of Geographical Information Science
+Swarm-based optimal power flow considering generator fault in distribution systems.
+qi kang, tian lan, yong yan, jing an, lei wang
+2011. SMC
+Algorithmic Foundation and Software Tools for Extracting Shoreline Features from Remote Sensing Imagery and LiDAR Data.
+hongxing liu, lei wang, douglas j. sherman, qiusheng wu, haibin su
+2011. J. Geographic Information System
+Mortal Particles: Particle Swarm Optimization with Life Span.
+yong-wei zhang, lei wang, qidi wu
+2011. ICSI
+A NichePSO Algorithm Based Method for Process Window Selection.
+wenqi li, yiming qiu, lei wang, qidi wu
+2011. ICSI
+Identification of VSD System Parameters with Particle Swarm Optimization Method.
+yiming qiu, wenqi li, dongsheng yang, lei wang, qidi wu
+2011. ICSI
+Group search optimizer based optimal location and capacity of distributed generations.
+qi kang, tian lan, yong yan, lei wang, qidi wu
+2012. Neurocomputing
+
+Cluster 9, 9 papers:	College of Computer Science, Zhejiang University (505321)
+SmartOSEK: A Real-Time Operating System for Automotive Electronics.
+mingde zhao, zhaohui wu, guoqing yang, lei wang, wei chen
+2004. ICESS
+A Reliable OS Kernel for Smart Sensors.
+zhaohui wu, lei wang, kougen zheng
+2004. COMPSAC
+Worst-Case Response Time Analysis for OSEK/VDX Compliant Real-Time Distributed Control Systems.
+lei wang, zhaohui wu, mingde zhao
+2004. COMPSAC
+End-To-End Worst-Case Response Time Analysis for Hard Real-Time Distributed Systems.
+lei wang, mingde zhao, zengwei zheng, zhaohui wu
+2005. SAFECOMP
+Fault Tolerant Scheduling for Fixed-Priority Tasks with Preemption Threshold.
+lei wang, zhaohui wu, mingde zhao, guoqing yang
+2005. RTCSA
+Exact Best-Case End-to-End Response Time Analysis for Hard Real-Time Distributed Systems.
+lei wang, mingde zhao, zengwei zheng, zhaohui wu
+2005. ISCIS
+An OSEK COM Compliant Communication Model for Smart Vehicle Environment.
+guoqing yang, minde zhao, lei wang, zhaohui wu
+2005. ICESS
+A Service Oriented Implementation of Distributed Status Monitoring and Fault Diagnosis Systems.
+lei wang, peiyu li, zhaohui wu, shangjian chen
+2005. International Conference on Computational Science
+Reflective Photoplethysmograph Earpiece Sensor for Ubiquitous Heart Rate Monitoring.
+lei wang, benny p. l. lo, g. yang
+2007. BSN
+
+Cluster 10, 9 papers:	Shenzhen Graduate School of Peking University, Shenzhen, China (505285)
+Offer Group Generation and Delayed Processing in Multi-Issue Negotiation.
+ning zhang, song zhang, lei wang, jie yang, zhuoqun xu
+2004. Web Intelligence
+Building Domain Ontology Based on Web Data and Generic Ontology.
+jie yang, lei wang, song zhang, xin sui, ning zhang, zhuoqun xu
+2004. Web Intelligence
+WISE: A Prototype for Ontology Driven Development of Web Information Systems.
+lv-an tang, hongyan li, baojun qiu, meimei li, jianjun wang, lei wang, bin zhou, dongqing yang, shiwei tang
+2006. APWeb
+A Hybrid Method for Constructing Semi-structural Process in Knowledge-Intensive Information System.
+bin zhou, hongyan li, chao li, lei wang, huaqiang zhang
+2008. CSSE
+PASE: A Prototype for Ad-hoc Process-Aware Information System Declaratively Constructing Environment.
+bin zhou, hongyan li, lei wang, huaqiang zhang, meimei li
+2008. WAIM
+Achieving both high precision and high recall in near-duplicate detection.
+lian'en huang, lei wang, xiaoming li
+2008. CIKM
+Verifying the Consistency between Business Process Model and Data Model.
+lei wang, hongyan li, qiang qu, huaqiang zhang, bin zhou
+2009. JCAI
+Online Constrained Pattern Detection over Streams.
+qiang qu, hongyan li, lei wang, gaoshan miao, xin wei
+2009. FSKD
+An efficient clustering algorithm for large-scale topical web pages.
+lei wang, peng chen, lian'en huang
+2009. CIKM
+
+Cluster 11, 8 papers:	Communications Research Group, Department of Electronics, The University of York, York YO10 5DD, UK, Dept. of Electron., Univ. of York, York (505299)
+Low-complexity adaptive step size constrained constant modulus sg-based algorithms for blind adaptive beamforming.
+lei wang, yunlong cai, rodrigo c. de lamare
+2008. ICASSP
+Low-complexity adaptive step size constrained constant modulus SG algorithms for adaptive beamforming.
+lei wang, rodrigo c. de lamare, yunlong cai
+2009. Signal Processing
+Reduced-rank STAP schemes for airborne radar based on switched joint interpolation, decimation and filtering algorithm.
+rui fa, rodrigo c. de lamare, lei wang
+2010. IEEE Transactions on Signal Processing
+Adaptive constrained constant modulus algorithm based on auxiliary vector filtering for beamforming.
+lei wang, rodrigo c. de lamare
+2010. IEEE Transactions on Signal Processing
+Adaptive reduced-rank constrained constant modulus algorithms based on joint iterative optimization of filters for beamforming.
+lei wang, rodrigo c. de lamare, masahiro yukawa
+2010. IEEE Transactions on Signal Processing
+Robust auxiliary vector filtering algorithm based on constrained constant modulus design for adaptive beamforming.
+lei wang, rodrigo c. de lamare
+2010. ICASSP
+Reduced-rank DOA estimation based on joint iterative subspace recursive optimization and grid search.
+lei wang, rodrigo c. de lamare, martin haardt
+2010. ICASSP
+Non-data-aided adaptive beamforming algorithm based on the Widely Linear Auxiliary Vector Filter.
+nuan song, jens steinwandt, lei wang, rodrigo c. de lamare, martin haardt
+2011. ICASSP
+
+Cluster 12, 8 papers:	Department of Mathematics, Georgia Institute of Technology, Atlanta, GA (505293)
+Efficiency, Fairness and Competitiveness in Nash Bargaining Games.
+deeparnab chakrabarty, gagan goel, vijay v. vazirani, lei wang, changyuan yu
+2008. WINE
+Optimal Approximation Algorithms for Multi-agent Combinatorial Problems with Discounted Price Functions
+gagan goel, pushkar tripathi, lei wang
+2009. CoRR
+Approximability of Combinatorial Problems with Multi-agent Submodular Cost Functions.
+gagan goel, chinmay karande, pushkar tripathi, lei wang
+2009. FOCS
+Continuity Properties of Equilibria in Some Fisher and Arrow-Debreu Market Models.
+vijay v. vazirani, lei wang
+2009. WINE
+Approximability of combinatorial problems with multi-agent submodular cost functions.
+gagan goel, chinmay karande, pushkar tripathi, lei wang
+2010. SIGecom Exchanges
+Combinatorial Problems with Discounted Price Functions in Multi-agent Systems.
+gagan goel, pushkar tripathi, lei wang
+2010. FSTTCS
+Single-Parameter Combinatorial Auctions with Partially Public Valuations.
+gagan goel, chinmay karande, lei wang
+2010. SAGT
+Single Parameter Combinatorial Auctions with Partially Public Valuations
+gagan goel, chinmay karande, lei wang
+2010. CoRR
+
+Cluster 13, 6 papers:	Queensland University of Technology, Brisbane Qld, Australia (505282)
+Delivering a Fully Interactive Mobile TV.
+dian tjondronegoro, lei wang, adrien joly
+2006. IJWIS
+Mining and Visualizing Multimedia Dataset on Mobile Devices in a Topic-oriented Manner.
+lei wang, dian tjondronegoro
+2006. MoMM
+Clustering and Visualizing Audiovisual Dataset on Mobile Devices in a Topic-Oriented Manner.
+lei wang, dian tjondronegoro, yue liu
+2007. VISUAL
+LiveBT: Providing Video-on-Demand Streaming Service over BitTorrent Systems.
+jianming lv, xueqi cheng, qing jiang, jing ye, tieying zhang, siming lin, lei wang
+2007. PDCAT
+Research on Enterprise Track of TREC 2008.
+huawei shen, lei wang, wenjing bi, yue liu, xueqi cheng
+2008. TREC
+An audio wiki supporting mobile collaboration.
+lei wang, paul roe, binh pham, dian tjondronegoro
+2008. SAC
+
+Cluster 14, 6 papers:	Brigham Young Univ. Provo, Provo, Computer Science Department, Brigham Young University, Provo, UT 84602-6576, USA (505300)
+RIA: An RF Interference Avoidance Algorithm for Heterogeneous Wireless Networks.
+manoj pandey, daniel p. delorey, qiuyi duan, lei wang, charles d. knutson, daniel zappala, ryan woodings
+2007. WCNC
+To Repair or Not To Repair: Helping Ad-hoc Routing Protocols to Distinguish Mobility from Congestion.
+manoj pandey, roger pack, lei wang, qiuyi duan, daniel zappala
+2007. INFOCOM
+Autonomous and Intelligent Radio Switching for heterogeneous wireless networks.
+qiuyi duan, lei wang, charles d. knutson, daniel zappala
+2008. MASS
+HxH: a hop-by-hop transport protocol for multi-hop wireless networks.
+daniel scofield, lei wang, daniel zappala
+2008. WICON
+Link quality prediction for wireless devices with multiple radios.
+qiuyi duan, lei wang, charles d. knutson, daniel zappala
+2008. WOWMOM
+A convex optimization approach to decentralized rate control in wireless networks with partial interference.
+lei wang, david ripplinger, anurag rai, sean warnick, daniel zappala
+2010. CDC
+
+Cluster 15, 6 papers:	(505289)
+Khatri-Rao Unitary Space-Time Modulation.
+lei wang, shihua zhu, jun wang, yanxing zeng
+2006. IEICE Transactions
+Low-Complex Equalization for Single Carrier Systems Employing Cyclic Prefix over Time-Variant Channels.
+feng li, shihua zhu, lei wang
+2007. IEICE Transactions
+An Adaptive Spatial Error Concealment for H.264/AVC Video Stream.
+jun wang, lei wang, takeshi ikenaga, satoshi goto
+2008. SIGMAP
+Standard Deviation and Intra Prediction Mode Based Adaptive Spatial Error Concealment (SEC) in H.264/AVC.
+jun wang, lei wang, takeshi ikenaga, satoshi goto
+2008. IEICE Transactions
+Variable Block Size Motion Vector Retrieval Schemes for H.264 Inter Frame Error Concealment.
+lei wang, jun wang, satoshi goto, takeshi ikenaga
+2008. IEICE Transactions
+Two-stage hot-carrier degradation behavior of 0.18 Âµm 18 V n-type DEMOS and its recovery effect.
+chao gao, jun wang, lei wang, andrew yap, hong li
+2009. Microelectronics Reliability
+
+Cluster 16, 5 papers:	Coordinated Science Laboratory, Department of Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, 1308 West Main Street, Urbana, IL, Coordinated Sci. Lab., Illinois Univ., Urbana, IL, Microprocessor Technol. Labs., Hewlett-Packard Co., Fort Collins, CO, USA, Microprocessor Technology Laboratories, Hewlett-Packard Company, Fort Collins, CO (505306)
+Noise-tolerant dynamic circuit design.
+lei wang, naresh r. shanbhag
+1999. ISCAS
+Low-power AEC-based MIMO signal processing for gigabit ethernet 1000Base-T transceivers.
+lei wang, naresh r. shanbhag
+2001. ISLPED
+Low-power filtering via adaptive error-cancellation.
+lei wang, naresh r. shanbhag
+2003. IEEE Transactions on Signal Processing
+Low-power MIMO signal processing.
+lei wang, naresh r. shanbhag
+2003. IEEE Trans. VLSI Syst.
+Energy-efficiency bounds for deep submicron VLSI systems in the presence of noise.
+lei wang, naresh r. shanbhag
+2003. IEEE Trans. VLSI Syst.
+
+Cluster 17, 5 papers:	Dept. of Electr. & Comput. Eng., Univ. of Houston, Houston, TX (505292)
+Hybrid Neural Network Architecture for On-Line Learning
+yuhua chen, subhash kak, lei wang
+2008. CoRR
+Virtual Burst Assembly - A Solution to Out-of-Sequence Delivery in Optical Burst Switching Networks.
+lei wang, yuhua chen, mona thaker
+2008. GLOBECOM
+Data Mining Using Surface and Deep Agents Based on Neural Networks.
+subhash kak, yuhua chen, lei wang
+2010. AMCIS
+Cost analysis of DWDM multi-mode switching router.
+vikram shete, yiyong zha, lei wang, yuhua chen
+2010. HPSR
+Hybrid Neural Network Architecture for On-Line Learning.
+yuhua chen, subhash kak, lei wang
+2010. Intelligent Information Management
+
+Cluster 18, 5 papers:	Multimedia Center, Beijing Univ. of Posts Telecommun. (505322)
+A collision-aware wavelength assignment scheme for GMPLS based WDM networks.
+lei wang, jie zhang, guanjun gao, yongjun liu, xiuzhong chen, yongli zhao, yu yao, wanyi gu
+2008. IEEE Communications Letters
+Research on Neighboring APs Discovery Methods in PnP WLAN.
+zhiyong feng, litao liang, lei wang, qixun zhang, yifan yu, yong bai, lan chen
+2008. WCNC
+A Hybrid Control Architecture for Connection Management in Translucent WDM Networks.
+lei wang, jie zhang, guanjun gao, yongjun liu, xiuzhong chen, wanyi gu
+2008. GLOBECOM
+Noise-Aware Wavelength Assignment for Wavelength Switched Optical Networks.
+lei wang, jie zhang, guanjun gao, xiuzhong chen, xue chen, wanyi gu
+2009. ICC
+On the Approximation Ratio of k-Lookahead Auction.
+xue chen, guangda hu, pinyan lu, lei wang
+2011. WINE
+
+Cluster 19, 4 papers:	Department of Computer Science, Hunan University, Hunan, Changsha, P.R. China, wanglei@hnu.cn, Fujian University of Technology, China (505323)
+Research on Pairwise Key Establishment Model and Algorithm for Sensor Networks.
+lei wang, yaping lin, minsheng tan, chunyi shi
+2006. UIC
+Key Distribution for Group-based Sensor Deployment Using a Novel Interconnection Graph.
+lei wang, yaping lin, yonghe liu
+2007. WOWMOM
+Voronoi Tessellation Based Rapid Coverage Decision Algorithm for Wireless Sensor Networks.
+lei wang, haowei shen, zhe chen, yaping lin
+2007. UIC
+Privacy-preserving Data Aggregation Based on the P-function Set in Wireless Sensor Networks.
+weini zeng, yaping lin, lei wang
+2010. CIT
+
+Cluster 20, 3 papers:	Dept. of Electr. & Comput. Eng., Univ. of Waterloo, Ont., Canada (505310)
+Call admission control for integrated on/off voice and best-effort data services in mobile cellular communications.
+chi wa leong, weihua zhuang, yu cheng, lei wang
+2004. IEEE Transactions on Communications
+A call admission control scheme for packet data in CDMA cellular communications.
+lei wang, weihua zhuang
+2006. IEEE Transactions on Wireless Communications
+Calculation of Loss Probability in a Finite Size Partitioned Buffer for Quantitative Assured Service.
+yu cheng, weihua zhuang, lei wang
+2007. IEEE Transactions on Communications
+
+Cluster 21, 3 papers:	(505303)
+Car Plate Localization Using Pulse Coupled Neural Network in Complicated Environment.
+ming guo, lei wang, xin yuan
+2006. PRICAI
+Car Plate Localization Using Modified PCNN in Complicated Environment.
+xin yuan, lei wang, miaoliang zhu
+2006. ICIC
+Automatic pectoral muscle boundary detection in mammograms based on Markov chain and active contour model.
+lei wang, miaoliang zhu, li-ping deng, xin yuan
+2010. Journal of Zhejiang University - Science C
+
+Cluster 22, 3 papers:	Dept. of Informatics, Fribourg Univ., Switzerland (505309)
+A Novel Neural Network Based on Immunity.
+lei wang, michÃ¨le courant
+2002. IC-AI
+An evolutionary algorithm with population immunity and its application on autonomous robot control.
+lei wang, bÃ©at hirsbrunner
+2003. IEEE Congress on Evolutionary Computation
+PN-based Security Design for Data Storage.
+lei wang, bÃ©at hirsbrunner
+2004. Databases and Applications
+
+Cluster 23, 3 papers:	SmartOps Corporation, Pittsburgh, Pennsylvania 15212 (505313)
+Capacity Management for Contract Manufacturing.
+diwakar gupta, lei wang
+2007. Operations Research
+Revenue Management for a Primary-Care Clinic in the Presence of Patient Choice.
+diwakar gupta, lei wang
+2008. Operations Research
+A Stochastic Inventory Model with Trade Credit.
+diwakar gupta, lei wang
+2009. Manufacturing & Service Operations Management
+
+Cluster 24, 3 papers:	Sch. of Mech. Eng. & Autom., Northeastern Univ., Shenyang, China (505311)
+Feature Extraction Based on the Independent Component Analysis for Text Classification.
+minghan hu, shijun wang, anhui wang, lei wang
+2008. FSKD
+A New Text Feature Conversion Method for Text Classification.
+minghan hu, ying liu, lei wang, debin ren
+2009. FSKD
+Semantic-based Mobile Mashup Platform.
+zhipeng peng, huajun chen, jinghai rao, ying liu, lei wang, jian chen
+2010. ISWC Posters&Demos
+
+Cluster 25, 3 papers:	Department of Applied Mathematics and Statistics, Hubei University of Economics, Wuhan, China 430205 (505317)
+A Symmetric Orthogonal FastICA Algorithm and Applications in EEG.
+xuhui chen, lei wang, yong xu
+2009. ICNC
+Synchronization between Two Different Hyperchaotic Dynamical Systems Using Nonlinear Control.
+lei wang, yong xu
+2009. ISNN
+Chaos Control of Lorenz System Using Small Gain Theorem.
+lei wang, jian-hao xu, ti-biao wang
+2009. ISNN
+
+Cluster 26, 2 papers:	(505279)
+Ringed Petersen Spheres Connected Hypercube Interconnection Networks.
+lei wang, zhiping p. chen, xinhua h. jiang
+2005. ICECCS
+DNA-Based Algorithm for 0-1 Planning Problem.
+lei wang, zhiping p. chen, xinhua h. jiang
+2005. ICCSA
+
+Cluster 27, 2 papers:	Dept. of EE - Syst., Univ. of Southern California, Los Angeles, CA, USA, University of Southern California, Los Angeles, CA (505304)
+Analyzing Crosstalk in the Presence of Weak Bridge Defects.
+shahdad irajpour, shahin nazarian, lei wang, sandeep k. gupta, melvin a. breuer
+2003. VTS
+Modeling and Simulation for Crosstalk Aggravated by Weak-Bridge Defects between On-Chip Interconnects.
+lei wang, sandeep k. gupta, melvin a. breuer
+2004. Asian Test Symposium
+
+Cluster 28, 2 papers:	(505287)
+Achieving Scalable Parallel Molecular Dynamics Using Dynamic Spatial Domain Decomposition Techniques.
+lars s. nyland, jan prins, ru huai yun, jan hermans, hye-chung kum, lei wang
+1997. J. Parallel Distrib. Comput.
+Modeling Dynamic Load Balancing in Molecular Dynamics to Achieve Scalable Parallel Execution.
+lars s. nyland, jan prins, ru huai yun, jan hermans, hye-chung kum, lei wang
+1998. IRREGULAR
+
+Cluster 29, 2 papers:	(505281)
+Data I/O Minimization for Loops on Limited Onchip Memory Processors.
+lei wang, santosh pande
+1999. LCPC
+A Framework for Loop Distribution on Limited On-Chip Memory Processors.
+lei wang, waibhav tembe, santosh pande
+2000. CC
+
+Cluster 30, 2 papers:	Beijing University of Aeronautics & Astronautics, China (505286)
+Escape analysis for synchronization removal.
+lei wang, xikun sun
+2006. SAC
+Eliminating Redundant Communication of Code Generation for Distributed Memory Machines.
+yanan shen, rongcai zhao, lei wang
+2007. SNPD
+
+Cluster 31, 2 papers:	Dept. of Comput. Sci., Saskatchewan Univ., Saskatoon, Sask. (505288)
+Performance Comparison of Control Schemes for ABR Service in ATM LANs.
+lei wang, carl mccrosky
+1997. MASCOTS
+An Approximate Solution for Queuing Network Models of a Burst-Level Traffic Control Scheme in ATM WAN.
+lei wang, carl mccrosky
+1998. Perform. Eval.
+
+Cluster 32, 2 papers:	Fac. of Comput. Sci. & Eng., Xi'an Univ. of Technol., Xi'an (505291)
+Research on an Immune Mechanism Based Intelligent Spam Filter.
+lei wang, song ma, xin-hong hei
+2008. CSSE
+An AIS-Based Service Match Model.
+lei wang, song ma, xin-hong hei
+2008. CSSE
+
+Cluster 33, 2 papers:	Alcatel Shanghai Bell Co. Ltd., Shanghai (505296)
+A CCI-Feedback-Aided Scheduling Technique for MU-MIMO.
+keying wu, lei wang, liyu cai
+2008. WCNC
+Joint Multiuser Precoding and Scheduling with Imperfect Channel State Information at the Transmitter.
+keying wu, lei wang, liyu cai
+2008. VTC Spring
+
+Cluster 34, 2 papers:	Department of Psychiatry, Washington University School of Medicine, St. Louis, MO, 63110, Centre for Intelligent Machines, McGill Univ., Montreal, Que., Div. of Appl. Sci., Harvard Univ., Cambridge, MA (505298)
+Active Shape and Depth Extraction from Shadow Images.
+lei wang, james j. clark
+1994. ICIP
+Active Shape-from-Shadows with Controlled Illuminant Trajectories.
+james j. clark, lei wang
+2001. International Journal of Computer Vision
+
+Cluster 35, 2 papers:	Dept. of Electrical Engineering of Feng Chia University, (505301)
+A Platform Implementation for Real Time Image Processing.
+ching-hsi lu, yu-sheng wang, lei wang, hong-yang hsu
+2008. PCM
+A New Contrast Enhancement Technique Implemented on FPGA for Real Time Image Processing.
+ching-hsi lu, hong-yang hsu, lei wang
+2009. IIH-MSP
+
+Cluster 36, 2 papers:	(505283)
+A Resource Allocating Neural Network Based Approach for Detecting End-to-End Network Performance Anomaly.
+wenwei li, dafang zhang, jinmin yang, gaogang xie, lei wang
+2006. ISNN
+A Dynamic Quota-Based Peer Selection Strategy in BitTorrent.
+kun huang, lei wang, dafang zhang, yongwei liu
+2007. GCC
+
+Cluster 37, 2 papers:	Inst. of Autom., Chinese Acad. of Sci., Beijing (505297)
+Improving searching speed and accuracy of query by humming system based on three methods: feature fusion, candidates set reduction and multiple similarity measurement rescoring.
+lei wang, shen huang, sheng hu, jiaen liang, bo xu
+2008. INTERSPEECH
+Query by humming via multiscale transportation distance in random query occurrence context.
+shen huang, lei wang, shenghu, hongchen jiang, bo xu
+2008. ICME
+
+Cluster 38, 2 papers:	Coll. of Econ. & Manage., Nanjing Forestry Univ., Nanjing (505295)
+The Algorithm of Obtaining Best Rules Based on Rough Set.
+shulin chen, lei wang
+2008. ISECS
+A Pattern Matching Algorithm in P2P Mobile QA System Answer Extracting Process.
+lei wang, shulin chen
+2008. ISIP
+
+Cluster 39, 2 papers:	(505302)
+Exact Distribution of the Amplitude of Adaptively Selected OFDM Signal Samples.
+lei wang, dongweon yoon, sang kyu park
+2008. IEICE Transactions
+Side Information Inserted Pilot Tone Transmission for PAPR Reduction in OFDM.
+lei wang, dongweon yoon, sang kyu park
+2009. IEICE Transactions
+
+Cluster 40, 1 papers:	Tianjin University, Tianjin, People's Republic of China (505312)
+Provisioning QoS Guarantee by Multipath Routing and Reservation in Ad Hoc Networks.
+yantai shu, guang-hong wang, lei wang, oliver w. w. yang, yong-jie fan
+2004. J. Comput. Sci. Technol.
+
+Cluster 41, 1 papers:	Department of Computer Science and Engineering, Texas A&MUniversity, College Station, 77843 USA (505326)
+Time multiplexed color image processing based on a CNN with cell-state outputs.
+lei wang, josÃ© pineda de gyvez, edgar sÃ¡nchez-sinencio
+1998. IEEE Trans. VLSI Syst.
+
+Cluster 42, 1 papers:	Institute of Signal Processing and Transmission, Nanjing University of Posts and Telecommunications, Nanjing, P. R. of China, Nanjing Univ. of Aeronaut. & Astronaut., Nanjing, College of Information Science and Technology, Nanjing University of Aeronautics and Astronautics, Nanjing, China (505315)
+Using Description Logics Reasoner for Ontology Matching.
+guohua shen, zhiqiu huang, xiaodong zhu, lei wang, gaoyou xiang
+2007. IITA
+
+Cluster 43, 1 papers:	Maxim Integrated Products Boston Design Center, Chelmsford, MA, USA, New England Design Center, Maxim Integrated Products, North Chelmsford, MA, USA (505314)
+Low voltage 2-path SC bandpass /spl Delta//spl Sigma/ modulator without bootstrapper.
+lei wang, sherif h. k. embabi
+2003. ISCAS
+
+Cluster 44, 1 papers:	Rutgers University, Department of Computer Science, Piscataway, NJ, USA (505294)
+Optimally Balanced Forward Degree Sequence.
+xiaomin chen, mario szegedy, lei wang
+2005. COCOON
+

@@ -1,0 +1,427 @@
+Faster solution to the maximum quartet consistency problem with constraint programming.
+Gang Wu,Guohui Lin,Jia-Huai You,Xiaomeng Wu
+2005. inproceedings: APBC. key: conf/apbc/WuLYW05
+
+Invariant Feature Extraction and Biased Statistical Inference for Video Surveillance.
+Yi-Leh Wu,Long Jiao,Gang Wu,Edward Y. Chang,Yuan-Fang Wang
+2003. inproceedings: AVSS. key: conf/avss/WuJWCW03
+
+Data Placement and Query Processing Based on RPE Parallelisms.
+Yaxin Yu,Guoren Wang,Ge Yu,Gang Wu,Junan Hu,Nan Tang
+2003. inproceedings: COMPSAC. key: conf/compsac/YuWYWHT03
+
+A Polynomial Algorithm for the Minimum Quartet Inconsistency Problem with O(n) Quartet Errors.
+Gang Wu,Jia-Huai You,Guohui Lin
+2005. inproceedings: CSB Workshops. key: conf/csb/WuYL05
+
+The Synthetic Gene Designer: a Flexible Web Platform to Explore Sequence Space of Synthetic Genes for Heterologous Expression.
+Gang Wu,Nabila Bashir-Bello,Stephen J. Freeland
+2005. inproceedings: CSB Workshops. key: conf/csb/WuBF05
+
+A Band-Weighted Landuse Classification Method for Multispectral Images.
+Chunhong Pan,Gang Wu,Veronique Prinet,Qing Yang,Songde Ma
+2005. inproceedings: CVPR (1). key: conf/cvpr/PanWPYM05
+
+Identifying Color in Motion in Video Sensors.
+Gang Wu,Amir Rahimi,Edward Y. Chang,Kingshy Goh,Tomy Tsai,Ankur Jain,Yuan-Fang Wang
+2006. inproceedings: CVPR (1). key: conf/cvpr/WuRCGTJW06
+
+Adapting Prime Number Labeling Scheme for Directed Acyclic Graphs.
+Gang Wu,Kuo Zhang,Can Liu,Juan-Zi Li
+2006. inproceedings: DASFAA. key: conf/dasfaa/WuZLL06
+
+Dynamic Zone-Balancing of Topology-Aware Peer-to-Peer Networks.
+Gang Wu,Jianli Liu
+2005. inproceedings: GCC. key: conf/gcc/WuL05
+
+Study of cache placement for time-shifted TV cluster using genetic algorithm.
+Ju-Chao Zhuo,Jun Li,Gang Wu
+2009. inproceedings: GEC Summit. key: conf/gecco/ZhuoLW09
+
+Performance Analysis of Cooperative Networks with Random Decode-and-Forward Relaying.
+Wei Lin,Gang Wu,Lei Zhang,Shaoqian Li
+2008. inproceedings: HPCC. key: conf/hpcc/LinWZL08
+
+The SMART Project Exploiting the Heterogeneous Mobile World.
+Paul J. M. Havinga,Gerard J. M. Smit,Lars Kristian Vognild,Gang Wu
+2001. inproceedings: International Conference on Internet Computing (1). key: conf/ic/HavingaSVW01
+
+Parallel Transmission Scheme Using Cyclic Modified M-Sequence CDM for Broadband Mobile Communications.
+Hiroshi Harada,Gang Wu,Kazumasa Taira,Yoshihiro Hase,Hideichi Sasaoka
+1997. inproceedings: ICC (2). key: conf/icc/HaradaWTHS97
+
+Aligning Boundary in Kernel Space for Learning Imbalanced Dataset.
+Gang Wu,Edward Y. Chang
+2004. inproceedings: ICDM. key: conf/icdm/WuC04
+
+A New Approach to Deadlock Avoidance in Embedded System.
+Gang Wu,ZhiQiang Tang,Shi-liang Tu
+2004. inproceedings: ICESS. key: conf/icess/WuTT04
+
+Statistical learning for effective visual information retrieval.
+Edward Y. Chang,Beitao Li,Gang Wu,Kingshy Goh
+2003. inproceedings: ICIP (3). key: conf/icip/ChangLWG03
+
+A land use classification method based on region and edge information fusion.
+Gang Wu,Chunhong Pan,Veronique Prinet,Songde Ma
+2004. inproceedings: ICIP. key: conf/icip/WuPPM04
+
+A Shape Detection Method Based on the Radial Symmetry Nature and Direction-Discriminated Voting.
+Gang Wu,Weijie Liu,Xiaohui Xie,Qiang Wei
+2007. inproceedings: ICIP (6). key: conf/icip/WuLXW07
+
+Manifold learning, a promised land or work in progress?
+Mei-Chen Yeh,I-Hsiang Lee,Gang Wu,Yi Wu,Edward Y. Chang
+2005. inproceedings: ICME. key: conf/icmcs/YehLWWC05
+
+An Interactive 3D Environment for Computer Based Education.
+Gang Wu,Irene Cheng
+2007. inproceedings: ICME. key: conf/icmcs/WuC07a
+
+Concept boundary detection for speeding up SVMs.
+Navneet Panda,Edward Y. Chang,Gang Wu
+2006. inproceedings: ICML. key: conf/icml/PandaCW06
+
+Adaptive Feature-Space Conformal Transformation for Imbalanced-Data Learning.
+Gang Wu,Edward Y. Chang
+2003. inproceedings: ICML. key: conf/icml/WuC03
+
+Towards the Efficiency of Ontology-Based Context Reasoning in Virtual Computing Environment.
+Shanshan Wang,Gang Wu,XiaoChong Cao
+2010. inproceedings: ICPADS. key: conf/icpads/WangWC10
+
+Quartet Based Phylogeny Reconstruction with Answer Set Programming.
+Gang Wu,Guohui Lin,Jia-Huai You
+2004. inproceedings: ICTAI. key: conf/ictai/WuLY04
+
+Human-computer Interface Development of Wireless Monitoring System Based on MiniGUI.
+Zhihua Diao,Chunjiang Zhao,Xiaojun Qiao,Cheng Wang,Gang Wu,Xin Zhang
+2007. inproceedings: CCTA. key: conf/ifip12/DiaoZQWWZ07
+
+GPSS Simulation Study of Quality Inspection System.
+Gang Wu,Baosheng Hu,Fuqing Shao,Xiaoqiu He
+1991. inproceedings: ITAMS. key: conf/ifip5-3/WuHSH91
+
+Use Of Gaming And Simulation To Study Self-Organising Behaviour Of Virtual Enterprises.
+Roger M. Kerr,Gang Wu
+2003. inproceedings: PRO-VE. key: conf/ifip5-5/KerrW03
+
+Congestion Control via Online Sampling.
+Gang Wu,Edwin K. P. Chong,Robert Givan
+2001. inproceedings: INFOCOM. key: conf/infocom/WuCG01
+
+Applications of nonlinear prediction methods to the Internet traffic.
+M. Hasegawa,Gang Wu,M. Mizuni
+2001. inproceedings: ISCAS (3). key: conf/iscas/HasegawaWM01
+
+Incremental approximate matrix factorization for speeding up support vector machines.
+Gang Wu,Edward Y. Chang,Yen-Kuang Chen,Christopher J. Hughes
+2006. inproceedings: KDD. key: conf/kdd/WuCCH06
+
+Formulating distance functions via the kernel trick.
+Gang Wu,Edward Y. Chang,Navneet Panda
+2005. inproceedings: KDD. key: conf/kdd/WuCP05
+
+Experimental comparison of scalable online ad serving.
+Gang Wu,Brendan Kitts
+2008. inproceedings: KDD. key: conf/kdd/WuK08
+
+Application of Smodels in Quartet Based Phylogeny Construction.
+Gang Wu,Jia-Huai You,Guohui Lin
+2005. inproceedings: LPNMR. key: conf/lpnmr/WuYL05
+
+Breast Tomosynthesis Reconstruction Using a Grid of Blobs with Projection Matrices.
+Gang Wu,James G. Mainprize,Martin J. Yaffe
+2010. inproceedings: Digital Mammography / IWDM. key: conf/mammo/WuMY10
+
+Characterization of Projection Ordering in Iterative Reconstruction Methods for Breast Tomosynthesis.
+Gang Wu,James G. Mainprize,Martin J. Yaffe
+2008. inproceedings: Digital Mammography / IWDM. key: conf/mammo/WuMY08
+
+Task-Based Evaluation of Image Quality of Filtered Back Projection for Breast Tomosynthesis.
+Xinying Wang,James G. Mainprize,Gang Wu,Martin J. Yaffe
+2010. inproceedings: Digital Mammography / IWDM. key: conf/mammo/WangMWY10
+
+Formulating context-dependent similarity functions.
+Gang Wu,Edward Y. Chang,Navneet Panda
+2005. inproceedings: ACM Multimedia. key: conf/mm/WuCP05
+
+Learning with non-metric proximity matrices.
+Gang Wu,Edward Y. Chang,Zhihua Zhang
+2005. inproceedings: ACM Multimedia. key: conf/mm/WuCZ05
+
+Multi-camera spatio-temporal fusion and biased sequence-data learning for security surveillance.
+Gang Wu,Yi-Leh Wu,Long Jiao,Yuan-Fang Wang,Edward Y. Chang
+2003. inproceedings: ACM Multimedia. key: conf/mm/WuWJWC03
+
+Streaming Stored Video over AIMD Transport Protocols.
+Gang Wu,Edwin K. P. Chong,Robert Givan
+2002. inproceedings: ISMSE. key: conf/mse/WuCG02
+
+Passive and accurate traffic load estimation for infrastructure-mode wireless lan.
+Gang Wu,Tzi-cker Chiueh
+2007. inproceedings: MSWiM. key: conf/mswim/WuC07
+
+The Decrease of Fuzzy Label Number Using Self-organization Competition Network.
+Shuang Cong,Gang Wu,Guodong Li
+1998. inproceedings: NC. key: conf/nc/CongWL98
+
+Transparent and Accurate Traffic Load Estimation for EnterpriseWireless LAN.
+Gang Wu,Fanglu Guo,Tzi-cker Chiueh
+2007. inproceedings: NCA. key: conf/nca/WuGC07
+
+Term Committee Based Event Identification within News Topics.
+Kuo Zhang,Juan-Zi Li,Gang Wu,Kehong Wang
+2008. inproceedings: PAKDD. key: conf/pakdd/ZhangLWW08
+
+Growing Distributed System.
+Gang Wu,Huaimin Wang,XinJun Mao,Quanyuan Wu
+2002. inproceedings: PDPTA. key: conf/pdpta/WuHXQ02
+
+Cooperation models for service oriented multi-agent system.
+XinJun Mao,Gang Wu,Huaimin Wang
+2004. inproceedings: SAC. key: conf/sac/MaoWW04
+
+Kronecker Factorization for Speeding up Kernel Machines.
+Gang Wu,Zhihua Zhang,Edward Y. Chang
+2005. inproceedings: SDM. key: conf/sdm/WuZC05
+
+Identifying Potentially Important Concepts and Relations in an Ontology.
+Gang Wu,Juanzi Li,Ling Feng,Kehong Wang
+2008. inproceedings: International Semantic Web Conference. key: conf/semweb/WuLFW08
+
+Framework for detecting hazardous events.
+Yi Wu,Edward Y. Chang,Gang Wu
+2003. inproceedings: Storage and Retrieval for Media Databases. key: conf/spieSR/WuCW03
+
+Imperfect learning for autonomous concept modeling.
+Ching-Yung Lin,Xiaodan Song,Gang Wu
+2005. inproceedings: Storage and Retrieval Methods and Applications for Multimedia. key: conf/spieSR/LinSW05
+
+Structural DNA Nanotechnology: Molecular Construction and Computation.
+Ruojie Sha,Xiaoping Zhang,Shiping Liao,Pamela E. Constantinou,Baoquan Ding,Tong Wang,Alejandra V. Garibotti,Hong Zhong,Lisa B. Israel,Xing Wang,Gang Wu,Banani Chakraborty,Junghuei Chen,Yuwen Zhang,Hao Yan,Zhiyong Shen,Wanqiu Shen,Phiset Sa-Ardyen,Jens Kopatsch,Jiwen Zheng,Philip S. Lukeman,William B. Sherman,Chengde Mao,Natasa Jonoska,Nadrian C. Seeman
+2005. inproceedings: UC. key: conf/uc/ShaZLCDWGZIWWCCZYSSSKZLSMJS05
+
+A Lookahead Branch-and-Bound Algorithm for the Maximum Quartet Consistency Problem.
+Gang Wu,Jia-Huai You,Guohui Lin
+2005. inproceedings: WABI. key: conf/wabi/WuYL05
+
+System II: A Native RDF Repository Based on the Hypergraph Representation for RDF Data Model.
+Gang Wu,Juanzi Li,Jianqiang Hu,Kehong Wang
+2008. inproceedings: WAIM. key: conf/waim/WuLHW08
+
+SWSDS: Quick Web Service Discovery and Composition in SEWSIP.
+Bin Xu,Tao Li,Zhifeng Gu,Gang Wu
+2006. inproceedings: CEC/EEE. key: conf/wecwis/XuLGW06
+
+Logical structure based semantic relationship extraction from semi-structured documents.
+Kuo Zhang,Gang Wu,Juan-Zi Li
+2006. inproceedings: WWW. key: conf/www/KuoGJ06
+
+System II: a hypergraph based native rdf repository.
+Gang Wu,Juan-Zi Li,Kehong Wang
+2008. inproceedings: WWW. key: conf/www/WuLW08
+
+Falconer: once SIOC meets semantic search engine.
+Gang Wu,Mengdong Yang,Ke Wu,Guilin Qi,Yuzhong Qu
+2010. inproceedings: WWW. key: conf/www/WuYWQQ10
+
+A Novel Workflow Management Model Based on Mobile Agents for Internet Electronic Commerce.
+Gang Wu,Quanyuan Wu,Huaimin Wang
+2000. inproceedings: TOOLS (36). key: conf/tools/WuWW00
+
+Low Complexity Channel Estimation for Novel Bi-Directional Relaying Schemes.
+Feng Hu,Hua Zhang,Xiaohu You,Haifeng Wang,Gang Wu
+2009. inproceedings: VTC Spring. key: conf/vtc/HuZYWW09
+
+Joint Uplink and Downlink Relay Selection in Cooperative Cellular Networks.
+Wei Yang,Lihua Li,Gang Wu,Haifeng Wang,Ying Wang
+2010. inproceedings: VTC Fall. key: conf/vtc/YangLWWW10
+
+Transmit Preprocessing for Cluster Based Multi-User Relay Systems.
+Lei Song,Lihua Li,Gang Wu,Chaowei Wang,Haifeng Wang
+2010. inproceedings: VTC Fall. key: conf/vtc/SongLWWW10
+
+Restricted evolution based multimodal function optimization in holographic grating design.
+Qing Ling,Gang Wu,Qiuping Wang
+2005. inproceedings: Congress on Evolutionary Computation. key: conf/cec/LingWW05
+
+Cooperative Multi-Antenna Multicasting for Wireless Networks.
+Hua Zhang,Xiaohu You,Gang Wu,Haifeng Wang
+2010. inproceedings: GLOBECOM. key: conf/globecom/ZhangYWW10
+
+BER Criterion for Transmit Beamforming in MISO-OFDM with Limited Feedback.
+Lei Zhang,Gang Wu,Shaoqian Li
+2007. inproceedings: FGCN (2). key: conf/fgcn/ZhangWL07a
+
+A Time Domain Tracking Method for Limited-Rate Feedback Precoding in MIMO Systems.
+Qi Wu,Haiyang Huang,Gang Wu,Xia Lei,Shaoqian Li
+2007. inproceedings: FGCN (2). key: conf/fgcn/WuHWLL07
+
+An Improved Approach of Reducing Feedback for Precoded MIMO-OFDM System.
+Xiaoyin Fang,Gang Wu,Haiyang Huang,Xia Lei,Shaoqian Li
+2007. inproceedings: FGCN (2). key: conf/fgcn/FangWHLL07
+
+A Performance Comparison of DS-CDMA and MC-CDMA with Per-User MMSE Frequency Domain Equalization.
+Tao Luo,Yong Liang Guan,Gang Wu,Shaoqian Li,Choi Look Law
+2007. inproceedings: FGCN (2). key: conf/fgcn/LuoGWLL07
+
+A Novel Data Replication and Placement Scheme for Time-Shifted TV Cluster.
+Ju-Chao Zhuo,Jun Li,Gang Wu,Li-Yue Zhu
+2008. inproceedings: CSSE (3). key: conf/csse/ZhuoLWZ08
+
+Successive and Dynamic Precoding Scheme for Multiuser MIMO Systems with Limited Feedback.
+Min Huang,Wei Miao,Gang Wu,Shidong Zhou,Jing Wang 0001
+2008. inproceedings: WCNC. key: conf/wcnc/HuangMWZW08
+
+Efficient Network Coding for Wireless Broadcasting.
+Lu Lu,Ming Xiao,Mikael Skoglund,Lars K. Rasmussen,Gang Wu,Shaoqian Li
+2010. inproceedings: WCNC. key: conf/wcnc/LuXSRWL10
+
+Selective Random Cyclic Delay Diversity for HARQ in Cooperative Relay.
+Gang Wu,Zhenhong Li,Haifeng Wang,Wei Zou
+2010. inproceedings: WCNC. key: conf/wcnc/WuLWZ10
+
+Sub-optimum distributed power allocation for parallel relay networks.
+Feng Hu,Hua Zhang,Xiaohu You,Haifeng Wang,Gang Wu
+2009. inproceedings: WCNC. key: conf/wcnc/HuZYWW09
+
+Joint maximum number of transmissions handling for HARQ protocol in relay networks.
+Zhenhong Li,Haifeng Wang,Gang Wu,Ting Zhou
+2010. inproceedings: PIMRC. key: conf/pimrc/LiWWZ10
+
+Implementation of dynamic channel switching on IEEE 802.11-based wireless mesh networks.
+Gang Wu,Sathyanarayana Singh,Tzi-cker Chiueh
+2008. inproceedings: WICON. key: conf/wicon/WuSC08
+
+Fault Tolerant Data Collection in Heterogeneous Intelligent Monitoring Networks.
+Jing Deng,Meikang Qiu,Gang Wu
+2010. inproceedings: NAS. key: conf/nas/DengQW10
+
+Access to culture and information through library: a perspective on Chinese copyright law reformation.
+Chuanfu Chen,Yushuang Fu,Dan Wu,Congjing Ran,Kai Sun,Gang Wu
+2009. inproceedings: Int. Conf. Interaction Sciences. key: conf/interaction/ChenFWRSW09
+
+Joint relay selection and link adaptation for distributed beamforming in regenerative cooperative networks.
+Wei Yang,Lihua Li,Gang Wu,Haifeng Wang
+2010. inproceedings: ISITA. key: conf/isita/YangLWW10
+
+Crowding clustering genetic algorithm for multimodal function optimization.
+Qing Ling,Gang Wu,Zaiyue Yang,Qiuping Wang
+2008. article: Appl. Soft Comput.. key: journals/asc/LingWYW08
+
+Integrated analysis of transcriptomic and proteomic data of Desulfovibrio vulgaris: zero-inflated Poisson regression models to predict abundance of undetected proteins.
+Lei Nie,Gang Wu,Fred J. Brockman,Weiwen Zhang
+2006. article: Bioinformatics. key: journals/bioinformatics/NieWBZ06
+
+Inference of gene networks - application to Bifidobacterium.
+Darong Lai,Xinyi Yang,Gang Wu,Yuanhua Liu,Christine Nardini
+2011. article: Bioinformatics. key: journals/bioinformatics/LaiYWLN11
+
+Predictive buffer control in delivering remotely stored video using proxy servers.
+Gang Wu,Edwin K. P. Chong,Robert Givan
+2006. article: Computer Networks. key: journals/cn/WuCG06
+
+Joint Uplink and Downlink Relay Selection in Cooperative Cellular Networks
+Wei Yang,Lihua Li,Gang Wu,Haifeng Wang,Ying Wang
+2010. article: CoRR. key: journals/corr/abs-1009-0068
+
+Joint Relay Selection and Link Adaptation for Distributed Beamforming in Regenerative Cooperative Networks
+Wei Yang,Lihua Li,Gang Wu,Haifeng Wang
+2010. article: CoRR. key: journals/corr/abs-1009-0072
+
+Preamble Design with ICI Cancellation for Channel Estimation in OFDM/OQAM System.
+Su Hu,Gang Wu,Teng Li,Yue Xiao,Shaoqian Li
+2010. article: IEICE Transactions. key: journals/ieicet/HuWLXL10
+
+A polynomial time algorithm for the minimum quartet inconsistency problem with O(n) quartet errors.
+Gang Wu,Jia-Huai You,Guohui Lin
+2006. article: Inf. Process. Lett.. key: journals/ipl/WuYL06
+
+System Pi: A Native RDF Repository Based on the Hypergraph Representation for RDF Data Model.
+Gang Wu,Juan-Zi Li,Jianqiang Hu,Kehong Wang
+2009. article: J. Comput. Sci. Technol.. key: journals/jcst/WuLHW09
+
+Anatomy of a multicamera video surveillance system.
+Long Jiao,Yi-Leh Wu,Gang Wu,Edward Y. Chang,Yuan-Fang Wang
+2004. article: Multimedia Syst.. key: journals/mms/JiaoWWCW04
+
+SGDB: a database of synthetic genes re-designed for optimizing protein over-expression.
+Gang Wu,Yuanpu Zheng,Imran Qureshi,Htar Thant Zin,Tyler Beck,Blazej Bulka,Stephen J. Freeland
+2007. article: Nucleic Acids Research. key: journals/nar/WuZQZBBF07
+
+Multiplying with DNA.
+Gang Wu,Nadrian C. Seeman
+2006. article: Natural Computing. key: journals/nc/WuS06
+
+The impact of internet resources on scholarly communication: A citation analysis.
+Chuanfu Chen,Kai Sun,Gang Wu,Qiong Tang,Jian Qin,Kuei Chiu,Yushuang Fu,Xiaofang Wang,Jing Liu
+2009. article: Scientometrics. key: journals/scientometrics/ChenSWTQCFWL09
+
+Quartet-Based Phylogeny Reconstruction with Answer Set Programming.
+Gang Wu,Jia-Huai You,Guohui Lin
+2007. article: IEEE/ACM Trans. Comput. Biology Bioinform.. key: journals/tcbb/WuYL07
+
+On existence of reporter strands in DNA-based graph structures.
+Natasa Jonoska,Nadrian C. Seeman,Gang Wu
+2009. article: Theor. Comput. Sci.. key: journals/tcs/JonoskaSW09
+
+CBSA: content-based soft annotation for multimodal image retrieval using Bayes point machines.
+Edward Y. Chang,Kingshy Goh,Gerard Sychay,Gang Wu
+2003. article: IEEE Trans. Circuits Syst. Video Techn.. key: journals/tcsv/ChangGSW03
+
+KBA: Kernel Boundary Alignment Considering Imbalanced Data Distribution.
+Gang Wu,Edward Y. Chang
+2005. article: IEEE Trans. Knowl. Data Eng.. key: journals/tkde/WuC05
+
+Arnoldi versus GMRES for computing pageRank: A theoretical contribution to google's pageRank problem.
+Gang Wu,Yimin Wei
+2010. article: ACM Trans. Inf. Syst.. key: journals/tois/WuW10
+
+Circular shifted transmit diversity.
+Gang Wu,Shixin Cheng
+2004. article: Wireless Communications and Mobile Computing. key: journals/wicomm/WuC04
+
+An iterative block Arnoldi algorithm with modified approximate eigenvectors for large unsymmetric eigenvalue problems.
+Gang Wu
+2004. article: Applied Mathematics and Computation. key: journals/amc/Wu04a
+
+Phylogenetic analysis using complete signature information of whole genomes and clustered Neighbour-Joining method.
+Xiaomeng Wu,Xiu-Feng Wan,Gang Wu,Dong Xu,Guohui Lin
+2006. article: IJBRA. key: journals/ijbra/WuWWXL06
+
+Preamble Design and Iterative Channel Estimation for OFDM/Offset QAM System.
+Su Hu,Gang Wu,Shaoqian Li
+2009. article: JNW. key: journals/jnw/HuWL09
+
+Semiparametric Regression Using Student t Processes.
+Zhihua Zhang,Gang Wu,Edward Y. Chang
+2007. article: IEEE Transactions on Neural Networks. key: journals/tnn/ZhangWC07
+
+A low-complexity multiple signal representation scheme in downlink OFDM-CDMA.
+Lilin Dan,Yue Xiao,Peng Cheng,Gang Wu,Shaoqian Li
+2009. article: Science in China Series F: Information Sciences. key: journals/chinaf/DanXCWL09
+
+Leakage-based user scheduling in MU-MIMO broadcast channel.
+Xin Xia,Gang Wu,Jing Liu,Shaoqian Li
+2009. article: Science in China Series F: Information Sciences. key: journals/chinaf/XiaWLL09
+
+Downlink Cooperative Transmission by Superposition Modulation: Performance Analysis and Power Allocation Strategy.
+De-Li Jia,Gang Wu,Wei Lin,Shaoqian Li
+2010. article: JCM. key: journals/jcm/JiaWLL10
+
+Construction of a DNA nano-object directly demonstrates computation.
+Gang Wu,Natasha Jonoska,Nadrian C. Seeman
+2009. article: Biosystems. key: journals/biosystems/WuJS09
+
+Reconstructing phylogenies from noisy quartets in polynomial time with a high success probability.
+Gang Wu,Ming-Yang Kao,Guohui Lin,Jia-Huai You
+2008. article: Algorithms for Molecular Biology. key: journals/almob/WuKLY08
+
+A thick-restarted block Arnoldi algorithm with modified Ritz vectors for large eigenproblems.
+Wei Jiang,Gang Wu
+2010. article: Computers & Mathematics with Applications. key: journals/cma/JiangW10
+
+Deterministic Robust Optimal Design Based on Standard Crowding Genetic Algorithm.
+Qing Ling,Gang Wu,Qiuping Wang
+2007. incollection: Evolutionary Computation in Dynamic and Uncertain Environments. key: series/sci/LingWW07

@@ -1,0 +1,483 @@
+Core architecture optimization for heterogeneous chip multiprocessors.
+Rakesh Kumar,Dean M. Tullsen,Norman P. Jouppi
+2006. inproceedings: PACT. key: conf/IEEEpact/KumarTJ06
+
+Slack redistribution for graceful degradation under voltage overscaling.
+Andrew B. Kahng,Seokhyeong Kang,Rakesh Kumar,John Sartori
+2010. inproceedings: ASP-DAC. key: conf/aspdac/KahngKKS10
+
+Towards scalable reliability frameworks for error prone CMPs.
+Joseph Sloan,Rakesh Kumar
+2009. inproceedings: CASES. key: conf/cases/SloanK09
+
+A QoS routing protocol for delay-sensitive applications in mobile ad hoc networks.
+Pradeep Macharla,Rakesh Kumar,Anil Kumar Sarje,Manoj Misra
+2008. inproceedings: COMSWARE. key: conf/comsware/MacharlaKSM08
+
+Multi-View 3D Analysis with Applications for Augmented Reality and Enhanced Video Visualization.
+Yanlin Guo,Steven C. Hsu,Supun Samarasekera,Harpreet S. Sawhney,Rakesh Kumar
+2000. inproceedings: CVPR. key: conf/cvpr/GuoHSSK00
+
+Vehicle Fingerprinting for Reacquisition and Tracking in Videos.
+Yanlin Guo,Steven C. Hsu,Ying Shan,Harpreet S. Sawhney,Rakesh Kumar
+2005. inproceedings: CVPR (2). key: conf/cvpr/GuoHSSK05
+
+Learning-Based Building Outline Detection from Multiple Aerial Images.
+Yanlin Guo,Harpreet S. Sawhney,Rakesh Kumar,Steven C. Hsu
+2001. inproceedings: CVPR (2). key: conf/cvpr/GuoSKH01
+
+Pose Estimation, Model Refinement, and Enhanced Visualization Using Video.
+Stephen C. Hsu,Supun Samarasekera,Rakesh Kumar,Harpreet S. Sawhney
+2000. inproceedings: CVPR. key: conf/cvpr/HsuSKS00
+
+True Multi-Image Alignment and its Application to Mosaicing and Lens Distortion Correction.
+Harpreet S. Sawhney,Rakesh Kumar
+1997. inproceedings: CVPR. key: conf/cvpr/SawhneyK97
+
+Learning Exemplar-Based Categorization for the Detection of Multi-View Multi-Pose Objects.
+Ying Shan,Feng Han,Harpreet S. Sawhney,Rakesh Kumar
+2006. inproceedings: CVPR (2). key: conf/cvpr/ShanHSK06
+
+Linear Model Hashing and Batch RANSAC for Rapid and Accurate Object Recognition.
+Ying Shan,Bogdan Matei,Harpreet S. Sawhney,Rakesh Kumar,Daniel F. Huber,Martial Hebert
+2004. inproceedings: CVPR (2). key: conf/cvpr/ShanMSKHH04
+
+Unsupervised Learning of Discriminative Edge Measures for Vehicle Matching between Non-Overlapping Cameras.
+Ying Shan,Harpreet S. Sawhney,Rakesh Kumar
+2005. inproceedings: CVPR (1). key: conf/cvpr/ShanSK05
+
+Dynamic Layer Representation with Applications to Tracking.
+Hai Tao,Harpreet S. Sawhney,Rakesh Kumar
+2000. inproceedings: CVPR. key: conf/cvpr/TaoSK00
+
+Dynamic Depth Recovery from Multiple Synchronized Video Streams.
+Hai Tao,Harpreet S. Sawhney,Rakesh Kumar
+2001. inproceedings: CVPR (1). key: conf/cvpr/TaoSK01
+
+3D Building Detection and Modeling from Aerial LIDAR Data.
+Vivek Verma,Rakesh Kumar,Stephen C. Hsu
+2006. inproceedings: CVPR (2). key: conf/cvpr/VermaKH06
+
+Real-Time Wide Area Multi-Camera Stereo Tracking.
+Tao Zhao,Manoj Aggarwal,Rakesh Kumar,Harpreet S. Sawhney
+2005. inproceedings: CVPR (1). key: conf/cvpr/ZhaoAKS05
+
+PEET: Prototype Embedding and Embedding Transition for Matching Vehicles over Disparate Viewpoints.
+Yanlin Guo,Ying Shan,Harpreet S. Sawhney,Rakesh Kumar
+2007. inproceedings: CVPR. key: conf/cvpr/GuoSSK07
+
+Visual Odometry System Using Multiple Stereo Cameras and Inertial Measurement Unit.
+Taragay Oskiper,Zhiwei Zhu,Supun Samarasekera,Rakesh Kumar
+2007. inproceedings: CVPR. key: conf/cvpr/OskiperZSK07
+
+Real-time global localization with a pre-built visual landmark database.
+Zhiwei Zhu,Taragay Oskiper,Supun Samarasekera,Rakesh Kumar,Harpreet S. Sawhney
+2008. inproceedings: CVPR. key: conf/cvpr/ZhuOSKS08
+
+Discovering class specific composite features through discriminative sampling with Swendsen-Wang Cut.
+Feng Han,Ying Shan,Harpreet S. Sawhney,Rakesh Kumar
+2008. inproceedings: CVPR. key: conf/cvpr/HanSSK08
+
+Building segmentation for densely built urban regions using aerial LIDAR data.
+Bodgan C. Matei,Harpreet S. Sawhney,Supun Samarasekera,Janet Kim,Rakesh Kumar
+2008. inproceedings: CVPR. key: conf/cvpr/MateiSSKK08
+
+Matching vehicles under large pose transformations using approximate 3D models and piecewise MRF model.
+Yanlin Guo,Cen Rao,Supun Samarasekera,Janet Kim,Rakesh Kumar,Harpreet S. Sawhney
+2008. inproceedings: CVPR. key: conf/cvpr/GuoRSKKS08
+
+VideoTrek: A vision system for a tag-along robot.
+Oleg Naroditsky,Zhiwei Zhu,Aveek Das,Supun Samarasekera,Taragay Oskiper,Rakesh Kumar
+2009. inproceedings: CVPR. key: conf/cvpr/NaroditskyZDSOK09
+
+Recovery-driven design: a power minimization methodology for error-tolerant processor modules.
+Andrew B. Kahng,Seokhyeong Kang,Rakesh Kumar,John Sartori
+2010. inproceedings: DAC. key: conf/dac/KahngKKS10
+
+Stochastic computation.
+Naresh R. Shanbhag,Rami A. Abdallah,Rakesh Kumar,Douglas L. Jones
+2010. inproceedings: DAC. key: conf/dac/ShanbhagAKJ10
+
+Magellan: A Search and Machine Learning-based Framework for Fast Multi-core Design Space Exploration and Optimization.
+Sukhun Kang,Rakesh Kumar
+2008. inproceedings: DATE. key: conf/date/KangK08
+
+Distributed peak power management for many-core architectures.
+John Sartori,Rakesh Kumar
+2009. inproceedings: DATE. key: conf/date/SartoriK09
+
+Scalable stochastic processors.
+Sriram Narayanan,John Sartori,Rakesh Kumar,Douglas L. Jones
+2010. inproceedings: DATE. key: conf/date/NarayananSKJ10
+
+Robust Video Mosaicing through Topology Inference and Local to Global Alignment.
+Harpreet S. Sawhney,Steven C. Hsu,Rakesh Kumar
+1998. inproceedings: ECCV (2). key: conf/eccv/SawhneyHK98
+
+Partial Object Matching with Shapeme Histograms.
+Ying Shan,Harpreet S. Sawhney,Bogdan Matei,Rakesh Kumar
+2004. inproceedings: ECCV (3). key: conf/eccv/ShanSMK04
+
+Overscaling-friendly timing speculation architectures.
+John Sartori,Rakesh Kumar
+2010. inproceedings: ACM Great Lakes Symposium on VLSI. key: conf/glvlsi/SartoriK10
+
+Three scalable approaches to improving many-core throughput for a given peak power budget.
+John Sartori,Rakesh Kumar
+2009. inproceedings: HiPC. key: conf/hipc/SartoriK09
+
+Low-Overhead, High-Speed Multi-core Barrier Synchronization.
+John Sartori,Rakesh Kumar
+2010. inproceedings: HiPEAC. key: conf/hipeac/SartoriK10
+
+Learning Actions Using Robust String Kernels.
+Changjiang Yang,Yanlin Guo,Harpreet S. Sawhney,Rakesh Kumar
+2007. inproceedings: Workshop on Human Motion. key: conf/humo/YangGSK07
+
+Application-specific customization of parameterized FPGA soft-core processors.
+David Sheldon,Rakesh Kumar,Roman L. Lysecky,Frank Vahid,Dean M. Tullsen
+2006. inproceedings: ICCAD. key: conf/iccad/SheldonKLVT06
+
+Conjoining soft-core FPGA processors.
+David Sheldon,Rakesh Kumar,Frank Vahid,Dean M. Tullsen,Roman L. Lysecky
+2006. inproceedings: ICCAD. key: conf/iccad/SheldonKVTL06
+
+Vehicle Identification between Non-Overlapping Cameras without Direct Feature Matching.
+Ying Shan,Harpreet S. Sawhney,Rakesh Kumar
+2005. inproceedings: ICCV. key: conf/iccv/ShanSK05
+
+Independent Motion Detection in 3D Scenes.
+Harpreet S. Sawhney,Yanlin Guo,Jane C. Asmuth,Rakesh Kumar
+1999. inproceedings: ICCV. key: conf/iccv/SawhneyGAK99
+
+A Global Matching Framework for Stereo Computation.
+Hai Tao,Harpreet S. Sawhney,Rakesh Kumar
+2001. inproceedings: ICCV. key: conf/iccv/TaoSK01
+
+Video Georegistration: Algorithm and Quantitative Evaluation.
+Richard P. Wildes,David J. Hirvonen,Steven C. Hsu,Rakesh Kumar,W. Brian Lehman,Bogdan Matei,Wen-Yi Zhao
+2001. inproceedings: ICCV. key: conf/iccv/WildesHHKLMZ01
+
+Multiple Cue Integrated Action Detection.
+Sang-Hack Jung,Yanlin Guo,Harpreet S. Sawhney,Rakesh Kumar
+2007. inproceedings: ICCV-HCI. key: conf/iccv/JungGSK07
+
+Ten-fold Improvement in Visual Odometry Using Landmark Matching.
+Zhiwei Zhu,Taragay Oskiper,Supun Samarasekera,Rakesh Kumar,Harpreet S. Sawhney
+2007. inproceedings: ICCV. key: conf/iccv/ZhuOSKS07
+
+Annotation of Video by Alignment to Reference Imagery.
+Keith J. Hanna,Harpreet S. Sawhney,Rakesh Kumar,Yanlin Guo,Supun Samarasekera
+1999. inproceedings: Workshop on Vision Algorithms. key: conf/iccvw/HannaSKGS99
+
+A Sampling Algorithm for Tracking Multiple Objects.
+Hai Tao,Harpreet S. Sawhney,Rakesh Kumar
+1999. inproceedings: Workshop on Vision Algorithms. key: conf/iccvw/TaoSK99
+
+Video as an image data source: efficient representations and applications.
+P. Anandan,Michal Irani,Rakesh Kumar,James R. Bergen
+1995. inproceedings: ICIP. key: conf/icip/AnandanIKB95
+
+3D Manipulation of Motion Imagery.
+Rakesh Kumar,Harpreet S. Sawhney,Yanlin Guo,Steven C. Hsu,Supun Samarasekera
+2000. inproceedings: ICIP. key: conf/icip/KumarSGHS00
+
+Annotation of Video by Alignment to Reference Imagery.
+Keith J. Hanna,Harpreet S. Sawhney,Rakesh Kumar,Yanlin Guo,Supun Samarasekera
+1999. inproceedings: ICMCS, Vol. 1. key: conf/icmcs/HannaSKGS99
+
+Registration of Highly-Oblique and Zoomed in Aerial Video to Reference Imagery.
+Rakesh Kumar,Supun Samarasekera,Steven C. Hsu,Keith J. Hanna
+2000. inproceedings: ICPR. key: conf/icpr/KumarSHH00
+
+A Heterogeneous Feature-based Image Alignment Method.
+Cen Rao,Yanlin Guo,Harpreet S. Sawhney,Rakesh Kumar
+2006. inproceedings: ICPR (2). key: conf/icpr/RaoGSK06
+
+Robust visual path following for heterogeneous mobile platforms.
+Aveek Das,Oleg Naroditsky,Zhiwei Zhu,Supun Samarasekera,Rakesh Kumar
+2010. inproceedings: ICRA. key: conf/icra/DasNZSK10
+
+A Two Layered Bayesian Model to Prioritize emails.
+Manjusha K,Rakesh Kumar
+2009. inproceedings: IICAI. key: conf/iicai/KK09
+
+Optimal peer selection for P2P downloading and streaming.
+Micah Adler,Rakesh Kumar,Keith W. Ross,Dan Rubenstein,Torsten Suel,David D. Yao
+2005. inproceedings: INFOCOM. key: conf/infocom/AdlerKRRSY05
+
+Pollution in P2P file sharing systems.
+Jian Liang,Rakesh Kumar,Y. Xi,Keith W. Ross
+2005. inproceedings: INFOCOM. key: conf/infocom/LiangKXR05
+
+Stochastic Fluid Theory for P2P Streaming Systems.
+Rakesh Kumar,Yong Liu,Keith W. Ross
+2007. inproceedings: INFOCOM. key: conf/infocom/KumarLR07
+
+Panel: Realistic low power design: Let errors occur and correct them later or mitigate errors via design guardbanding and process control?.
+Abhijit Chatterjee,Jacob A. Abraham,Adit D. Singh,Elie Maricau,Rakesh Kumar,Chris Papachristou
+2009. inproceedings: IOLTS. key: conf/iolts/ChatterjeeASMKP09
+
+Exploiting unbalanced thread scheduling for energy and performance on a CMP of SMT processors.
+M. De Vuyst,Rakesh Kumar,Dean M. Tullsen
+2006. inproceedings: IPDPS. key: conf/ipps/VuystKT06
+
+Single-ISA Heterogeneous Multi-Core Architectures for Multithreaded Workload Performance.
+Rakesh Kumar,Dean M. Tullsen,Parthasarathy Ranganathan,Norman P. Jouppi,Keith I. Farkas
+2004. inproceedings: ISCA. key: conf/isca/KumarTRJF04
+
+Interconnections in Multi-Core Architectures: Understanding Mechanisms, Overheads and Scaling.
+Rakesh Kumar,Victor V. Zyuban,Dean M. Tullsen
+2005. inproceedings: ISCA. key: conf/isca/KumarZT05
+
+Software Energy Optimization of Real Time Preemptive Tasks by Minimizing Cache-Related Preemption Costs.
+Rakesh Kumar,Tusar Kanti Patra,Anupam Basu
+2002. inproceedings: ISHPC. key: conf/ishpc/KumarPB02
+
+Computing with stochastic processors: revisiting the correctness contract between software and hardware.
+Rakesh Kumar
+2010. inproceedings: ISLPED. key: conf/islped/Kumar10
+
+Variation-aware speed binning of multi-core processors.
+John Sartori,Aashish Pant,Rakesh Kumar,Puneet Gupta
+2010. inproceedings: ISQED. key: conf/isqed/SartoriPKG10
+
+Single-ISA Heterogeneous Multi-Core Architectures: The Potential for Processor Power Reduction.
+Rakesh Kumar,Keith I. Farkas,Norman P. Jouppi,Parthasarathy Ranganathan,Dean M. Tullsen
+2003. inproceedings: MICRO. key: conf/micro/KumarFJRT03
+
+Conjoined-Core Chip Multiprocessing.
+Rakesh Kumar,Norman P. Jouppi,Dean M. Tullsen
+2004. inproceedings: MICRO. key: conf/micro/KumarJT04
+
+Compiling for instruction cache performance on a multithreaded architecture.
+Rakesh Kumar,Dean M. Tullsen
+2002. inproceedings: MICRO. key: conf/micro/KumarT02
+
+Balanced Multithreading: Increasing Throughput via a Low Cost Multithreading Hierarchy.
+Eric Tune,Rakesh Kumar,Dean M. Tullsen,Brad Calder
+2004. inproceedings: MICRO. key: conf/micro/TuneKTC04
+
+Reducing peak power with a table-driven adaptive processor core.
+Vasileios Kontorinis,Amirali Shayan,Dean M. Tullsen,Rakesh Kumar
+2009. inproceedings: MICRO. key: conf/micro/KontorinisSTK09
+
+Action video retrieval based on atomic action vocabulary.
+Sang-Hack Jung,Yanlin Guo,Harpreet S. Sawhney,Rakesh Kumar
+2008. inproceedings: Multimedia Information Retrieval. key: conf/mir/JungGSK08
+
+PassPattern System (PPS): A Pattern-Based User Authentication Scheme.
+T. Rakesh Kumar,S. V. Raghavan
+2008. inproceedings: Networking. key: conf/networking/KumarR08
+
+Composition Trust Bindings in Pervasive Computing Service Composition.
+John Buford,Rakesh Kumar,Greg Perkins
+2006. inproceedings: PerCom Workshops. key: conf/percom/BufordKP06
+
+On the Theory of Stochastic Processors.
+Parasara Sridhar Duggirala,Sayan Mitra,Rakesh Kumar,Dean Glazeski
+2010. inproceedings: QEST. key: conf/qest/DuggiralaMKG10
+
+Video Flashlights: Real Time Rendering of Multiple Videosfor Immersive Model Visualization.
+Harpreet S. Sawhney,Aydin Arpa,Rakesh Kumar,Supun Samarasekera,Manoj Aggarwal,Steven C. Hsu,David Nister,Keith J. Hanna
+2002. inproceedings: Rendering Techniques. key: conf/rt/SawhneyAKSAHNH02
+
+Hybrid stereo camera: an IBR approach for synthesis of very high resolution stereoscopic image sequences.
+Harpreet S. Sawhney,Yanlin Guo,Keith J. Hanna,Rakesh Kumar,Sean Adkins,Samuel Zhou
+2001. inproceedings: SIGGRAPH. key: conf/siggraph/SawhneyGHKAZ01
+
+Fluid modeling of pollution proliferation in P2P networks.
+Rakesh Kumar,David D. Yao,Amitabha Bagchi,Keith W. Ross,Dan Rubenstein
+2006. inproceedings: SIGMETRICS/Performance. key: conf/sigmetrics/KumarYBRR06
+
+Proximity-aware directory-based coherence for multi-core processor architectures.
+Jeffery A. Brown,Rakesh Kumar,Dean M. Tullsen
+2007. inproceedings: SPAA. key: conf/spaa/BrownKT07
+
+Translator Design to Model Cpp Files.
+Satwinder Singh,K. S. Kahlon,Rakesh Kumar,Gurjeet Singh
+2005. inproceedings: WEC (5). key: conf/wec/SinghKKS05
+
+Cost effective Document Repository Management.
+Tanay Krishna,Rakesh Kumar Thakur,Deepak Kumar
+2006. inproceedings: ICDIM. key: conf/icdim/KrishnaTK06
+
+Workload adaptive shared memory multicore processors with reconfigurable interconnects.
+Shoaib Akram,Rakesh Kumar,Deming Chen
+2009. inproceedings: SASP. key: conf/sasp/AkramKC09
+
+Register Multimapping: A technique for reducing register bank conflicts in processors with large register files.
+Nam Duong,Rakesh Kumar
+2009. inproceedings: SASP. key: conf/sasp/DuongK09
+
+A Comparative Study of Different Sensors for Smart Car Park Management.
+Rakesh Kumar,Naveen K. Chilamkurti,Ben Soh
+2007. inproceedings: IPC. key: conf/ipc/KumarCS07
+
+Replication of Biomolecular Techniques for Implementing Intelligent Systems.
+Sanjeev Dhawan,Rakesh Kumar
+2008. inproceedings: BroadCom. key: conf/broadcom/DhawanK08a
+
+Analyzing Performance of Web-Based Metrics for Evaluating Reliability and Maintainability of Hypermedia Applications.
+Sanjeev Dhawan,Rakesh Kumar
+2008. inproceedings: BroadCom. key: conf/broadcom/DhawanK08
+
+The architecture of Efficient Multi-Core Processors: A Holistic Approach.
+Rakesh Kumar,Dean M. Tullsen
+2007. article: Advances in Computers. key: journals/ac/KumarT07
+
+Processor Power Reduction Via Single-ISA Heterogeneous Multi-Core Architectures.
+Rakesh Kumar,Keith I. Farkas,Norman P. Jouppi,Parthasarathy Ranganathan,Dean M. Tullsen
+2003. article: Computer Architecture Letters. key: journals/cal/KumarFJRT03
+
+The Danger of Interval-Based Power Efficiency Metrics: When Worst Is Best.
+Yiannakis Sazeides,Rakesh Kumar,Dean M. Tullsen,Theofanis Constantinou
+2005. article: Computer Architecture Letters. key: journals/cal/SazeidesKTC05
+
+Automated Mosaics via Topology Inference.
+Steven C. Hsu,Harpreet S. Sawhney,Rakesh Kumar
+2002. article: IEEE Computer Graphics and Applications. key: journals/cga/HsuSK02
+
+The FastTrack overlay: A measurement study.
+Jian Liang,Rakesh Kumar,Keith W. Ross
+2006. article: Computer Networks. key: journals/cn/LiangKR06
+
+Heterogeneous Chip Multiprocessors.
+Rakesh Kumar,Dean M. Tullsen,Norman P. Jouppi,Parthasarathy Ranganathan
+2005. article: IEEE Computer. key: journals/computer/KumarTJR05
+
+Computations that require higher than double precision for robust and exact decision making.
+Sudebkumar Prasant Pal,Rakesh Kumar Koul,Frahad Musadeekh,P. H. D. Ramakrishna,Hironmay Basu
+2004. article: Int. J. Comput. Math.. key: journals/ijcm/PalKMRB04
+
+Spatial Decision Support System for Zinc Content in Soil.
+Dinesh K. Sharma,Rakesh Kumar Sharma,Debasis Ghosh
+2005. article: International Journal of Information Technology and Decision Making. key: journals/ijitdm/SharmaSG05
+
+On the New Design of sinusoid voltage Controlled oscillators Using Multiplier in CFA-Based Double Integrator Loop.
+R. K. Nagaria,Rakesh Kumar Singh,Subodh Wairya
+2010. article: Journal of Circuits, Systems, and Computers. key: journals/jcsc/NagariaSW10
+
+Toward a sentient environment: real-time wide area multiple human tracking with identities.
+Tao Zhao,Manoj Aggarwal,Thomas Germano,Ian Roth,Alexandar Knowles,Rakesh Kumar,Harpreet S. Sawhney,Supun Samarasekera
+2008. article: Mach. Vis. Appl.. key: journals/mva/ZhaoAGRKKSS08
+
+Rapid Object Indexing Using Locality Sensitive Hashing and Joint 3D-Signature Space Estimation.
+Bogdan Matei,Ying Shan,Harpreet S. Sawhney,Yi Tan,Rakesh Kumar,Daniel F. Huber,Martial Hebert
+2006. article: IEEE Trans. Pattern Anal. Mach. Intell.. key: journals/pami/MateiSSTKHH06
+
+Independent Motion Detection in 3D Scenes.
+Harpreet S. Sawhney,Yanlin Guo,Rakesh Kumar
+2000. article: IEEE Trans. Pattern Anal. Mach. Intell.. key: journals/pami/SawhneyGK00
+
+True Multi-Image Alignment and Its Application to Mosaicing and Lens Distortion Correction.
+Harpreet S. Sawhney,Rakesh Kumar
+1999. article: IEEE Trans. Pattern Anal. Mach. Intell.. key: journals/pami/SawhneyK99
+
+Shapeme Histogram Projection and Matching for Partial Object Recognition.
+Ying Shan,Harpreet S. Sawhney,Bogdan Matei,Rakesh Kumar
+2006. article: IEEE Trans. Pattern Anal. Mach. Intell.. key: journals/pami/ShanSMK06
+
+Object Tracking with Bayesian Estimation of Dynamic Layer Representations.
+Hai Tao,Harpreet S. Sawhney,Rakesh Kumar
+2002. article: IEEE Trans. Pattern Anal. Mach. Intell.. key: journals/pami/TaoSK02
+
+Robust Object Matching for Persistent Tracking with Heterogeneous Features.
+Yanlin Guo,Steven C. Hsu,Harpreet S. Sawhney,Rakesh Kumar,Ying Shan
+2007. article: IEEE Trans. Pattern Anal. Mach. Intell.. key: journals/pami/GuoHSKS07
+
+Unsupervised Learning of Discriminative Edge Measures for Vehicle Matching between Nonoverlapping Cameras.
+Ying Shan,Harpreet S. Sawhney,Rakesh Kumar
+2008. article: IEEE Trans. Pattern Anal. Mach. Intell.. key: journals/pami/ShanSK08
+
+Introduction to the special issue on the 2005 workshop on design, analysis, and simulation of chip multiprocessors (dasCMP'05).
+Norman P. Jouppi,Rakesh Kumar,Dean M. Tullsen
+2005. article: SIGARCH Computer Architecture News. key: journals/sigarch/JouppiKT05
+
+Introduction to the special issue on the 2006 workshop on design, analysis, and simulation of chip multiprocessors: (dasCMP'06).
+Dean M. Tullsen,Rakesh Kumar,Norman P. Jouppi
+2007. article: SIGARCH Computer Architecture News. key: journals/sigarch/TullsenKJ07
+
+Servo: a programming model for many-core computing.
+Nicolas Zea,John Sartori,Rakesh Kumar
+2008. article: SIGARCH Computer Architecture News. key: journals/sigarch/ZeaSK08
+
+Introduction to the special issue on the 2007 workshop on design, analysis, and simulation of chip multiprocessors (dasCMP'07).
+Norman P. Jouppi,Rakesh Kumar,Dean M. Tullsen
+2008. article: SIGARCH Computer Architecture News. key: journals/sigarch/JouppiKT08
+
+Introduction to the special issue on the 2008 workshop on design, analysis, and simulation of chip multiprocessors (dasCMP'08).
+Norman P. Jouppi,Rakesh Kumar,Dean M. Tullsen
+2009. article: SIGARCH Computer Architecture News. key: journals/sigarch/JouppiKT09
+
+Two optimal peer selection problems.
+Micah Adler,Rakesh Kumar,Keith W. Ross,Dan Rubenstein,David A. Turner,David D. Yao
+2004. article: SIGMETRICS Performance Evaluation Review. key: journals/sigmetrics/AdlerKRRTY04
+
+Validation of an Optical Flow Method for Tag Displacement Estimation.
+Lawrence Dougherty,Jane C. Asmuth,Aaron S. Blom,Leon Axel,Rakesh Kumar
+1999. article: IEEE Trans. Med. Imaging. key: journals/tmi/DoughertyABAK99
+
+Effect of test condition and stress free temperature on the electromigration failure of Cu dual damascene submicron interconnect line-via test structures.
+Arijit Roy,Cher Ming Tan,Rakesh Kumar,Xian Tong Chen
+2005. article: Microelectronics Reliability. key: journals/mr/RoyTKC05
+
+Enhancement of adhesion strength of Cu layer with low dielectric constant SiC: H liners in Cu interconnects.
+Grace Wang,S. Balakumar,S. C. Hwee,Rakesh Kumar,T. Hara
+2005. article: Microelectronics Journal. key: journals/mj/WangBHKH05
+
+Placement of scattering bars in binary and attenuated phase shift mask for damascene trench patterning.
+Sohan Singh Mehta,Navab Singh,Moitreyee Mukherjee-Roy,Rakesh Kumar
+2004. article: Microelectronics Journal. key: journals/mj/MehtaSMK04
+
+Resist pattern peeling assessment in DUV chemically amplified resist.
+Sohan Singh Mehta,Sun Hai Qin,Moitreyee Mukherjee-Roy,Navab Singh,Rakesh Kumar
+2004. article: Microelectronics Journal. key: journals/mj/MehtaQMSK04
+
+A method for deep etching in dielectric films for 3D-chip and photonics applications.
+B. Ramana Murthy,Rakesh Kumar
+2004. article: Microelectronics Journal. key: journals/mj/MurthyK04
+
+Digital-analog hybrid control model for eukaryotic heat shock response illustrating the dynamics of heat shock protein 70 on exposure to thermal stress.
+Anjana Dwivedi,Bhuwan Mohan Karan,Barda Nand Das,Rakesh Kumar Sinha
+2008. article: Computer Methods and Programs in Biomedicine. key: journals/cmpb/DwivediKDS08
+
+Study of Topological Property of Interconnection Networks and its Mapping to Sparse Matrix Model.
+Rakesh Kumar Katare,N. S. Chaudhari
+2009. article: IJCSA. key: journals/ijcsa/KatareC09
+
+A Review of Quality of Service (QoS) Route Provisioning in Mobile Ad Hoc Networks.
+Rakesh Kumar,Manoj Misra,Anil Kumar Sarje
+2007. article: JDIM. key: journals/jdim/KumarMS07
+
+A more elaborative way to check codon quality: an open source program.
+Rakesh Kumar Shardiwal,S. S. Sohrab
+2010. article: IJBRA. key: journals/ijbra/ShardiwalS10
+
+Prediction of Heat-Illness Symptoms with the Prediction of Human Vascular Response in Hot Environment Under Resting Condition.
+Yogender Aggarwal,Bhuwan Mohan Karan,Barda Nand Das,Rakesh Kumar Sinha
+2008. article: J. Medical Systems. key: journals/jms/AggarwalKDS08
+
+Computer Simulation of Heat Transfer in Different Tissue Layers of Body Extremities Under Heat Stress in Deep Anesthetic Condition.
+Yogender Aggarwal,Bhuwan Mohan Karan,Barda Nand Das,Rakesh Kumar Sinha
+2008. article: J. Medical Systems. key: journals/jms/AggarwalKDS08a
+
+Artificial Neural Network and Wavelet Based Automated Detection of Sleep Spindles, REM Sleep and Wake States.
+Rakesh Kumar Sinha
+2008. article: J. Medical Systems. key: journals/jms/Sinha08
+
+Epileptic Spike Recognition in Electroencephalogram Using Deterministic Finite Automata.
+Anup Kumar Keshri,Rakesh Kumar Sinha,Rajesh Hatwal,Barda Nand Das
+2009. article: J. Medical Systems. key: journals/jms/KeshriSHD09
+
+Backpropagation Artificial Neural Network Classifier to Detect Changes in Heart Sound due to Mitral Valve Regurgitation.
+Rakesh Kumar Sinha,Yogender Aggarwal,Barda Nand Das
+2007. article: J. Medical Systems. key: journals/jms/SinhaAD07a
+
+Backpropagation Artificial Neural Network Detects Changes in Electro-Encephalogram Power Spectra of Syncopic Patients.
+Rakesh Kumar Sinha,Yogender Aggarwal,Barda Nand Das
+2007. article: J. Medical Systems. key: journals/jms/SinhaAD07
+
+Backpropagation ANN-Based Prediction of Exertional Heat Illness.
+Yogender Aggarwal,Bhuwan Mohan Karan,Barda Nand Das,Tarana Aggarwal,Rakesh Kumar Sinha
+2007. article: J. Medical Systems. key: journals/jms/AggarwalKDAS07

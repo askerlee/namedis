@@ -1,0 +1,144 @@
+5 clusters.
+
+Cluster 0, 16 papers:	yin's cluster 0
+Image Denoising via Lossy Compression and Wavelet Thresholding
+s. grace chang, bin yu, martin vetterli
+1997. ICIP. key: conf/icip/ChangYV97
+Spatially Adaptive Wavelet Thresholding with Context Modeling for Image Denoising
+s. grace chang, bin yu, martin vetterli
+1998. ICIP. key: conf/icip/ChangYV98
+Multiple Copy Image Denoising via Wavelet Thresholding
+s. grace chang, bin yu, martin vetterli
+1998. ICIP. key: conf/icip/ChangYV98a
+Spatially adaptive wavelet thresholding with context modeling for image denoising
+s. grace chang, bin yu, martin vetterli
+2000. IEEE Transactions on Image Processing. key: journals/tip/ChangYV00
+Adaptive wavelet thresholding for image denoising and compression
+s. grace chang, bin yu, martin vetterli
+2000. IEEE Transactions on Image Processing. key: journals/tip/ChangYV00a
+Wavelet thresholding for multiple noisy image copies
+s. grace chang, bin yu, martin vetterli
+2000. IEEE Transactions on Image Processing. key: journals/tip/ChangYV00b
+Compression of cDNA and inkjet microarray images
+rebecka jornsten, bin yu, wei wang, kannan ramchandran
+2002. ICIP. key: conf/icip/JornstenYWR02
+Simultaneous Gene Clustering and Subset Selection for Sample Classification Via MDL
+rebecka jornsten, bin yu
+2003. Bioinformatics. key: journals/bioinformatics/JornstenY03
+The Minimum Description Length Principle in Coding and Modeling
+andrew r. barron, jorma rissanen, bin yu
+1998. IEEE Transactions on Information Theory. key: journals/tit/BarronRY98
+Density estimation by stochastic complexity
+jorma rissanen, terry p. speed, bin yu
+1992. IEEE Transactions on Information Theory. key: journals/tit/RissanenSY92
+A rate of convergence result for a universal D-semifaithful code
+bin yu, terry p. speed
+1993. IEEE Transactions on Information Theory. key: journals/tit/YuS93
+Pseudo Likelihood Estimation in Network Tomography
+gang liang, bin yu
+2003. INFOCOM. key: conf/infocom/LiangY03
+Image subband coding using context-based classification and adaptive quantization
+youngjun yoo, antonio ortega, bin yu
+1999. IEEE Transactions on Image Processing. key: journals/tip/YooOY99
+Wavelet thresholding via MDL for natural images
+mark hansen, bin yu
+2000. IEEE Transactions on Information Theory. key: journals/tit/HansenY00
+Iterated logarithmic expansions of the pathwise code lengths for exponential families
+lei li, bin yu
+2000. IEEE Transactions on Information Theory. key: journals/tit/LiY00
+Lower Bounds on Expected Redundancy for Nonparametric Classes
+bin yu
+1996. IEEE Transactions on Information Theory. key: journals/tit/Yu96
+
+Cluster 1, 13 papers:	(postdoc at CMU, PhD from NCSU)
+Incentive Mechanisms for Peer-to-Peer Systems
+bin yu, munindar p. singh
+2003. AP2PC. key: conf/ap2pc/YuS03
+Emergence of agent-based referral networks
+bin yu, munindar p. singh
+2002. AAMAS. key: conf/atal/YuS02
+Searching social networks
+bin yu, munindar p. singh
+2003. AAMAS. key: conf/atal/YuS03
+A Dynamic Pricing Mechanisms for P2P Referral Systems
+bin yu, cuihong li, munindar p. singh, katia p. sycara
+2004. AAMAS. key: conf/atal/YuLSS04
+An integrated token-based algorithm for scalable coordination
+yang xu, paul scerri, bin yu, steven okamoto, michael lewis, katia p. sycara
+2005. AAMAS. key: conf/atal/XuSYOLS05
+An evidential model of distributed reputation management
+bin yu, munindar p. singh
+2002. AAMAS. key: conf/atal/YuS02a
+Detecting deception in reputation management
+bin yu, munindar p. singh
+2003. AAMAS. key: conf/atal/YuS03a
+A Social Mechanism of Reputation Management in Electronic Communities
+bin yu, munindar p. singh
+2000. CIA. key: conf/cia/YuS00
+An agent-based approach to knowledge management
+bin yu, munindar p. singh
+2002. CIKM. key: conf/cikm/YuS02
+Trust and Reputation Management in a Small-World Network
+mahadevan venkatraman, bin yu, munindar p. singh
+2000. ICMAS. key: conf/icmas/VenkatramanYS00
+An Adaptive Social Network for Information Access: Theoretical and Experimental Results
+bin yu, mahadevan venkatraman, munindar p. singh
+2003. Applied Artificial Intelligence. key: journals/aai/YuVS03
+Community-based service location
+munindar p. singh, bin yu, mahadevan venkatraman
+2001. Commun. ACM. key: journals/cacm/SinghYV01
+Distributed Reputation Management for Electronic Commerce
+bin yu, munindar p. singh
+2002. Computational Intelligence. key: journals/ci/YuS02
+
+Cluster 2, 7 papers:	(MSU)
+Page Segmentation Using Document Model
+anil k. jain, bin yu
+1997. ICDAR. key: conf/icdar/JainY97
+Lane Boundary Detection Using a Multiresolution Hough Transform
+bin yu, anil k. jain
+1997. ICIP. key: conf/icip/YuJ97
+Document Representation and Its Application to Page Decomposition
+anil k. jain, bin yu
+1998. IEEE Trans. Pattern Anal. Mach. Intell.. key: journals/pami/JainY98
+A Generic System for Form Dropout
+bin yu, anil k. jain
+1996. IEEE Trans. Pattern Anal. Mach. Intell.. key: journals/pami/YuJ96
+Automatic text location in images and video frames
+anil k. jain, bin yu
+1998. Pattern Recognition. key: journals/pr/JainY98
+A robust and fast skew detection algorithm for generic documents
+bin yu, anil k. jain
+1996. Pattern Recognition. key: journals/pr/YuJ96
+A more efficient branch and bound algorithm for feature selection
+bin yu, baozong yuan
+1993. Pattern Recognition. key: journals/pr/YuY93
+
+Cluster 3, 6 papers:	(CS UIUC)
+SpiderNet: An Integrated Peer-to-Peer Service Composition Framework
+xiaohui gu, klara nahrstedt, bin yu
+2004. HPDC. key: conf/hpdc/GuNY04
+A scalable overlay video mixing service model
+bin yu, klara nahrstedt
+2003. ACM Multimedia. key: conf/mm/YuN03
+Video summarization based on user log enhanced link analysis
+bin yu, weiying ma, klara nahrstedt, hongjiang zhang
+2003. ACM Multimedia. key: conf/mm/YuMNZ03
+A Realtime Software Solution for Resynchronizing Filtered MPEG2 Transport Stream
+bin yu, klara nahrstedt
+2002. ISMSE. key: conf/mse/YuN02
+Internet-based interactive HDTV
+bin yu, klara nahrstedt
+2004. Multimedia Syst.. key: journals/mms/YuN04
+Intelligent Online BGP-4 Analyzer
+yixin zhao, jianping wu, bin yu
+2000. MASCOTS. key: conf/mascots/ZhaoWY00
+
+Cluster 4, 2 papers:	(Dalian U of Tech)
+Application of PGA on Optimization of Distribution of Shopping Centers
+bin yu, chuntian cheng, zhongzheng yang, kwok-wing chau
+2005. AI*IA. key: conf/aiia/YuCYC05
+Multi-step-ahead Prediction Based on B-Spline Interpolation and Adaptive Time-Delay Neural Network
+jingxin xie, chuntian cheng, bin yu, qingrui zhang
+2005. ICANN. key: conf/icann/XieCYZ05
+

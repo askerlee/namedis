@@ -1,0 +1,211 @@
+A Dynamic Clustering Algorithm Based on Small Data Set.
+Tao Peng,Minghua Jiang,Ming Hu
+2009. inproceedings: CGIV. key: conf/IEEEcgiv/PengJH09
+
+Detecting Distributed Denial of Service Attacks by Sharing Distributed Beliefs.
+Tao Peng,Christopher Leckie,Kotagiri Ramamohanarao
+2003. inproceedings: ACISP. key: conf/acisp/PengLR03
+
+Focused Crawling Guided by Link Context.
+Jingru Dong,Wanli Zuo,Tao Peng
+2006. inproceedings: Artificial Intelligence and Applications. key: conf/aia/DongZP06
+
+Effect of H-ARQ on Packet Call Throughput in UTRA TDD HSDPA.
+Tao Peng,Mugen Peng,Wei Chao,Wenbo Wang
+2002. inproceedings: CDMA International Conference. key: conf/cdma/TaoMCW02
+
+Fuzzy Reliability Analysis of a Multi-sensor Fusion System.
+Minghua Jiang,Ming Hu,Tao Peng,Yixiang Ding
+2008. inproceedings: FSKD (3). key: conf/fskd/JiangHPD08
+
+A Mixed Reality-Based Assembly Verification and Training Platform.
+Shiqi Li,Tao Peng,Chi Xu,Yan Fu,Yang Liu
+2009. inproceedings: HCI (13). key: conf/hci/LiPXFL09
+
+The Curse of Ease of Access to the Internet.
+Kotagiri Ramamohanarao,Kapil Kumar Gupta,Tao Peng,Christopher Leckie
+2007. inproceedings: ICISS. key: conf/iciss/RamamohanaraoGPL07
+
+Characterization of Evaluation Metrics in Topical Web Crawling Based on Genetic Algorithm.
+Tao Peng,Wanli Zuo,Yilin Liu
+2005. inproceedings: ICNC (2). key: conf/icnc/PengZL05
+
+Deformation-based nonlinear dimension reduction: Applications to nuclear morphometry.
+Gustavo K. Rohde,Wei Wang,Tao Peng,Robert F. Murphy
+2008. inproceedings: ISBI. key: conf/isbi/RohdeWPM08
+
+Instance-Based Generative Biological Shape Modeling.
+Tao Peng,Wei Wang,Gustavo K. Rohde,Robert F. Murphy
+2009. inproceedings: ISBI. key: conf/isbi/PengWRM09
+
+Adaptive Topical Web Crawling for Domain-Specific Resource Discovery Guided by Link-Context.
+Tao Peng,Fengling He,Wanli Zuo,Changli Zhang
+2006. inproceedings: MICAI. key: conf/micai/PengHZZ06
+
+A New PU Learning Algorithm for Text Classification.
+Hailong Yu,Wanli Zuo,Tao Peng
+2005. inproceedings: MICAI. key: conf/micai/YuZP05
+
+Adjusted Probabilistic Packet Marking for IP Traceback.
+Tao Peng,Christopher Leckie,Kotagiri Ramamohanarao
+2002. inproceedings: NETWORKING. key: conf/networking/PengLR02
+
+Proactively Detecting Distributed Denial of Service Attacks Using Source IP Address Monitoring.
+Tao Peng,Christopher Leckie,Kotagiri Ramamohanarao
+2004. inproceedings: NETWORKING. key: conf/networking/PengLR04
+
+Exploiting Traffic Localities for Efficient Flow State Lookup.
+Tao Peng,Christopher Leckie,Kotagiri Ramamohanarao
+2005. inproceedings: NETWORKING. key: conf/networking/PengLR05
+
+Requirements Discovery Based on RGPS Using Evolutionary Algorithm.
+Tao Peng,Bing Li,Weifeng Pan,Zaiwen Feng
+2009. inproceedings: SEKE. key: conf/seke/PengLPF09
+
+Research of the model about the application of granular computing in data fusion system.
+Juan Jiang,Hong Ding,Tao Peng
+2006. inproceedings: GrC. key: conf/grc/JiangDP06
+
+Noncooperative Power Control Game with Exponential Pricing for Cognitive Radio Network.
+Wei Wang,Yilin Cui,Tao Peng,Wenbo Wang
+2007. inproceedings: VTC Spring. key: conf/vtc/WangCPW07
+
+Cooperative Spectrum Sensing with Cluster-Based Architecture in Cognitive Radio Networks.
+Chen Guo,Tao Peng,Shaoyi Xu,Haiming Wang,Wenbo Wang
+2009. inproceedings: VTC Spring. key: conf/vtc/GuoPXWW09
+
+Effective Labeled Time Slots Based D2D Transmission in Cellular Downlink Spectrums.
+Shaoyi Xu,Haiming Wang,Tao Peng,Qing Huang
+2010. inproceedings: VTC Spring. key: conf/vtc/XuWPH10
+
+Effective Interference Cancellation Scheme for Device-to-Device Communication Underlaying Cellular Networks.
+Shaoyi Xu,Haiming Wang,Tao Chen,Qing Huang,Tao Peng
+2010. inproceedings: VTC Fall. key: conf/vtc/XuWCHP10
+
+Doppler Spread Estimation by Subspace Tracking for OFDM Systems.
+Xiaochuan Zhao,Tao Peng,Ming Yang,Wenbo Wang
+2008. inproceedings: GLOBECOM. key: conf/globecom/ZhaoPYW08
+
+Asynchronous Distributed Power Control under Interference Temperature Constraints.
+Qianxi Lu,Wenbo Wang,Wei Wang,Tao Peng
+2008. inproceedings: GLOBECOM. key: conf/globecom/LuWWP08
+
+Optimal Route Selection and Resource Allocation in Multi-Hop Cognitive Radio Networks.
+Qianxi Lu,Tao Peng,Wei Wang,Wenbo Wang,Chao Hu
+2009. inproceedings: GLOBECOM. key: conf/globecom/LuPWWH09
+
+Occlusion Handling in Augmented Reality System for Human-Assisted Assembly Task.
+Chi Xu,Shiqi Li,Junfeng Wang,Tao Peng,Ming Xie
+2008. inproceedings: ICIRA (2). key: conf/icira/XuLWPX08
+
+CPU-based DoS attacks against SIP servers.
+Ming Luo,Tao Peng,Christopher Leckie
+2008. inproceedings: NOMS. key: conf/noms/LuoPL08
+
+Adaptive channel searching scheme for cooperative spectrum sensing in cognitive radio networks.
+Chen Guo,Tao Peng,Yuan Qi,Wenbo Wang
+2009. inproceedings: WCNC. key: conf/wcnc/GuoPQW09
+
+Optimal subcarrier and power allocation under interference temperature constraints.
+Qianxi Lu,Tao Peng,Wei Wang,Wenbo Wang
+2009. inproceedings: WCNC. key: conf/wcnc/LuPWW09
+
+Increase the end-to-end throughput of a cognitive radio chain by considering the primary usage pattern and transmission scheduling.
+Guang Lei,Chunjing Hu,Wei Wang,Tao Peng,Wenbo Wang
+2009. inproceedings: WCNC. key: conf/wcnc/LeiHWPW09
+
+Joint power and rate control considering fairness for cognitive radio network.
+Yajun Zhu,Zhenqiang Sun,Wei Wang,Tao Peng,Wenbo Wang
+2009. inproceedings: WCNC. key: conf/wcnc/ZhuSWPW09
+
+Parametric channel estimation by exploiting hopping pilots in uplink OFDMA.
+Xiaochuan Zhao,Tao Peng,Wenbo Wang
+2008. inproceedings: PIMRC. key: conf/pimrc/ZhaoPW08
+
+A parity space approach to fault detection for networked control system via optimal measurement selection.
+Tao Peng,Steven X. Ding,Weihua Gui,Jie Chen
+2009. inproceedings: CDC. key: conf/cdc/PengDGC09
+
+A Novel Method for Mining SaaS Software Tag via Community Detection in Software Services Network.
+Li Qin,Bing Li,Weifeng Pan,Tao Peng
+2009. inproceedings: CloudCom. key: conf/cloudcom/QinLPP09
+
+Data Reduction for Network Forensics Using Manifold Learning.
+Tao Peng,Xiaosu Chen,Huiyu Liu,Kai Chen
+2010. inproceedings: DBTA. key: conf/dbta/PengCLC10
+
+Privacy Protecting in E-business Using Reasoning.
+Tao Peng,Minghua Jiang,Ming Hu
+2009. inproceedings: SSME. key: conf/ssme/PengJH09a
+
+Updating the Dynamic Fuzzy Sets Based on Immune Evolutionary.
+Tao Peng,Minghua Jiang,Ming Hu
+2009. inproceedings: SSME. key: conf/ssme/PengJH09
+
+Deriving Link Context through Dependency Analysis.
+Tao Jing,Tao Peng,Wanli Zuo
+2009. inproceedings: ICETC. key: conf/icetc/JingPZ09
+
+Quantifying the distribution of probes between subcellular locations using unsupervised pattern unmixing.
+Luis Pedro Coelho,Tao Peng,Robert F. Murphy
+2010. article: Bioinformatics [ISMB]. key: journals/bioinformatics/CoelhoPM10
+
+Tunneling enhanced by web page content block partition for focused crawling.
+Tao Peng,Changli Zhang,Wanli Zuo
+2008. article: Concurrency and Computation: Practice and Experience. key: journals/concurrency/PengZZ08
+
+Tunneling enhanced by web page content block partition for focused crawling.
+Tao Peng,Changli Zhang,Wanli Zuo
+2010. article: Concurrency and Computation: Practice and Experience. key: journals/concurrency/PengZZ10
+
+Parametric Channel Estimation by Exploiting Hopping Pilots in Uplink OFDMA
+Xiaochuan Zhao,Tao Peng,Wenbo Wang
+2008. article: CoRR. key: journals/corr/abs-0811-0417
+
+Doppler Spread Estimation by Subspace Tracking for OFDM Systems
+Xiaochuan Zhao,Tao Peng,Ming Yang,Wenbo Wang
+2008. article: CoRR. key: journals/corr/abs-0811-0419
+
+An Analysis of the Bias-Property of the Sample Auto-Correlation Matrices of Doubly Selective Fading Channels for OFDM Systems
+Xiaochuan Zhao,Tao Peng,Ming Yang,Wenbo Wang
+2008. article: CoRR. key: journals/corr/abs-0811-0430
+
+On the Cramer-Rao Lower Bound for Frequency Correlation Matrices of Doubly Selective Fading Channels for OFDM Systems
+Xiaochuan Zhao,Ming Yang,Tao Peng,Wenbo Wang
+2008. article: CoRR. key: journals/corr/abs-0811-0431
+
+On the Cramer-Rao Lower Bound for Spatial Correlation Matrices of Doubly Selective Fading Channels for MIMO OFDM Systems
+Xiaochuan Zhao,Tao Peng,Ming Yang,Wenbo Wang
+2008. article: CoRR. key: journals/corr/abs-0811-0433
+
+Doppler Spread Estimation by Tracking the Delay-Subspace for OFDM Systems in Doubly Selective Fading Channels
+Xiaochuan Zhao,Tao Peng,Ming Yang,Wenbo Wang
+2008. article: CoRR. key: journals/corr/abs-0811-0452
+
+Survey of network-based defense mechanisms countering the DoS and DDoS problems.
+Tao Peng,Christopher Leckie,Kotagiri Ramamohanarao
+2007. article: ACM Comput. Surv.. key: journals/csur/PengLR07
+
+3D-QSAR and Receptor Modeling of Tyrosine Kinase Inhibitors with Flexible Atom Receptor Model (FLARM).
+Tao Peng,Jianfeng Pei,Jiaju Zhou
+2003. article: Journal of Chemical Information and Computer Sciences. key: journals/jcisd/PengPZ03
+
+SVM based adaptive learning method for text classification from positive and unlabeled documents.
+Tao Peng,Wanli Zuo,Fengling He
+2008. article: Knowl. Inf. Syst.. key: journals/kais/PengZH08
+
+An uplink resource allocation scheme for OFDMA-based cognitive radio networks.
+Wei Wang,Wenbo Wang,Qianxi Lu,Tao Peng
+2009. article: Int. J. Communication Systems. key: journals/ijcomsys/WangWLP09
+
+Utility-based resource allocation in uplink of OFDMA-based cognitive radio networks.
+Qianxi Lu,Tao Peng,Wei Wang,Wenbo Wang,Chao Hu
+2010. article: Int. J. Communication Systems. key: journals/ijcomsys/LuPWWH10
+
+Information sharing for distributed intrusion detection systems.
+Tao Peng,Christopher Leckie,Kotagiri Ramamohanarao
+2007. article: J. Network and Computer Applications. key: journals/jnca/PengLR07
+
+Geometry-based optimal power control of fading multiple access channels for maximum sum-rate in cognitive radio networks.
+Wei Wang,Wenbo Wang,Qianxi Lu,Kang G. Shin,Tao Peng
+2010. article: IEEE Transactions on Wireless Communications. key: journals/twc/WangWLSP10

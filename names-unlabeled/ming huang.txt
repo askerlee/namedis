@@ -1,0 +1,31 @@
+A Case Study on Research Assistant System From Knowledge Management Perspective.
+Jin Yang,Ming Huang
+2004. inproceedings: CELDA. key: conf/iadis/YangH04
+
+QoS Multicast Routing Design using Neural Network.
+Ming Huang,Shang Ming Zhu
+2008. inproceedings: ICINCO-SPSMC. key: conf/icinco/HuangZ08
+
+Some Improvements for More Precise Model Checking.
+Zhi Zhang,Qingkai Zeng,Ming Huang
+2010. inproceedings: SEKE. key: conf/seke/ZhangZH10
+
+Towards a Structured Model for Software Vulnerabilities.
+Ming Huang,Yisha Lu,Qingkai Zeng
+2010. inproceedings: SEKE. key: conf/seke/HuangLZ10
+
+Call admission control with Soft-QoS based spectrum handoff in cognitive radio networks.
+Ming Huang,Rong Yu,Yan Zhang
+2009. inproceedings: IWCMC. key: conf/iwcmc/HuangYZ09
+
+An Improved Density-based Spatial Clustering Algorithm Based on Key Factors of Object's Distribution.
+Ming Huang,Fuling Bian
+2009. inproceedings: JCAI. key: conf/jcai/HuangB09
+
+Cross-Layer Optimized Call Admission Control in Cognitive Radio Networks.
+Rong Yu,Yan Zhang,Ming Huang,Shengli Xie
+2010. article: MONET. key: journals/monet/YuZHX10
+
+Dynamic Integrated Algorithm for Production Scheduling Based on Iterative Search.
+Cunli Song,Xiaobing Liu,Wei Wang,Ming Huang
+2010. article: JCIT. key: journals/jcit/SongLWH10

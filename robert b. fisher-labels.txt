@@ -1,0 +1,422 @@
+45 clusters.
+
+Cluster 2, 35 papers:	University of Edinburgh
+Preserving Shape at Boundaries in Diffusion Smoothing.
+emanuele trucco, robert b. fisher
+1992. IMA Conference on the Mathematics of Surfaces. key: conf/ima-ms/TruccoF92
+Lack-of-fit Detection using the Run-distribution Test.
+andrew w. fitzgibbon, robert b. fisher
+1994. ECCV. key: conf/eccv/FitzgibbonF94
+Acquisition of Consistent Range Data Using Local Calibration.
+emanuele trucco, robert b. fisher
+1994. ICRA. key: conf/icra/TruccoF94
+Experiments in Curvature-Based Segmentation of Range Data.
+emanuele trucco, robert b. fisher
+1995. IEEE Trans. Pattern Anal. Mach. Intell.. key: journals/pami/TruccoF95
+Training PDMs on Models: The Case of Deformable Superellipses.
+maurizio pilu, andrew w. fitzgibbon, robert b. fisher
+1996. BMVC. key: conf/bmvc/PiluFF96
+Part Segmentation from 2D Edge Images by the MDL Criterion.
+maurizio pilu, robert b. fisher
+1996. BMVC. key: conf/bmvc/PiluF96
+Recognition of Geons by Parametric Deformable Contour Models.
+maurizio pilu, robert b. fisher
+1996. ECCV. key: conf/eccv/PiluF96
+Beyond the Hough Transform: Further Properties of the R-theta Mapping and Their Applications.
+m. wright, andrew w. fitzgibbon, peter j. giblin, robert b. fisher
+1996. Object Representation in Computer Vision. key: conf/eccv/WrightFGF96
+Convex hulls, occluding contours, aspect graphs and the Hough transform.
+m. wright, andrew w. fitzgibbon, peter j. giblin, robert b. fisher
+1996. Image Vision Comput.. key: journals/ivc/WrightFGF96
+An Experimental Comparison of Range Image Segmentation Algorithms.
+adam hoover, gillian jean-baptiste, xiaoyi jiang, patrick j. flynn, horst bunke, dmitry b. goldgof, kevin w. bowyer, david w. eggert, andrew w. fitzgibbon, robert b. fisher
+1996. IEEE Trans. Pattern Anal. Mach. Intell.. key: journals/pami/HooverJJFBGBEFF96
+Constructing Models of Articulating Objects: Range Data Partitioning.
+anthony ashbrook, robert b. fisher
+1997. 3DIM. key: conf/3dim/AshbrookF97
+Segmentation of Range Data into Rigid Subsets using Planar Surface Patches.
+anthony ashbrook, robert b. fisher, craig robertson, naoufel werghi
+1997. BMVC. key: conf/bmvc/AshbrookFRW97
+Improving model shape acquisition by incorporating geometric constraints.
+naoufel werghi, robert b. fisher, anthony ashbrook, craig robertson
+1997. BMVC. key: conf/bmvc/WerghiFAR97
+Extracting Surface Patches from Complete Range Descriptions.
+robert b. fisher, andrew w. fitzgibbon, david w. eggert
+1997. 3DIM. key: conf/3dim/FisherFE97
+High-level model acquisition from range images.
+andrew w. fitzgibbon, david w. eggert, robert b. fisher
+1997. Computer-Aided Design. key: journals/cad/FitzgibbonEF97
+Part segmentation from 2D edge images by the MDL criterion.
+maurizio pilu, robert b. fisher
+1997. Image Vision Comput.. key: journals/ivc/PiluF97
+Estimating 3-D rigid body transformations: a comparison of four major algorithms.
+david w. eggert, adele lorusso, robert b. fisher
+1997. Mach. Vis. Appl.. key: journals/mva/EggertLF97
+Model-driven grouping and recognition of generic object parts from single images.
+maurizio pilu, robert b. fisher
+1997. Robotics and Autonomous Systems. key: journals/ras/PiluF97
+Finding Surface Correspondance for Object Recognition and Registration Using Pairwise Geometric Histograms.
+anthony ashbrook, robert b. fisher, craig robertson, naoufel werghi
+1998. ECCV. key: conf/eccv/AshbrookFRW98
+Modelling Objects having Quadric Surfaces Incorporating Geometric cCnstraints.
+naoufel werghi, robert b. fisher, craig robertson, anthony ashbrook
+1998. ECCV. key: conf/eccv/WerghiFRA98
+Segmentation of Range Data into Rigid Subsets Using Surface Patches.
+anthony ashbrook, robert b. fisher
+1998. ICCV. key: conf/iccv/AshbrookF98
+Simultaneous Registration of Multiple Range Views for Use in Reverse Engineering of CAD Models.
+david w. eggert, andrew w. fitzgibbon, robert b. fisher
+1998. Computer Vision and Image Understanding. key: journals/cviu/EggertFF98
+A Low-Cost Range Finder Using a Visually Located, Structured Light Source.
+robert b. fisher, anthony ashbrook, craig robertson, naoufel werghi
+1999. 3DIM. key: conf/3dim/FisherARW99
+Faithful Recovering of Quadric Surfaces from 3D Range Data.
+naoufel werghi, anthony ashbrook, robert b. fisher, craig robertson
+1999. 3DIM. key: conf/3dim/WerghiAFR99
+Construction of Articulated Models from Range Data.
+anthony ashbrook, robert b. fisher, naoufel werghi, craig robertson
+1999. BMVC. key: conf/bmvc/AshbrookFWR99
+Improving Second-order Surface Estimation.
+naoufel werghi, robert b. fisher, anthony ashbrook, craig robertson
+1999. BMVC. key: conf/bmvc/WerghiFAR99
+An Evolutionary Approach to Fitting Constrained Degenrate Second Order Surfaces.
+craig robertson, robert b. fisher, naoufel werghi, anthony ashbrook
+1999. EvoWorkshops. key: conf/evoW/RobertsonFWA99
+Object reconstruction by incorporating geometric constraints in reverse engineering.
+naoufel werghi, robert b. fisher, craig robertson, anthony ashbrook
+1999. Computer-Aided Design. key: journals/cad/WerghiFRA99
+Direct Least Square Fitting of Ellipses.
+andrew w. fitzgibbon, maurizio pilu, robert b. fisher
+1999. IEEE Trans. Pattern Anal. Mach. Intell.. key: journals/pami/FitzgibbonPF99
+Training PDMs on models: The case of deformable superellipses.
+maurizio pilu, robert b. fisher
+1999. Pattern Recognition Letters. key: journals/prl/PiluF99
+Shape Recovery and Analysis of Large Screw Threads.
+craig robertson, robert b. fisher
+2001. 3DIM. key: conf/3dim/RobertsonF01
+Empirical Calibration Method for Adding Colour to Range Images.
+craig robertson, robert b. fisher
+2002. 3DPVT. key: conf/3dpvt/RobertsonF02
+Shape Reconstruction Incorporating Multiple Nonlinear Geometric Constraints.
+naoufel werghi, robert b. fisher, anthony ashbrook, craig robertson
+2002. Constraints. key: journals/constraints/WerghiFAR02
+Parallel Evolutionary Registration of Range Data.
+craig robertson, robert b. fisher
+2002. Computer Vision and Image Understanding. key: journals/cviu/RobertsonF02
+Dictionary of Computer Vision and Image Processing.
+robert b. fisher, ken dawson-howe, andrew w. fitzgibbon, craig robertson, emanuele trucco, jiebo luo
+2006. J. Electronic Imaging. key: journals/jei/FisherHFRTL06
+
+Cluster 10, 7 papers:	University of Edinburgh
+Structural Learning from Iconic Representations.
+herman martins gomes, robert b. fisher
+2000. IBERAMIA-SBIA. key: conf/sbia/GomesF00
+Learning and Extracting Primal-Sketch Features in a Log-Polar Image Representation.
+herman martins gomes, robert b. fisher
+2001. SIBGRAPI. key: conf/sibgrapi/GomesF01
+Hierarchical Selectivity for Object-Based Visual Attention.
+yaoru sun, robert b. fisher
+2002. Biologically Motivated Computer Vision. key: conf/bmcv/SunF02
+Object-based visual attention for computer vision.
+yaoru sun, robert b. fisher
+2003. Artif. Intell.. key: journals/ai/SunF03
+Learning-Based versus Model-Based Log-Polar Feature Extraction Operators: A Comparative Study.
+herman martins gomes, robert b. fisher
+2003. SIBGRAPI. key: conf/sibgrapi/GomesF03
+Primal sketch feature extraction from a log-polar image.
+herman martins gomes, robert b. fisher
+2003. Pattern Recognition Letters. key: journals/prl/GomesF03
+A computer vision model for visual-object-based attention and eye movements.
+yaoru sun, robert b. fisher, fang wang, herman martins gomes
+2008. Computer Vision and Image Understanding. key: journals/cviu/SunFWG08
+
+Cluster 3, 5 papers:	University of Edinburgh
+Environment Authentication Through 3D Structural Analysis.
+toby p. breckon, robert b. fisher
+2004. ICIAR. key: conf/iciar/BreckonF04
+Non-Parametric 3D Surface Completion.
+toby p. breckon, robert b. fisher
+2005. 3DIM. key: conf/3dim/BreckonF05
+Plausible 3D Colour Surface Completion Using Non-parametric Techniques.
+toby p. breckon, robert b. fisher
+2005. IMA Conference on the Mathematics of Surfaces. key: conf/ima-ms/BreckonF05
+Amodal volume completion: 3D visual completion.
+toby p. breckon, robert b. fisher
+2005. Computer Vision and Image Understanding. key: journals/cviu/BreckonF05
+Three-Dimensional Surface Relief Completion Via Nonparametric Techniques.
+toby p. breckon, robert b. fisher
+2008. IEEE Trans. Pattern Anal. Mach. Intell.. key: journals/pami/BreckonF08
+
+Cluster 22, 4 papers:	University of Edinburgh
+Geometric reasoning for computer vision.
+mark j. l. orr, robert b. fisher
+1987. Image Vision Comput.. key: journals/ivc/OrrF87
+Solving geometric constraints in a parallel network.
+robert b. fisher, mark j. l. orr
+1988. Image Vision Comput.. key: journals/ivc/FisherO88
+Experiments with a Network-Based Geometric Reasoning Engine.
+robert b. fisher, mark j. l. orr
+1989. IJCAI. key: conf/ijcai/FisherO89
+Fusion through Interpretation.
+mark j. l. orr, john hallam, robert b. fisher
+1992. ECCV. key: conf/eccv/OrrHF92
+
+Cluster 25, 4 papers:	University of Edinburgh
+Modelling Crowd Scenes for Event Detection.
+ernesto l. andrade, scott blunsden, robert b. fisher
+2006. ICPR. key: conf/icpr/AndradeBF06
+Hidden Markov Models for Optical Flow Analysis in Crowds.
+ernesto l. andrade, scott blunsden, robert b. fisher
+2006. ICPR. key: conf/icpr/AndradeBF06a
+Non Parametric Classification of Human Interaction.
+scott blunsden, ernesto l. andrade, robert b. fisher
+2007. IbPRIA. key: conf/ibpria/BlunsdenAF07
+Pre-fight Detection - Classification of Fighting Situations using Hierarchical AdaBoost.
+scott blunsden, robert b. fisher
+2009. VISAPP. key: conf/visapp/BlunsdenF09
+
+Cluster 1, 3 papers:	University of Edinburgh
+Colour Texture Fusion of Multiple Range Images.
+alexander agathos, robert b. fisher
+2003. 3DIM. key: conf/3dim/AgathosF03
+Fusing Multiple Color Images for Texturing Models.
+nobuyuki bannai, alexander agathos, robert b. fisher
+2004. 3DPVT. key: conf/3dpvt/BannaiAF04
+Multiple color texture map fusion for 3D models.
+nobuyuki bannai, robert b. fisher, alexander agathos
+2007. Pattern Recognition Letters. key: journals/prl/BannaiFA07
+
+Cluster 4, 3 papers:	University of Edinburgh
+Comparison of HK and SC Curvature Description Methods.
+h. cantzler, robert b. fisher
+2001. 3DIM. key: conf/3dim/CantzlerF01
+Improving architectural 3D reconstruction by plane and edge constraining.
+h. cantzler, robert b. fisher, michel devy
+2002. BMVC. key: conf/bmvc/CantzlerFD02
+Quality Enhancement of Reconstructed 3D Models Using Coplanarity and Constraints.
+h. cantzler, robert b. fisher, michel devy
+2002. DAGM-Symposium. key: conf/dagm/CantzlerFD02
+
+Cluster 13, 3 papers:	University of Edinburgh
+A Buyer's Guide to Euclidean Elliptical Cylindrical and Conical Surface Fitting.
+petko faber, robert b. fisher
+2001. BMVC. key: conf/bmvc/FaberF01
+Pros and Cons of Euclidean Fitting.
+petko faber, robert b. fisher
+2001. DAGM-Symposium. key: conf/dagm/FaberF01
+Euclidean Fitting Revisited.
+petko faber, robert b. fisher
+2001. IWVF. key: conf/iwvf/FaberF01
+
+Cluster 17, 3 papers:	University of Edinburgh
+CVML - An XML-based Computer Vision Markup Language.
+thor list, robert b. fisher
+2004. ICPR. key: conf/icpr/ListF04
+A Plug-and-Play Architecture for Cognitive Video Stream Analysis.
+thor list, jose bins, robert b. fisher, david tweed
+2005. CAMP. key: conf/camp/ListBFT05
+An Intelligent and Task-Independent Controller for Video Sequence Analysis.
+jose bins, thor list, robert b. fisher, david tweed
+2005. CAMP. key: conf/camp/BinsLFT05
+
+Cluster 23, 3 papers:	University of Edinburgh
+Depth Data Improves Skin Lesion Segmentation.
+xiang li, ben aldridge, lucia ballerini, robert b. fisher, jonathan rees
+2009. MICCAI. key: conf/miccai/LiABFR09
+A Query-by-Example Content-Based Image Retrieval System of Non-melanoma Skin Lesions.
+lucia ballerini, xiang li, robert b. fisher, jonathan rees
+2009. MCBR-CDS. key: conf/miccai/BalleriniLFR09
+Content-Based Image Retrieval of Skin Lesions by Evolutionary Feature Synthesis.
+lucia ballerini, xiang li, robert b. fisher, ben aldridge, jonathan rees
+2010. EvoApplications. key: conf/evoW/BalleriniLFAR10
+
+Cluster 6, 2 papers:	University of Edinburgh
+Reconstruction of Surfaces behind Occlusions in Range Images.
+freek stulp, fabio dell'acqua, robert b. fisher
+2001. 3DIM. key: conf/3dim/StulpDF01
+Reconstruction of Planar Surfaces Behind Occlusions in Range Images.
+fabio dell'acqua, robert b. fisher
+2002. IEEE Trans. Pattern Anal. Mach. Intell.. key: journals/pami/DellAcquaF02
+
+Cluster 9, 2 papers:	University of Edinburgh
+A Voxel Based Approach to Evolutionary Shape Optimisation.
+peter baron, robert b. fisher, andrew sherlock, frank mill, andrew tuson
+1997. Evolutionary Computing. key: conf/aisb/BaronFSMT97
+A voxel-based representation for evolutionary shape optimization.
+peter baron, robert b. fisher, andrew tuson, frank mill, andrew sherlock
+1999. AI EDAM. key: journals/aiedam/BaronFTMS99
+
+Cluster 12, 2 papers:	University of Edinburgh
+Class-based Recognition of 3D Objects Represented by Volumetric Primitives.
+dibio leandro borges, robert b. fisher
+1996. BMVC. key: conf/bmvc/BorgesF96
+Class-based recognition of 3D objects represented by volumetric primitives.
+dibio leandro borges, robert b. fisher
+1997. Image Vision Comput.. key: journals/ivc/BorgesF97
+
+Cluster 16, 2 papers:	University of Edinburgh
+A Next-Best-View Algorithm for 3D Scene Recovery with 5 Degrees of Freedom.
+jose m. sanchiz, robert b. fisher
+1999. BMVC. key: conf/bmvc/SanchizF99
+Viewpoint Estimation in Three-Dimensional Images Taken with Perspective Range Sensors.
+jose m. sanchiz, robert b. fisher
+2000. IEEE Trans. Pattern Anal. Mach. Intell.. key: journals/pami/SanchizF00
+
+Cluster 30, 2 papers:	University of Edinburgh
+Ranking planar grasp configurations for a three-finger hand.
+eris chinellato, robert b. fisher, antonio morales, angel p. del pobil
+2003. ICRA. key: conf/icra/ChinellatoFMP03
+Visual quality measures for Characterizing Planar robot grasps.
+eris chinellato, antonio morales, robert b. fisher, angel p. del pobil
+2005. IEEE Transactions on Systems. key: journals/tsmc/ChinellatoMFP05
+
+Cluster 5, 1 papers:	University of Edinburgh
+Solving architectural modelling problems using knowledge.
+robert b. fisher
+2003. 3DIM. key: conf/3dim/Fisher03
+
+Cluster 7, 1 papers:	University of Edinburgh
+Improving Environment Modelling by Edge Occlusion Surface Completion.
+umberto castellani, salvatore livatino, robert b. fisher
+2002. 3DPVT. key: conf/3dpvt/CastellaniLF02
+
+Cluster 8, 1 papers:	University of Edinburgh
+Edge-Constrained Marching Triangles.
+neil h. mccormick, robert b. fisher
+2002. 3DPVT. key: conf/3dpvt/McCormickF02
+
+Cluster 11, 1 papers:	University of Edinburgh
+Surface Reflectance Recovery under Point Light Illumination.
+robert b. fisher, aristides gionis
+1996. BMVC. key: conf/bmvc/FisherG96
+
+Cluster 14, 1 papers:	University of Edinburgh
+Attention in Iconic Object Matching.
+t. d. grove, robert b. fisher
+1996. BMVC. key: conf/bmvc/GroveF96
+
+Cluster 15, 1 papers:	University of Edinburgh
+A Best Next View Selection Algorithm Incorporating a Quality Criterion.
+nikolaos a. massios, robert b. fisher
+1998. BMVC. key: conf/bmvc/MassiosF98
+
+Cluster 18, 1 papers:	University of Edinburgh
+Reducing Viewsphere Complexity.
+robert b. fisher
+1990. ECAI. key: conf/ecai/Fisher90
+
+Cluster 19, 1 papers:	University of Edinburgh
+Self-Organization of Randomly Placed Sensors.
+robert b. fisher
+2002. ECCV. key: conf/eccv/Fisher02
+
+Cluster 20, 1 papers:	University of Edinburgh
+Performance Comparison of Ten Variations on the Interpretation-Tree Matching Algorithm.
+robert b. fisher
+1994. ECCV. key: conf/eccv/Fisher94
+
+Cluster 21, 1 papers:	University of Edinburgh
+Integrating Iconic and Structured Matching.
+robert b. fisher, a. mackirdy
+1998. ECCV. key: conf/eccv/FisherM98
+
+Cluster 24, 1 papers:	University of Edinburgh
+Applying Knowledge to Reverse Engineering Problems.
+robert b. fisher
+2002. GMP. key: conf/gmp/Fisher02
+
+Cluster 26, 1 papers:	University of Edinburgh
+Incremental One-Class Learning with Bounded Computational Complexity.
+rowland r. sillito, robert b. fisher
+2007. ICANN. key: conf/icann/SillitoF07
+
+Cluster 27, 1 papers:	University of Edinburgh
+Decomposition of range images using markov random fields.
+andreas pichler, robert b. fisher, markus vincze
+2004. ICIP. key: conf/icip/PichlerFV04
+
+Cluster 28, 1 papers:	University of Edinburgh
+Scene recovery from many randomly distributed single pixel cameras.
+robert b. fisher
+2006. ICPR. key: conf/icpr/Fisher06
+
+Cluster 29, 1 papers:	University of Edinburgh
+An Empirical Model for Saturation and Capacity in Classifier Spaces.
+robert b. fisher
+2006. ICPR. key: conf/icpr/Fisher06a
+
+Cluster 31, 1 papers:	University of Edinburgh
+Using Surfaces and Object Models to Recognize Partially Obscured Objects.
+robert b. fisher
+1983. IJCAI. key: conf/ijcai/Fisher83
+
+Cluster 32, 1 papers:	University of Edinburgh
+Model Invocation for Three Dimensional Scene Understanding.
+robert b. fisher
+1987. IJCAI. key: conf/ijcai/Fisher87
+
+Cluster 33, 1 papers:	University of Edinburgh
+Free-Form Surface Matching for Surface Inspection.
+edvaldo m. bispo, robert b. fisher
+1994. IMA Conference on the Mathematics of Surfaces. key: conf/ima-ms/BispoF94
+
+Cluster 34, 1 papers:	University of Edinburgh
+Using the ProSet-Linda Prototyping Language for Investigating MIMD Algorithms for Model Matching in 3-D Computer Vision.
+wilhelm hasselbring, robert b. fisher
+1995. IRREGULAR. key: conf/irregular/HasselbringF95
+
+Cluster 35, 1 papers:	University of Edinburgh
+Is Computer Vision Still AI? (Abstract).
+robert b. fisher
+1996. SBIA. key: conf/sbia/Fisher96
+
+Cluster 36, 1 papers:	University of Edinburgh
+Detecting, Tracking and Counting Fish in Low Quality Unconstrained Underwater Videos.
+concetto spampinato, yun-heh chen-burger, gayathri nadarajan, robert b. fisher
+2008. VISAPP. key: conf/visapp/SpampinatoCNF08
+
+Cluster 37, 1 papers:	University of Edinburgh
+Application of a High-speed Stereovision Sensor to 3D Shape Acquisition of Flying Bats.
+yijun xiao, robert b. fisher
+2010. VISAPP. key: conf/visapp/XiaoF10
+
+Cluster 38, 1 papers:	University of Edinburgh
+Is Computer Vision Still AI?
+robert b. fisher
+1994. AI Magazine. key: journals/aim/Fisher94
+
+Cluster 39, 1 papers:	University of Edinburgh
+Applying knowledge to reverse engineering problems.
+robert b. fisher
+2004. Computer-Aided Design. key: journals/cad/Fisher04
+
+Cluster 40, 1 papers:	University of Edinburgh
+Special Issue on Registration and Fusion of Range Images.
+marcos a. rodrigues, robert b. fisher, yonghuai liu
+2002. Computer Vision and Image Understanding. key: journals/cviu/RodriguesFL02
+
+Cluster 41, 1 papers:	University of Edinburgh
+Interactive Textbooks; Embedding Image Processing Operator Demonstrations in Text.
+robert b. fisher, konstantinos koryllos
+1998. IJPRAI. key: journals/ijprai/FisherK98
+
+Cluster 42, 1 papers:	University of Edinburgh
+Geometric constraints from planar surface patch matching.
+robert b. fisher
+1990. Image Vision Comput.. key: journals/ivc/Fisher90
+
+Cluster 43, 1 papers:	University of Edinburgh
+Representation, extraction and recognition with second-order topographic surface features.
+robert b. fisher
+1992. Image Vision Comput.. key: journals/ivc/Fisher92
+
+Cluster 44, 1 papers:	University of Edinburgh
+Intelligent Robotic Systems - SIRS'98.
+gillian m. hayes, robert b. fisher
+2000. Robotics and Autonomous Systems. key: journals/ras/HayesF00
+
+Cluster 45, 1 papers:	University of Edinburgh
+Range Sensors.
+robert b. fisher, kurt konolige
+2008. Springer Handbook of Robotics. key: reference/robo/FisherK08
+

@@ -1,0 +1,415 @@
+Multi-Task Sparse Discriminant Analysis (MtSDA) with Overlapping Categories.
+Yahong Han,Fei Wu,Jinzhu Jia,Yueting Zhuang,Bin Yu
+2010. inproceedings: AAAI. key: conf/aaai/HanWJZY10
+
+Approximation Lasso Methods for Language Modeling.
+Jianfeng Gao,Hisami Suzuki,Bin Yu
+2006. inproceedings: ACL. key: conf/acl/GaoSY06
+
+Application of PGA on Optimization of Distribution of Shopping Centers.
+Bin Yu,Chuntian Cheng,Zhong-Zheng Yang,Kwok-wing Chau
+2005. inproceedings: AI*IA. key: conf/aiia/YuCYC05
+
+Incentive Mechanisms for Peer-to-Peer Systems.
+Bin Yu,Munindar P. Singh
+2003. inproceedings: AP2PC. key: conf/ap2pc/YuS03
+
+Utilizing Fuzzy Petri Net for Choreography Based Semantic Web Services Discovery.
+Peng Men,Zhenhua Duan,Bin Yu
+2007. inproceedings: ICATPN. key: conf/apn/MenDY07
+
+Emergence of agent-based referral networks.
+Bin Yu,Munindar P. Singh
+2002. inproceedings: AAMAS. key: conf/atal/YuS02
+
+Searching social networks.
+Bin Yu,Munindar P. Singh
+2003. inproceedings: AAMAS. key: conf/atal/YuS03
+
+Synergistic integration of agent technologies for military simulation.
+Sean Owens,Paul Scerri,Robin Glinton,Bin Yu,Katia P. Sycara
+2006. inproceedings: AAMAS. key: conf/atal/OwensSGYS06
+
+An integrated token-based algorithm for scalable coordination.
+Yang Xu,Paul Scerri,Bin Yu,Steven Okamoto,Michael Lewis,Katia P. Sycara
+2005. inproceedings: AAMAS. key: conf/atal/XuSYOLS05
+
+A Dynamic Pricing Mechanisms for P2P Referral Systems.
+Bin Yu,Cuihong Li,Munindar P. Singh,Katia P. Sycara
+2004. inproceedings: AAMAS. key: conf/atal/YuLSS04
+
+An evidential model of distributed reputation management.
+Bin Yu,Munindar P. Singh
+2002. inproceedings: AAMAS. key: conf/atal/YuS02a
+
+Detecting deception in reputation management.
+Bin Yu,Munindar P. Singh
+2003. inproceedings: AAMAS. key: conf/atal/YuS03a
+
+Scalable and reliable data delivery in mobile ad hoc sensor networks.
+Bin Yu,Paul Scerri,Katia P. Sycara,Yang Xu,Michael Lewis
+2006. inproceedings: AAMAS. key: conf/atal/YuSSXL06
+
+Managing the pedigree and quality of information in dynamic information sharing environments.
+Bin Yu,Srikanth Kallurkar,Ganesh Vaidyanathan,Donald Steiner
+2007. inproceedings: AAMAS. key: conf/atal/YuKVS07
+
+An incentive mechanism for message relaying in unstructured peer-to-peer systems.
+Cuihong Li,Bin Yu,Katia P. Sycara
+2007. inproceedings: AAMAS. key: conf/atal/LiYS07
+
+Service Matchmaking with Rough Sets.
+Maozhen Li,Bin Yu,Chang Huang,Yong-Hua Song
+2006. inproceedings: CCGRID. key: conf/ccgrid/LiYHS06
+
+A Social Mechanism of Reputation Management in Electronic Communities.
+Bin Yu,Munindar P. Singh
+2000. inproceedings: CIA. key: conf/cia/YuS00
+
+An agent-based approach to knowledge management.
+Bin Yu,Munindar P. Singh
+2002. inproceedings: CIKM. key: conf/cikm/YuS02
+
+A Modified Multi-Secret Sharing Visual Cryptography Scheme.
+Bin Yu,Zhengxin Fu,Liguo Fang
+2008. inproceedings: CIS (2). key: conf/cis/YuFF08
+
+A Verifiable Visual Cryptography Scheme.
+Bin Yu,Liguo Fang,Xiaohui Xu
+2008. inproceedings: CIS (2). key: conf/cis/YuFX08
+
+Semantic Matching of Web Services Based on Choreographies.
+Lihui Lei,Zhenhua Duan,Bin Yu
+2006. inproceedings: CSCWD. key: conf/cscwd/LeiDY06
+
+Semantic Matching of Web Services for Collaborative Business Processes.
+Lihui Lei,Zhenhua Duan,Bin Yu
+2006. inproceedings: CSCWD (Selected Papers). key: conf/cscwd/LeiDY06a
+
+Low Delay Perpetually Lossless Coding of Audio Signals.
+Sean Dorward,Dawei Huang,Serap A. Savari,Gerald Schuller,Bin Yu
+2001. inproceedings: Data Compression Conference. key: conf/dcc/DorwardHSSY01
+
+A WSRF Based Shopping Cart System.
+Maozhen Li,Man Qi,Masoud Rozati,Bin Yu
+2005. inproceedings: EGC. key: conf/egc/LiQRY05
+
+SpiderNet: An Integrated Peer-to-Peer Service Composition Framework.
+Xiaohui Gu,Klara Nahrstedt,Bin Yu
+2004. inproceedings: HPDC. key: conf/hpdc/GuNY04
+
+Multi-step-ahead Prediction Based on B-Spline Interpolation and Adaptive Time-Delay Neural Network.
+Jing-Xin Xie,Chuntian Cheng,Bin Yu,Qing-Rui Zhang
+2005. inproceedings: ICANN (2). key: conf/icann/XieCYZ05
+
+Page Segmentation Using Document Model.
+Anil K. Jain,Bin Yu
+1997. inproceedings: ICDAR. key: conf/icdar/JainY97
+
+Automatic understanding of symbol-connected diagrams.
+Bin Yu
+1995. inproceedings: ICDAR. key: conf/icdar/Yu95
+
+The Dynamics Mechanism Study on Interactive Development of Industry Clusters and Urbanization.
+Weixiang Xu,Ye Jiang,Bin Yu,Gennian Tang
+2006. inproceedings: ICIC (2). key: conf/icic/XuJYT06
+
+Hybrid Control of Hopf Bifurcation for an Internet Congestion Model.
+Zunshui Cheng,Jianlong Qiu,Guangbin Wang,Bin Yu
+2007. inproceedings: ICIC (2). key: conf/icic/ChengQWY07
+
+Image Denoising via Lossy Compression and Wavelet Thresholding.
+S. Grace Chang,Bin Yu,Martin Vetterli
+1997. inproceedings: ICIP (1). key: conf/icip/ChangYV97
+
+Spatially Adaptive Wavelet Thresholding with Context Modeling for Image Denoising.
+S. Grace Chang,Bin Yu,Martin Vetterli
+1998. inproceedings: ICIP (1). key: conf/icip/ChangYV98
+
+Multiple Copy Image Denoising via Wavelet Thresholding.
+S. Grace Chang,Bin Yu,Martin Vetterli
+1998. inproceedings: ICIP (1). key: conf/icip/ChangYV98a
+
+Compression of cDNA and inkjet microarray images.
+Rebecka Jornsten,Bin Yu,Wei Wang,Kannan Ramchandran
+2002. inproceedings: ICIP (3). key: conf/icip/JornstenYWR02
+
+Lane Boundary Detection Using a Multiresolution Hough Transform.
+Bin Yu,Anil K. Jain
+1997. inproceedings: ICIP (2). key: conf/icip/YuJ97
+
+Trust and Reputation Management in a Small-World Network.
+Mahadevan Venkatraman,Bin Yu,Munindar P. Singh
+2000. inproceedings: ICMAS. key: conf/icmas/VenkatramanYS00
+
+A Three-Layer Virtual Director Model for Supporting Automated Multi-Site Distributed Education.
+Bin Yu,Cha Zhang,Yong Rui,Klara Nahrstedt
+2006. inproceedings: ICME. key: conf/icmcs/YuZRN06
+
+On the Convergence of Boosting Procedures.
+Tong Zhang,Bin Yu
+2003. inproceedings: ICML. key: conf/icml/ZhangY03
+
+Data spectroscopy: learning mixture models using eigenspaces of convolution operators.
+Tao Shi,Mikhail Belkin,Bin Yu
+2008. inproceedings: ICML. key: conf/icml/ShiBY08
+
+An Economical Contour Extraction AIgorithm for Understanding Large-size Engineering Drawings.
+Bin Yu,Xinggang Lin,Youshou Wu
+1990. inproceedings: ICSI. key: conf/icsi/YuLW90
+
+Pseudo Likelihood Estimation in Network Tomography.
+Gang Liang,Bin Yu
+2003. inproceedings: INFOCOM. key: conf/infocom/LiangY03
+
+Compression of cDNA microarray images.
+Rebecka Jornsten,Bin Yu
+2002. inproceedings: ISBI. key: conf/isbi/JornstenY02
+
+TEEVE: The Next Generation Architecture for Tele-immersive Environment.
+Zhenyu Yang,Klara Nahrstedt,Yi Cui,Bin Yu,Jin Liang,Sang-Hack Jung,Ruzena Bajcsy
+2005. inproceedings: ISM. key: conf/ism/YangNCYLJB05
+
+A Study of Collaborative Dancing in Tele-immersive Environments.
+Zhenyu Yang,Bin Yu,Wanmin Wu,Klara Nahrstedt,Ross Diankov,Ruzena Bajcsy
+2006. inproceedings: ISM. key: conf/ism/YangYWNDB06
+
+Requirements Engineering Processes Improvement: A Systematic View.
+Anliang Ning,Hong Hou,Qingyi Hua,Bin Yu,Kegang Hao
+2005. inproceedings: ISPW. key: conf/ispw/NingHHYH05
+
+Intelligent Online BGP-4 Analyzer.
+Yixin Zhao,Jianping Wu,Bin Yu
+2000. inproceedings: MASCOTS. key: conf/mascots/ZhaoWY00
+
+Discovering word associations in news media via feature selection and sparse classification.
+Brian Gawalt,Jinzhu Jia,Luke Miratrix,Laurent El Ghaoui,Bin Yu,Sophie Clavier
+2010. inproceedings: Multimedia Information Retrieval. key: conf/mir/GawaltJMGYC10
+
+A scalable overlay video mixing service model.
+Bin Yu,Klara Nahrstedt
+2003. inproceedings: ACM Multimedia. key: conf/mm/YuN03
+
+Video summarization based on user log enhanced link analysis.
+Bin Yu,Wei-Ying Ma,Klara Nahrstedt,HongJiang Zhang
+2003. inproceedings: ACM Multimedia. key: conf/mm/YuMNZ03
+
+Collaborative dancing in tele-immersive environment.
+Zhenyu Yang,Bin Yu,Wanmin Wu,Ross Diankov,Ruzena Bajcsy
+2006. inproceedings: ACM Multimedia. key: conf/mm/YangYWDB06
+
+A Realtime Software Solution for Resynchronizing Filtered MPEG2 Transport Stream.
+Bin Yu,Klara Nahrstedt
+2002. inproceedings: ISMSE. key: conf/mse/YuN02
+
+Model Selection in Gaussian Graphical Models: High-Dimensional Consistency of l1-regularized MLE.
+Pradeep Ravikumar,Garvesh Raskutti,Martin J. Wainwright,Bin Yu
+2008. inproceedings: NIPS. key: conf/nips/RavikumarRWY08
+
+Nonparametric sparse hierarchical models describe V1 fMRI responses to natural images.
+Pradeep Ravikumar,Vincent Q. Vu,Bin Yu,Thomas Naselaris,Kendrick Kay,Jack L. Gallant
+2008. inproceedings: NIPS. key: conf/nips/RavikumarVYNKG08
+
+A multi-stream adaptation framework for bandwidth management in 3D tele-immersion.
+Zhenyu Yang,Bin Yu,Klara Nahrstedt,Ruzena Bajcsy
+2006. inproceedings: NOSSDAV. key: conf/nossdav/YangYNB06
+
+Service Matchmaking and Discovery with Rough Sets.
+Bin Yu,Wenming Guo,Maozhen Li,Yong-Hua Song,Peter Hobson,Man Qi
+2006. inproceedings: SKG. key: conf/skg/YuGLSHQ06
+
+Agent-based stochastic simulations of shipboard disease outbreaks.
+Bin Yu,Jijun Wang,Michael McGowan,Ganesh Vaidyanathan
+2010. inproceedings: SpringSim. key: conf/springsim/YuWMV10
+
+Research and Design of One Key Agreement Scheme in Bluetooth.
+Bin Yu,Haiyan Li
+2008. inproceedings: CSSE (3). key: conf/csse/YuL08
+
+Transform from Models to Service Description Based on MDA.
+Bin Yu,Chen Zhang,Yang Zhao
+2006. inproceedings: APSCC. key: conf/apscc/YuZZ06
+
+Some statistical issues in estimating information in neural spike trains.
+Vincent Q. Vu,Bin Yu,Robert E. Kass
+2009. inproceedings: ICASSP. key: conf/icassp/VuYK09
+
+Gryphon: A Hybrid Agent-Based Modeling and Simulation Platform for Infectious Diseases.
+Bin Yu,Jijun Wang,Michael McGowan,Ganesh Vaidyanathan,Kristofer Younger
+2010. inproceedings: SBP. key: conf/sbp/YuWMVY10
+
+An Adaptive Social Network for Information Access: Theoretical and Experimental Results.
+Bin Yu,Mahadevan Venkatraman,Munindar P. Singh
+2003. article: Applied Artificial Intelligence. key: journals/aai/YuVS03
+
+A dynamic holding strategy in public transit systems with real-time information.
+Bin Yu,Zhongzhen Yang
+2009. article: Appl. Intell.. key: journals/apin/YuY09
+
+Simultaneous Gene Clustering and Subset Selection for Sample Classification Via MDL.
+Rebecka Jornsten,Bin Yu
+2003. article: Bioinformatics. key: journals/bioinformatics/JornstenY03
+
+Computational prediction of novel non-coding RNAs in Arabidopsis thaliana.
+Dandan Song,Yang Yang,Bin Yu,Binglian Zheng,Zhidong Deng,Bao-Liang Lu,Xuemei Chen,Tao Jiang
+2009. article: BMC Bioinformatics. key: journals/bmcbi/SongYYZDLCJ09
+
+Community-based service location.
+Munindar P. Singh,Bin Yu,Mahadevan Venkatraman
+2001. article: Commun. ACM. key: journals/cacm/SinghYV01
+
+Distributed Reputation Management for Electronic Commerce.
+Bin Yu,Munindar P. Singh
+2002. article: Computational Intelligence. key: journals/ci/YuS02
+
+Information In The Non-Stationary Case
+Vincent Q. Vu,Bin Yu,Robert E. Kass
+2008. article: CoRR. key: journals/corr/abs-0806-3978
+
+A unified framework for high-dimensional analysis of $M$-estimators with decomposable regularizers
+Sahand Negahban,Pradeep Ravikumar,Martin J. Wainwright,Bin Yu
+2010. article: CoRR. key: journals/corr/abs-1010-2731
+
+An incentive mechanism for message relaying in unstructured peer-to-peer systems.
+Cuihong Li,Bin Yu,Katia P. Sycara
+2009. article: Electronic Commerce Research and Applications. key: journals/ecra/LiYS09
+
+PGGA: A predictable and grouped genetic algorithm for job scheduling.
+Maozhen Li,Bin Yu,Man Qi
+2006. article: Future Generation Comp. Syst.. key: journals/fgcs/LiYQ06
+
+An integrated approach to high-level information fusion.
+Katia P. Sycara,Robin Glinton,Bin Yu,Joseph A. Giampapa,Sean Owens,Michael Lewis,Charles E. Grindle
+2009. article: Information Fusion. key: journals/inffus/SycaraGYGOLG09
+
+The Tree Representation of the Graph Used in Binary Image Processing.
+Bin Yu,Xinggang Lin,Youshou Wu
+1991. article: Inf. Process. Lett.. key: journals/ipl/YuLW91
+
+Sparse Boosting.
+Peter Buhlmann,Bin Yu
+2006. article: Journal of Machine Learning Research. key: journals/jmlr/BuhlmannY06
+
+On Model Selection Consistency of Lasso.
+Peng Zhao,Bin Yu
+2006. article: Journal of Machine Learning Research. key: journals/jmlr/ZhaoY06
+
+Web Services Discovery with Rough Sets.
+Maozhen Li,Bin Yu,Vijay Sahota,Man Qi
+2009. article: Int. J. Web Service Res.. key: journals/jwsr/LiYSQ09
+
+Internet-based interactive HDTV.
+Bin Yu,Klara Nahrstedt
+2004. article: Multimedia Syst.. key: journals/mms/YuN04
+
+Information in the Nonstationary Case.
+Vincent Q. Vu,Bin Yu,Robert E. Kass
+2009. article: Neural Computation. key: journals/neco/VuYK09
+
+Document Representation and Its Application to Page Decomposition.
+Anil K. Jain,Bin Yu
+1998. article: IEEE Trans. Pattern Anal. Mach. Intell.. key: journals/pami/JainY98
+
+A Generic System for Form Dropout.
+Bin Yu,Anil K. Jain
+1996. article: IEEE Trans. Pattern Anal. Mach. Intell.. key: journals/pami/YuJ96
+
+Automatic text location in images and video frames.
+Anil K. Jain,Bin Yu
+1998. article: Pattern Recognition. key: journals/pr/JainY98
+
+A robust and fast skew detection algorithm for generic documents.
+Bin Yu,Anil K. Jain
+1996. article: Pattern Recognition. key: journals/pr/YuJ96
+
+A more efficient branch and bound algorithm for feature selection.
+Bin Yu,Baozong Yuan
+1993. article: Pattern Recognition. key: journals/pr/YuY93
+
+A new edge detector based on Fresnel diffraction.
+Luhong Diao,Bin Yu,Hua Li
+2007. article: Pattern Recognition Letters. key: journals/prl/DiaoYL07
+
+Extending the ONESAF Testbed into a C4ISR Testbed.
+Joseph A. Giampapa,Katia P. Sycara,Sean Owens,Robin Glinton,Young-Woo Seo,Bin Yu,Charles E. Grindle,Michael Lewis
+2004. article: Simulation. key: journals/simulation/GiampapaSOGSYGL04
+
+Spatially adaptive wavelet thresholding with context modeling for image denoising.
+S. Grace Chang,Bin Yu,Martin Vetterli
+2000. article: IEEE Transactions on Image Processing. key: journals/tip/ChangYV00
+
+Adaptive wavelet thresholding for image denoising and compression.
+S. Grace Chang,Bin Yu,Martin Vetterli
+2000. article: IEEE Transactions on Image Processing. key: journals/tip/ChangYV00a
+
+Wavelet thresholding for multiple noisy image copies.
+S. Grace Chang,Bin Yu,Martin Vetterli
+2000. article: IEEE Transactions on Image Processing. key: journals/tip/ChangYV00b
+
+Image subband coding using context-based classification and adaptive quantization.
+Youngjun Yoo,Antonio Ortega,Bin Yu
+1999. article: IEEE Transactions on Image Processing. key: journals/tip/YooOY99
+
+The Minimum Description Length Principle in Coding and Modeling.
+Andrew R. Barron,Jorma Rissanen,Bin Yu
+1998. article: IEEE Transactions on Information Theory. key: journals/tit/BarronRY98
+
+Wavelet thresholding via MDL for natural images.
+Mark Hansen,Bin Yu
+2000. article: IEEE Transactions on Information Theory. key: journals/tit/HansenY00
+
+Iterated logarithmic expansions of the pathwise code lengths for exponential families.
+Lei Li,Bin Yu
+2000. article: IEEE Transactions on Information Theory. key: journals/tit/LiY00
+
+A fast lightweight approach to origin-destination IP traffic estimation using partial measurements.
+Gang Liang,Nina Taft,Bin Yu
+2006. article: IEEE Transactions on Information Theory. key: journals/tit/LiangTY06
+
+Density estimation by stochastic complexity.
+Jorma Rissanen,Terry P. Speed,Bin Yu
+1992. article: IEEE Transactions on Information Theory. key: journals/tit/RissanenSY92
+
+Lower Bounds on Expected Redundancy for Nonparametric Classes.
+Bin Yu
+1996. article: IEEE Transactions on Information Theory. key: journals/tit/Yu96
+
+A rate of convergence result for a universal D-semifaithful code.
+Bin Yu,Terry P. Speed
+1993. article: IEEE Transactions on Information Theory. key: journals/tit/YuS93
+
+Grid Service Discovery with Rough Sets.
+Maozhen Li,Bin Yu,Omer F. Rana,Zidong Wang
+2008. article: IEEE Trans. Knowl. Data Eng.. key: journals/tkde/LiYRW08
+
+Perceptual audio coding using adaptive pre- and post-filters and lossless compression.
+Gerald Schuller,Bin Yu,Dawei Huang,Bernd Edler
+2002. article: IEEE Transactions on Speech and Audio Processing. key: journals/taslp/SchullerYHE02
+
+Microarray image compression: SLOCO and the effect of information loss.
+Rebecka Jornsten,Wei Wang,Bin Yu,Kannan Ramchandran
+2003. article: Signal Processing. key: journals/sigpro/JornstenWYR03
+
+An improved ant colony optimization for vehicle routing problem.
+Bin Yu,Zhongzhen Yang,Baozhen Yao
+2009. article: European Journal of Operational Research. key: journals/eor/YuYY09
+
+Hourglass multimedia content and service composition framework for smart room environments.
+Klara Nahrstedt,Bin Yu,Jin Liang,Yi Cui
+2005. article: Pervasive and Mobile Computing. key: journals/percom/NahrstedtYLC05
+
+Genetic Polymorphisms of Nine X-STR Loci in Four Population Groups from Inner Mongolia, China.
+Qiao-Fang Hou,Bin Yu,Sheng-Bin Li
+2007. article: Genomics, Proteomics & Bioinformatics. key: journals/gpb/HouYL07
+
+Automatically wrapping legacy software into services: A grid case study.
+Maozhen Li,Bin Yu,Man Qi,Nick Antonopoulos
+2008. article: Peer-to-Peer Networking and Applications. key: journals/ppna/LiYQA08
+
+Large Sample Properties of Weighted Monte Carlo Estimators.
+Paul Glasserman,Bin Yu
+2005. article: Operations Research. key: journals/ior/GlassermanY05
+
+Optimizing the distribution of shopping centers with parallel genetic algorithm.
+Bin Yu,Zhongzhen Yang,Chuntian Cheng
+2007. article: Eng. Appl. of AI. key: journals/eaai/YuYC07

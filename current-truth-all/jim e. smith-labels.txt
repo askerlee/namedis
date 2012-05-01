@@ -1,0 +1,53 @@
+3 clusters.
+
+Cluster 1, 12 papers:	University of the West of England
+An alternative approach for the evaluation of the neocognitron.
+michal steuer, praminda caleb-solly, jim e. smith
+2001. ESANN. key: conf/esann/SteuerCS01
+Incorporation of adaptive mutation based on subjective evaluation in an interactive evolution strategy.
+praminda caleb-solly, jim e. smith
+2005. Congress on Evolutionary Computation. key: conf/cec/Caleb-SollyS05
+Improving Nearest Neighbor Classifier Using Tabu Search and Ensemble Distance Metrics.
+muhammad atif tahir, jim e. smith
+2006. ICDM. key: conf/icdm/TahirS06
+Stop Wasting Time: On Predicting the Success or Failure of Learning for Industrial Applications.
+jim e. smith, muhammad atif tahir
+2007. IDEAL. key: conf/ideal/SmithT07
+Adaptive surface inspection via interactive evolution.
+praminda caleb-solly, jim e. smith
+2007. Image Vision Comput.. key: journals/ivc/Caleb-SollyS07
+A Novel Feature Selection Based Semi-supervised Method for Image Classification.
+muhammad atif tahir, jim e. smith, praminda caleb-solly
+2008. ICVS. key: conf/icvs/TahirSC08
+An On-Line Interactive Self-adaptive Image Classification Framework.
+davy sannen, marnix nuttin, jim e. smith, muhammad atif tahir, praminda caleb-solly, edwin lughofer, christian eitzinger
+2008. ICVS. key: conf/icvs/SannenNSTCLE08
+On Human-Machine Interaction during Online Image Classifier Training.
+edwin lughofer, jim e. smith, praminda caleb-solly, muhammad atif tahir, christian eitzinger, davy sannen, hendrik van brussel
+2008. CIMCA/IAWTIC/ISE. key: conf/cimca/LughoferSCTESB08
+Feature Selection for Heterogeneous Ensembles of Nearest-neighbour Classifiers Using Hybrid Tabu Search.
+muhammad atif tahir, jim e. smith
+2008. Advances in Metaheuristics for Hard Optimization. key: conf/ncs/TahirS08
+Assessment of the influence of adaptive components in trainable surface inspection systems.
+christian eitzinger, wolfgang heidl, edwin lughofer, stefan raiser, jim e. smith, muhammad atif tahir, davy sannen, hendrik van brussel
+2010. Mach. Vis. Appl.. key: journals/mva/EitzingerHLRSTSB10
+User-centric image segmentation using an interactive parameter adaptation tool.
+olivier pauplin, praminda caleb-solly, jim e. smith
+2010. Pattern Recognition. key: journals/pr/PauplinCS10
+Creating diverse nearest-neighbour ensembles using simultaneous metaheuristic feature selection.
+muhammad atif tahir, jim e. smith
+2010. Pattern Recognition Letters. key: journals/prl/TahirS10
+
+Cluster 2, 2 papers:	University of the West of England
+Pre-processing Optimisation Applied to the Classical Integer Programming Model for Statistical Disclosure Control.
+martin serpell, alistair r. clark, jim e. smith, andrea t. staggemeier
+2008. Privacy in Statistical Databases. key: conf/psd/SerpellCSS08
+A genetic approach to statistical disclosure control.
+jim e. smith, alistair r. clark, andrea t. staggemeier
+2009. GECCO. key: conf/gecco/SmithCS09
+
+Cluster 3, 1 papers:	University of the West of England
+Coevolving Memetic Algorithms: A Review and Progress Report.
+jim e. smith
+2007. IEEE Transactions on Systems. key: journals/tsmc/Smith07
+

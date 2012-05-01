@@ -1,0 +1,171 @@
+Application of e-commerce security management strategy in banking.
+Guoling Lao,Liping Wang
+2005. inproceedings: ICEC. key: conf/ACMicec/LaoW05
+
+Euclidean Modules and Multisequence Synthesis.
+Liping Wang
+2001. inproceedings: AAECC. key: conf/aaecc/Wang01
+
+Piecewise Rigid Multimodal Spine Registration.
+Peter Cech,Adrian Andronache,Liping Wang,Gabor Szekely,Philippe C. Cattin
+2006. inproceedings: Bildverarbeitung fur die Medizin. key: conf/bildmed/CechAWSC06
+
+What Can Expressive Semantics Tell: Retrieval Model for a Flash-Movie Search Engine.
+Dawei Ding,Jun Yang 0003,Qing Li,Wenyin Liu,Liping Wang
+2005. inproceedings: CIVR. key: conf/civr/DingYLLW05
+
+Admission Control for Non-preprovisioned Service Flow in Wireless Metropolitan Area Networks.
+Liping Wang,Fuqiang Liu,Yusheng Ji,Nararat Ruangchaijatupon
+2007. inproceedings: ECUMN. key: conf/ecumn/WangLJR07
+
+Evolutionary Prediction of Online Keywords Bidding.
+Liwen Hou,Liping Wang,Jinggang Yang
+2008. inproceedings: EC-Web. key: conf/ecweb/HouWY08
+
+Prediction of Keyword Auction Using Bayesian Network.
+Liwen Hou,Liping Wang,Kang Li
+2007. inproceedings: EC-Web. key: conf/ecweb/HouWL07
+
+Online Near-Duplicate Video Clip Detection and Retrieval: An Accurate and Fast System.
+Zi Huang,Liping Wang,Heng Tao Shen,Jie Shao,Xiaofang Zhou
+2009. inproceedings: ICDE. key: conf/icde/HuangWSSZ09
+
+Distance-based weighted prediction for Adaptive Intra Mode Bit Skip in H.264/AVC.
+Lai-Man Po,Liping Wang,Kwok-Wai Cheung,Ka-Man Wong,Ka-Ho Ng,Shenyuan Li,Chi-Wang Ting
+2010. inproceedings: ICIP. key: conf/icip/PoWCWNLT10
+
+Automatic detection of Flash movie genre using Bayesian approach.
+Dawei Ding,Jun Yang 0003,Qing Li,Liping Wang,Wenyin Liu
+2004. inproceedings: ICME. key: conf/icmcs/DingYLWL04
+
+A novel weighted cross prediction for H.264 intra coding.
+Liping Wang,Lai-Man Po,Y. M. S. Uddin,Ka-Man Wong,Shenyuan Li
+2009. inproceedings: ICME. key: conf/icmcs/WangPUWL09
+
+Stiffness Analysis of a Stewart Platform-Based Parallel Kinematic Machine.
+Yu-Wen Li,Jinsong Wang,Liping Wang
+2002. inproceedings: ICRA. key: conf/icra/LiWW02
+
+Inverse dynamics and simulation of a 3-DOF spatial parallel manipulator.
+Yu-Wen Li,Jinsong Wang,Liping Wang,Xin-Jun Liu
+2003. inproceedings: ICRA. key: conf/icra/LiWWL03
+
+Automatically Generating an e-Textbook on the Web.
+Jing Chen,Qing Li,Liping Wang,Weijia Jia
+2004. inproceedings: ICWL. key: conf/icwl/ChenLWJ04
+
+Generating Swept Solids for NC Verification Using the SEDE Method.
+Liping Wang,Ming C. Leu,Denis Blackmore
+1997. inproceedings: Symposium on Solid Modeling and Applications. key: conf/sma/WangLB97
+
+Kinematics of a tricept-like parallel robot.
+Liwen Guan,Jinsong Wang,Yuan Yun,Liping Wang
+2004. inproceedings: SMC (6). key: conf/smc/GuanWYW04
+
+Research on combined framework and measurement design of parallel kinematic machines (PKM) digital prototyping.
+Fan Zhang,Zhe Yin,Liwen Guan,Liping Wang
+2004. inproceedings: SMC (5). key: conf/smc/ZhangYGW04
+
+Dimensional synthesis of a 3-DOF parallel manipulator.
+Yuan Yun,Liping Wang,Liwen Guan
+2004. inproceedings: SMC (6). key: conf/smc/YunWG04
+
+RecipeCrawler:  Collecting Recipe Data from WWW Incrementally.
+Yu Li,Xiaofeng Meng,Liping Wang,Qing Li
+2006. inproceedings: WAIM. key: conf/waim/LiMWL06
+
+Hybrid Method for Automated News Content Extraction from the Web.
+Yu Li,Xiaofeng Meng,Qing Li,Liping Wang
+2006. inproceedings: WISE. key: conf/wise/LiMLW06
+
+Towards a flash search engine based on expressive semantics.
+Dawei Ding,Jun Yang 0003,Qing Li,Liping Wang,Wenyin Liu
+2004. inproceedings: WWW (Alternate Track Papers & Posters). key: conf/www/DingYLWW04
+
+Substructure similarity measurement in chinese recipes.
+Liping Wang,Qing Li,Na Li,Guozhu Dong,Yu Yang
+2008. inproceedings: WWW. key: conf/www/WangLLDY08
+
+Dish_Master: an Intelligent and Adaptive Manager for a Web-based Recipe Database System.
+Liping Wang,Qing Li,Yu Li,Xiaofeng Meng
+2006. inproceedings: SKG. key: conf/skg/WangLLM06
+
+Canonicalization of graph database records using similarity measures.
+Na Li,Qing Li,Liping Wang
+2008. inproceedings: ICUIMC. key: conf/icuimc/LiLW08
+
+Kinematic Analysis of the SPKM165, a 5-Axis Serial-Parallel Kinematic Milling Machine.
+Fugui Xie,Xin-Jun Liu,Jinsong Wang,Liping Wang
+2009. inproceedings: ICIRA. key: conf/icira/XieLWW09
+
+On the Analysis of Force Transmission Performance for the Thrust Systems of Shield Tunneling Machines.
+Kongshu Deng,Xiaoqiang Tang,Liping Wang,Pingfa Feng,Xu Chen
+2009. inproceedings: ICIRA. key: conf/icira/DengTWFC09
+
+A Novel Centralized Resource Scheduling Scheme in OFDMA-Based Two-Hop Relay-Enhanced Cellular Systems.
+Liping Wang,Yusheng Ji,Fuqiang Liu
+2008. inproceedings: WiMob. key: conf/wimob/WangJL08
+
+Joint Optimization for Proportional Fairness in OFDMA Relay-Enhanced Cellular Networks.
+Liping Wang,Yusheng Ji,Fuqiang Liu
+2010. inproceedings: WCNC. key: conf/wcnc/WangJL10
+
+Resource allocation for OFDMA relay-enhanced system with cooperative selection diversity.
+Liping Wang,Yusheng Ji,Fuqiang Liu
+2009. inproceedings: WCNC. key: conf/wcnc/WangJL09
+
+UV absorption and photoluminescence of nanometer-sized ZnS prepared by different routes.
+Yuguang Li,Yinfeng Liu,Liping Wang,Beilei Gu,Haiyan Mao,Hefeng Hu,Li Liu,Ying Gu,Yiben Xia
+2009. inproceedings: NEMS. key: conf/nems/LiLWGMHLGX09
+
+Cooperative geographic routing in wireless mesh networks.
+Liping Wang,Viktoria Fodor
+2010. inproceedings: MASS. key: conf/mass/WangF10
+
+The sweep-envelope differential equation algorithm and its application to NC machining verification.
+Ming C. Leu,Denis Blackmore,Liping Wang
+1997. article: Computer-Aided Design. key: journals/cad/LeuBW97
+
+Semantic knowledge facilities for a web-based recipe database system supporting personalization.
+Liping Wang,Qing Li,Guozhu Dong,Yu Li
+2008. article: Concurrency and Computation: Practice and Experience. key: journals/concurrency/WangLDL08
+
+A new semantic model with applications in a multimedia database system.
+Qing Li,Na Li,Liping Wang,Xiaoping Sun
+2009. article: Concurrency and Computation: Practice and Experience. key: journals/concurrency/LiLWS09
+
+Adaptive Subframe Partitioning and Efficient Packet Scheduling in OFDMA Cellular System with Fixed Decode-and-Forward Relays.
+Liping Wang,Yusheng Ji,Fuqiang Liu
+2009. article: IEICE Transactions. key: journals/ieicet/WangJL09
+
+Performance Analysis and Application of a Redundantly Actuated Parallel Manipulator for Milling.
+Jun Wu,Jinsong Wang,Tiemin Li,Liping Wang
+2007. article: Journal of Intelligent and Robotic Systems. key: journals/jirs/WuWLW07
+
+On the analysis of a new spatial three-degrees-of-freedom parallel manipulator.
+Xin-Jun Liu,Jinsong Wang,Feng Gao,Liping Wang
+2001. article: IEEE Transactions on Robotics. key: journals/trob/LiuWGW01
+
+Dynamic dexterity of a planar 2-DOF parallel manipulator in a hybrid machine tool.
+Jun Wu,Jinsong Wang,Tiemin Li,Liping Wang,Liwen Guan
+2008. article: Robotica. key: journals/robotica/WuWLWG08
+
+Dynamic model and force control of the redundantly actuated parallel manipulator of a 5-DOF hybrid machine tool.
+Jun Wu,Jinsong Wang,Liping Wang,Tiemin Li
+2009. article: Robotica. key: journals/robotica/WuWWL09
+
+Motion control of the 2-DOF parallel manipulator of a hybrid machine tool.
+Jun Wu,Liping Wang
+2010. article: Robotica. key: journals/robotica/WuW10
+
+Mechanism design of a simplified 6-DOF 6-RUS parallel manipulator.
+Xin-Jun Liu,Jinsong Wang,Feng Gao,Liping Wang
+2002. article: Robotica. key: journals/robotica/LiuWGW02
+
+A comparison study of two planar 2-DOF parallel mechanisms: one with 2-RRR and the other with 3-RRR structures.
+Jun Wu,Jinsong Wang,Liping Wang
+2010. article: Robotica. key: journals/robotica/WuWW10
+
+Application of immune algorithm-based particle swarm optimization for optimized load distribution among cascade hydropower stations.
+Anqiang Li,Liping Wang,Jiqing Li,Changming Ji
+2009. article: Computers & Mathematics with Applications. key: journals/cma/LiWLJ09

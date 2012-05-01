@@ -1,0 +1,111 @@
+The design of distributed real-time video analytic system.
+Tao Yu,Baoyao Zhou,Qinghu Li,Rui Liu,Weihong Wang,Cheng Chang
+2009. inproceedings: CloudDb. key: conf/cikm/YuZLLWC09
+
+Real-Time Tracking with Multiple Cues by Set Theoretic Random Search.
+Cheng Chang,Rashid Ansari
+2005. inproceedings: CVPR (1). key: conf/cvpr/ChangA05
+
+Cyclic Articulated Human Motion Tracking by Sequential Ancestral Simulation.
+Cheng Chang,Rashid Ansari,Ashfaq A. Khokhar
+2004. inproceedings: CVPR (2). key: conf/cvpr/ChangAK04
+
+Multiple Object Tracking with Kernel Particle Filter.
+Cheng Chang,Rashid Ansari,Ashfaq A. Khokhar
+2005. inproceedings: CVPR (1). key: conf/cvpr/ChangAK05
+
+Color Sectors and Edge Features for Content-Based Image Retrieval.
+Taijun Li,Qiuli Wu,Jiafu Yi,Cheng Chang
+2007. inproceedings: FSKD (3). key: conf/fskd/LiWYC07
+
+A New Backoff Algorithm for IEEE 802.11 Distributed Coordination Function.
+Taijun Li,Tiebin Tang,Cheng Chang
+2009. inproceedings: FSKD (3). key: conf/fskd/LiTC09
+
+Multi-granularity Visualization of Trajectory Clusters Using Sub-trajectory Clustering.
+Cheng Chang,Baoyao Zhou
+2009. inproceedings: ICDM Workshops. key: conf/icdm/ChangZ09
+
+Kernel particle filter: iterative sampling for efficient visual tracking.
+Cheng Chang,Rashid Ansari
+2003. inproceedings: ICIP (3). key: conf/icip/ChangA03
+
+Robust tracking of cyclic nonrigid motion.
+Cheng Chang,Rashid Ansari,Ashfaq A. Khokhar
+2003. inproceedings: ICIP (3). key: conf/icip/ChangAK03
+
+Probabilistic Real-Time Guarantees for Component-Oriented Phased Array Radars.
+Chin-Fu Kuo,Ya-Shu Chen,Tei-Wei Kuo,Phone Lin,Cheng Chang
+2004. inproceedings: ICPP. key: conf/icpp/KuoCKLC04
+
+Component-Oriented Digital Signal Processors.
+Cheng Chang,Tai-Chung Wang
+1999. inproceedings: PDPTA. key: conf/pdpta/ChangW99
+
+Real-time scheduling in a programmable radar signal processor.
+Cheng Chang,Chien-Chung Chen,Yao-Liang Chen,Fu-Shin Huang
+1997. inproceedings: RTCSA. key: conf/rtcsa/ChangCCH97
+
+Real-Time Digital Signal Processing of Component-Oriented Phased Array Radars.
+Chin-Fu Kuo,Tei-Wei Kuo,Cheng Chang
+2000. inproceedings: IEEE Real-Time Systems Symposium. key: conf/rtss/KuoKC00
+
+Image retrieval based on region shape similarity.
+Cheng Chang,Wenyin Liu,HongJiang Zhang
+2001. inproceedings: Storage and Retrieval for Media Databases. key: conf/spieSR/ChangLZ01
+
+Universal Quadratic Lower Bounds on Source Coding Error Exponents.
+Cheng Chang,Anant Sahai
+2007. inproceedings: CISS. key: conf/ciss/ChangS07
+
+The source coding game with a cheating switcher
+Hari Palaiyanur,Cheng Chang,Anant Sahai
+2007. article: CoRR. key: journals/corr/abs-cs-0701027
+
+Lossless coding for distributed streaming sources
+Cheng Chang,Stark C. Draper,Anant Sahai
+2006. article: CoRR. key: journals/corr/abs-cs-0610144
+
+The price of ignorance: The impact of side-information on delay for lossless source-coding
+Cheng Chang,Anant Sahai
+2007. article: CoRR. key: journals/corr/abs-0712-0873
+
+The source coding game with a cheating switcher
+Hari Palaiyanur,Cheng Chang,Anant Sahai
+2007. article: CoRR. key: journals/corr/abs-0712-2870
+
+Joint source-channel with side information coding error exponents
+Cheng Chang
+2009. article: CoRR. key: journals/corr/abs-0901-3596
+
+Interference channel capacity region for randomized fixed-composition codes
+Cheng Chang
+2009. article: CoRR. key: journals/corr/abs-0901-3809
+
+On the rate distortion function of Bernoulli Gaussian sequences
+Cheng Chang
+2009. article: CoRR. key: journals/corr/abs-0901-3820
+
+Genetic algorithm for affine point pattern matching.
+Lihua Zhang,Wenli Xu,Cheng Chang
+2003. article: Pattern Recognition Letters. key: journals/prl/ZhangXC03
+
+Real-Time Dwell Scheduling of Component-Oriented Phased Array Radars.
+Tei-Wei Kuo,Yung-Sheng Chao,Chin-Fu Kuo,Cheng Chang
+2005. article: IEEE Trans. Computers. key: journals/tc/KuoCKC05
+
+Component-Oriented Radars with Probabilistic Timing Guarantees.
+Chin-Fu Kuo,Ya-Shu Chen,Tei-Wei Kuo,Phone Lin,Cheng Chang
+2006. article: IEEE Trans. Parallel Distrib. Syst.. key: journals/tpds/KuoCKLC06
+
+Real-Time Digital Signal Processing of Phased Array Radars.
+Chin-Fu Kuo,Tei-Wei Kuo,Cheng Chang
+2003. article: IEEE Trans. Parallel Distrib. Syst.. key: journals/tpds/KuoKC03
+
+Boundary conditions for lattice Boltzmann simulations with complex geometry flows.
+Cheng Chang,Chih-Hao Liu,Chao-An Lin
+2009. article: Computers & Mathematics with Applications. key: journals/cma/ChangLL09
+
+Data Compression.
+Rashid Ansari,Cheng Chang,William D. Reynolds Jr.
+2008. incollection: Wiley Encyclopedia of Computer Science and Engineering. key: reference/wiley/AnsariCR08

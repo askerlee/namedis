@@ -1,0 +1,383 @@
+12 clusters.
+
+Cluster 1, 27 papers:	School of Computer Science, Carnegie Mellon University (652766)
+Density estimation by stochastic complexity.
+jorma rissanen, terry p. speed, bin yu
+1992. IEEE Transactions on Information Theory
+A rate of convergence result for a universal D-semifaithful code.
+bin yu, terry p. speed
+1993. IEEE Transactions on Information Theory
+Lower Bounds on Expected Redundancy for Nonparametric Classes.
+bin yu
+1996. IEEE Transactions on Information Theory
+Image Denoising via Lossy Compression and Wavelet Thresholding.
+s. grace chang, bin yu, martin vetterli
+1997. ICIP
+The Minimum Description Length Principle in Coding and Modeling.
+andrew r. barron, jorma rissanen, bin yu
+1998. IEEE Transactions on Information Theory
+Spatially Adaptive Wavelet Thresholding with Context Modeling for Image Denoising.
+s. grace chang, bin yu, martin vetterli
+1998. ICIP
+Multiple Copy Image Denoising via Wavelet Thresholding.
+s. grace chang, bin yu, martin vetterli
+1998. ICIP
+Image subband coding using context-based classification and adaptive quantization.
+youngjun yoo, antonio ortega, bin yu
+1999. IEEE Transactions on Image Processing
+Iterated logarithmic expansions of the pathwise code lengths for exponential families.
+lei li, bin yu
+2000. IEEE Transactions on Information Theory
+Wavelet thresholding via MDL for natural images.
+mark hansen, bin yu
+2000. IEEE Transactions on Information Theory
+Wavelet thresholding for multiple noisy image copies.
+s. grace chang, bin yu, martin vetterli
+2000. IEEE Transactions on Image Processing
+Adaptive wavelet thresholding for image denoising and compression.
+s. grace chang, bin yu, martin vetterli
+2000. IEEE Transactions on Image Processing
+Spatially adaptive wavelet thresholding with context modeling for image denoising.
+s. grace chang, bin yu, martin vetterli
+2000. IEEE Transactions on Image Processing
+Low Delay Perpetually Lossless Coding of Audio Signals.
+sean dorward, dawei huang, serap a. savari, gerald schuller, bin yu
+2001. Data Compression Conference
+Perceptual audio coding using adaptive pre- and post-filters and lossless compression.
+gerald schuller, bin yu, dawei huang, bernd edler
+2002. IEEE Transactions on Speech and Audio Processing
+Compression of cDNA microarray images.
+rebecka jörnsten, bin yu
+2002. ISBI
+Compression of cDNA and inkjet microarray images.
+rebecka jörnsten, bin yu, wei wang, kannan ramchandran
+2002. ICIP
+Maximum pseudo likelihood estimation in network tomography.
+gang liang, bin yu
+2003. IEEE Transactions on Signal Processing
+Microarray image compression: SLOCO and the effect of information loss.
+rebecka jörnsten, wei wang, bin yu, kannan ramchandran
+2003. Signal Processing
+Simultaneous Gene Clustering and Subset Selection for Sample Classification Via MDL.
+rebecka jörnsten, bin yu
+2003. Bioinformatics
+Pseudo Likelihood Estimation in Network Tomography.
+gang liang, bin yu
+2003. INFOCOM
+Guest Editorial: Special Issue on Machine Learning Methods in Signal Processing.
+meir feder, mário a. t. figueiredo, alfred o. hero iii, chin-hui lee, hans-andrea loeliger, robert nowak, andrew c. singer, bin yu
+2004. IEEE Transactions on Signal Processing
+A fast lightweight approach to origin-destination IP traffic estimation using partial measurements.
+gang liang, nina taft, bin yu
+2006. IEEE Transactions on Information Theory
+Distributed modal identification using restricted auto regressive models.
+shamim n. pakzad, guilherme v. rocha, bin yu
+2011. Int. J. Systems Science
+Preface.
+alexandre d'aspremont, francis r. bach, inderjit s. dhillon, bin yu
+2011. Math. Program.
+The intuitionistic fuzzy subrings and fuzzy ideals.
+bin yu, xuehai yuan
+2011. FSKD
+Analysis and Measurement on the Electromagnetic Compromising Emanations of Computer Keyboards.
+litao wang, bin yu
+2011. CIS
+
+Cluster 2, 24 papers:	School of Computer Science at Carnegie Mellon University (652767)
+Trust and Reputation Management in a Small-World Network.
+mahadevan venkatraman, bin yu, munindar p. singh
+2000. ICMAS
+A Social Mechanism of Reputation Management in Electronic Communities.
+bin yu, munindar p. singh
+2000. CIA
+Community-based service location.
+munindar p. singh, bin yu, mahadevan venkatraman
+2001. Commun. ACM
+Distributed Reputation Management for Electronic Commerce.
+bin yu, munindar p. singh
+2002. Computational Intelligence
+An agent-based approach to knowledge management.
+bin yu, munindar p. singh
+2002. CIKM
+An evidential model of distributed reputation management.
+bin yu, munindar p. singh
+2002. AAMAS
+Emergence of agent-based referral networks.
+bin yu, munindar p. singh
+2002. AAMAS
+An Adaptive Social Network for Information Access: Theoretical and Experimental Results.
+bin yu, mahadevan venkatraman, munindar p. singh
+2003. Applied Artificial Intelligence
+Detecting deception in reputation management.
+bin yu, munindar p. singh
+2003. AAMAS
+Searching social networks.
+bin yu, munindar p. singh
+2003. AAMAS
+Incentive Mechanisms for Peer-to-Peer Systems.
+bin yu, munindar p. singh
+2003. AP2PC
+Extending the ONESAF Testbed into a C4ISR Testbed.
+joseph a. giampapa, katia p. sycara, sean owens, robin glinton, young-woo seo, bin yu, charles e. grindle, michael lewis
+2004. Simulation
+A Dynamic Pricing Mechanisms for P2P Referral Systems.
+bin yu, cuihong li, munindar p. singh, katia p. sycara
+2004. AAMAS
+An integrated token-based algorithm for scalable coordination.
+yang xu, paul scerri, bin yu, steven okamoto, michael lewis, katia p. sycara
+2005. AAMAS
+Transform from Models to Service Description Based on MDA.
+bin yu, chen zhang, yang zhao
+2006. APSCC
+Scalable and reliable data delivery in mobile ad hoc sensor networks.
+bin yu, paul scerri, katia p. sycara, yang xu, michael lewis
+2006. AAMAS
+Synergistic integration of agent technologies for military simulation.
+sean owens, paul scerri, robin glinton, bin yu, katia p. sycara
+2006. AAMAS
+An incentive mechanism for message relaying in unstructured peer-to-peer systems.
+cuihong li, bin yu, katia p. sycara
+2007. AAMAS
+An integrated approach to high-level information fusion.
+katia p. sycara, robin glinton, bin yu, joseph a. giampapa, sean owens, michael lewis, charles e. grindle
+2009. Information Fusion
+An incentive mechanism for message relaying in unstructured peer-to-peer systems.
+cuihong li, bin yu, katia p. sycara
+2009. Electronic Commerce Research and Applications
+Predicting Execution Time of Computer Programs Using Sparse Polynomial Regression.
+ling huang, jinzhu jia, bin yu, byung-gon chun, petros maniatis, mayur naik
+2010. NIPS
+Discovering word associations in news media via feature selection and sparse classification.
+brian gawalt, jinzhu jia, luke miratrix, laurent el ghaoui, bin yu, sophie clavier
+2010. Multimedia Information Retrieval
+Multi-Task Sparse Discriminant Analysis (MtSDA) with Overlapping Categories.
+yahong han, fei wu, jinzhu jia, yueting zhuang, bin yu
+2010. AAAI
+SBA-term: Sparse Bilingual Association for Terms.
+xinyu dai, jinzhu jia, laurent el ghaoui, bin yu
+2011. ICSC
+
+Cluster 3, 17 papers:	Univ. of Illinois at Urbana, Champaign, IL, Dept. of Comput. Sci., Michigan State Univ., East Lansing, MI, University of Illinois at Urbana-Champaign, Dept. of Comput. Sci., Illinois Univ., Urbana, IL, USA, Electroglas Inc., Santa Clara, CA (652774)
+A Generic System for Form Dropout.
+bin yu, anil k. jain
+1996. IEEE Trans. Pattern Anal. Mach. Intell.
+A robust and fast skew detection algorithm for generic documents.
+bin yu, anil k. jain
+1996. Pattern Recognition
+Lane Boundary Detection Using a Multiresolution Hough Transform.
+bin yu, anil k. jain
+1997. ICIP
+Page Segmentation Using Document Model.
+anil k. jain, bin yu
+1997. ICDAR
+Document Representation and Its Application to Page Decomposition.
+anil k. jain, bin yu
+1998. IEEE Trans. Pattern Anal. Mach. Intell.
+Automatic text location in images and video frames.
+anil k. jain, bin yu
+1998. Pattern Recognition
+A Realtime Software Solution for Resynchronizing Filtered MPEG2 Transport Stream.
+bin yu, klara nahrstedt
+2002. ISMSE
+Video summarization based on user log enhanced link analysis.
+bin yu, weiying ma, klara nahrstedt, hongjiang zhang
+2003. ACM Multimedia
+A scalable overlay video mixing service model.
+bin yu, klara nahrstedt
+2003. ACM Multimedia
+Internet-based interactive HDTV.
+bin yu, klara nahrstedt
+2004. Multimedia Syst.
+SpiderNet: An Integrated Peer-to-Peer Service Composition Framework.
+xiaohui gu, klara nahrstedt, bin yu
+2004. HPDC
+Hourglass multimedia content and service composition framework for smart room environments.
+klara nahrstedt, bin yu, jin liang, yi cui
+2005. Pervasive and Mobile Computing
+TEEVE: The Next Generation Architecture for Tele-immersive Environment.
+zhenyu yang, klara nahrstedt, yi cui, bin yu, jin liang, sang-hack jung, ruzena bajcsy
+2005. ISM
+A multi-stream adaptation framework for bandwidth management in 3D tele-immersion.
+zhenyu yang, bin yu, klara nahrstedt, ruzena bajcsy
+2006. NOSSDAV
+Collaborative dancing in tele-immersive environment.
+zhenyu yang, bin yu, wanmin wu, ross diankov, ruzena bajcsy
+2006. ACM Multimedia
+A Study of Collaborative Dancing in Tele-immersive Environments.
+zhenyu yang, bin yu, wanmin wu, klara nahrstedt, ross diankov, ruzena bajcsy
+2006. ISM
+A Three-Layer Virtual Director Model for Supporting Automated Multi-Site Distributed Education.
+bin yu, cha zhang, yong rui, klara nahrstedt
+2006. ICME
+
+Cluster 4, 13 papers:	(652779)
+On the Convergence of Boosting Procedures.
+tong zhang, bin yu
+2003. ICML
+Large Sample Properties of Weighted Monte Carlo Estimators.
+paul glasserman, bin yu
+2005. Operations Research
+Requirements Engineering Processes Improvement: A Systematic View.
+anliang ning, hong hou, qingyi hua, bin yu, kegang hao
+2005. ISPW
+Sparse Boosting.
+peter bühlmann, bin yu
+2006. Journal of Machine Learning Research
+The Dynamics Mechanism Study on Interactive Development of Industry Clusters and Urbanization.
+weixiang xu, ye jiang, bin yu, gennian tang
+2006. ICIC
+Approximation Lasso Methods for Language Modeling.
+jianfeng gao, hisami suzuki, bin yu
+2006. ACL
+Genetic Polymorphisms of Nine X-STR Loci in Four Population Groups from Inner Mongolia, China.
+qiaofang hou, bin yu, shengbin li
+2007. Genomics
+A new edge detector based on Fresnel diffraction.
+luhong diao, bin yu, hua li
+2007. Pattern Recognition Letters
+Managing the pedigree and quality of information in dynamic information sharing environments.
+bin yu, srikanth kallurkar, ganesh vaidyanathan, donald steiner
+2007. AAMAS
+Research and Design of One Key Agreement Scheme in Bluetooth.
+bin yu, haiyan li
+2008. CSSE
+Computational prediction of novel non-coding RNAs in .
+dandan song, yang yang, bin yu, binglian zheng, zhidong deng, baoliang lu, xuemei chen, tao jiang
+2009. BMC Bioinformatics
+Gryphon: A Hybrid Agent-Based Modeling and Simulation Platform for Infectious Diseases.
+bin yu, jijun wang, michael mcgowan, ganesh vaidyanathan, kristofer younger
+2010. SBP
+Agent-based stochastic simulations of shipboard disease outbreaks.
+bin yu, jijun wang, michael mcgowan, ganesh vaidyanathan
+2010. SpringSim
+
+Cluster 5, 11 papers:	University of California, Berkeley (652778)
+Information In The Non-Stationary Case
+vincent q. vu, bin yu, robert e. kass
+2008. CoRR
+Model Selection in Gaussian Graphical Models: High-Dimensional Consistency of l-regularized MLE.
+pradeep ravikumar, garvesh raskutti, martin j. wainwright, bin yu
+2008. NIPS
+Nonparametric sparse hierarchical models describe V1 fMRI responses to natural images.
+pradeep ravikumar, vincent q. vu, bin yu, thomas naselaris, kendrick kay, jack l. gallant
+2008. NIPS
+Data spectroscopy: learning mixture models using eigenspaces of convolution operators.
+tao shi, mikhail belkin, bin yu
+2008. ICML
+Some statistical issues in estimating information in neural spike trains.
+vincent q. vu, bin yu, robert e. kass
+2009. ICASSP
+Information in the Nonstationary Case.
+vincent q. vu, bin yu, robert e. kass
+2009. Neural Computation
+Lower bounds on minimax rates for nonparametric regression with additive sparsity and smoothness.
+garvesh raskutti, martin j. wainwright, bin yu
+2009. NIPS
+A unified framework for high-dimensional analysis of $M$-estimators with decomposable regularizers.
+sahand negahban, pradeep d. ravikumar, martin j. wainwright, bin yu
+2009. NIPS
+Restricted Eigenvalue Properties for Correlated Gaussian Designs.
+garvesh raskutti, martin j. wainwright, bin yu
+2010. Journal of Machine Learning Research
+A unified framework for high-dimensional analysis of $M$-estimators with decomposable regularizers
+sahand negahban, pradeep ravikumar, martin j. wainwright, bin yu
+2010. CoRR
+Minimax Rates of Estimation for High-Dimensional Linear Regression Over -Balls.
+garvesh raskutti, martin j. wainwright, bin yu
+2011. IEEE Transactions on Information Theory
+
+Cluster 6, 7 papers:	Institute of Transportation Engineering, Dalian Maritime University, Dalian, PR China (652768)
+Multi-step-ahead Prediction Based on B-Spline Interpolation and Adaptive Time-Delay Neural Network.
+jingxin xie, chuntian cheng, bin yu, qingrui zhang
+2005. ICANN
+Application of PGA on Optimization of Distribution of Shopping Centers.
+bin yu, chuntian cheng, zhongzheng yang, kwok-wing chau
+2005. AI*IA
+A Parallel Ant Colony Algorithm for Bus Network Optimization.
+zhongzhen yang, bin yu, chuntian cheng
+2007. Comp.-Aided Civil and Infrastruct. Engineering
+Optimizing the distribution of shopping centers with parallel genetic algorithm.
+bin yu, zhongzhen yang, chuntian cheng
+2007. Eng. Appl. of AI
+An improved ant colony optimization for vehicle routing problem.
+bin yu, zhongzhen yang, baozhen yao
+2009. European Journal of Operational Research
+A dynamic holding strategy in public transit systems with real-time information.
+bin yu, zhongzhen yang
+2009. Appl. Intell.
+Parallel genetic algorithm in bus route headway optimization.
+bin yu, zhongzhen yang, xueshan sun, baozhen yao, qingcheng zeng, erik jeppesen
+2011. Appl. Soft Comput.
+
+Cluster 7, 7 papers:	Brunel University, UK (652776)
+A WSRF Based Shopping Cart System.
+maozhen li, man qi, masoud rozati, bin yu
+2005. EGC
+PGGA: A predictable and grouped genetic algorithm for job scheduling.
+maozhen li, bin yu, man qi
+2006. Future Generation Comp. Syst.
+Service Matchmaking and Discovery with Rough Sets.
+bin yu, wenming guo, maozhen li, yonghua song, peter hobson, man qi
+2006. SKG
+Service Matchmaking with Rough Sets.
+maozhen li, bin yu, chang huang, yonghua song
+2006. CCGRID
+Automatically wrapping legacy software into services: A grid case study.
+maozhen li, bin yu, man qi, nick antonopoulos
+2008. Peer-to-Peer Networking and Applications
+Grid Service Discovery with Rough Sets.
+maozhen li, bin yu, omer f. rana, zidong wang
+2008. IEEE Trans. Knowl. Data Eng.
+Web Services Discovery with Rough Sets.
+maozhen li, bin yu, vijay sahota, man qi
+2009. Int. J. Web Service Res.
+
+Cluster 8, 5 papers:	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, Inst. of Inf. Sci., Northern Jiaotong Univ., Beijing (652769)
+An Economical Contour Extraction AIgorithm for Understanding Large-size Engineering Drawings.
+bin yu, xinggang lin, youshou wu
+1990. ICSI
+The Tree Representation of the Graph Used in Binary Image Processing.
+bin yu, xinggang lin, youshou wu
+1991. Inf. Process. Lett.
+A more efficient branch and bound algorithm for feature selection.
+bin yu, baozong yuan
+1993. Pattern Recognition
+Automatic understanding of symbol-connected diagrams.
+bin yu
+1995. ICDAR
+Intelligent Online BGP-4 Analyzer.
+yixin zhao, jianping wu, bin yu
+2000. MASCOTS
+
+Cluster 9, 3 papers:	Inst. of Comput. Theor. & Technol., Xidian Univ., Xi'an (652773)
+Semantic Matching of Web Services for Collaborative Business Processes.
+lihui lei, zhenhua duan, bin yu
+2006. CSCWD
+Semantic Matching of Web Services Based on Choreographies.
+lihui lei, zhenhua duan, bin yu
+2006. CSCWD
+Utilizing Fuzzy Petri Net for Choreography Based Semantic Web Services Discovery.
+peng men, zhenhua duan, bin yu
+2007. ICATPN
+
+Cluster 10, 2 papers:	Inst. of Electron. Technol., Inf. Eng. Univ., China (652775)
+A Verifiable Visual Cryptography Scheme.
+bin yu, liguo fang, xiaohui xu
+2008. CIS
+A Modified Multi-Secret Sharing Visual Cryptography Scheme.
+bin yu, zhengxin fu, liguo fang
+2008. CIS
+
+Cluster 11, 2 papers:	(652772)
+On Model Selection Consistency of Lasso.
+peng zhao, bin yu
+2006. Journal of Machine Learning Research
+Stagewise Lasso.
+peng zhao, bin yu
+2007. Journal of Machine Learning Research
+
+Cluster 12, 1 papers:	School of Mathematics and Physics, Qingdao University of Science and Technology, Qingdao 266061, China (652771)
+Hybrid Control of Hopf Bifurcation for an Internet Congestion Model.
+zunshui cheng, jianlong qiu, guangbin wang, bin yu
+2007. ICIC
+

@@ -1,0 +1,3415 @@
+Mining High-Dimensional Data.
+Wei Wang 0010,Jiong Yang
+2005. incollection: The Data Mining and Knowledge Discovery Handbook. key: books/sp/datamining2005/WangY05
+
+Identifying Intrusions in Computer Networks with Principal Component Analysis.
+Wei Wang,Roberto Battiti
+2006. inproceedings: ARES. key: conf/IEEEares/WangB06
+
+Controlling FD and MVD Inferences in MLS.
+Heping Yan,Bing Liu,Xiaoming Yang,Wei Wang 0009,Baile Shi,Genxing Yang
+2005. inproceedings: CIT. key: conf/IEEEcit/HepingLYWSY05
+
+SE4SC: A Specific Search Engine for Software Components.
+Hao Chen,Shi Ying,Jin Liu,Wei Wang
+2004. inproceedings: CIT. key: conf/IEEEcit/ChenYLW04
+
+Incorporating with Recursive Model Training in Time Series Clustering.
+Jiangjiao Duan,Wei Wang 0009,Bing Liu,Yongsheng Xue,Haofeng Zhou,Baile Shi
+2005. inproceedings: CIT. key: conf/IEEEcit/DuanWLXZS05
+
+Efficient Algorithms for Mining Maximal Frequent Concatenate Sequences in Biological Datasets.
+Jin Pan,Peng Wang,Wei Wang 0009,Baile Shi,Genxing Yang
+2005. inproceedings: CIT. key: conf/IEEEcit/PanWWSY05
+
+Storing Normalized XML Documents in Normalized Relations.
+Zijing Tan,Jianjun Xu,Wei Wang 0009,Baile Shi
+2005. inproceedings: CIT. key: conf/IEEEcit/TanXWS05
+
+Storage and Query over Encrypted Character and Numerical Data in Database.
+Zheng-Fei Wang,Wei Wang 0009,Baile Shi
+2005. inproceedings: CIT. key: conf/IEEEcit/WangWS05
+
+Non-Almost-Derivable Frequent Itemsets Mining.
+Xiaoming Yang,Zhibin Wang,Bing Liu,Shouzhi Zhang,Wei Wang 0009,Bole Shi
+2005. inproceedings: CIT. key: conf/IEEEcit/YangWLZWS05
+
+Disparity Adjustment for Local Stereo Matching.
+Xia Hu,Caiming Zhang,Wei Wang,Xifeng Gao
+2010. inproceedings: CIT. key: conf/IEEEcit/HuZWG10
+
+Improved Algorithm for Adaboost with SVM Base Classifiers.
+Xiaodan Wang,Chongming Wu,Chunying Zheng,Wei Wang
+2006. inproceedings: IEEE ICCI. key: conf/IEEEicci/WangWZW06
+
+The Design and Implementation of Scalable Information Services in a Grid Environment.
+Wei Wang 0005,Yao Zheng,Guanghua Song
+2005. inproceedings: IEEE SCC. key: conf/IEEEscc/WangZS05
+
+MASSIVE: A Multidisciplinary Applications-Oriented Simulation and Visualization Environment.
+Guiyi Wei,Guanghua Song,Yao Zheng,Cuiju Luan,Chaoyan Zhu,Wei Wang 0005
+2004. inproceedings: IEEE SCC. key: conf/IEEEscc/WeiSZLZW04
+
+A Novel Approach for Process Mining Based on Event Types.
+Changrui Ren,Lijie Wen,Jin Dong,Hongwei Ding,Wei Wang,Minmin Qiu
+2007. inproceedings: IEEE SCC. key: conf/IEEEscc/RenWDDWQ07
+
+Impact of Business Service Modes on Distribution Systems: A Reinforcement Learning Approach.
+Minmin Qiu,Hongwei Ding,Jin Dong,Changrui Ren,Wei Wang
+2007. inproceedings: IEEE SCC. key: conf/IEEEscc/QiuDDRW07
+
+A New Optimal Policy for Service System with Nonstationary Stochastic Demand.
+Jie Yang,Hongwei Ding,Wei Wang,Jin Dong
+2008. inproceedings: IEEE SCC (2). key: conf/IEEEscc/YangDWD08
+
+Image Segmentation That Merges Together Boundary and Region Information.
+Wei Wang 0017,Ronald Chung
+2006. inproceedings: ACCV (1). key: conf/accv/WangC06
+
+Scalable Inference and Training of Context-Rich Syntactic Translation Models.
+Michel Galley,Jonathan Graehl,Kevin Knight,Daniel Marcu,Steve DeNeefe,Wei Wang 0006,Ignacio Thayer
+2006. inproceedings: ACL. key: conf/acl/GalleyGKMDWT06
+
+A Semi-Supervised Key Phrase Extraction Approach: Learning from Title Phrases through a Document Semantic Network.
+Decong Li,Sujian Li,Wenjie Li,Wei Wang 0013,Weiguang Qu
+2010. inproceedings: ACL (Short Papers). key: conf/acl/LiLLWQ10
+
+Building Evidence Graphs for Network Forensics Analysis.
+Wei Wang,Thomas E. Daniels
+2005. inproceedings: ACSAC. key: conf/acsac/WangD05
+
+Path Materialization Revisited: An Efficient Storage Model for XML Data.
+Haifeng Jiang,Hongjun Lu,Wei Wang 0011,Jeffrey Xu Yu
+2002. inproceedings: Australasian Database Conference. key: conf/adc/JiangLWY02
+
+Mining the Useful Skyline Set Based on the Acceptable Difference.
+Zhenhua Huang,Wei Wang
+2006. inproceedings: ADMA. key: conf/adma/HuangW06
+
+Term Graph Model for Text Classification.
+Wei Wang 0011,Diep Bich Do,Xuemin Lin
+2005. inproceedings: ADMA. key: conf/adma/WangDL05
+
+Self-adaptive Change Detection in Streaming Data with Non-stationary Distribution.
+Xiangliang Zhang,Wei Wang
+2010. inproceedings: ADMA (1). key: conf/adma/ZhangW10
+
+A Transparent Rate Adaptation Algorithm for Streaming Video over the Internet.
+L. S. Lam,Jack Y. B. Lee,Soung C. Liew,Wei Wang
+2004. inproceedings: AINA (1). key: conf/aina/LamLLW04
+
+An Optimal Approach for Image Transmission in Multi-Rate Wireless Sensor Network.
+Honggang Wang,Dongming Peng,Wei Wang 0015,Hamid Sharif
+2007. inproceedings: AINA. key: conf/aina/WangPWS07
+
+Reasoning and Merging in XML Data Integration.
+Zijing Tan,Wei Wang 0009,Baile Shi
+2008. inproceedings: AINA. key: conf/aina/TanWS08
+
+Pattern Mining for Information Extraction Using Lexical, Syntactic and Semantic Information: Preliminary Results.
+Christopher S. G. Khoo,Jin-Cheon Na,Wei Wang 0016
+2008. inproceedings: AIRS. key: conf/airs/KhooNW08
+
+CLINCH: Clustering Incomplete High-Dimensional Data for Data Mining Application.
+Zunping Cheng,Ding Zhou,Chen Wang,Jiankui Guo,Wei Wang 0009,Baokang Ding,Baile Shi
+2005. inproceedings: APWeb. key: conf/apweb/ChengZWGWDS05
+
+Grid Service Based Parallel Debugging Environment.
+Wei Wang,Binxing Fang
+2006. inproceedings: APWeb Workshops. key: conf/apweb/WangF06
+
+Labeling Scheme and Structural Joins for Graph-Structured XML Data.
+Hongzhi Wang,Wei Wang 0011,Xuemin Lin,Jianzhong Li
+2005. inproceedings: APWeb. key: conf/apweb/WangWLL05
+
+Constraint-Based Graph Mining in Large Database.
+Chen Wang,Yongtai Zhu,Tianyi Wu,Wei Wang 0009,Baile Shi
+2005. inproceedings: APWeb. key: conf/apweb/WangZWWS05
+
+ANNE: An Efficient Framework on View Selection Problem.
+Yong Yan,Peng Wang,Chen Wang,Haofeng Zhou,Wei Wang 0009,Baile Shi
+2004. inproceedings: APWeb. key: conf/apweb/YanWWZWS04
+
+A Novel Factoid Ranking Model for Information Retrieval.
+Youcong Ni,Wei Wang
+2007. inproceedings: APWeb/WAIM Workshops. key: conf/apweb/NiW07
+
+Bayesian Method Based Trusted Overlay for Information Retrieval over Networks.
+Shunying Lu,Wei Wang,Yan Zhang
+2007. inproceedings: APWeb/WAIM Workshops. key: conf/apweb/LuWZ07
+
+EviRank: An Evidence Based Content Trust Model for Web Spam Detection.
+Wei Wang,Guosun Zeng,Mingjun Sun,Huanan Gu,Quan Zhang
+2007. inproceedings: APWeb/WAIM Workshops. key: conf/apweb/WangZSGZ07
+
+Practical Indexing XML Document for Twig Query.
+Hongzhi Wang,Wei Wang 0011,Jianzhong Li,Xuemin Lin,Reymond Wong
+2005. inproceedings: ASIAN. key: conf/asian/WangWLLW05
+
+A Semantic Reputation Mechanism in P2P Semantic Web.
+Wei Wang,Guosun Zeng,Lulai Yuan
+2006. inproceedings: ASWC. key: conf/aswc/WangZY06
+
+Joint Spatial and Frequency Domains Watermarking Algorithm Based on Wavelet Packets.
+Yinghua Lu,Wei Wang,Jun Kong,Jialing Han,Gang Hou
+2005. inproceedings: Australian Conference on Artificial Intelligence. key: conf/ausai/LuWKHH05
+
+Constraint Shape Model Using Edge Constraint and Gabor Wavelet Based Search.
+Baochang Zhang,Wen Gao,Shiguang Shan,Wei Wang
+2003. inproceedings: AVBPA. key: conf/avbpa/ZhangGSW03
+
+Enhanced Biclustering on Expression Data.
+Jiong Yang,Haixun Wang,Wei Wang 0010,Philip S. Yu
+2003. inproceedings: BIBE. key: conf/bibe/YangWWY03
+
+A Novel Knowledge-driven Systems Biology Approach for Phenotype Prediction Upon Genetic Intervention.
+Rui Chang,Wei Wang
+2010. inproceedings: BIOCOMP. key: conf/biocomp/ChangW10
+
+Dependent link padding algorithms for low latency anonymity systems.
+Wei Wang 0002,Mehul Motani,Vikram Srinivasan
+2008. inproceedings: ACM Conference on Computer and Communications Security. key: conf/ccs/WangMS08
+
+A Spatial Faithful Cooperative System Based on Mixed Presence Groupware Model.
+Wei Wang,Xiangyu Wang,Rui Wang 0008
+2009. inproceedings: CDVE. key: conf/cdve/WangWW09
+
+Content Based Parallel Image Retrieval with Multi-agent Cooperation.
+Zhongzhi Shi,Hu Cao,Wei Wang
+1999. inproceedings: CEEMAS. key: conf/ceemas/ShiCW99
+
+Fuzziness Driven Adaptive Sampling for Monte Carlo Global Illuminated Rendering.
+Qing Xu 0002,Mateu Sbert,Zhigeng Pan,Wei Wang,Lianping Xing
+2006. inproceedings: Computer Graphics International. key: conf/cgi/XuSPWX06
+
+Mining sequential patterns with constraints in large databases.
+Jian Pei,Jiawei Han,Wei Wang
+2002. inproceedings: CIKM. key: conf/cikm/PeiHW02
+
+Mining coherent patterns from heterogeneous microarray data.
+Xiang Zhang,Wei Wang 0010
+2006. inproceedings: CIKM. key: conf/cikm/ZhangW06
+
+An efficient algorithm for approximate biased quantile computation in data streams.
+Qi Zhang,Wei Wang
+2007. inproceedings: CIKM. key: conf/cikm/ZhangW07
+
+REDUS: finding reducible subspaces in high dimensional data.
+Xiang Zhang,Feng Pan,Wei Wang 0010
+2008. inproceedings: CIKM. key: conf/cikm/ZhangPW08
+
+iMecho: an associative memory based desktop search system.
+Jidong Chen,Hang Guo,Wentao Wu,Wei Wang 0009
+2009. inproceedings: CIKM. key: conf/cikm/ChenGWW09
+
+HyperSum: hypergraph based semi-supervised sentence ranking for query-oriented summarization.
+Wei Wang 0013,Furu Wei,Wenjie Li,Sujian Li
+2009. inproceedings: CIKM. key: conf/cikm/WangWLL09
+
+iRANK: an interactive ranking framework and its application in query-focused summarization.
+Furu Wei,Wenjie Li,Wei Wang 0013,Yanxiang He
+2009. inproceedings: CIKM. key: conf/cikm/WeiLWH09
+
+Graph classification based on pattern co-occurrence.
+Ning Jin,Calvin Young,Wei Wang
+2009. inproceedings: CIKM. key: conf/cikm/JinYW09
+
+Personalization as a service: the architecture and a case study.
+Hang Guo,Jidong Chen,Wentao Wu,Wei Wang 0009
+2009. inproceedings: CloudDb. key: conf/cikm/GuoCWW09
+
+Fast Query Over Encrypted Character Data in Database.
+Zheng-Fei Wang,Jing Dai,Wei Wang 0009,Baile Shi
+2004. inproceedings: CIS. key: conf/cis/WangDWS04
+
+Grid-ODF: Detecting Outliers Effectively and Efficiently in Large Multi-dimensional Databases.
+Wei Wang,Ji Zhang,Hai H. Wang
+2005. inproceedings: CIS (1). key: conf/cis/WangZW05
+
+Ternary Tree Based Group Key Management in Dynamic Peer Networks.
+Wei Wang,Jianfeng Ma,Sang-Jae Moon
+2006. inproceedings: CIS. key: conf/cis/WangMM06
+
+An Efficient Survivability Hierarchy Analysis Model for Networked Information System.
+Lejun Zhang,Lin Guo,Wu Yang,Wei Wang,Yongtian Yang
+2007. inproceedings: CIS. key: conf/cis/ZhangGYWY07
+
+A Quantitative Evaluation Model for Network Security.
+Dapeng Man,Wu Yang,Yongtian Yang,Wei Wang,Lejun Zhang
+2007. inproceedings: CIS. key: conf/cis/ManYYWZ07
+
+A Note on Shacham and Waters Ring Signatures.
+Puwen Wei,Mingqiang Wang,Wei Wang
+2007. inproceedings: CIS. key: conf/cis/WeiWW07
+
+A New Method Considering Creditability Degree and Connection of Buyers and Sellers in E-Broker System.
+Shaomin Zhang,Wei Wang
+2007. inproceedings: CIS. key: conf/cis/ZhangW07
+
+A Hierarchical Artificial Immune Model for Virus Detection.
+Wei Wang,Pengtao Zhang,Ying Tan,Xingui He
+2009. inproceedings: CIS (1). key: conf/cis/WangZTH09
+
+A Novel Scheme for Video Similarity Detection.
+Chu-Hong Hoi,Wei Wang,Michael R. Lyu
+2003. inproceedings: CIVR. key: conf/civr/HoiWL03
+
+Semantics-Based Image Retrieval by Region Saliency.
+Wei Wang,Yuqing Song,Aidong Zhang
+2002. inproceedings: CIVR. key: conf/civr/WangSZ02
+
+Structure Alignment Using Bilingual Chunking.
+Wei Wang,Ming Zhou,Jin-Xia Huang,Changning Huang
+2002. inproceedings: COLING. key: conf/coling/WangZHH02
+
+Reliable Self-Clustering P2P Overlay Networks.
+Shihui Wang,Yan Zhang,Wei Wang
+2007. inproceedings: COMPSAC (1). key: conf/compsac/WangZW07
+
+News Analysis Based on Meta-synthesis Approach.
+Wei Wang,Xia Cui,Ai Wang
+2008. inproceedings: COMPSAC. key: conf/compsac/WangCW08
+
+New Birthday Attacks on Some MACs Based on Block Ciphers.
+Zheng Yuan,Wei Wang,Keting Jia,Guangwu Xu,Xiaoyun Wang
+2009. inproceedings: CRYPTO. key: conf/crypto/YuanWJXW09
+
+Reconstruction of Ancestral Gene Order after Segmental Duplication and Gene Loss.
+Jun Huan,Jan Prins,Wei Wang 0010,Todd J. Vision
+2003. inproceedings: CSB. key: conf/csb/HuanPWV03
+
+Gene Ontology Friendly Biclustering of Expression Profiles.
+Jinze Liu,Wei Wang 0010,Jiong Yang
+2004. inproceedings: CSB. key: conf/csb/LiuWY04
+
+Biclustering in Gene Expression Data by Tendency.
+Jinze Liu,Jiong Yang,Wei Wang 0010
+2004. inproceedings: CSB. key: conf/csb/LiuYW04
+
+Discovering Compact and Highly Discriminative Features or Feature Combinations of Drug Activities Using Support Vector Machines.
+Hwanjo Yu,Jiong Yang,Wei Wang 0010,Jiawei Han
+2003. inproceedings: CSB. key: conf/csb/YuYWH03
+
+Accelerating Approximate Subsequence Search on Large Protein Sequence Databases.
+Jiong Yang,Wei Wang 0010,Yi Xia,Philip S. Yu
+2002. inproceedings: CSB. key: conf/csb/YangWXY02
+
+Towards Automatic Clustering of Protein Sequences.
+Jiong Yang,Wei Wang 0010
+2002. inproceedings: CSB. key: conf/csb/YangW02
+
+An Bayesian Method for Biological Pathway Discovery from High-Throughput Experimental Data.
+Wei Wang,Gregory F. Cooper
+2004. inproceedings: CSB. key: conf/csb/WangC04
+
+A Fourth-Order Compact BVM Scheme for the Two-Dimensional Heat Equations.
+Hai-wei Sun,Wei Wang
+2008. inproceedings: CSC. key: conf/csc/SunW08
+
+Hardware-Software Co-design for Dynamic Reconfigurable Computing with Collaborative Supports of Architecture and Operating System.
+Wei Wang,Qiang Wu,Wei Xie
+2007. inproceedings: CSCWD. key: conf/cscwd/WangWX07
+
+MSFSS: A Storage System for Mass Small Files.
+Lihua Yu,Gang Chen,Wei Wang,Jinxiang Dong
+2007. inproceedings: CSCWD. key: conf/cscwd/YuCWD07
+
+Improving mutual awareness and distributed cognition in collaborative design communication via a virtualized reality-integrated telepresence system.
+Wei Wang,Xiangyu Wang
+2009. inproceedings: CSCWD. key: conf/cscwd/WangW09a
+
+Bridging shape grammar and Tangible Augmented Reality into collaborative design learning.
+Irene Rui Chen,Xiangyu Wang,Wei Wang
+2009. inproceedings: CSCWD. key: conf/cscwd/ChenWW09
+
+Motivated learning agent model for distributed collaborative systems.
+Rui Wang 0008,Xiangyu Wang,Wei Wang
+2009. inproceedings: CSCWD. key: conf/cscwd/WangWW09
+
+Distance Measures for Anomaly Intrusion Detection.
+Wei Wang 0012,Sylvain Gombault
+2007. inproceedings: Security and Management. key: conf/csreaSAM/WangG07
+
+Security Based Heuristic SAX for XML Parsing.
+Wei Wang
+2007. inproceedings: Security and Management. key: conf/csreaSAM/Wang07
+
+Measuring visual saliency by Site Entropy Rate.
+Wei Wang,Yizhou Wang,Qingming Huang,Wen Gao
+2010. inproceedings: CVPR. key: conf/cvpr/WangWHG10
+
+Reconfigurable multi-function logic based on graphene P-N junctions.
+Sansiri Tanachutiwat,Ji Ung Lee,Wei Wang,Chun Yung Sung
+2010. inproceedings: DAC. key: conf/dac/TanachutiwatLWS10
+
+A CRT-RSA Algorithm Secure against Hardware Fault Attacks.
+Sining Liu,Brian King,Wei Wang 0003
+2006. inproceedings: DASC. key: conf/dasc/LiuKW06
+
+Stay Current and Relevant in Data Mining Research.
+Haixun Wang,Wei Wang
+2005. inproceedings: DASFAA. key: conf/dasfaa/WangW05
+
+Continuous Expansion: Efficient Processing of Continuous Range Monitoring in Mobile Environments.
+Xiaoyuan Wang,Wei Wang 0009
+2006. inproceedings: DASFAA. key: conf/dasfaa/WangW06
+
+Effective Keyword Search in XML Documents Based on MIU.
+Jianjun Xu,Jiaheng Lu,Wei Wang 0009,Baile Shi
+2006. inproceedings: DASFAA. key: conf/dasfaa/XuLWS06
+
+AB-Index: An Efficient Adaptive Index for Branching XML Queries.
+Bo Zhang,Wei Wang 0011,Xiaoling Wang,Aoying Zhou
+2007. inproceedings: DASFAA. key: conf/dasfaa/ZhangWWZ07
+
+SUDEPHIC: Self-Tuning Density-Based Partitioning and Hierarchical Clustering.
+Ding Zhou,Zunping Cheng,Chen Wang,Haofeng Zhou,Wei Wang 0009,Baile Shi
+2004. inproceedings: DASFAA. key: conf/dasfaa/ZhouCWZWS04
+
+Privacy-Preserving Frequent Pattern Sharing.
+Zhihui Wang,Wei Wang 0009,Baile Shi,S. H. Boey
+2007. inproceedings: DASFAA. key: conf/dasfaa/WangWSB07
+
+Consistent Answers from Integrated XML Data.
+Zijing Tan,Chengfei Liu,Wei Wang 0009,Baile Shi
+2009. inproceedings: DASFAA. key: conf/dasfaa/TanLWS09
+
+Efficient Algorithms for Node Disjoint Subgraph Homeomorphism Determination.
+Yanghua Xiao,Wentao Wu,Wei Wang 0009,Zhenying He
+2008. inproceedings: DASFAA. key: conf/dasfaa/XiaoWWH08
+
+Workshop Organizers' Message.
+Wei Wang,Baihua Zheng
+2009. inproceedings: DASFAA Workshops. key: conf/dasfaa/WangZ09
+
+GDM2010 Workshop Organizers' Message.
+Sherif Sakr,Wei Wang
+2010. inproceedings: DASFAA Workshops. key: conf/dasfaa/SakrW10
+
+NOVA: A Novel and Efficient Framework for Finding Subgraph Isomorphism Mappings in Large Graphs.
+Ke Zhu,Ying Zhang,Xuemin Lin,Gaoping Zhu,Wei Wang 0011
+2010. inproceedings: DASFAA (1). key: conf/dasfaa/ZhuZLZW10
+
+Answering Approximate Range Aggregate Queries on OLAP Data Cubes with Probabilistic Guarantees.
+Alfredo Cuzzocrea,Wei Wang,Ugo Matrangolo
+2004. inproceedings: DaWaK. key: conf/dawak/CuzzocreaWM04
+
+FMC: An Approach for Privacy Preserving OLAP.
+Ming Hua,Shouzhi Zhang,Wei Wang 0009,Haofeng Zhou,Baile Shi
+2005. inproceedings: DaWaK. key: conf/dawak/HuaZWZS05
+
+Stochastically Consistent Caching and Dynamic Duty Cycling for Erratic Sensor Sources.
+Shanzhong Zhu,Wei Wang,Chinya V. Ravishankar
+2006. inproceedings: DCOSS. key: conf/dcoss/ZhuWR06
+
+Visual Specification and Optimization of XQuery Using VXQ.
+Ryan H. Choi,Raymond K. Wong,Wei Wang
+2006. inproceedings: DEXA. key: conf/dexa/ChoiWW06
+
+A Novel Incremental Maintenance Algorithm of SkyCube.
+Zhenhua Huang,Wei Wang
+2006. inproceedings: DEXA. key: conf/dexa/HuangW06
+
+Efficient SLCA-Based Keyword Search on XML Databases: An Iterative-Skip Approach.
+Jiaqi Zhang,Zhenying He,Yue Tao,Xiansheng Wang,Hao Hu,Wei Wang
+2010. inproceedings: DEXA (1). key: conf/dexa/ZhangHTWHW10
+
+Network Forensics Analysis with Evidence Graphs.
+Wei Wang,Thomas E. Daniels
+2005. inproceedings: DFRWS. key: conf/dfrws/WangD05
+
+Adopting IT for Effective Management of Social Welfare Programs.
+Dean Duncan,Hye-Chung Kum,Kimberly Flair,Wei Wang 0010
+2004. inproceedings: DG.O. key: conf/dgo/DuncanKFW04
+
+Successfully Adopting IT for Social Welfare Program Management.
+Dean Duncan,Hye-Chung Kum,Kimberly Flair,Wei Wang 0010
+2004. inproceedings: DG.O. key: conf/dgo/DuncanKFW04a
+
+Management Assistance for Work First via a Dynamic Website.
+Hye-Chung (Monica) Kum,Dean Duncan,Kimberly Flair,Wei Wang 0010
+2003. inproceedings: DG.O. key: conf/dgo/KumDFW03
+
+Social Welfare Program Administration and Evaluation and Policy Analysis Using Knowledge Discovery and Data Mining (KDD) on Administrative Data.
+Hye-Chung (Monica) Kum,Dean Duncan,Kimberly Flair,Wei Wang 0010
+2003. inproceedings: DG.O. key: conf/dgo/KumDFW03a
+
+Understanding Social Welfare Service Patterns Using Sequential Analysis.
+Hye-Chung Kum,Dean Duncan,Wei Wang 0010
+2004. inproceedings: DG.O. key: conf/dgo/KumDW04
+
+Webview: A Distributed Geographical Image Retrieval System.
+Wei Wang,Daoying Ma,Yimin Wu,Aidong Zhang,David M. Mark
+2002. inproceedings: DG.O. key: conf/dgo/WangMWZM02
+
+SemView: A Semantic-sensitive Distributed Image Retrieval System.
+Wei Wang,Yimin Wu,Aidong Zhang
+2003. inproceedings: DG.O. key: conf/dgo/WangWZ03
+
+Very Large Scale Multidimensional Data Management and Retrieval for USGS and NIMA Imagery.
+Aidong Zhang,Wei Wang,David M. Mark
+2004. inproceedings: DG.O. key: conf/dgo/ZhangWM04
+
+A Color Indexing Scheme Using Two-level Clustering Processing for Effective and Efficient Image Retrieval.
+Ji Zhang,Wei Wang,Sheng Zhang
+2005. inproceedings: DMIN. key: conf/dmin/ZhangWZ05
+
+Analyzing Co-training Style Algorithms.
+Wei Wang,Zhi-Hua Zhou
+2007. inproceedings: ECML. key: conf/ecml/WangZ07
+
+Multi-dimensional search for personal information management systems.
+Christopher Peery,Wei Wang 0014,Amelie Marian,Thu D. Nguyen
+2008. inproceedings: EDBT. key: conf/edbt/PeeryWMN08
+
+Efficiently indexing shortest paths by exploiting symmetry in graphs.
+Yanghua Xiao,Wentao Wu,Jian Pei,Wei Wang 0009,Zhenying He
+2009. inproceedings: EDBT. key: conf/edbt/XiaoWPWH09
+
+k-symmetry model for identity anonymization in social networks.
+Wentao Wu,Yanghua Xiao,Wei Wang,Zhenying He,Zhihui Wang
+2010. inproceedings: EDBT. key: conf/edbt/WuXWHW10
+
+Suggestion of promising result types for XML keyword search.
+Jianxin Li,Chengfei Liu,Rui Zhou,Wei Wang
+2010. inproceedings: EDBT. key: conf/edbt/LiLZW10
+
+The Design of Web-Based Intelligent Item Bank.
+Shaochun Zhong,Yongjiang Zhong,Jinan Li,Wei Wang,Chunhong Zhang
+2008. inproceedings: Edutainment. key: conf/edutainment/ZhongZLWZ08
+
+Research on the Establishment of Structural E-Learning Resources.
+Zhuo Zhang,Wei Wang,Zhongwu Zhou,Yongbin Chen
+2010. inproceedings: Edutainment. key: conf/edutainment/ZhangWZC10
+
+Empirical Research and Design of M-Learning System for College English.
+Wei Wang,Shaochun Zhong,Zhuo Zhang,Senlin Lv,Lina Wang
+2009. inproceedings: Edutainment. key: conf/edutainment/WangZZLW09
+
+The Content Balancing Method for Item Selection in CAT.
+Peng Lu,Dongdai Zhou,Xiao Cong,Wei Wang,Da Xu
+2010. inproceedings: Edutainment. key: conf/edutainment/LuZCWX10
+
+GiSA: A Grid System for Genome Sequences Assembly.
+Jun Tang,Dong Huang,Chen Wang,Wei Wang 0009,Baile Shi
+2004. inproceedings: ER. key: conf/er/TangHWWS04
+
+HARC: A Homogeneous Architecture reconfigurable Computer.
+M. David Yeager,Wei Wang
+2004. inproceedings: ERSA. key: conf/ersa/YeagerW04
+
+Cryptanalysis on HMAC/NMAC-MD5 and MD5-MAC.
+Xiaoyun Wang,Hongbo Yu,Wei Wang,Haina Zhang,Tao Zhan
+2009. inproceedings: EUROCRYPT. key: conf/eurocrypt/WangYWZZ09
+
+Evaluating Heterogeneous Memory Model by Realistic Trace-Driven Hardware/Software Co-simulation.
+Wei Wang,Qigang Wang,Wei Wei,Dong Liu
+2008. inproceedings: Euro-Par. key: conf/europar/WangWWL08
+
+Sensor Density for Complete Information Coverage in Wireless Sensor Networks.
+Bang Wang,Kee Chaing Chua,Vikram Srinivasan,Wei Wang 0002
+2006. inproceedings: EWSN. key: conf/ewsn/WangCSW06
+
+Loss Tomography in Wireless Sensor Network Using Gibbs Sampling.
+Yongjun Li,Wandong Cai,Guangli Tian,Wei Wang
+2007. inproceedings: EWSN. key: conf/ewsn/LiCTW07
+
+Online and adaptive anomaly Detection: detecting intrusions in unlabelled audit data streams.
+Wei Wang 0012,Thomas Guyet,Rene Quiniou,Marie-Odile Cordier,Florent Masseglia
+2009. inproceedings: EGC. key: conf/f-egc/WangGQCM09
+
+AFOPT: An Efficient Implementation of Pattern Growth Approach.
+Guimei Liu,Hongjun Lu,Jeffrey Xu Yu,Wei Wang 0011,Xiangye Xiao
+2003. inproceedings: FIMI. key: conf/fimi/LiuLYWX03
+
+PK-tree: A Spatial Index Structure for High Dimensional Point Data.
+Wei Wang 0010,Jiong Yang,Richard R. Muntz
+1998. inproceedings: FODO. key: conf/fodo/WangYM98
+
+Using SPIN to Detect Vulnerabilities in the AACS Drive-Host Authentication Protocol.
+Wei Wang,Dongyao Ji
+2008. inproceedings: FORTE. key: conf/forte/WangJ08
+
+New Distinguishing Attack on MAC Using Secret-Prefix Method.
+Xiaoyun Wang,Wei Wang,Keting Jia,Meiqin Wang
+2009. inproceedings: FSE. key: conf/fse/WangWJW09
+
+A Probabilistic Method to Estimate Life Expectancy of Application Software.
+Shengzhong Yuan,Hong He,Wei Wang
+2008. inproceedings: FSKD (1). key: conf/fskd/YuanHW08
+
+Improving Fuzzy C-Means Clustering Based on Adaptive Weighting.
+Wei Wang,Chunheng Wang,Xia Cui,Ai Wang
+2008. inproceedings: FSKD (1). key: conf/fskd/WangWCW08a
+
+Fuzzy C-Means Text Clustering with Supervised Feature Selection.
+Wei Wang,Chunheng Wang,Xia Cui,Ai Wang
+2008. inproceedings: FSKD (1). key: conf/fskd/WangWCW08
+
+A Hybrid Statistical Language Model Applied to the Domain Specific Information Retrieval.
+Wei Wang,Kunhui Lin,Changle Zhou
+2008. inproceedings: FSKD (2). key: conf/fskd/WangLZ08
+
+Community Detection in Social Networks Employing Component Independency.
+Zhongmin Xiong,Wei Wang,Dongmei Huang
+2008. inproceedings: FSKD (2). key: conf/fskd/XiongWH08
+
+Projection Pursuit Model Based on Complex Algorithm and its Application in Water Quality Evaluation of Yuqing Lake Reservoir.
+Chuanqi Li,Wei Wang
+2009. inproceedings: FSKD (2). key: conf/fskd/LiW09
+
+Sentiment analysis of online product reviews with Semi-supervised topic sentiment mixture model.
+Wei Wang
+2010. inproceedings: FSKD. key: conf/fskd/Wang10c
+
+The Impact of Fault Expansion on the Interval Estimate for Fault Detection Coverage.
+Wei Wang,Kishor S. Trivedi,Babubhai V. Shah,Joseph A. Profeta III
+1994. inproceedings: FTCS. key: conf/ftcs/WangTSP94
+
+Parallel Web Spiders for Cooperative Information Gathering.
+Jiewen Luo,Zhongzhi Shi,Maoguang Wang,Wei Wang
+2005. inproceedings: GCC. key: conf/gcc/LuoSWW05
+
+Ad Hoc Debugging Environment for Grid Applications.
+Wei Wang,Binxing Fang,Hongli Zhang,Yuanzhe Yao
+2004. inproceedings: GCC. key: conf/gcc/WangFZY04
+
+iOmS: An Agent-Based P2P Framework for Ubiquitous Workflow.
+Min Yang,Zunping Cheng,Ning Shang,Mi Zhang,Min Li,Jing Dai,Wei Wang 0009,Dilin Mao,Chuanshan Gao
+2004. inproceedings: GCC. key: conf/gcc/YangCSZLDWMG04
+
+PGMS: A P2P-Based Grid Monitoring System.
+Yuanzhe Yao,Binxing Fang,Hongli Zhang,Wei Wang
+2004. inproceedings: GCC. key: conf/gcc/YaoFZW04
+
+Network Performance Measurement Methodologies in PGMS.
+Yuanzhe Yao,Binxing Fang,Hongli Zhang,Wei Wang
+2004. inproceedings: GCC Workshops. key: conf/gcc/YaoFZW04a
+
+Grid Workflow Based on Performance Evaluation.
+Shaohua Zhang,Yujin Wu,Ning Gu,Wei Wang
+2003. inproceedings: GCC (1). key: conf/gcc/ZhangWGW03
+
+Towards a Framework for Automatic Service Composition in Manufacturing Grid.
+Lei Zhang,Weizheng Yuan,Wei Wang
+2005. inproceedings: GCC. key: conf/gcc/ZhangYW05
+
+Ant-based Reputation Evidence Distribution in P2P Networks.
+Wei Wang,Guosun Zeng,Lulai Yuan
+2006. inproceedings: GCC. key: conf/gcc/WangZY06
+
+A Grid Resource Price-adjusting Strategy Based on Price Influence Model.
+Lulai Yuan,Guosun Zeng,Wei Wang
+2006. inproceedings: GCC. key: conf/gcc/YuanZW06
+
+MT3-DA: Multicast Optimization Mechanism Based on Transmission Time and Interference Minimization in WMNs.
+Wei Wang,Junzhou Luo,Ming Yang,Wenjia Wu
+2010. inproceedings: GCC. key: conf/gcc/WangLYW10
+
+Theoretical Analysis of Simple Evolution Strategies in Quickly Changing Environments.
+Jurgen Branke,Wei Wang
+2003. inproceedings: GECCO. key: conf/gecco/BrankeW03
+
+Genetically generated double-level fuzzy controller with a fuzzy adjustment strategy.
+Sofiane Achiche,Wei Wang,Zhun Fan,Ali Gurcan Ozkil,Torben Sorensen,Jiachuan Wang,Erik D. Goodman
+2007. inproceedings: GECCO. key: conf/gecco/AchicheWFOSWG07
+
+Map-matching for low-sampling-rate GPS trajectories.
+Yin Lou,Chengyang Zhang,Yu Zheng,Xing Xie,Wei Wang,Yan Huang
+2009. inproceedings: GIS. key: conf/gis/LouZZXWH09
+
+Two-prime RSA immune cryptosystem and its FPGA implementation.
+Ying Yang,Zine-Eddine Abid,Wei Wang
+2005. inproceedings: ACM Great Lakes Symposium on VLSI. key: conf/glvlsi/YangAW05
+
+Design considerations for variation tolerant multilevel CMOS/Nano memristor memory.
+Harika Manem,Garrett S. Rose,Xiaoli He,Wei Wang
+2010. inproceedings: ACM Great Lakes Symposium on VLSI. key: conf/glvlsi/ManemRHW10
+
+Adaptive sampling based on fuzzy inference.
+Qing Xu 0002,Lianping Xing,Wei Wang,Mateu Sbert
+2006. inproceedings: GRAPHITE. key: conf/graphite/XuXWS06
+
+Sketch Parameterization Using Curve Approximation.
+Zhengxing Sun,Wei Wang,Lisha Zhang,Jing Liu
+2005. inproceedings: GREC. key: conf/grec/SunWZL05
+
+Ethnographic User Study and Concept Design for Chinese Migrant Workers' Social Networks.
+Jie Wang,Wei Wang,Ying Liu,Xia Wang,Qiuhong Chen
+2009. inproceedings: HCI (12). key: conf/hci/WangWLWC09
+
+Mobile Social Service Design for Large-Scale Exhibition.
+Huanglingzi Liu,Ying Liu,Wei Wang,Bin Wang
+2009. inproceedings: HCI (12). key: conf/hci/LiuLWW09
+
+OpenGL application live migration with GPU acceleration in personal cloud.
+Yunbiao Lin,Wei Wang,Kyle Gui
+2010. inproceedings: HPDC. key: conf/hpdc/LinWG10
+
+An Autonomous Trust Construction System Based on Bayesian Method.
+Wei Wang,Guosun Zeng,Tao Liu
+2006. inproceedings: IAT. key: conf/iat/WangZL06
+
+A Decision-Tree-Based Online Speaker Clustering.
+Wei Wang 0007,Ping Lv,QingWei Zhao,YongHong Yan
+2007. inproceedings: IbPRIA (1). key: conf/ibpria/WangLZY07
+
+A Kernel Matching Pursuit Approach to Man-Made Objects Detection in Aerial Images.
+Wei Wang,Xin Yang,Shoushui Chen
+2007. inproceedings: IbPRIA (2). key: conf/ibpria/WangYC07
+
+A 2O(n1-(1/d)log n) Time Algorithm for d-Dimensional Protein Folding in the HP-Model.
+Bin Fu,Wei Wang
+2004. inproceedings: ICALP. key: conf/icalp/FuW04
+
+Extraction of Stable Points from Fingerprint Images Using Zone Could-be-in Theorem.
+Xuchu Wang,Jianwei Li,Yanmin Niu,Weimin Chen,Wei Wang
+2006. inproceedings: ICB. key: conf/icb/WangLNCW06
+
+Downlink Capacity Enhancement in GSM Systems with Frequency Hopping and Multiple Beam Smart Antennas.
+Mohamed Ahmed,Wei Wang,Samy A. Mahmoud
+2000. inproceedings: ICC (2). key: conf/icc/AhmedWM00
+
+Energy-Aware Adaptive Watermarking for Real-Time Image Delivery in Wireless Sensor Networks.
+Honggang Wang,Dongming Peng,Wei Wang 0015,Hamid Sharif,Hsiao-Hwa Chen
+2008. inproceedings: ICC. key: conf/icc/WangPWSC08
+
+CRMS: A Collusion-Resistant Matrix System for Group Key Management in Wireless Networks.
+Wei Wang,Jianfeng Ma,Sang-Jae Moon
+2008. inproceedings: ICC. key: conf/icc/WangMM08
+
+Interplay Between Routing and Distributed Source Coding in Wireless Sensor Network.
+Honggang Wang,Dongming Peng,Wei Wang 0015,Hamid Sharif,Hsiao-Hwa Chen
+2007. inproceedings: ICC. key: conf/icc/WangPWSC07
+
+A Novel Ray Tracing Based Multipath Modeling Approach for Site-Specific WLAN Simulations.
+Ting Zhou,Hamid Sharif,Michael Hempel,Puttipong Mahasukhon,Wei Wang 0015,Song Ci
+2009. inproceedings: ICC. key: conf/icc/ZhouSHMWC09
+
+The Design and Implementation of Extensible Information Services.
+Guiyi Wei,Guangming Wang,Yao Zheng,Wei Wang 0005
+2005. inproceedings: International Conference on Computational Science (1). key: conf/iccS/WeiWZW05
+
+Simulating Trust Overlay in P2P Networks.
+Yan Zhang,Wei Wang,Shunying Lu
+2007. inproceedings: International Conference on Computational Science (1). key: conf/iccS/ZhangWL07
+
+Performance and power evaluation of a 3D CMOS/nanomaterial reconfigurable architecture.
+Chen Dong,Deming Chen,Sansiri Tanachutiwat,Wei Wang
+2007. inproceedings: ICCAD. key: conf/iccad/DongCTW07
+
+Electrical characterization of RF TSV for 3D multi-core and heterogeneous ICs.
+Le Yu,Haigang Yang,Tom T. Jing,Min Xu,Robert Geer,Wei Wang
+2010. inproceedings: ICCAD. key: conf/iccad/YuYJXGW10
+
+Multispace Search for Minimizing the Maximum Nodal Degree.
+Bin Du,Jun Gu,Wei Wang,Danny H. K. Tsang
+1997. inproceedings: ICCCN. key: conf/icccn/DuGWT97
+
+AFEC: An Adaptive Forward Error Correction Protocol for End-to-End Transport of Real-Time Traffic.
+Kihong Park,Wei Wang
+1998. inproceedings: ICCCN. key: conf/icccn/ParkW98
+
+Using Proximity in Query Focused Multi-document Extractive Summarization.
+Sujian Li,Yu Zhang,Wei Wang 0013,Chen Wang
+2009. inproceedings: ICCPOL. key: conf/iccpol/LiZWW09
+
+Experiment Research on Feature Selection and Learning Method in Keyphrase Extraction.
+Chen Wang,Sujian Li,Wei Wang 0013
+2009. inproceedings: ICCPOL. key: conf/iccpol/WangLW09
+
+Hierarchical neural network for recognizing hand-written characters in engineering drawings.
+Hui Su,Wei Wang,Xinyou Li,Shaowei Xia
+1995. inproceedings: ICDAR. key: conf/icdar/SuWLX95
+
+Dynamic Adaptive File Management in a Local Area Network.
+Jiong Yang,Wei Wang 0010,Richard R. Muntz,Silvia Nittel
+2000. inproceedings: ICDCS. key: conf/icdcs/YangWMN00
+
+XR-Tree: Indexing XML Data for Efficient Structural Joins.
+Haifeng Jiang,Hongjun Lu,Wei Wang 0011,Beng Chin Ooi
+2003. inproceedings: ICDE. key: conf/icde/JiangLWO03
+
+XParent: An Efficient RDBMS-Based XML Database System.
+Haifeng Jiang,Hongjun Lu,Wei Wang 0011,Jeffrey Xu Yu
+2002. inproceedings: ICDE. key: conf/icde/JiangLWY02
+
+Stabbing the Sky: Efficient Skyline Computation over Sliding Windows.
+Xuemin Lin,Yidong Yuan,Wei Wang 0011,Hongjun Lu
+2005. inproceedings: ICDE. key: conf/icde/LinYWL05
+
+Performance Analysis of Several Algorithms for Processing Joins between Textual Attributes.
+Weiyi Meng,Clement T. Yu,Wei Wang 0010,Naphtali Rishe
+1996. inproceedings: ICDE. key: conf/icde/MengYWR96
+
+PBiTree Coding and Efficient Processing of Containment Joins.
+Wei Wang 0011,Haifeng Jiang,Hongjun Lu,Jeffrey Xu Yu
+2003. inproceedings: ICDE. key: conf/icde/WangJLY03
+
+Condensed Cube: An Efficient Approach to Reducing Data Cube Size.
+Wei Wang 0011,Hongjun Lu,Jianlin Feng,Jeffrey Xu Yu
+2002. inproceedings: ICDE. key: conf/icde/WangLFY02
+
+A Framework Towards Efficient and Effective Sequence Clusterin.
+Wei Wang 0010,Jiong Yang
+2002. inproceedings: ICDE. key: conf/icde/WangY02
+
+TAR: Temporal Association Rules on Evolving Numerical Attributes.
+Wei Wang 0010,Jiong Yang,Richard R. Muntz
+2001. inproceedings: ICDE. key: conf/icde/WangYM01
+
+STING+: An Approach to Active Spatial Data Mining.
+Wei Wang 0010,Jiong Yang,Richard R. Muntz
+1999. inproceedings: ICDE. key: conf/icde/WangYM99
+
+Mining Shifting-and-Scaling Co-Regulation Patterns on Gene Expression Profiles.
+Xin Xu,Ying Lu,Anthony K. H. Tung,Wei Wang 0010
+2006. inproceedings: ICDE. key: conf/icde/XuLTW06
+
+Space-efficient Relative Error Order Sketch over Data Streams.
+Ying Zhang,Xuemin Lin,Jian Xu,Flip Korn,Wei Wang 0011
+2006. inproceedings: ICDE. key: conf/icde/ZhangLXKW06
+
+CLUSEQ: Efficient and Effective Sequence Clustering.
+Jiong Yang,Wei Wang 0010
+2003. inproceedings: ICDE. key: conf/icde/YangW03
+
+delta-Clusters: Capturing Subspace Correlation in a Large Data Set.
+Jiong Yang,Wei Wang 0010,Haixun Wang,Philip S. Yu
+2002. inproceedings: ICDE. key: conf/icde/YangWWY02
+
+Accelerating Profile Queries in Elevation Maps.
+Feng Pan,Wei Wang 0010,Leonard McMillan
+2007. inproceedings: ICDE. key: conf/icde/PanWM07
+
+Blocking Inference Channels in Frequent Pattern Sharing.
+Zhihui Wang,Wei Wang 0009,Baile Shi
+2007. inproceedings: ICDE. key: conf/icde/WangWS07
+
+PictureBook: A Text-and-Image Summary System for Web Search Result.
+Mei Wang,Hongtao Xu,Guoyu Hao,Xiangdong Zhou,Wei Wang 0009,Qi Zhang,Baile Shi
+2008. inproceedings: ICDE. key: conf/icde/WangXHZWZS08
+
+Graph Database Indexing Using Structured Graph Decomposition.
+David W. Williams,Jun Huan,Wei Wang 0010
+2007. inproceedings: ICDE. key: conf/icde/WilliamsHW07
+
+Approximate Clustering on Distributed Data Streams.
+Qi Zhang,Jinze Liu,Wei Wang 0010
+2008. inproceedings: ICDE. key: conf/icde/ZhangLW08
+
+Mining Approximate Order Preserving Clusters in the Presence of Noise.
+Mengsheng Zhang,Wei Wang 0010,Jinze Liu
+2008. inproceedings: ICDE. key: conf/icde/ZhangWL08
+
+Fuzzy Multi-Dimensional Search in the Wayfinder File System.
+Christopher Peery,Wei Wang 0014,Amelie Marian,Thu D. Nguyen
+2008. inproceedings: ICDE. key: conf/icde/PeeryWMN08
+
+SPARK: A Keyword Search Engine on Relational Databases.
+Yi Luo,Wei Wang 0011,Xuemin Lin
+2008. inproceedings: ICDE. key: conf/icde/LuoWL08
+
+CARE: Finding Local Linear Correlations in High Dimensional Data.
+Xiang Zhang,Feng Pan,Wei Wang
+2008. inproceedings: ICDE. key: conf/icde/ZhangPW08
+
+A General Framework for Fast Co-clustering on Large Datasets Using Matrix Decomposition.
+Feng Pan,Xiang Zhang,Wei Wang 0010
+2008. inproceedings: ICDE. key: conf/icde/PanZW08
+
+Probabilistic Skyline Operator over Sliding Windows.
+Wenjie Zhang,Xuemin Lin,Ying Zhang,Wei Wang 0011,Jeffrey Xu Yu
+2009. inproceedings: ICDE. key: conf/icde/ZhangLZWY09
+
+Top-k Set Similarity Joins.
+Chuan Xiao,Wei Wang 0011,Xuemin Lin,Haichuan Shang
+2009. inproceedings: ICDE. key: conf/icde/XiaoWLS09
+
+Multi-guarded safe zone: An effective technique to monitor moving circular range queries.
+Muhammad Aamir Cheema,Ljiljana Brankovic,Xuemin Lin,Wenjie Zhang,Wei Wang 0011
+2010. inproceedings: ICDE. key: conf/icde/CheemaBLZW10
+
+Quantile-based KNN over multi-valued objects.
+Wenjie Zhang,Xuemin Lin,Muhammad Aamir Cheema,Ying Zhang,Wei Wang 0011
+2010. inproceedings: ICDE. key: conf/icde/ZhangLCZW10
+
+Efficient Mining of Frequent Subgraphs in the Presence of Isomorphism.
+Jun Huan,Wei Wang 0010,Jan Prins
+2003. inproceedings: ICDM. key: conf/icdm/HuanWP03
+
+Finding Representative Set from Massive Data.
+Feng Pan,Wei Wang 0010,Anthony K. H. Tung,Jiong Yang
+2005. inproceedings: ICDM. key: conf/icdm/PanWTY05
+
+Mining Approximate Frequent Itemsets from Noisy Data.
+Jinze Liu,Susan Paulsen,Wei Wang 0010,Andrew B. Nobel,Jan Prins
+2005. inproceedings: ICDM. key: conf/icdm/LiuPWNP05
+
+Revealing True Subspace Clusters in High Dimensions.
+Jinze Liu,Karl Strohmaier,Wei Wang 0010
+2004. inproceedings: ICDM. key: conf/icdm/LiuSW04
+
+OP-Cluster: Clustering by Tendency in High Dimensional Space.
+Jinze Liu,Wei Wang 0010
+2003. inproceedings: ICDM. key: conf/icdm/LiuW03
+
+On Reducing Classifier Granularity in Mining Concept-Drifting Data Streams.
+Peng Wang,Haixun Wang,Xiaochen Wu,Wei Wang 0009,Baile Shi
+2005. inproceedings: ICDM. key: conf/icdm/WangWWWS05
+
+Meta-patterns: Revealing Hidden Periodic Patterns.
+Wei Wang 0010,Jiong Yang,Philip S. Yu
+2001. inproceedings: ICDM. key: conf/icdm/WangYY01
+
+AGILE: A General Approach to Detect Transitions in Evolving Data Streams.
+Jiong Yang,Wei Wang 0010
+2004. inproceedings: ICDM. key: conf/icdm/YangW04
+
+InfoMiner+: Mining Partial Periodic Patterns with Gap Penalties.
+Jiong Yang,Wei Wang 0010,Philip S. Yu
+2002. inproceedings: ICDM. key: conf/icdm/YangWY02
+
+Gradual Cube: Customize Profile on Mobile OLAP.
+Jun Li,Haofeng Zhou,Wei Wang
+2006. inproceedings: ICDM. key: conf/icdm/LiZW06
+
+LOCI: Load Shedding through Class-Preserving Data Acquisition.
+Peng Wang,Haixun Wang,Wei Wang 0009,Baile Shi,Philip S. Yu
+2006. inproceedings: ICDM. key: conf/icdm/WangWWSY06
+
+Preserving Private Knowledge in Frequent Pattern Mining.
+Zhihui Wang,Wei Wang 0009,Baile Shi,S. H. Boey
+2006. inproceedings: ICDM Workshops. key: conf/icdm/WangWSB06
+
+Incremental Subspace Clustering over Multiple Data Streams.
+Qi Zhang,Jinze Liu,Wei Wang 0010
+2007. inproceedings: ICDM. key: conf/icdm/ZhangLW07
+
+Sample Selection for Maximal Diversity.
+Feng Pan,Adam Roberts,Leonard McMillan,David Threadgill,Wei Wang 0010
+2007. inproceedings: ICDM. key: conf/icdm/PanRMTW07
+
+Quantitative Association Analysis Using Tree Hierarchies.
+Feng Pan,Lynda Yang,Leonard McMillan,Fernando Pardo-Manuel de Villena,David Threadgill,Wei Wang 0010
+2008. inproceedings: ICDM. key: conf/icdm/PanYMVTW08
+
+K-AP: Generating Specified K Clusters by Efficient Affinity Propagation.
+Xiangliang Zhang,Wei Wang,Kjetil Norvag,Michele Sebag
+2010. inproceedings: ICDM. key: conf/icdm/ZhangWNS10
+
+Efficient Episode Mining with Minimal and Non-overlapping Occurrences.
+Huisheng Zhu,Peng Wang,Xianmang He,Yujia Li,Wei Wang,Baile Shi
+2010. inproceedings: ICDM. key: conf/icdm/ZhuWHLWS10
+
+Industry Track: Refining production strategy optimization model based on mixed bi-level programming method.
+Wei Wang,Qiang Zhang,Ze-fei Li,Wei Mei
+2005. inproceedings: ICEBE. key: conf/icebe/WangZLM05
+
+WMQ: Towards A Fine-grained QoS Control for E-Business Servers.
+Wei Wang,Wenbo Zhang,Lei Zhang,Tao Huang
+2007. inproceedings: ICEBE. key: conf/icebe/WangZZH07
+
+Locating Human Eyes Using Edge and Intensity Information.
+Jiatao Song,Zheru Chi,Zhengyou Wang,Wei Wang
+2005. inproceedings: ICIC (2). key: conf/icic/SongCWW05
+
+A Novel Approach to Ocular Image Enhancement with Diffusion and Parallel AOS Algorithm.
+Lanfeng Yan,Janjun Ma,Wei Wang,Qing Liu,Qiuyong Zhou
+2005. inproceedings: ICIC (1). key: conf/icic/YanMWLZ05
+
+Face Recognition Based on Binary Template Matching.
+Jiatao Song,Beijing Chen,Zheru Chi,Xuena Qiu,Wei Wang
+2007. inproceedings: ICIC (1). key: conf/icic/SongCCQW07
+
+A New Immune PID Controller Based on Immune Tuning.
+Wei Wang,X. Gao,Changhong Wang
+2007. inproceedings: ICIC (3). key: conf/icic/WangGW07
+
+Emotional Particle Swarm Optimization.
+Wei Wang,Zhiliang Wang,Xuejing Gu,Siyi Zheng
+2009. inproceedings: ICIC (2). key: conf/icic/WangWGZ09
+
+Density Based Merging Search of Functional Modules in Protein-Protein Interaction (PPI) Networks.
+Wei Wang,Jinwen Ma
+2010. inproceedings: ICIC (1). key: conf/icic/WangM10
+
+Compression of cDNA and inkjet microarray images.
+Rebecka Jornsten,Bin Yu,Wei Wang,Kannan Ramchandran
+2002. inproceedings: ICIP (3). key: conf/icip/JornstenYWR02
+
+Image segmentation via brittle fracture mechanics.
+Wei Wang 0017,Ronald Chung
+2004. inproceedings: ICIP. key: conf/icip/WangC04
+
+Design of iir orthogonal wavelet filter banks using lifting scheme.
+Xi Zhang,Wei Wang,Toshinori Yoshikawa,Yoshinori Takei
+2004. inproceedings: ICIP. key: conf/icip/ZhangWYT04
+
+Height Reconstruction in Highly Sloped Area Using Multi-frequency InSAR Data.
+Bin Zou,Wei Wang,Yigang Zhou,Shuang Zhou
+2006. inproceedings: ICIP. key: conf/icip/ZouWZZ06
+
+Effective image splicing detection based on image chroma.
+Wei Wang,Jing Dong,Tieniu Tan
+2009. inproceedings: ICIP. key: conf/icip/WangDT09
+
+Structure-oriented Gaussian filter for seismic detail preserving smoothing.
+Wei Wang,Jinghuai Gao,Kang Li,Ke Ma,Xia Zhang
+2009. inproceedings: ICIP. key: conf/icip/WangGLMZ09
+
+Informative frequent assembled feature for face detection.
+Bang Zhang,Getian Ye,Yang Wang 0002,Wei Wang,Jie Xu,Gunawan Herman,Jun Yang
+2009. inproceedings: ICIP. key: conf/icip/ZhangYWWXHY09
+
+Image tampering detection based on stationary distribution of Markov chain.
+Wei Wang,Jing Dong,Tieniu Tan
+2010. inproceedings: ICIP. key: conf/icip/WangDT10
+
+Distinguishing Attack on Secret Prefix MAC Instantiated with Reduced SHA-1.
+Siyuan Qiao,Wei Wang,Keting Jia
+2009. inproceedings: ICISC. key: conf/icisc/QiaoWJ09
+
+Abstracting Audit Data for Lightweight Intrusion Detection.
+Wei Wang,Xiangliang Zhang,Georgios Pitsilis
+2010. inproceedings: ICISS. key: conf/iciss/WangZP10
+
+QoS-Sensitive Transport of Real-Time MPEG Video Using Adaptive Forward Error Correction.
+Kihong Park,Wei Wang
+1999. inproceedings: ICMCS, Vol. 2. key: conf/icmcs/ParkW99
+
+Locatization of human eyes based on a series of binary images.
+Jiatao Song,Jilin Liu,Zheru Chi,Wei Wang
+2004. inproceedings: ICME. key: conf/icmcs/SongLCW04
+
+Positive Sample Enhanced Angle-Diversity Active Learning for SVM Based Image Retrieval.
+Jin Yuan,Xiangdong Zhou,Junqi Zhang,Mei Wang,Qi Zhang,Wei Wang 0009,Baile Shi
+2007. inproceedings: ICME. key: conf/icmcs/YuanZZWZWS07
+
+Optimal Rate-Based Image Transmissions via Multiple Paths in Wireless Sensor Network.
+Honggang Wang,Dongming Peng,Wei Wang 0015,Hamid Sharif
+2007. inproceedings: ICME. key: conf/icmcs/WangPWS07
+
+An Improved Active Shape Model for Face Alignment.
+Wei Wang,Shiguang Shan,Wen Gao,Bo Cao,Baocai Yin
+2002. inproceedings: ICMI. key: conf/icmi/WangSGCY02
+
+On multi-view active learning and the combination with semi-supervised learning.
+Wei Wang,Zhi-Hua Zhou
+2008. inproceedings: ICML. key: conf/icml/WangZ08
+
+A New Analysis of Co-Training.
+Wei Wang,Zhi-Hua Zhou
+2010. inproceedings: ICML. key: conf/icml/WangZ10
+
+A Proteome Characteristic Pattern of Unstable Angina was Found by Two-Dimensional Difference Gel Electrophoresis and Least Angle Regression.
+Huihui Zhao,Jianxin Chen,Na Hou,Weidong Lu,Wei Wang
+2009. inproceedings: ICNC (2). key: conf/icnc/ZhaoCHLW09
+
+Non-invasive Assessment of Fish Freshness with Bio-impedance and BP-ANN Method.
+Jun Zhang,XiaoYu Li,Wei Wang,Shengjie Jiao,Yi Zhang,Mao Si Kui
+2009. inproceedings: ICNC (2). key: conf/icnc/ZhangLWJZK09
+
+Engineering Signals' Blind Source Separation in Frequency Domain and Its Application.
+Wei Wang,Hong Zhao,Qiang Li,Zhixiong Liu
+2009. inproceedings: ICNC (2). key: conf/icnc/WangZLL09
+
+Study on Unified Model of Emotional State in HCI.
+Wei Wang,Zhiliang Wang
+2009. inproceedings: ICNC (5). key: conf/icnc/WangW09a
+
+A single neuron PID controller based on immune tuning and it's application.
+Wei Wang,X. Z. Gao
+2010. inproceedings: ICNC. key: conf/icnc/WangG10
+
+Design of emotional Intelligent Tutor System based on HMM.
+Xuejing Gu,Zhiliang Wang,Jian Zhang,Wei Wang,Siyi Zheng
+2010. inproceedings: ICNC. key: conf/icnc/GuWZWZ10
+
+Broadcasting Algorithm Via Shortest Paths.
+Hovhannes A. Harutyunyan,Wei Wang
+2010. inproceedings: ICPADS. key: conf/icpads/HarutyunyanW10
+
+Fingerprint Minutiae Matching Based on Coordinate System Bank and Global Optimum Alignment.
+Wei Wang,Jianwei Li,Weimin Chen
+2006. inproceedings: ICPR (4). key: conf/icpr/WangLC06a
+
+An SVD Decomposition of Essential Matrix with Eight Solutions for the Relative Positions of Two Perspective Cameras.
+Wei Wang,Hung-Tat Tsui
+2000. inproceedings: ICPR. key: conf/icpr/WangT00
+
+A clustering algorithm combine the FCM algorithm with supervised learning normal mixture model.
+Wei Wang,Chunheng Wang,Xia Cui,Ai Wang
+2008. inproceedings: ICPR. key: conf/icpr/WangWCW08
+
+Symmetric segment-based stereo matching of motion blurred images with illumination variations.
+Wei Wang,Yizhou Wang,Longshe Huo,Qingming Huang,Wen Gao
+2008. inproceedings: ICPR. key: conf/icpr/WangWHHG08
+
+Multi-class Graph Boosting with Subgraph Sharing for Object Recognition.
+Bang Zhang,Getian Ye,Yang Wang 0002,Wei Wang,Jie Xu,Gunawan Herman,Yun Yang
+2010. inproceedings: ICPR. key: conf/icpr/ZhangYWWXHY10
+
+Internal force compensating method for wall-climbing caterpillar robot.
+Wei Wang,Kun Wang,Houxiang Zhang,Jianwei Zhang
+2010. inproceedings: ICRA. key: conf/icra/WangWZZ10
+
+An adaptive roadmap guided Multi-RRTs strategy for single query path planning.
+Wei Wang,Yan Li,Xin Xu,Simon X. Yang
+2010. inproceedings: ICRA. key: conf/icra/WangLXY10
+
+Beyond Supervised Learning of Wrappers for Extracting Information from Unseen Web Sites.
+Tak-Lam Wong,Wai Lam,Wei Wang
+2003. inproceedings: IDEAL. key: conf/ideal/WongLW03
+
+Adaptive Data Broadcasting in Asymmetric Communication Environments.
+Wei Wang,Chinya V. Ravishankar
+2004. inproceedings: IDEAS. key: conf/ideas/WangR04
+
+Refining Web Authoritative Resource by Frequent Structures.
+Haofeng Zhou,Yubo Lou,Qingqing Yuan,Wilfred Ng,Wei Wang 0009,Baile Shi
+2003. inproceedings: IDEAS. key: conf/ideas/ZhouLYNWS03
+
+Generalized Rake Receiver for Spreading-IFDMA Systems.
+Wei Wang,Ling Wang,Zhiqiang He,Jiaru Lin,Wei Qiu,Elena Costa
+2006. inproceedings: PWC. key: conf/ifip6-8/WangWHLQC06
+
+ANN Based Internal Model Approach to Motor Learning for Humanoid Robot.
+Jian-Xin Xu,Wei Wang,Prahlad Vadakkepat,Low Wai Yee
+2006. inproceedings: IJCNN. key: conf/ijcnn/XuWVY06
+
+Extending Tree Automata to Obtain Consistent Query Answer from Inconsistent XML Document.
+Zijing Tan,Wei Wang 0009,Baile Shi
+2006. inproceedings: IMSCCS (2). key: conf/imsccs/TanWS06
+
+Generating Incremental ETL Processes Automatically.
+Xufeng Zhang,Weiwei Sun,Wei Wang 0009,Yahui Feng,Baile Shi
+2006. inproceedings: IMSCCS (2). key: conf/imsccs/ZhangSWFS06
+
+A Method to Enhance Service Survivability Based on Autonomous Configuration.
+Lejun Zhang,Wu Yang,Wei Wang,Lin Guo,Yongtian Yang
+2007. inproceedings: IMSCCS. key: conf/imsccs/ZhangYWGY07
+
+A New Constant Factor Approximation for Computing 3-Connected m-Dominating Sets in Homogeneous Wireless Networks.
+Donghyun Kim,Wei Wang,Xianyue Li,Zhao Zhang,Weili Wu
+2010. inproceedings: INFOCOM. key: conf/infocom/KimWLZW10
+
+Extension of Lower Probabilities and Coherence of Belief Measures.
+Zhenyuan Wang,Wei Wang
+1994. inproceedings: IPMU. key: conf/ipmu/WangW94
+
+Distributed sparse random projections for refinable approximation.
+Wei Wang,Minos N. Garofalakis,Kannan Ramchandran
+2007. inproceedings: IPSN. key: conf/ipsn/WangGR07
+
+Random distributed multiresolution representations with significance querying.
+Wei Wang,Kannan Ramchandran
+2006. inproceedings: IPSN. key: conf/ipsn/WangR06
+
+Coverage for target localization in wireless sensor networks.
+Wei Wang 0002,Vikram Srinivasan,Bang Wang,Kee Chaing Chua
+2006. inproceedings: IPSN. key: conf/ipsn/WangSWC06
+
+Energy-efficient coverage for target detection in wireless sensor networks.
+Wei Wang 0002,Vikram Srinivasan,Kee Chaing Chua,Bang Wang
+2007. inproceedings: IPSN. key: conf/ipsn/WangSCW07
+
+Deformation-based nonlinear dimension reduction: Applications to nuclear morphometry.
+Gustavo K. Rohde,Wei Wang,Tao Peng,Robert F. Murphy
+2008. inproceedings: ISBI. key: conf/isbi/RohdeWPM08
+
+Molecular Tomographic Imaging of Lymph Nodes with Nir Fluorescence.
+Amit Joshi,Wolfgang Bangerth,Ruchi Sharma,John C. Rasmussen,Wei Wang,Eva M. Sevick-Muraca
+2007. inproceedings: ISBI. key: conf/isbi/JoshiBSRWS07
+
+Instance-Based Generative Biological Shape Modeling.
+Tao Peng,Wei Wang,Gustavo K. Rohde,Robert F. Murphy
+2009. inproceedings: ISBI. key: conf/isbi/PengWRM09
+
+A Classifier Ensemble Based on Performance Level Estimation.
+Wei Wang,Yaoyao Zhu,Xiaolei Huang,Daniel P. Lopresti,Zhiyun Xue,L. Rodney Long,Sameer Antani,George R. Thoma
+2009. inproceedings: ISBI. key: conf/isbi/WangZHLXLAT09
+
+Powder-based fabrication techniques for single-wall carbon nanotube circuits.
+Daniel Dai,Yehea I. Ismail,Wei Wang,Hanif M. Ladak
+2004. inproceedings: ISCAS (3). key: conf/iscas/DaiIWL04
+
+Moduli selection in RNS for efficient VLSI implementation.
+Wei Wang 0003,M. N. S. Swamy,M. Omair Ahmad
+2003. inproceedings: ISCAS (4). key: conf/iscas/WangSA03
+
+A scalable DCO design for portable ADPLL designs.
+Chia-Tsun Wu,Wei Wang,I-Chyn Wey,An-Yeu Wu
+2005. inproceedings: ISCAS (6). key: conf/iscas/WuWWW05
+
+Efficient multi-prime RSA immune against hardware fault attack.
+Yonghong Yang,Zine Abid,Wei Wang,Z. Zhang,C. Yang
+2005. inproceedings: ISCAS (5). key: conf/iscas/YangAWZY05
+
+Performance comparison of quantum-dot cellular automata adders.
+Rumi Zhang,Wei Wang,Konrad Walus,Graham A. Jullien
+2005. inproceedings: ISCAS (3). key: conf/iscas/ZhangWWJ05
+
+A global approach to the variable ordering problem in PSBDDs.
+Wei Wang,Malgorzata Chrzanowska-Jeske
+2001. inproceedings: ISCAS (5). key: conf/iscas/WangC01
+
+A high-speed residue-to-binary converter and a scheme for its VLSI implementation.
+Wei Wang 0003,M. N. S. Swamy,M. Omair Ahmad,Yuke Wang
+1999. inproceedings: ISCAS (6). key: conf/iscas/WangSAW99
+
+Modulo deflation in (2n+1, 2n, 2n-1) converters.
+Shaoqiang Bi,Wei Wang 0003,Asim J. Al-Khalili
+2004. inproceedings: ISCAS (2). key: conf/iscas/BiWA04
+
+A new architecture of RRNS error-correcting QC encoder/decoder and its FPGA implementation.
+Wei Wang 0003,M. N. S. Swamy,M. Omair Ahmad
+2002. inproceedings: ISCAS (5). key: conf/iscas/WangSA02
+
+Fault Tolerance Circuit for AM-OLED.
+Dayong Li,Ming Liu,Wei Wang
+2007. inproceedings: ISCAS. key: conf/iscas/LiLW07
+
+Passive reduced-order macromodeling algorithm for structure dynamics in MEMS systems.
+Rumi Zhang,Graham A. Jullien,Wei Wang,Anestis Dounavis
+2006. inproceedings: ISCAS. key: conf/iscas/ZhangJWD06
+
+A portable all-digital pulsewidth control loop for SOC applications.
+Wei Wang,I-Chyn Wey,Chia-Tsun Wu,An-Yeu Wu
+2006. inproceedings: ISCAS. key: conf/iscas/WangWWW06
+
+Elliptic curves cryptosystem implementation based on a look-up table sharing scheme.
+Sining Liu,F. Bowen,Brian King,Wei Wang 0003
+2006. inproceedings: ISCAS. key: conf/iscas/LiuBKW06
+
+Logic optimization for majority gate-based nanoelectronic circuits.
+Zhi Huo,Qishan Zhang,S. Haruehanroengra,Wei Wang
+2006. inproceedings: ISCAS. key: conf/iscas/HuoZHW06
+
+A frequency estimation algorithm for ADPLL designs with two-cycle lock-in time.
+Chia-Tsun Wu,Wei Wang,I-Chyn Wey,An-Yeu Wu
+2006. inproceedings: ISCAS. key: conf/iscas/WuWWW06
+
+Exploring carbon nanotubes and NiSi nanowires as on-chip interconnections.
+Chen Dong,S. Haruehanroengra,Wei Wang
+2006. inproceedings: ISCAS. key: conf/iscas/DongHW06
+
+An efficient adaptive interlace-to-progressive scan conversion scheme and hardware implementation.
+Shahab Salehi,B. M. Handjojo,Wei Wang,Yaobin Chen
+2006. inproceedings: ISCAS. key: conf/iscas/SalehiHWC06
+
+Analyzing mixed carbon nanotube bundles: A current density study.
+Liwei Shang,Ming Liu,Sansiri Tanachutiwat,Wei Wang
+2008. inproceedings: ISCAS. key: conf/iscas/ShangLTW08
+
+New designs of Redundant-Binary full Adders and its applications.
+Zine Abid,Wei Wang
+2008. inproceedings: ISCAS. key: conf/iscas/AbidW08
+
+A multiplex-multicast scheme that improves system capacity of voice-over-IP on wireless LAN by 100%.
+Wei Wang,Soung C. Liew,Qixiang Pang,Victor O. K. Li
+2004. inproceedings: ISCC. key: conf/iscc/WangLPL04
+
+Robust Adaptive Neural Network Control for a Class of Nonlinear Systems.
+Yisha Liu,Wei Wang,Yan-Jun Liu
+2006. inproceedings: ISDA (1). key: conf/isda/LiuWL06
+
+Inferring missing genotypes in large SNP panels using fast nearest-neighbor searches over sliding windows.
+Adam Roberts,Leonard McMillan,Wei Wang 0010,Joel Parker,Ivan Rusyn,David Threadgill
+2007. inproceedings: ISMB/ECCB (Supplement of Bioinformatics). key: conf/ismb/RobertsMWPRT07
+
+Enhanced Active Shape Models with Global Texture Constraints for Image Analysis.
+Shiguang Shan,Wen Gao,Wei Wang,Debin Zhao,Baocai Yin
+2003. inproceedings: ISMIS. key: conf/ismis/ShanGWZY03
+
+Traffic Volume Forecasting Based on Wavelet Transform and Neural Networks.
+Shuyan Chen,Wei Wang
+2006. inproceedings: ISNN (2). key: conf/isnn/ChenW06
+
+Modeling Dynamic System by Recurrent Neural Network with State Variables.
+Min Han,Zhiwei Shi,Wei Wang
+2004. inproceedings: ISNN (2). key: conf/isnn/HanSW04
+
+Nonlinear System Adaptive Control by Using Multiple Neural Network Models.
+Xiao-Li Li,Yun-Feng Kang,Wei Wang
+2006. inproceedings: ISNN (2). key: conf/isnn/LiKW06
+
+Estimation of the Future Earthquake Situation by Using Neural Networks Ensemble.
+Tian-Yu Liu,Guo-Zheng Li,Yue Liu,Gengfeng Wu,Wei Wang
+2006. inproceedings: ISNN (2). key: conf/isnn/LiuLLWW06
+
+Adaptive Neural Network Control for Nonlinear Systems Based on Approximation Errors.
+Yan-Jun Liu,Wei Wang
+2006. inproceedings: ISNN (2). key: conf/isnn/LiuW06a
+
+A Novel Individual Blood Glucose Control Model Based on Mixture of Experts Neural Networks.
+Wei Wang,Zheng-Zhong Bian,Lanfeng Yan,Jing Su
+2004. inproceedings: ISNN (2). key: conf/isnn/WangBYS04
+
+A Novel Intrusion Detection Method Based on Principle Component Analysis in Computer Security.
+Wei Wang 0012,Xiaohong Guan,Xiangliang Zhang
+2004. inproceedings: ISNN (2). key: conf/isnn/WangGZ04
+
+Multisensors Information Fusion with Neural Networks for Noninvasive Blood Glucose Detection.
+Wei Wang,Lanfeng Yan,Baowei Liu,Heng Zhang
+2005. inproceedings: ISNN (3). key: conf/isnn/WangYLZ05
+
+Appearance-Based Map Learning for Mobile Robot by Using Generalized Regression Neural Network.
+Ke Wang,Wei Wang,Yan Zhuang
+2007. inproceedings: ISNN (1). key: conf/isnn/WangWZ07
+
+Soft-Sensor Method Based on Least Square Support Vector Machines Within Bayesian Evidence Framework.
+Wei Wang,Tianmiao Wang,Hongxing Wei,Hongming Zhao
+2007. inproceedings: ISNN (3). key: conf/isnn/WangWWZ07
+
+Analog Circuit Fault Fusion Diagnosis Method Based on Support Vector Machine.
+Zhihong Feng,Zhigui Lin,Wei Fang,Wei Wang,Zhitao Xiao
+2009. inproceedings: ISNN (2). key: conf/isnn/FengLFWX09
+
+Cooperative Grid Jobs Scheduling with Multi-objective Genetic Algorithm.
+Bin Zeng 0002,Jun Wei 0004,Wei Wang 0019,Pu Wang
+2007. inproceedings: ISPA. key: conf/ispa/ZengWWW07
+
+A Model of Scalable Distributed Network Performance Management.
+Bin Zeng 0002,Tao Hu,Wei Wang 0019,ZiTan Li
+2004. inproceedings: ISPAN. key: conf/ispan/BinTWZ04
+
+Attribute Normalization in Network Intrusion Detection.
+Wei Wang 0012,Xiangliang Zhang,Sylvain Gombault,Svein J. Knapskog
+2009. inproceedings: ISPAN. key: conf/ispan/WangZGK09
+
+The Multiplicative Path Toward Prior-Shape Guided Active Contour for Object Detection.
+Wei Wang 0017,Ronald Chung
+2007. inproceedings: ISVC (2). key: conf/isvc/WangC07a
+
+Image Segmentation That Optimizes Global Homogeneity in a Variational Framework.
+Wei Wang 0017,Ronald Chung
+2007. inproceedings: ISVC (2). key: conf/isvc/WangC07
+
+Adaptive Fingerprint Enhancement by Combination of Quality Factor and Quantitative Filters.
+Xuchu Wang,Jianwei Li,Yanmin Niu,Weimin Chen,Wei Wang
+2005. inproceedings: IWBRS. key: conf/iwbrs/WangLNCW05
+
+A Survey of Passive Image Tampering Detection.
+Wei Wang,Jing Dong,Tieniu Tan
+2009. inproceedings: IWDW. key: conf/iwdw/WangDT09
+
+Multi-class Blind Steganalysis Based on Image Run-Length Analysis.
+Jing Dong,Wei Wang,Tieniu Tan
+2009. inproceedings: IWDW. key: conf/iwdw/DongWT09
+
+Run-Length and Edge Statistics Based Approach for Image Splicing Detection.
+Jing Dong,Wei Wang,Tieniu Tan,Yun Q. Shi
+2008. inproceedings: IWDW. key: conf/iwdw/DongWTS08
+
+An Area-Reduced Scheme for Modulo 2n-1 Addition/Subtraction.
+Shaoqiang Bi,Warren J. Gross,Wei Wang 0003,Asim J. Al-Khalili,M. N. S. Swamy
+2005. inproceedings: IWSOC. key: conf/iwsoc/BiGWAS05
+
+RNS Application for Digital Image Processing.
+Wei Wang 0003,M. N. S. Swamy,M. Omair Ahmad
+2004. inproceedings: IWSOC. key: conf/iwsoc/WangSA04
+
+An Architecture and Programming Framework for Dynamic Reconfigurable Computing Systems.
+Qiang Wu,Wei Xie,Wei Wang
+2006. inproceedings: JCIS. key: conf/jcis/WuXW06
+
+DBMiner: A System for Mining Knowledge in Large Relational Databases.
+Jiawei Han,Yongjian Fu,Wei Wang,Jenny Chiang,Wan Gong,Krzysztof Koperski,Deyi Li,Yijun Lu,Amynmohamed Rajan,Nebojsa Stefanovic,Betty Xia,Osmar R. Zaiane
+1996. inproceedings: KDD. key: conf/kdd/HanFWCGKLLRSXZ96
+
+SPIN: mining maximal frequent subgraphs from graph databases.
+Jun Huan,Wei Wang 0010,Jan Prins,Jiong Yang
+2004. inproceedings: KDD. key: conf/kdd/HuanWPY04
+
+A framework for ontology-driven subspace clustering.
+Jinze Liu,Wei Wang 0010,Jiong Yang
+2004. inproceedings: KDD. key: conf/kdd/LiuWY04
+
+Clustering pair-wise dissimilarity data into partially ordered sets.
+Jinze Liu,Qi Zhang,Wei Wang 0010,Leonard McMillan,Jan Prins
+2006. inproceedings: KDD. key: conf/kdd/LiuZWMP06
+
+Scalable mining of large disk-based graph databases.
+Chen Wang,Wei Wang 0009,Jian Pei,Yongtai Zhu,Baile Shi
+2004. inproceedings: KDD. key: conf/kdd/WangWPZS04
+
+Efficient mining of weighted association rules (WAR).
+Wei Wang,Jiong Yang,Philip S. Yu
+2000. inproceedings: KDD. key: conf/kdd/WangYY00
+
+Utility-based anonymization using local recoding.
+Jian Xu,Wei Wang 0009,Jian Pei,Xiaoyuan Wang,Baile Shi,Ada Wai-Chee Fu
+2006. inproceedings: KDD. key: conf/kdd/XuWPWSF06
+
+Mining asynchronous periodic patterns in time series data.
+Jiong Yang,Wei Wang 0010,Philip S. Yu
+2000. inproceedings: KDD. key: conf/kdd/YangWY00
+
+Infominer: mining surprising periodic patterns.
+Jiong Yang,Wei Wang 0010,Philip S. Yu
+2001. inproceedings: KDD. key: conf/kdd/YangWY01
+
+Fastanova: an efficient algorithm for genome-wide association study.
+Xiang Zhang,Fei Zou,Wei Wang 0010
+2008. inproceedings: KDD. key: conf/kdd/ZhangZW08
+
+Repairing Inconsistent XML Documents.
+Zijing Tan,Wei Wang 0009,Jianjun Xu,Baile Shi
+2006. inproceedings: KSEM. key: conf/ksem/TanWXS06
+
+Information Coverage and Network Lifetime in Energy Constrained Wireless Sensor Networks.
+Bang Wang,Vikram Srinivasan,Kee Chaing Chua,Wei Wang 0002
+2007. inproceedings: LCN. key: conf/lcn/WangSCW07
+
+Implementation and performance evaluation of Selective Repeat ARQ for WiMAX NS-2 model.
+Michael Hempel,Wei Wang 0015,Hamid Sharif,Ting Zhou,Puttipong Mahasukhon
+2008. inproceedings: LCN. key: conf/lcn/HempelWSZM08
+
+A Deterministic approach to evaluate path loss exponents in large-scale outdoor 802.11 WLANs.
+Ting Zhou,Hamid Sharif,Michael Hempel,Puttipong Mahasukhon,Wei Wang 0015,Tao Ma
+2009. inproceedings: LCN. key: conf/lcn/ZhouSHMWM09
+
+A Coverage-Based Maximum Lifetime Data Gathering Algorithm in Sensor Networks.
+Xiaoyuan Wang,Qing Zhang,Weiwei Sun,Wei Wang 0009,Baile Shi
+2006. inproceedings: MDM. key: conf/mdm/WangZSWS06
+
+Visual Search in Alzheimer's Disease - fMRI Study.
+Jing Hao,Kuncheng Li,Ke Li,Dexuan Zhang,Wei Wang,Bin Yan,Yanhui Yang,Y. Wang,Q. Chen,Baoci Shan,Xiaolin Zhou
+2004. inproceedings: MIAR. key: conf/miar/HaoLLZWYYWCSZ04
+
+Mining repetitive clips through finding continuous paths.
+Junsong Yuan,Wei Wang,Jingjing Meng,Ying Wu,Dongge Li
+2007. inproceedings: ACM Multimedia. key: conf/mm/YuanWMWL07
+
+Using mobile relays to prolong the lifetime of wireless sensor networks.
+Wei Wang 0002,Vikram Srinivasan,Kee Chaing Chua
+2005. inproceedings: MOBICOM. key: conf/mobicom/WangSC05
+
+Adaptive contact probing mechanisms for delay tolerant applications.
+Wei Wang 0002,Vikram Srinivasan,Mehul Motani
+2007. inproceedings: MOBICOM. key: conf/mobicom/WangSM07
+
+Trade-offs between mobility and density for coverage in wireless sensor networks.
+Wei Wang 0002,Vikram Srinivasan,Kee Chaing Chua
+2007. inproceedings: MOBICOM. key: conf/mobicom/0002SC07
+
+Achievable throughput of multiple access spectrum systems based on cognitive relay.
+Wei Wang,Baochun Li,Li Yu
+2009. inproceedings: MOBICOM-CoRoNet. key: conf/mobicom/WangLY09
+
+SAM: enabling practical spatial multiple access in wireless LAN.
+Kun Tan,He Liu,Ji Fang,Wei Wang,Jiansong Zhang,Mi Chen,Geoffrey M. Voelker
+2009. inproceedings: MOBICOM. key: conf/mobicom/TanLFWZCV09
+
+Localized Recursive Estimation in Wireless Sensor Networks.
+Bang Wang,Kee Chaing Chua,Vikram Srinivasan,Wei Wang 0002
+2005. inproceedings: MSN. key: conf/msn/WangCSW05
+
+Worst and Best Information Exposure Paths in Wireless Sensor Networks.
+Bang Wang,Kee Chaing Chua,Wei Wang 0002,Vikram Srinivasan
+2005. inproceedings: MSN. key: conf/msn/WangCWS05
+
+Efficient Group Key Management for Dynamic Peer Networks.
+Wei Wang,Jianfeng Ma,Sang-Jae Moon
+2005. inproceedings: MSN. key: conf/msn/WangMM05
+
+An Improved ETR Protocol with Energy Awareness for Wireless Sensor Networks.
+Guisong Yang,Zhongjie Wang,Wei Wang,Xingyu He
+2009. inproceedings: MSN. key: conf/msn/YangWWH09
+
+Optimal rate-oriented routing for distributed source coding in wireless sensor network.
+Honggang Wang,Dongming Peng,Wei Wang 0015,Hamid Sharif
+2006. inproceedings: Q2SWinet. key: conf/mswim/WangPWS06a
+
+Study of an energy efficient multi rate scheme for wireless sensor network MAC protocol.
+Wei Wang 0015,Dongming Peng,Honggang Wang,Hamid Sharif
+2006. inproceedings: Q2SWinet. key: conf/mswim/WangPWS06
+
+Capitalizing Machine Translation.
+Wei Wang 0006,Kevin Knight,Daniel Marcu
+2006. inproceedings: HLT-NAACL. key: conf/naacl/WangKM06
+
+11,001 New Features for Statistical Machine Translation.
+David Chiang,Kevin Knight,Wei Wang 0006
+2009. inproceedings: HLT-NAACL. key: conf/naacl/ChiangKW09
+
+Lossy Node Identification in Wireless Sensor Network.
+Yongjun Li,Wandong Cai,Wei Wang,Guangli Tian
+2006. inproceedings: NCA. key: conf/nca/LiCWT06
+
+Finding Target Language Correspondence for Lexicalized EBMT System.
+Wei Wang,Jin-Xia Huang,Ming Zhou,Changning Huang
+2001. inproceedings: NLPRS. key: conf/nlprs/WangHZH01
+
+Cooperative Communication System for Parallel Computing Agents in Multi-cluster Grid.
+Qing-Kui Chen,Wei Wang
+2008. inproceedings: NPC. key: conf/npc/Qing-KuiW08
+
+Sora: High Performance Software Radio Using General Purpose Multi-core Processors.
+Kun Tan,Jiansong Zhang,Ji Fang,He Liu,Yusheng Ye,Shen Wang,Yongguang Zhang,Haitao Wu,Wei Wang,Geoffrey M. Voelker
+2009. inproceedings: NSDI. key: conf/nsdi/TanZFLYWZWWV09
+
+Diffusion and graph spectral methods for network forensic analysis.
+Wei Wang,Thomas E. Daniels
+2006. inproceedings: NSPW. key: conf/nspw/WangD06
+
+A Trust-Oriented Heuristic Scheduling Algorithm for Grid Computing.
+Mingjun Sun,Guosun Zeng,Lulai Yuan,Wei Wang
+2007. inproceedings: PaCT. key: conf/pact/SunZYW07
+
+A Privacy-Preserving Classification Mining Algorithm.
+Weiping Ge,Wei Wang 0009,Xiaorong Li,Baile Shi
+2005. inproceedings: PAKDD. key: conf/pakdd/GeWLS05
+
+An Efficient Algorithm of Frequent Connected Subgraph Extraction.
+Mingsheng Hong,Haofeng Zhou,Wei Wang 0009,Baile Shi
+2003. inproceedings: PAKDD. key: conf/pakdd/HongZWS03
+
+Ranking Outliers Using Symmetric Neighborhood Relationship.
+Wen Jin,Anthony K. H. Tung,Jiawei Han,Wei Wang 0010
+2006. inproceedings: PAKDD. key: conf/pakdd/JinTHW06
+
+Locating Motifs in Time-Series Data.
+Zheng Liu,Jeffrey Xu Yu,Xuemin Lin,Hongjun Lu,Wei Wang 0011
+2005. inproceedings: PAKDD. key: conf/pakdd/LiuYLLW05
+
+ADenTS: An Adaptive Density-Based Tree Structure for Approximating Aggregate Queries over Real Attributes.
+Tianyi Wu,Jian Xu,Chen Wang,Wei Wang 0009,Baile Shi
+2005. inproceedings: PAKDD. key: conf/pakdd/WuXWWS05
+
+Efficient Pattern-Growth Methods for Frequent Tree Pattern Mining.
+Chen Wang,Mingsheng Hong,Jian Pei,Haofeng Zhou,Wei Wang 0009,Baile Shi
+2004. inproceedings: PAKDD. key: conf/pakdd/WangHPZWS04
+
+Intelligent Sequential Mining Via Alignment: Optimization Techniques for Very Large DB.
+Hye-Chung Kum,Joong Hyuk Chang,Wei Wang 0010
+2007. inproceedings: PAKDD. key: conf/pakdd/KumCW07
+
+Data-Aware Clustering Hierarchy for Wireless Sensor Networks.
+Xiaochen Wu,Peng Wang,Wei Wang 0009,Baile Shi
+2008. inproceedings: PAKDD. key: conf/pakdd/WuWWS08
+
+Data Management Services in ChinaGrid for Data Mining Applications.
+Song Wu,Wei Wang,Muzhou Xiong,Hai Jin
+2007. inproceedings: PAKDD Workshops. key: conf/pakdd/WuWXJ07
+
+Factoid Mining Based Content Trust Model for Information Retrieval.
+Wei Wang,Guosun Zeng,Mingjun Sun,Huanan Gu,Quan Zhang
+2007. inproceedings: PAKDD Workshops. key: conf/pakdd/WangZSGZ07
+
+A Novel Active Learning Approach for SVM Based Web Image Retrieval.
+Jin Yuan,Xiangdong Zhou,Hongtao Xu,Mei Wang,Wei Wang 0009
+2007. inproceedings: PCM. key: conf/pcm/YuanZXWW07
+
+Grid-Enabled Parallel Debugging Environment: A Portal Solution.
+Wei Wang,Binxing Fang,Hongli Zhang
+2004. inproceedings: PDPTA. key: conf/pdpta/WangFZ04
+
+DynamO: Dynamic Objects with Persistent Storage.
+Jiong Yang,Silvia Nittel,Wei Wang 0010,Richard R. Muntz
+1998. inproceedings: POS/PJW. key: conf/pos/YangNWM98
+
+A Generic Trust Overlay Simulator for P2P Networks.
+Wei Wang,Guosun Zeng
+2006. inproceedings: PRDC. key: conf/prdc/WangZ06
+
+A Reputation Multi-agent System in Semantic Web.
+Wei Wang,Guosun Zeng,Lulai Yuan
+2006. inproceedings: PRIMA. key: conf/prima/WangZY06
+
+Research on Performance Test and Evaluation Method of Assembly Packaging Ammunition.
+Wenzhao Li,Wei Wang,Min Gao,Junbo Wang
+2006. inproceedings: PROLAMAT. key: conf/prolamat/LiWGW06
+
+Accurate Classification of Protein Structural Families Using Coherent Subgraph Analysis.
+Jun Huan,Wei Wang 0010,Anglina Washington,Jan Prins,Ruchir Shah,Alexander Tropsha
+2004. inproceedings: Pacific Symposium on Biocomputing. key: conf/psb/HuanWWPST04
+
+TreeQA: Quantitative Genome Wide Association Mapping Using Local Perfect Phylogeny Trees.
+Feng Pan,Leonard McMillan,Fernando Pardo-Manuel de Villena,David Threadgill,Wei Wang
+2009. inproceedings: Pacific Symposium on Biocomputing. key: conf/psb/PanMVTW09
+
+FastChi: An Efficient Algorithm for Analyzing Gene-Gene Interactions.
+Xiang Zhang,Fei Zou,Wei Wang
+2009. inproceedings: Pacific Symposium on Biocomputing. key: conf/psb/ZhangZW09
+
+Inferring Genome-Wide Mosaic Structure.
+Qi Zhang,Wei Wang,Leonard McMillan,Fernando Pardo-Manuel de Villena,David Threadgill
+2009. inproceedings: Pacific Symposium on Biocomputing. key: conf/psb/ZhangWMVT09
+
+A QoS-Enabled WorkManager Model for Web Application Servers.
+Wei Wang,Wenbo Zhang,Jun Wei,Tao Huang
+2007. inproceedings: QSIC. key: conf/qsic/WangZWH07
+
+Autonomic Intrusion Detection System.
+Wei Wang 0012,Thomas Guyet,Svein J. Knapskog
+2009. inproceedings: RAID. key: conf/raid/WangGK09
+
+Mining protein family specific residue packing patterns from protein structure graphs.
+Jun Huan,Wei Wang 0010,Deepak Bandyopadhyay,Jack Snoeyink,Jan Prins,Alexander Tropsha
+2004. inproceedings: RECOMB. key: conf/recomb/HuanWBSPT04
+
+COE: A General Approach for Efficient Genome-Wide Two-Locus Epistasis Test in Disease Association Study.
+Xiang Zhang,Feng Pan,Yuying Xie,Fei Zou,Wei Wang 0010
+2009. inproceedings: RECOMB. key: conf/recomb/ZhangPXZW09
+
+A Bottom-Up Distance-Based Index Tree for Metric Space.
+Bing Liu,Zhihui Wang,Xiaoming Yang,Wei Wang 0009,Baile Shi
+2006. inproceedings: RSKT. key: conf/rskt/LiuWYWS06
+
+Subsequence Similarity Search Under Time Shifting.
+Bing Liu,Jianjun Xu,Zhihui Wang,Wei Wang 0009,Baile Shi
+2006. inproceedings: RSKT. key: conf/rskt/LiuXWWS06
+
+Using Rough Reducts to Analyze the Independency of Earthquake Precursory Items.
+Yue Liu,Mingzhou Lin,Suyu Mei,Gengfeng Wu,Wei Wang
+2007. inproceedings: RSKT. key: conf/rskt/LiuLMWW07
+
+ApproxMAP: Approximate Mining of Consensus Sequential Patterns.
+Hye-Chung Kum,Jian Pei,Wei Wang 0010,Dean Duncan
+2003. inproceedings: SDM. key: conf/sdm/KimPWD03
+
+Mining Approximate Frequent Itemsets In the Presence of Noise: Algorithm and Analysis.
+Jinze Liu,Susan Paulsen,Xing Sun,Wei Wang 0010,Andrew B. Nobel,Jan Prins
+2006. inproceedings: SDM. key: conf/sdm/LiuPSWNP06
+
+Efficient Filtering of Large DatasetA User-Centric Paradigm.
+Yi Xia,Wei Wang 0010,Jiong Yang,Philip S. Yu,Richard R. Muntz
+2002. inproceedings: SDM. key: conf/sdm/XiaWYYM02
+
+STAMP: On Discovery of Statistically Important Pattern Repeats in Long Sequential Data.
+Jiong Yang,Wei Wang 0010,Philip S. Yu
+2003. inproceedings: SDM. key: conf/sdm/YangWY03
+
+PoClustering: Lossless Clustering of Dissimilarity Data.
+Jinze Liu,Qi Zhang,Wei Wang 0010,Leonard McMillan,Jan Prins
+2007. inproceedings: SDM. key: conf/sdm/LiuZWMP07
+
+On Demand Phenotype Ranking through Subspace Clustering.
+Xiang Zhang,Wei Wang 0010,Jun Huan
+2007. inproceedings: SDM. key: conf/sdm/ZhangWH07
+
+TP-Tree: a Query Workload-Adaptive Synopsis for Fast OLAP Applications.
+Alfredo Cuzzocrea,Wei Wang
+2005. inproceedings: SEBD. key: conf/sebd/CuzzocreaW05
+
+Similarity Join Algorithms: An Introduction.
+Wei Wang 0011
+2008. inproceedings: SEBD. key: conf/sebd/Wang08
+
+Human motion estimation from a reduced marker set.
+Guodong Liu,Jingdan Zhang,Wei Wang 0010,Leonard McMillan
+2006. inproceedings: SI3D. key: conf/si3d/LiuZWM06
+
+Simultaneously modeling semantics and structure of threaded discussions: a sparse coding approach and its applications.
+Chen Lin,Jiang-Ming Yang,Rui Cai,Xin-Jing Wang,Wei Wang 0009,Lei Zhang 0001
+2009. inproceedings: SIGIR. key: conf/sigir/LinYCWW09
+
+Collaborative Web caching based on proxy affinities.
+Jiong Yang,Wei Wang 0010,Richard R. Muntz
+2000. inproceedings: SIGMETRICS. key: conf/sigmetrics/YangWM00
+
+Fast Computation of Database Operations using Graphics Processors.
+Naga K. Govindaraju,Brandon Lloyd,Wei Wang 0010,Ming C. Lin,Dinesh Manocha
+2004. inproceedings: SIGMOD Conference. key: conf/sigmod/GovindarajuLWLM04
+
+DBMiner: Interactive Mining of Multiple-Level Knowledge in Relational Databases.
+Jiawei Han,Yongjian Fu,Wei Wang,Jenny Chiang,Osmar R. Zaiane,Krzysztof Koperski
+1996. inproceedings: SIGMOD Conference. key: conf/sigmod/HanFWCZK96
+
+Efficient Processing of Twig Queries with OR-Predicates.
+Haifeng Jiang,Hongjun Lu,Wei Wang 0011
+2004. inproceedings: SIGMOD Conference. key: conf/sigmod/JiangLW04
+
+A system for analyzing and indexing human-motion databases.
+Guodong Liu,Jingdan Zhang,Wei Wang 0010,Leonard McMillan
+2005. inproceedings: SIGMOD Conference. key: conf/sigmod/LiuZWM05
+
+Containment Join Size Estimation: Models and Methods.
+Wei Wang 0011,Haifeng Jiang,Hongjun Lu,Jeffrey Xu Yu
+2003. inproceedings: SIGMOD Conference. key: conf/sigmod/WangJLY03
+
+Clustering by pattern similarity in large data sets.
+Haixun Wang,Wei Wang 0010,Jiong Yang,Philip S. Yu
+2002. inproceedings: SIGMOD Conference. key: conf/sigmod/WangWYY02
+
+GraphMiner: a structural pattern-mining system for large disk-based graph databases and its applications.
+Wei Wang 0009,Chen Wang,Yongtai Zhu,Baile Shi,Jian Pei,Xifeng Yan,Jiawei Han
+2005. inproceedings: SIGMOD Conference. key: conf/sigmod/WangWZSPYH05
+
+Mining long sequential patterns in a noisy environment.
+Jiong Yang,Wei Wang 0010,Philip S. Yu,Jiawei Han
+2002. inproceedings: SIGMOD Conference. key: conf/sigmod/YangWYH02
+
+Spark: top-k keyword query in relational databases.
+Yi Luo,Xuemin Lin,Wei Wang 0011,Xiaofang Zhou
+2007. inproceedings: SIGMOD Conference. key: conf/sigmod/LuoLWZ07
+
+Keyword search on structured and semi-structured data.
+Yi Chen,Wei Wang 0011,Ziyang Liu,Xuemin Lin
+2009. inproceedings: SIGMOD Conference. key: conf/sigmod/ChenWLL09
+
+CRD: fast co-clustering on large datasets utilizing sampling-based matrix decomposition.
+Feng Pan,Xiang Zhang,Wei Wang 0010
+2008. inproceedings: SIGMOD Conference. key: conf/sigmod/PanZW08
+
+An algorithmic approach to event summarization.
+Peng Wang,Haixun Wang,Majin Liu,Wei Wang
+2010. inproceedings: SIGMOD Conference. key: conf/sigmod/WangWLW10
+
+Efficient approximate entity extraction with edit distance constraints.
+Wei Wang 0011,Chuan Xiao,Xuemin Lin,Chengqi Zhang
+2009. inproceedings: SIGMOD Conference. key: conf/sigmod/WangXLZ09
+
+GAIA: graph classification using evolutionary computation.
+Ning Jin,Calvin Young,Wei Wang
+2010. inproceedings: SIGMOD Conference. key: conf/sigmod/JinYW10
+
+MapDupReducer: detecting near duplicates over massive datasets.
+Chaokun Wang,Jianmin Wang,Xuemin Lin,Wei Wang,Haixun Wang,Hongsong Li,Wanpeng Tian,Jun Xu,Rui Li
+2010. inproceedings: SIGMOD Conference. key: conf/sigmod/WangWLWWLTXL10
+
+Connected substructure similarity search.
+Haichuan Shang,Xuemin Lin,Ying Zhang,Jeffrey Xu Yu,Wei Wang 0011
+2010. inproceedings: SIGMOD Conference. key: conf/sigmod/ShangLZYW10
+
+An Immune CRT-Based Three-prime RSA cryptosystem.
+Yonghong Yang,Zine-Eddine Abid,Wei Wang
+2004. inproceedings: SNPD. key: conf/snpd/YangAW04
+
+RRNS Quasi-Chaotic Coding and Its FPGA Implementation.
+Wei Wang 0003,Xiaolin Zhang,Chenyang Yang,M. N. S. Swamy,M. Omair Ahmad
+2005. inproceedings: SNPD. key: conf/snpd/WangZYSA05
+
+EVolve: An Open Extensible Software Visualisation Framework.
+Qin Wang,Wei Wang,Rhodes Brown,Karel Driesen,Bruno Dufour,Laurie J. Hendren,Clark Verbrugge
+2003. inproceedings: SOFTVIS. key: conf/softvis/WangWBDDHV03
+
+BASS: Approximate Search on Large String Databases.
+Jiong Yang,Wei Wang 0010,Philip S. Yu
+2004. inproceedings: SSDBM. key: conf/ssdbm/YangWY04
+
+Mining RNA Tertiary Motifs with Structure Graphs.
+Xueyi Wang,Jun Huan,Jack Snoeyink,Wei Wang 0010
+2007. inproceedings: SSDBM. key: conf/ssdbm/WangHSW07
+
+A Fast Algorithm for Approximate Quantiles in High Speed Data Streams.
+Qi Zhang,Wei Wang 0010
+2007. inproceedings: SSDBM. key: conf/ssdbm/ZhangW07
+
+Split-Order Distance for Clustering and Classification Hierarchies.
+Qi Zhang,Eric Yi Liu,Abhishek Sarkar,Wei Wang 0010
+2009. inproceedings: SSDBM. key: conf/ssdbm/ZhangLSW09
+
+Maintaining K-Anonymity against Incremental Updates.
+Jian Pei,Jian Xu,Zhibin Wang,Wei Wang 0009,Ke Wang
+2007. inproceedings: SSDBM. key: conf/ssdbm/PeiXWWW07
+
+An Efficient Algorithm for Mining Coherent Patterns from Heterogeneous Microarrays.
+Xiang Zhang,Wei Wang
+2007. inproceedings: SSDBM. key: conf/ssdbm/ZhangW07a
+
+PrefIndex: An Efficient Supergraph Containment Search Technique.
+Gaoping Zhu,Xuemin Lin,Wenjie Zhang,Wei Wang,Haichuan Shang
+2010. inproceedings: SSDBM. key: conf/ssdbm/ZhuLZWS10
+
+The Implementation of an Energy Balanced Routing Protocol with Dynamic Power Scaling in TinyOS.
+Wei Wang 0015,Jong-Hoon Youn,Hamid Sharif
+2006. inproceedings: SUTC (2). key: conf/sutc/WangYS06
+
+An Early DiscoWeb Prototype at TREC8.
+Brian D. Davison,Apostolos Gerasoulis,Konstantinos Kleisouris,Yingfang Lu,Hyun-ju Seo,Junyu Tian,Song Wang,Wei Wang,Baohua Wu
+1999. inproceedings: TREC. key: conf/trec/DavisonGKLSTWWW99
+
+Passage Retrieval by Shrinkage of Language Models.
+Fei Song,Joe Vasak,Wei Wang
+2006. inproceedings: TREC. key: conf/trec/SongVW06
+
+Highly efficient simulation environment for HDTV video decoder in VLSI design.
+Xun Mao,Wei Wang,Huimin Gong,Yan L. He,Jian Lou,Lu Yu,Qingdong Yao,Peter Pirsch
+2002. inproceedings: VCIP. key: conf/vcip/MaoWGHLYYP02
+
+Automatic Annotation and Retrieval of Images.
+Yuqing Song,Wei Wang,Aidong Zhang
+2002. inproceedings: VDB. key: conf/vdb/SongWZ02
+
+Holistic Twig Joins on Indexed XML Documents.
+Haifeng Jiang,Wei Wang 0011,Hongjun Lu,Jeffrey Xu Yu
+2003. inproceedings: VLDB. key: conf/vldb/JiangWL03
+
+Bloom Histogram: Path Selectivity Estimation for XML Data with Updates.
+Wei Wang 0011,Haifeng Jiang,Hongjun Lu,Jeffrey Xu Yu
+2004. inproceedings: VLDB. key: conf/vldb/WangJLY04
+
+Efficient Processing of XML Path Queries Using the Disk-based F&B Index.
+Wei Wang 0011,Hongzhi Wang,Hongjun Lu,Haifeng Jiang,Xuemin Lin,Jianzhong Li
+2005. inproceedings: VLDB. key: conf/vldb/WangWLJLL05
+
+STING: A Statistical Information Grid Approach to Spatial Data Mining.
+Wei Wang 0010,Jiong Yang,Richard R. Muntz
+1997. inproceedings: VLDB. key: conf/vldb/WangYM97
+
+Using High Dimensional Indexes to Support Relevance Feedback Based Interactive Images Retrival.
+Junqi Zhang,Xiangdong Zhou,Wei Wang 0009,Baile Shi,Jian Pei
+2006. inproceedings: VLDB. key: conf/vldb/ZhangZWSP06
+
+Efficient Computation of the Skyline Cube.
+Yidong Yuan,Xuemin Lin,Qing Liu,Wei Wang 0011,Jeffrey Xu Yu,Qing Zhang
+2005. inproceedings: VLDB. key: conf/vldb/YuanLLWYZ05
+
+An incremental SMLAOI algorithm for progressive downloading large scale WebVR scenes.
+Wei Wang,Jinyuan Jia
+2009. inproceedings: Web3D. key: conf/vrml/WangJ09
+
+Genotype Sequence Segmentation: Handling Constraints and Noise.
+Qi Zhang,Wei Wang 0010,Leonard McMillan,Jan Prins,Fernando Pardo-Manuel de Villena,David Threadgill
+2008. inproceedings: WABI. key: conf/wabi/ZhangWMPVT08
+
+Three-Tier Clustering: An Online Citation Clustering System.
+Haifeng Jiang,Wenwu Lou,Wei Wang 0011
+2001. inproceedings: WAIM. key: conf/waim/JiangLW01
+
+Dynamic Incremental Data Summarization for Hierarchical Clustering.
+Bing Liu,Yuliang Shi,Zhihui Wang,Wei Wang 0009,Baile Shi
+2006. inproceedings: WAIM. key: conf/waim/LiuSWWS06
+
+Tight Bounds on the Estimation Distance Using Wavelet.
+Bing Liu,Zhihui Wang,Jingtao Li,Wei Wang 0009,Baile Shi
+2006. inproceedings: WAIM. key: conf/waim/LiuWLWS06
+
+Similarity Search with Implicit Object Features.
+Yi Luo,Zheng Liu,Xuemin Lin,Wei Wang 0011,Jeffrey Xu Yu
+2005. inproceedings: WAIM. key: conf/waim/LuoLLWY05
+
+An Effective Approach for Hiding Sensitive Knowledge in Data Publishing.
+Zhihui Wang,Bing Liu,Wei Wang 0009,Haofeng Zhou,Baile Shi
+2006. inproceedings: WAIM. key: conf/waim/WangLWZS06
+
+Bulkloading Updates for Moving Objects.
+Xiaoyuan Wang,Weiwei Sun,Wei Wang 0009
+2006. inproceedings: WAIM. key: conf/waim/WangSW06
+
+Subgraph Join: Efficient Processing Subgraph Queries on Graph-Structured XML Document.
+Hongzhi Wang,Wei Wang 0011,Xuemin Lin,Jianzhong Li
+2005. inproceedings: WAIM. key: conf/waim/WangWLL05
+
+cGridex: Efficient Processing of Continuous Range Queries over Moving Objects.
+Xiaoyuan Wang,Qing Zhang,Weiwei Sun,Wei Wang 0009,Baile Shi
+2005. inproceedings: WAIM. key: conf/waim/WangZSWS05
+
+Extract Frequent Pattern from Simple Graph Data.
+Qingqing Yuan,Yubo Lou,Haofeng Zhou,Wei Wang 0009,Baile Shi
+2002. inproceedings: WAIM. key: conf/waim/YuanLZWS02
+
+Active Rules Termination Analysis Through Conditional Formula Containing Updatable Variable.
+Zhongmin Xiong,Wei Wang,Jian Pei
+2007. inproceedings: APWeb/WAIM. key: conf/waim/XiongWP07
+
+A New Approach for Detecting Anonymity of Patterns.
+Zhihui Wang,Wei Wang 0009,Baile Shi
+2008. inproceedings: WAIM. key: conf/waim/WangWS08
+
+REC: A Novel Model to Rank Experts in Communities.
+Chen Lin,Haofeng Zhou,Zhenhua Huang,Wei Wang
+2008. inproceedings: WAIM. key: conf/waim/LinZHW08
+
+Computing Repairs for Inconsistent XML Document Using Chase.
+Zijing Tan,Zijun Zhang,Wei Wang 0009,Baile Shi
+2007. inproceedings: APWeb/WAIM. key: conf/waim/TanZWS07
+
+Efficient Processing of Complex Twig Pattern Matching.
+Jinqing Zhu,Wei Wang,Xiaofeng Meng
+2008. inproceedings: WAIM. key: conf/waim/ZhuWM08
+
+Extracting 5W1H Event Semantic Elements from Chinese Online News.
+Wei Wang,Dongyan Zhao,Lei Zou,Dong Wang,Weiguo Zheng
+2010. inproceedings: WAIM. key: conf/waim/WangZZWZ10
+
+Design Pattern Detection in Eiffel Systems.
+Wei Wang,Vassilios Tzerpos
+2005. inproceedings: WCRE. key: conf/wcre/WangT05
+
+Policy Storage for Role-Based Access Control Systems.
+Andras Belokosztolszki,David M. Eyers,Wei Wang,Ken Moody
+2003. inproceedings: WETICE. key: conf/wetice/BelokosztolszkiEWM03
+
+Scheduling sensor activity for point information coverage in wireless sensor networks.
+Bang Wang,Kee Chaing Chua,Vikram Srinivasan,Wei Wang 0002
+2006. inproceedings: WiOpt. key: conf/wiopt/WangCSW06
+
+Easy-SC: A Supply Chain Simulation Tool.
+Juqi Liu,Wei Wang,Yueting Chai,Yi Liu
+2004. inproceedings: Winter Simulation Conference. key: conf/wsc/LiuWCL04
+
+Applying simulation in a supply chain transformation case.
+Hongwei Ding,Changrui Ren,Wei Wang,Jin Dong
+2006. inproceedings: Winter Simulation Conference. key: conf/wsc/DingRWD06
+
+IBM SmartSCOR - a SCOR based supply chain transformation platform through simulation and optimization techniques.
+Jin Dong,Hongwei Ding,Changrui Ren,Wei Wang
+2006. inproceedings: Winter Simulation Conference. key: conf/wsc/DongDRW06
+
+Linking strategic objectives to operations: towards a more effective supply chain decision making.
+Changrui Ren,Jin Dong,Hongwei Ding,Wei Wang
+2006. inproceedings: Winter Simulation Conference. key: conf/wsc/RenDDW06
+
+IFAO-SIMO: a spatial-simulation based facility network optimization framework.
+Ming Xie,Wei Wang,Wen Jun Yin,Jin Dong
+2007. inproceedings: Winter Simulation Conference. key: conf/wsc/XieWYD07
+
+IBM supply-chain network optimization workbench: an integrated optimization and simulation tool for supply chain design.
+Hongwei Ding,Wei Wang,Jin Dong,Minmin Qiu,Changrui Ren
+2007. inproceedings: Winter Simulation Conference. key: conf/wsc/DingWDQR07
+
+Discrete event simulation modeling of resource planning and service order execution for service businesses.
+Young M. Lee,Lianjun An,Sugato Bagchi,Daniel Connors,Shubir Kapoor,Kaan Katircioglu,Wei Wang,Jing Xu
+2007. inproceedings: Winter Simulation Conference. key: conf/wsc/LeeABCKKWX07
+
+An introduction to IBM General Business Simulation Environment.
+Wei Wang,Jin Dong,Hongwei Ding,Changrui Ren,Minmin Qiu,Young M. Lee,Feng Cheng
+2008. inproceedings: Winter Simulation Conference. key: conf/wsc/WangDDRQLC08
+
+Simulating order fulfillment and supply planning for a vertically aligned industry solution business.
+Feng Cheng,Young M. Lee,Hongwei Ding,Wei Wang,Stuart Stephens
+2008. inproceedings: Winter Simulation Conference. key: conf/wsc/ChengLDWS08
+
+Towards a flexible business process modeling and simulation environment.
+Changrui Ren,Wei Wang,Jin Dong,Hongwei Ding,Bing Shao,Qinhua Wang
+2008. inproceedings: Winter Simulation Conference. key: conf/wsc/RenWDDSW08
+
+Fuzzy Linking Models for Pyramidal Edge Detection.
+Zhi-Gang Wang,Wei Wang,Xiao-Ming Xu
+2002. inproceedings: WSCG. key: conf/wscg/WangWX02
+
+X-warehouse: building query pattern-driven data.
+Ji Zhang,Wei Wang,Han Liu,Sheng Zhang
+2005. inproceedings: WWW (Special interest tracks and posters). key: conf/www/ZhangWLZ05
+
+XAR-miner: efficient association rules mining for XML data.
+Sheng Zhang,Ji Zhang,Han Liu,Wei Wang
+2005. inproceedings: WWW (Special interest tracks and posters). key: conf/www/ZhangZLW05
+
+Efficient similarity joins for near duplicate detection.
+Chuan Xiao,Wei Wang 0011,Xuemin Lin,Jeffrey Xu Yu
+2008. inproceedings: WWW. key: conf/www/XiaoWLY08
+
+Modeling semantics and structure of discussion threads.
+Chen Lin,Jiang-Ming Yang,Rui Cai,Xin-Jing Wang,Wei Wang 0009,Lei Zhang 0001
+2009. inproceedings: WWW. key: conf/www/LinYCWWZ09
+
+A general framework for adaptive and online detection of web attacks.
+Wei Wang 0012,Florent Masseglia,Thomas Guyet,Rene Quiniou,Marie-Odile Cordier
+2009. inproceedings: WWW. key: conf/www/WangMGQC09
+
+An XML Firewall on Embedded Network Processor.
+Wei Wang,Jun Li
+2008. inproceedings: ICNS. key: conf/icns/WangL08
+
+Proposal of Incremental Sliding Mode Control.
+Yinxing Hao,Jianqiang Yi,Dongbin Zhao,Wei Wang
+2006. inproceedings: ICICIC (1). key: conf/icicic/HaoYZW06
+
+Ocean Red Tide Recognizing Method Based Neural Network Ensembles.
+Wencang Zhao,Wei Wang,Jin Li
+2006. inproceedings: ICICIC (2). key: conf/icicic/ZhaoWL06
+
+A Registration Method of Fundus Images Based on Edge Detection and Phase-Correlation.
+Wei Wang,Houjin Chen,Jupeng Li,Jiangbo Yu
+2006. inproceedings: ICICIC (3). key: conf/icicic/WangCLY06
+
+A Clustering Algorithm Incorporating Density and Direction.
+Yu-Chen Song,Michael J. O'Grady,Gregory M. P. O'Hare,Wei Wang
+2008. inproceedings: CIMCA/IAWTIC/ISE. key: conf/cimca/SongOOW08
+
+A Policy-based Resource Monitoring System in Distributed Computing Environmen.
+Wei Wang,Jin-Tao Li,Zhenmin Zhu,Junbo Guo,Hongzhou Shi
+2005. inproceedings: SKG. key: conf/skg/WangLZGS05
+
+Improved Kernel based Tracking for Fast Moving Object.
+Xiaoyan Dang,Anbang Yao,Wei Wang,Ya Zhang,Zhuo Wang,Zhihua Wang
+2010. inproceedings: VISAPP (1). key: conf/visapp/DangYWZWW10
+
+Exploiting various information for knowledge element relation recognition.
+Wei Wang,Qinghua Zheng,Jun Liu,Yingying Chen,Pengfei Tang
+2009. inproceedings: GrC. key: conf/grc/WangZLCT09
+
+Taming Underlying Design for Energy Efficient Distributed Source Coding in Multirate Wireless Sensor Network.
+Wei Wang 0015,Dongming Peng,Honggang Wang,Hamid Sharif,Hsiao-Hwa Chen
+2007. inproceedings: VTC Spring. key: conf/vtc/WangPWSC07
+
+Noncooperative Power Control Game with Exponential Pricing for Cognitive Radio Network.
+Wei Wang,Yilin Cui,Tao Peng,Wenbo Wang
+2007. inproceedings: VTC Spring. key: conf/vtc/WangCPW07
+
+Performance of an Adaptive Multiuser OFDM Uplink with Carrier Frequency Offsets.
+Wei Wang,Tony Ottosson,Tommy Svensson
+2006. inproceedings: VTC Spring. key: conf/vtc/WangOS06
+
+A Flexible Tree Searching Scheme for MIMO Detection.
+Chunlin Yan,Wei Wang,Zhan Zhang,Hidetoshi Kayama
+2008. inproceedings: VTC Fall. key: conf/vtc/YanWZK08
+
+A Quantitative Study of Mobility Impact for Real-Time Services on a Wi-Fi Multi-hop Network.
+Ting Zhou,Hamid Sharif,Michael Hempel,Puttipong Mahasukhon,Wei Wang 0015,Song Ci
+2008. inproceedings: VTC Spring. key: conf/vtc/ZhouSHMWC08
+
+Throughput vs. Distance Tradeoffs and Deployment Considerations for a Multi-Hop IEEE 802.16e Railroad Test Bed.
+Wei Wang 0015,Hamid Sharif,Michael Hempel,Ting Zhou,Puttipong Mahasukhon
+2008. inproceedings: VTC Spring. key: conf/vtc/WangSHZM08
+
+Spokesmen Election Problem Revisited.
+Wei Wang,Boon-Hee Soong
+2008. inproceedings: VTC Spring. key: conf/vtc/WangS08a
+
+Indoor Propagation Effects on ToA Bias for Joint GNSS and Terrestrial Radio Based Localization.
+Wei Wang,Thomas Jost,Christian Mensing,Armin Dammann,Kassem Fawaz
+2009. inproceedings: VTC Spring. key: conf/vtc/WangJMDF09
+
+Optimal Resource Allocation for Cognitive Radio Networks with Imperfect Spectrum Sensing.
+Kejian Wu,Wei Wang,Haiyan Luo,Guanding Yu,Zhaoyang Zhang
+2010. inproceedings: VTC Spring. key: conf/vtc/WuWLYZ10
+
+Prediction-Based Spectrum Aggregation with Hardware Limitation in Cognitive Radio Networks.
+Furong Huang,Wei Wang,Haiyan Luo,Guanding Yu,Zhaoyang Zhang
+2010. inproceedings: VTC Spring. key: conf/vtc/HuangWLYZ10
+
+Multiple-Links NLoS Error Evaluations for Geolocation Channel Modelling.
+Wei Wang,Thomas Jost
+2010. inproceedings: VTC Spring. key: conf/vtc/WangJ10
+
+Machine-to-Machine Communication in LTE-A.
+Yu Chen,Wei Wang
+2010. inproceedings: VTC Fall. key: conf/vtc/ChenW10a
+
+Energy Efficiency of Heterogeneous Cellular Network.
+Wei Wang,Gang Shen
+2010. inproceedings: VTC Fall. key: conf/vtc/WangS10a
+
+Channel Estimation and Optimal Training Design for Amplify and Forward MIMO Relay Channel under Spatial Fading Correlation.
+Jiyong Pang,Gang Shen,Dongyao Wang,Lei Jiang,Wei Wang
+2010. inproceedings: VTC Fall. key: conf/vtc/PangSWJW10
+
+Reducing Signalling Overhead by an Enhanced Differential Codebook in Multimode MIMO-OFDM Systems.
+Wei Wang,Zhan Zhang,Hidetoshi Kayama
+2010. inproceedings: VTC Fall. key: conf/vtc/WangZK10
+
+Primary User Activity Based Channel Allocation in Cognitive Radio Networks.
+Wei Wang,Tiejun Lv,Taotao Wang,Xuefen Yu
+2010. inproceedings: VTC Fall. key: conf/vtc/WangLWY10
+
+A Novel Downlink Resource Scheduling Scheme for Relay Enhanced Cellular Network.
+Dongyao Wang,Jiyong Pang,Jianguo Liu,Gang Shen,Qi Jiang,Wei Wang
+2010. inproceedings: VTC Fall. key: conf/vtc/WangPLSJW10
+
+Abnormal Video Sections Detection Based on Inter-frames Information.
+Wei Wang,Peng Zhang,Runsheng Wang
+2009. inproceedings: MUE. key: conf/mue/WangZW09
+
+An Extension to Pointer Logic for Verification.
+Zhifang Wang,Yiyun Chen,Zhenming Wang,Wei Wang,Bo Tian
+2008. inproceedings: TASE. key: conf/tase/WangCWWT08
+
+Space-frequency precoding scheme for multiuser MIMO-OFDM systems.
+Wei Wang,Chunlin Yan,Zhan Zhang,Hidetoshi Kayama
+2007. inproceedings: IWCMC. key: conf/iwcmc/WangYZK07
+
+A cross layer resource allocation scheme for secure image delivery in wireless sensor networks.
+Wei Wang 0015,Dongming Peng,Honggang Wang,Hamid Sharif
+2007. inproceedings: IWCMC. key: conf/iwcmc/WangPWS07
+
+Type I HARQ performance modeling and evaluation of mobile WiMAX for network simulators.
+Puttipong Mahasukhon,Hamid Sharif,Michael Hempel,Ting Zhou,Wei Wang 0015,Tao Ma
+2009. inproceedings: IWCMC. key: conf/iwcmc/MahasukhonSHZWM09
+
+Classification and Diagnosis of Syndromes in Chinese Medicine in the Context of Coronary Heart Disease Model Based on Data Mining Methods.
+Yong Wang,Huihui Zhao,Jianxin Chen,Chun Li,Wenjing Chuo,Shuzhen Guo,Junda Yu,Wei Wang
+2010. inproceedings: LSMS/ICSEE. key: conf/lsms/WangZCLCGYW10
+
+Growth Characteristics and Fermentation Kinetics of Flocculants-Producing Bacterium F2.
+Jie Xing,Jixian Yang,Fang Ma,Wei Wang,Kexin Liu
+2010. inproceedings: LSMS/ICSEE. key: conf/lsms/XingYMWL10
+
+Optimal Image Component Transmissions in Multirate Wireless Sensor Networks.
+Wei Wang 0015,Dongming Peng,Honggang Wang,Hamid Sharif,Hsiao-Hwa Chen
+2007. inproceedings: GLOBECOM. key: conf/globecom/WangPWSC07
+
+Collaborative Image Transmissions Based on Region and Path Diversity in Wireless Sensor Network.
+Honggang Wang,Dongming Peng,Wei Wang 0015,Hamid Sharif
+2007. inproceedings: GLOBECOM. key: conf/globecom/WangPWS07
+
+Position Based Unequal Error Protection for Image Transmission with Energy Constraint over Multirate XPD MIMO Sensor Networks.
+Wei Wang 0015,Dongming Peng,Honggang Wang,Yaoqing Yang,Hamid Sharif,Hsiao-Hwa Chen
+2008. inproceedings: GLOBECOM. key: conf/globecom/WangPWYSC08
+
+Asynchronous Distributed Power Control under Interference Temperature Constraints.
+Qianxi Lu,Wenbo Wang,Wei Wang,Tao Peng
+2008. inproceedings: GLOBECOM. key: conf/globecom/LuWWP08
+
+Sequential Greedy Localization in Wireless Sensor Networks With Inaccurate Anchor Positions.
+Qingjiang Shi,Chen He,Hongyang Chen,Ling-ge Jiang,Wei Wang
+2009. inproceedings: GLOBECOM. key: conf/globecom/ShiHCJW09
+
+Collaborative Anomaly Detection for Structured P2P Networks.
+Wei Wang,Hong Man,Fangming He
+2009. inproceedings: GLOBECOM. key: conf/globecom/WangMH09
+
+A New THP Precoding Scheme with Effective Channel Optimization.
+Chunlin Yan,Hidetoshi Kayama,Wei Wang,Zhan Zhang
+2009. inproceedings: GLOBECOM. key: conf/globecom/YanKWZ09
+
+Optimal Route Selection and Resource Allocation in Multi-Hop Cognitive Radio Networks.
+Qianxi Lu,Tao Peng,Wei Wang,Wenbo Wang,Chao Hu
+2009. inproceedings: GLOBECOM. key: conf/globecom/LuPWWH09
+
+Matching Stream Authentication and Resource Allocation to Multimedia Codec Dependency with Position-Value Partitioning in Wireless Multimedia Sensor Networks.
+Wei Wang 0015,Dongming Peng,Honggang Wang,Hamid Sharif,Hsiao-Hwa Chen
+2009. inproceedings: GLOBECOM. key: conf/globecom/WangPWSC09
+
+A Noncooperative Spectrum Sensing Game with Maximum Network Throughput.
+Wei Wang,Chen He
+2009. inproceedings: GLOBECOM. key: conf/globecom/WangH09
+
+SLA-Based Resource Co-Allocation in Multi-Cluster Grid.
+Wei Wang,Junzhou Luo,Aibo Song,Fang Dong
+2010. inproceedings: GLOBECOM. key: conf/globecom/WangLSD10
+
+Trusted Network Coding in Wireless Ad Hoc Networks.
+Wei Cheng,Li Yu,Fei Xiong,Wei Wang
+2010. inproceedings: GLOBECOM. key: conf/globecom/ChengYXW10
+
+Quasi-MMSE/ZF Based Limited Feedback Schemes for MU-MIMO Precoding.
+Wei Wang,Zhan Zhang,Hidetoshi Kayama
+2010. inproceedings: GLOBECOM. key: conf/globecom/WangZK10
+
+On Unified Intra/Inter Coding and Signature/Hash Authentication Diversity for Efficient and Secure Wireless Video Transmission.
+Wei Wang 0015,Michael Hempel,Dongming Peng,Hamid Sharif,Honggang Wang,Hsiao-Hwa Chen
+2010. inproceedings: GLOBECOM. key: conf/globecom/WangHPSWC10
+
+Estimation and Modelling of NLoS Time-Variant Multipath for Localization Channel Model in Mobile Radios.
+Wei Wang,Thomas Jost,Armin Dammann
+2010. inproceedings: GLOBECOM. key: conf/globecom/WangJD10
+
+Quantum Genetic Algorithm for Signal Detection in MIMO-OFDM Systems.
+Fei Li,Wei Wang,Min Zhou,Baoyu Zheng
+2010. inproceedings: GEM. key: conf/gem/LiWZZ10
+
+Central Nervous Processing for Acupuncture at Liv3 with fMRI: A Preliminary Experience.
+Wei Wang,Kuncheng Li,Baoci Shan,Jianyang Xu,Bin Yan,Jing Hao,Yanhui Yang,Ke Li,Na Lu
+2006. inproceedings: WImBI. key: conf/wimbi/WangLSXYHYLL06
+
+An application of host identity tags to DKIM for identifying signers.
+Di Ma,Xiaodong Li,Wei Wang,Wei Mao
+2009. inproceedings: ICHIT. key: conf/ichit/MaLWM09
+
+The Development and Application of Quick Search Engine Based on Special Fields.
+Shouning Qu,Bing Zhang,Wei Wang,Xinsheng Yu
+2008. inproceedings: ISIP. key: conf/isip/QuZWY08
+
+A Survey on the Cross-Layer Design for Wireless Multimedia Sensor Networks.
+Honggang Wang,Wei Wang 0015,Shaoen Wu,Kun Hua
+2010. inproceedings: MOBILWARE. key: conf/mobilware/WangWWH10
+
+Topology variety model for mobile ad hoc networks.
+Guangli Tian,Wandong Cai,Wei Wang
+2008. inproceedings: MOBILWARE. key: conf/mobilware/TianCW08
+
+Optimization of in-network data reduction.
+Joseph M. Hellerstein,Wei Wang
+2004. inproceedings: DMSN. key: conf/dmsn/HellersteinW04
+
+Study of a Novel Algorithm for Incipient Fault Diagnosis and Its Application.
+Wei Wang,Hong Zhao,Chunhong Zhu,Qiang Li
+2010. inproceedings: WKDD. key: conf/wkdd/WangZZL10
+
+Functional Neighbors: Inferring Relationships between Non-Homologous Protein Families Using Family-Specific Packing Motifs.
+Deepak Bandyopadhyay,Jun Huan,Jinze Liu,Jan Prins,Jack Snoeyink,Wei Wang 0010,Alexander Tropsha
+2008. inproceedings: BIBM. key: conf/bibm/BandyopadhyayHLPSWT08
+
+Truncation of protein sequences for fast profile alignment with application to subcellular localization.
+Man-Wai Mak,Wei Wang,Sun-Yuan Kung
+2010. inproceedings: BIBM. key: conf/bibm/MakWK10
+
+The Output Regulation for Tracking Unusual Motion Patterns by Active Disturbance Rejection Control.
+Wei Wang
+2008. inproceedings: EIAT/IETA. key: conf/cisse/Wang08
+
+Visualization Enhancement of Arthrosis Tissues Structure in Ultrasound Image Based on Improved Diffusion.
+Wei Wang,Yang Liu,Yingxia Shen,Baowei Liu,Yanjun Shi,Ping Gao,Yuerong Wang
+2008. inproceedings: BMEI (2). key: conf/bmei/WangLSLSGW08
+
+Action-Based Access Control for Web Services.
+FengHua Li,Wei Wang,Jianfeng Ma,Haoxin Su
+2009. inproceedings: IAS. key: conf/IEEEias/LiWMS09
+
+Applications of the Fuzzy Immune PID Control and the Genetic Algorithm in the Automated Pharmacy System.
+Xuefeng Zhao,Chao Yun,Yuanyuan Wang,Wei Wang
+2008. inproceedings: ICIRA (2). key: conf/icira/ZhaoYWW08
+
+F&A compensating variable bang-bang control algorithm for pneumatic driving glass-wall cleaning robot.
+Wei Wang,Houxiang Zhang,Wenpeng Yu,Guanghua Zong,Jianwei Zhang
+2007. inproceedings: IROS. key: conf/iros/WangZYZZ07
+
+Locomotion Capabilities of a Novel Reconfigurable Robot with 3 DOF Active Joints for Rugged Terrain.
+Houxiang Zhang,Zhicheng Deng,Wei Wang,Jianwei Zhang,Guanghua Zong
+2006. inproceedings: IROS. key: conf/iros/ZhangDWZZ06
+
+Autonomous Control for Micro-Flying Robot and Small Wireless Helicopter X.R.B.
+Wei Wang,Gang Song,Kenzou Nonami,Mitsuo Hirata,Osamu Miyazawa
+2006. inproceedings: IROS. key: conf/iros/WangSNHM06
+
+Crawling Locomotion of Modular Climbing Caterpillar Robot with Changing Kinematic Chain.
+Wei Wang,Houxiang Zhang,Jianwei Zhang
+2009. inproceedings: IROS. key: conf/iros/WangZZ09
+
+Docking manipulator for a reconfigurable mobile robot system.
+Wei Wang,Wenpeng Yu,Houxiang Zhang,Jianwei Zhang
+2009. inproceedings: IROS. key: conf/iros/WangYZZ09
+
+A Bayesian knowledge engineering framework for service management.
+Wei Wang,Hao Wang,Bo Yang,Liang Liu,Peini Liu,Guosun Zeng
+2008. inproceedings: NOMS. key: conf/noms/WangWYLLZ08
+
+Robust Routing and Scheduling in Wireless Mesh Networks.
+Wei Wang,Xin Liu,Dilip Krishnaswamy
+2007. inproceedings: SECON. key: conf/secon/WangLK07
+
+The Synchronization Technique of Data Fusion for Integrated Navigation Systems.
+Wei Wang,Zong-yu Liu
+2008. inproceedings: RAM. key: conf/ram/WangL08
+
+Multiple Nests' Cooperation ACO Based Union-Intersection Operations.
+Jin Biao Wang,Wei Wang
+2008. inproceedings: CSSE (1). key: conf/csse/WangW08a
+
+Application of 3D Virtual Presentation Technology in Product Customer System.
+Xiaoling Li,Wei Wang,Haibo Xv
+2008. inproceedings: CSSE (2). key: conf/csse/LiWX08
+
+Learning to Rank with Bayesian Evidence Framework.
+Libin Zhang,Wei Wang
+2008. inproceedings: CSSE (4). key: conf/csse/ZhangW08b
+
+Image Denoising Based on Contourlet-Domain HMT Models Using Cycle Spinning.
+Kang Li,Wei Wang,Jinghuai Gao
+2008. inproceedings: CSSE (6). key: conf/csse/LiWG08
+
+Enhanced Architecture of TPM.
+FengHua Li,Wei Wang,Jianfeng Ma,Zhenguo Ding
+2008. inproceedings: ICYCS. key: conf/icycs/LiWMD08
+
+A Scheme of Test Pattern Generation Based on Reseeding of Segment-Fixing Counter.
+Tian Chen,Huaguo Liang,Minsheng Zhang,Wei Wang
+2008. inproceedings: ICYCS. key: conf/icycs/ChenLZW08
+
+Implementation of Pointer Logic for Automated Verification.
+Zhifang Wang,Yiyun Chen,Zhenming Wang,Wei Wang,Bo Tian
+2008. inproceedings: ICYCS. key: conf/icycs/WangCWWT08
+
+Performance Analysis of Multi-hop IEEE 802.11 DCF Backhaul Networks.
+Puttipong Mahasukhon,Hamid Sharif,Michael Hempel,Ting Zhou,Wei Wang 0015,Tadeusz A. Wysocki
+2008. inproceedings: WiMob. key: conf/wimob/MahasukhonSHZWW08
+
+New results in decentralized adaptive backstepping stabilization of nonlinear interconnected systems.
+Wei Wang 0016,Changyun Wen,Jing Zhou
+2008. inproceedings: ICARCV. key: conf/icarcv/WangWZ08
+
+Optimal filtering for discrete time-varying systems with multiple time-delay measurements.
+Xiao Lu,Huanshui Zhang,Wei Wang
+2004. inproceedings: ICARCV. key: conf/icarcv/LuaZW04
+
+Decoupling control and feedback linearization for a class of nonlinear time-delay systems.
+Wei Wang,Gong-You Tang,Shan-Shan Zhou
+2004. inproceedings: ICARCV. key: conf/icarcv/WangTZ04
+
+Stochastic power control algorithm in CDMA systems.
+Min Cai,Wei Wang,Huanshui Zhang
+2004. inproceedings: ICARCV. key: conf/icarcv/CaiWZ04
+
+Energy-Distortion-Authentication Optimized Resource Allocation for Secure Wireless Image Streaming.
+Wei Wang 0015,Dongming Peng,Honggang Wang,Hamid Sharif,Hsiao-Hwa Chen
+2008. inproceedings: WCNC. key: conf/wcnc/WangPWSC08
+
+Optimal subcarrier and power allocation under interference temperature constraints.
+Qianxi Lu,Tao Peng,Wei Wang,Wenbo Wang
+2009. inproceedings: WCNC. key: conf/wcnc/LuPWW09
+
+ToA and TDoA error models for NLoS propagation based on outdoor to indoor channel measurement.
+Wei Wang,Thomas Jost,Christian Mensing,Armin Dammann
+2009. inproceedings: WCNC. key: conf/wcnc/WangJMD09
+
+Design and implementation of audio conferencing testbed based on Wi-Fi MANET.
+Wei Wang,Boon-Hee Soong,Yiu Wing Edwin Chan
+2009. inproceedings: WCNC. key: conf/wcnc/WangSC09
+
+Increase the end-to-end throughput of a cognitive radio chain by considering the primary usage pattern and transmission scheduling.
+Guang Lei,Chunjing Hu,Wei Wang,Tao Peng,Wenbo Wang
+2009. inproceedings: WCNC. key: conf/wcnc/LeiHWPW09
+
+Joint power and rate control considering fairness for cognitive radio network.
+Yajun Zhu,Zhenqiang Sun,Wei Wang,Tao Peng,Wenbo Wang
+2009. inproceedings: WCNC. key: conf/wcnc/ZhuSWPW09
+
+Bridge the gap between syndrome in Traditional Chinese Medicine and proteome in western medicine by unsupervised pattern discovery algorithm.
+Wei Wang,Huihui Zhao,Jianxin Chen,Jing Chen,Guangcheng Xi
+2008. inproceedings: ICNSC. key: conf/icnsc/WangZCCX08
+
+Binarizing Syntax Trees to Improve Syntax-Based Machine Translation Accuracy.
+Wei Wang 0006,Kevin Knight,Daniel Marcu
+2007. inproceedings: EMNLP-CoNLL. key: conf/emnlp/WangKM07
+
+What Can Syntax-Based MT Learn from Phrase-Based MT?
+Steve DeNeefe,Kevin Knight,Wei Wang 0006,Daniel Marcu
+2007. inproceedings: EMNLP-CoNLL. key: conf/emnlp/DeNeefeKWM07
+
+SPMT: Statistical Machine Translation with Syntactified Target Language Phrases.
+Daniel Marcu,Wei Wang,Abdessamad Echihabi,Kevin Knight
+2006. inproceedings: EMNLP. key: conf/emnlp/MarcuWEK06
+
+Improving Word Alignment Models using Structured Monolingual Corpor.
+Wei Wang,Ming Zhou
+2004. inproceedings: EMNLP. key: conf/emnlp/WangZ04
+
+Limited feedback Zero Forcing precoding scheme for MIMO-broadcast channels.
+Wei Wang,Zhan Zhang,Hidetoshi Kayama
+2008. inproceedings: PIMRC. key: conf/pimrc/WangZK08
+
+A stochastic biometric authentication scheme using uniformed GMM in wireless body area sensor networks.
+Wei Wang 0015,Kun Hua,Michael Hempel,Dongming Peng,Hamid Sharif,Hsiao-Hwa Chen
+2010. inproceedings: PIMRC. key: conf/pimrc/WangHHPSC10
+
+A Fast Motion Planning Approach for Virtual Human Upper Body.
+Wei Wang,Yan Li
+2009. inproceedings: ICIG. key: conf/icig/WangL09
+
+Channel Characteristics of Different Floors for Joint Communications and Positioning.
+Wei Wang,Thomas Jost,Armin Dammann
+2009. inproceedings: MCSS. key: conf/mcss/WangJD09
+
+A new approach to design robust backstepping controller for MIMO nonlinear systems with input unmodeled dynamics.
+Wei Wang 0016,Changyun Wen
+2009. inproceedings: CDC. key: conf/cdc/WangW09
+
+A note on input-to-state stability and averaging of fast switching systems.
+Wei Wang,Dragan Nesic
+2009. inproceedings: CDC. key: conf/cdc/WangN09a
+
+Input-to-state stability analysis via averaging for parameterized discrete-time systems.
+Wei Wang,Dragan Nesic
+2009. inproceedings: CDC. key: conf/cdc/WangN09
+
+Multivariable nonlinear dynamic modeling based on DPLS and Hammerstein model and its application.
+Wei Wang,Lijie Zhao,Tianyou Chai
+2009. inproceedings: CDC. key: conf/cdc/WangZC09a
+
+FPAA Based on Integration of CMOS and Nanojunction Devices for Neuromorphic Applications.
+Ming Liu,Hua Yu,Wei Wang
+2008. inproceedings: NanoNet. key: conf/nanonet/LiuYW08
+
+3D CMOL Crossnet for Neuromorphic Network Applications.
+Kevin Ryan,Sansiri Tanachutiwat,Wei Wang
+2008. inproceedings: NanoNet. key: conf/nanonet/RyanTW08
+
+Exploring Multi-layer Graphene Nanoribbon Interconnects.
+Sansiri Tanachutiwat,Wei Wang
+2008. inproceedings: NanoNet. key: conf/nanonet/TanachutiwatW08
+
+Carbon Nanotube Nanorelays with Pass-Transistor for FPGA Routing Devices.
+Ming Liu,Haigang Yang,Sansiri Tanachutiwat,Wei Wang
+2009. inproceedings: NanoNet. key: conf/nanonet/LiuYTW09
+
+Composable IO: A Novel Resource Sharing Platform in Personal Clouds.
+Xiaoxin Wu,Wei Wang,Ben Lin,Kai Miao
+2009. inproceedings: CloudCom. key: conf/cloudcom/WuWLM09
+
+Energy Efficient Multi-rate Based Time Slot Pre-schedule Scheme in WSNs for Ubiquitous Environment.
+Wei Wei,Yong Qi,Saiyu Qi,Di Hou,Wei Wang,Min Xi,Qingsong Yao
+2007. inproceedings: APSCC. key: conf/apscc/WeiQQHWXY07
+
+Improving the Survivability of WSNs with Biological Characters Based on Rejuvenation Technology.
+Wei Wei,Yong Qi,Xin He,Wei Wang,Ruidong Li,Hui He
+2008. inproceedings: APSCC. key: conf/apscc/WeiQHWLH08
+
+Research on Land-Use Type of Huainan City Based on Flood Risk Perception and Spatial Multi-Criteria Analysis.
+Bo Meng,Mao Liu,Yan Hua Liufu,Wei Wang
+2010. inproceedings: DBTA. key: conf/dbta/MengLLW10
+
+Design and Implementation of an Intelligent System for Electronic Game's Educational Evaluation.
+Qian Huang,Wei Wang
+2010. inproceedings: DBTA. key: conf/dbta/HuangW10
+
+Dynamic Optimization Methods of Emergency Resources Deployment Based on Markov Decision Process for Wenchuan Earthquake.
+Wei Wang,Mao Liu,Li Wang
+2010. inproceedings: DBTA. key: conf/dbta/WangLW10
+
+Application of Data Mining Technique in Customer Segmentation of Shipping Enterprises.
+Wei Wang,Shidong Fan
+2010. inproceedings: DBTA. key: conf/dbta/WangF10
+
+An Intelligent Ontology and Bayesian Network Based Semantic Mashup for Tourism.
+Wei Wang,Guosun Zeng,Dongqi Zhang,Yu Huang,Yufeng Qiu,Xiaojun Wang
+2008. inproceedings: SERVICES I. key: conf/services/WangZZHQW08
+
+A Study on the Relationship between Native and Customers' Information of the Enterprise.
+Yongke Yuan,Wei Wang
+2009. inproceedings: BIFE. key: conf/bife/YuanW09
+
+A Novel Hybrid Intelligent Model for Financial Time Series Forecasting and Its Application.
+Wei Wang,Hong Zhao,Qiang Li,Zhixiong Liu
+2009. inproceedings: BIFE. key: conf/bife/WangZLL09
+
+The Dimension of Bivariate Weak Spline Space W12 (I1 &#916;).
+Wei Wang,Huan-Wen Liu
+2009. inproceedings: CSO (1). key: conf/cso/WangL09
+
+A Turn-Based Algorithm for Solving the Logit Type Network Loading Problem.
+Gang Ren,Wei Wang
+2009. inproceedings: CSO (2). key: conf/cso/RenW09
+
+General Approach for Simulating Heterogeneity of Car-Following Behaviors.
+Hao Wang,Wei Wang
+2009. inproceedings: CSIE (3). key: conf/csie/WangW09a
+
+Engineering Computational Service Grid: A Flexible Engineering Computational Environment Based on Grid Computing.
+Wei Wang
+2009. inproceedings: CSIE (2). key: conf/csie/Wang09d
+
+A Dual-Center Event Description Model Used in Event Tracking.
+Wei Wang,Jun Zheng,Wu Yang,Yongtian Yang
+2009. inproceedings: CSIE (4). key: conf/csie/WangZYY09
+
+Genetic Projection Pursuit Interpolation Data Mining Model for Urban Environmental Quality Assessment.
+Xiaohua Yang,Xiaoxue Hu,Dunxian She,Wei Wang,Jianqiang Li
+2009. inproceedings: CSIE (4). key: conf/csie/YangHSWL09
+
+Determination Freshwater Fish Freshness with Gas Sensor Array.
+Jun Zhang,XiaoYu Li,Wei Wang,Zhu Zhou,Wei Zhou,Wu Xiao
+2009. inproceedings: CSIE (5). key: conf/csie/ZhangLWZZX09
+
+Classfication and Evolution of HLH Family Members in Poultry Genome.
+Chunchun Han,Wei Wang,Jiwen Wang,Liang Li
+2009. inproceedings: CSIE (6). key: conf/csie/HanWWL09
+
+The Algorithm on Adaptive Filtering and Generalized Derivative Estimating for Signals with Uncertain Dynamics.
+Wei Wang
+2009. inproceedings: CSIE (6). key: conf/csie/Wang09f
+
+Design of Dual-Frequency Unequal Power Divider with Genetic Algorithm.
+Wei Wang,Wencheng Li,Dan Chen,Neng Peng,Kai Li,Zhongwen Lan
+2009. inproceedings: PACCS. key: conf/paccs/WangLCPLL09
+
+Large-scale Topological Environmental Model Based Particle Filters for Mobile Robot Indoor Localization.
+Fei Yan,Yan Zhuang,Wei Wang
+2006. inproceedings: ROBIO. key: conf/robio/YanZW06
+
+A Method for Robustness Improvement of Robot Obstacle Avoidance Algorithm.
+Guanghua Zong,Luhua Deng,Wei Wang
+2006. inproceedings: ROBIO. key: conf/robio/ZongDW06
+
+Target Tracking in Colored Image Sequence Using Weighted Color Histogram Based Particle Filter.
+Yan Zhuang,Wei Wang,Ruizhi Xing
+2006. inproceedings: ROBIO. key: conf/robio/ZhuangWX06
+
+Design and Realization of a Novel Reconfigurable Robot with Serial and Parallel Mechanisms.
+Wei Wang,Houxiang Zhang,Guanghua Zong,Jianwei Zhang
+2006. inproceedings: ROBIO. key: conf/robio/WangZZZ06
+
+Building and Understanding Robotics?a Practical Course for Different Levels Education.
+Houxiang Zhang,Tim Baier,Jianwei Zhang,Wei Wang,Rong Liu,Dazhai Li,Guanghua Zong
+2006. inproceedings: ROBIO. key: conf/robio/ZhangBZWLLZ06
+
+A Particle Swarm Optimization Based on Chaotic Neighborhood Search to Avoid Premature Convergence.
+Wei Wang,Jin-Mu Wu,Jie-Hua Liu
+2009. inproceedings: WGEC. key: conf/wgec/WangWL09
+
+Localization Algorithm Based on SVM-Data Fusion in Wireless Sensor Networks.
+Wei Wang,Tinglei Huang,Hui Liu,Fei Pang
+2009. inproceedings: WGEC. key: conf/wgec/WangHLP09
+
+Phase singularities for image representation and matching.
+Yu Qiao,Wei Wang,Nobuaki Minematsu,Jianzhuang Liu,Xiaoou Tang
+2008. inproceedings: ICASSP. key: conf/icassp/QiaoWMLT08
+
+CCA for joint blind source separation of multiple datasets with application to group FMRI analysis.
+Yi-Ou Li,Wei Wang 0018,Tulay Adali,Vince D. Calhoun
+2008. inproceedings: ICASSP. key: conf/icassp/LiWAC08
+
+Target detection and identification using canonical correlation analysis and subspace partitioning.
+Wei Wang 0018,Tulay Adali,Darren Emge
+2008. inproceedings: ICASSP. key: conf/icassp/WangAE08
+
+Cluster based architecture synthesis minimizing the resources under time constraint.
+Xiyang Liu,Ailong Song,Zili Shao,Chunxiang Li,Ke Chen,Wei Wang
+2010. inproceedings: ICASSP. key: conf/icassp/LiuSSLCW10
+
+Design and Implementation of Wireless Sensor Network Gateway Based on Environmental Monitoring.
+Dun-fan Ye,Liang-liang Min,Wei Wang
+2009. inproceedings: ESIAT (2). key: conf/esiat/YeMW09
+
+Data Fusion and its Application in Object Recognition in Stereo Sequences.
+Yi Wei,Chunyan Tan,Wei Wang
+2009. inproceedings: JCAI. key: conf/jcai/WeiTW09
+
+The study on the relationship between inflammatory factors and cardiac function based on chronic myocardial ischemia (syndrome of blood stasis model).
+Yong Wang,Huihui Zhao,Wenjing Chuo,Jianxin Chen,Shuzhen Guo,Wei Wang
+2009. inproceedings: Int. Conf. Interaction Sciences. key: conf/interaction/WangZCCGW09
+
+A route towards production-worthy 5 mum * 25 mum and 1 mum * 20 mum non-Bosch through-silicon-via (TSV) etch, TSV metrology, and TSV integration.
+Weng Hong Teh,Raymond Caramto,Jamal Qureshi,Sitaram Arkalgud,M. O'Brien,T. Gilday,Kou Maekawa,T. Saito,Kouichi Maruyama,Thenappan Chidambaram,Wei Wang,David Marx,David Grant,Russ Dudley
+2009. inproceedings: 3DIC. key: conf/3dic/TehCQAOGMSMCWMGD09
+
+Effective Snippet Clustering with Domain Knowledge.
+Sunanda Patro,Wei Wang
+2009. inproceedings: DBKDA. key: conf/dbkda/PatroW09
+
+A Novel Design of Solid-State Lighting Control System.
+Xue-juan Rong,Ping-juan Niu,Wei Wang
+2010. inproceedings: APWCS. key: conf/apwcs/RongNW10
+
+An Immune Concentration Based Virus Detection Approach Using Particle Swarm Optimization.
+Wei Wang,Pengtao Zhang,Ying Tan
+2010. inproceedings: ICSI (1). key: conf/swarm/WangZT10
+
+A New Method for Image Segmentation Based on Integration Technique.
+Hui-Lan Luo,Wei Wang,Jing Li
+2010. inproceedings: MVHI. key: conf/mvhi/LuoWL10
+
+Prediction of Coal Mine Safety Level Based on LSSVM.
+Desheng Liu,Zhiru Xu,Wei Wang,Lei Wang
+2010. inproceedings: MVHI. key: conf/mvhi/LiuXWW10
+
+An Improved Non-negative Matrix Factorization Algorithm for Combining Multiple Clusterings.
+Wei Wang
+2010. inproceedings: MVHI. key: conf/mvhi/Wang10
+
+An Improved Object Removal Inpainting Method.
+Hui-Lan Luo,Jing Li,Wei Wang
+2010. inproceedings: MVHI. key: conf/mvhi/LuoLW10
+
+Microfluidic patterning of nanoparticle monolayer: Mechanism analysis and noncontinuously patterning approach.
+Zhen Chen,Yu Zhao,Wei Wang,Zhihong Li
+2009. inproceedings: NEMS. key: conf/nems/ChenZWL09
+
+Optimization of corona-triggered PDMS-PDMS bonding method.
+Chenying Yang,Wei Wang,Zhihong Li
+2009. inproceedings: NEMS. key: conf/nems/YangWL09
+
+Theoretical analysis and fabrication of PDMS-based surface plasmon resonance sensor chips.
+Zhaoxin Geng,Qing Li,Wei Wang,Zhihong Li
+2009. inproceedings: NEMS. key: conf/nems/GengLWL09
+
+Bottom-up fabrication of special parylene films based on selective growth on Au-coated surface.
+Yi Zhou,Fei Ding,Chao Ni,Wei Wang,Wengang Wu
+2009. inproceedings: NEMS. key: conf/nems/ZhouDNWW09
+
+A novel 3D flexible parylene-metal structure fabrication technique.
+Xianju Huang,Yu Tang,Renxin Wang,Chuang Qian,Wei Wang,Zhihong Li
+2009. inproceedings: NEMS. key: conf/nems/HuangTWQWL09
+
+Design of movable contactless conductivity detector for microchip capillary electrophoresis.
+Hai-feng Zhang,Xiao-wei Liui,Zhi-cheng Peng,Xi-Lian Wang,Wei Wang,Yu-feng Chen
+2009. inproceedings: NEMS. key: conf/nems/ZhangLPWWC09
+
+Prediction of Syngas Compositions in Texaco Coal Gasification Process Using Robust Neural Estimator.
+Rong Guo,Weiwei Guo,Wei Wang
+2008. inproceedings: PACIIA (1). key: conf/paciia/GuoGW08
+
+A Dynamic Group Blind Signature Scheme Based on Elliptic Curve.
+Yanguang Shen,Hui Xie,Sheping Hao,Wei Wang
+2008. inproceedings: PACIIA (1). key: conf/paciia/ShenXHW08
+
+Optimization of Multi-Project in Limited Resources on the Basis of Improved Genetic Algorithm.
+Rong Guo,Weiwei Guo,Wei Wang
+2008. inproceedings: PACIIA (1). key: conf/paciia/GuoGW08a
+
+Study of Index Weight in Network Threat Evaluation Based on Improved Grey Theory.
+Jiaquan Si,Kaizhuo Wang,Wei Wang,Dapeng Man,Wu Yang
+2008. inproceedings: PACIIA (2). key: conf/paciia/SiWWMY08
+
+Couple satellite sensor web service with WRF model for weather decision service.
+Zhong Zheng,Nengcheng Chen,Wei Wang
+2010. inproceedings: Geoinformatics. key: conf/geoinformatics/ZhengCW10
+
+Efficient detection of DDoS attacks with important attributes.
+Wei Wang 0012,Sylvain Gombault
+2008. inproceedings: CRiSIS. key: conf/crisis/0012G08
+
+A Novel Watermarking Algorithm Based on Phase Congruency Corner Detection and SVD.
+Wei Wang,Jinyan Wang,Chengxi Wang,Dongbing Pu
+2010. inproceedings: FCST. key: conf/fcst/WangWWP10
+
+Study on the Tuition Standard in China Higher Education.
+Wei Wang,Jing Du,Tingting Wang,Aiting Zhang
+2010. inproceedings: ICEE. key: conf/icee/WangDWZ10
+
+Research on Performance Evaluation of Universities Governmental S&T Investment Based on DEA Super.
+Ai-min Zhu,Wei Wang,Li-juan Yu
+2010. inproceedings: ICEE. key: conf/icee/ZhuWY10
+
+Design and Implementation of Superfluous Mud and Brick Rubbish Transport Management System Based on GIS.
+Chao Wang,Wei Wang,Juntao Tong,Qianqing Qin
+2010. inproceedings: ICEE. key: conf/icee/WangWTQ10
+
+Microwave Radiative Transfer at Frequencies of AMSU-B: Effects of Uncertainties in Ice Permittivity on Brightness Temperatures.
+Xinxin Xie,Jungang Miao,Wei Wang
+2009. inproceedings: IGARSS (2). key: conf/igarss/XieMW09
+
+Local Structure Comparison of Proteins.
+Jun Huan,Jan Prins,Wei Wang 0010
+2006. article: Advances in Computers. key: journals/ac/HuanPW06
+
+On the definable ideal generated by the plus cupping c.e. degrees.
+Wei Wang,Decheng Ding
+2007. article: Arch. Math. Log.. key: journals/aml/WangD07
+
+On definable filters in computably enumerable degrees.
+Wei Wang,Decheng Ding
+2007. article: Ann. Pure Appl. Logic. key: journals/apal/WangD07
+
+Conic functions on metric spaces and their application.
+Guo-Jun Wang,Wei Wang,Fang Ren
+2005. article: Appl. Math. Lett.. key: journals/appml/WangWR05
+
+Blow-up rate for a nonlinear diffusion equation.
+Sining Zheng,Wei Wang
+2006. article: Appl. Math. Lett.. key: journals/appml/ZhengW06
+
+Simple transformation functions for finding better minima.
+Wei Wang,Yifan Xu
+2008. article: Appl. Math. Lett.. key: journals/appml/WangX08
+
+Left-continuity of t-norms on the n-dimensional Euclidean cube.
+Guo-Jun Wang,Wei Wang
+2010. article: Appl. Math. Lett.. key: journals/appml/WangW10
+
+Global asymptotic stability of equilibrium point for a family of rational difference equations.
+Changyou Wang,Shu Wang,Wei Wang
+2011. article: Appl. Math. Lett.. key: journals/appml/WangWW11
+
+Design and Realization of a Novel Modular Climbing Caterpillar Using Low-Frequency Vibrating Passive Suckers.
+Houxiang Zhang,Wei Wang,Juan Gonzalez-Gomez,Jianwei Zhang
+2009. article: Advanced Robotics. key: journals/ar/ZhangWGZ09
+
+Triple RRTs: An Effective Method for Path Planning in Narrow Passages.
+Wei Wang,Xin Xu,Yan Li,Jinze Song,Hangen He
+2010. article: Advanced Robotics. key: journals/ar/WangXLSH10
+
+An Efficient Algorithm for Cyclic Edge Connectivity of Regular Graphs.
+Dingjun Lou,Wei Wang
+2005. article: Ars Comb.. key: journals/arscom/LouW05
+
+On partial contraction analysis for coupled nonlinear oscillators.
+Wei Wang 0008,Jean-Jacques E. Slotine
+2005. article: Biological Cybernetics. key: journals/bc/WangS05
+
+Frequency sensitivity in Hodgkin-Huxley systems.
+Yuguo Yu,Feng Liu,Wei Wang
+2001. article: Biological Cybernetics. key: journals/bc/YuLW01
+
+Dynamics of the noisy neural network.
+Feng Liu,Wei Wang,Xixian Yao
+1997. article: Biological Cybernetics. key: journals/bc/LiuWY97
+
+Efficient genome ancestry inference in complex pedigrees with inbreeding.
+Eric Yi Liu,Qi Zhang,Leonard McMillan,Fernando Pardo-Manuel de Villena,Wei Wang 0010
+2010. article: Bioinformatics [ISMB]. key: journals/bioinformatics/LiuZMV010
+
+TEAM: efficient two-locus epistasis tests in human genome-wide association study.
+Xiang Zhang,Shunping Huang,Fei Zou,Wei Wang 0010
+2010. article: Bioinformatics [ISMB]. key: journals/bioinformatics/ZhangHZ010
+
+High-throughput identification of interacting protein-protein binding sites.
+Jo-Lan Chung,Wei Wang,Philip E. Bourne
+2007. article: BMC Bioinformatics. key: journals/bmcbi/ChungWB07
+
+On the detection of functionally coherent groups of protein domains with an extension to protein annotation.
+William A. McLaughlin,Ken Chen,Tingjun Hou,Wei Wang
+2007. article: BMC Bioinformatics. key: journals/bmcbi/McLaughlinCHW07
+
+Prediction of regulatory elements in mammalian genomes using chromatin signatures.
+Kyoung-Jae Won,Iouri Chepelev,Bing Ren,Wei Wang
+2008. article: BMC Bioinformatics. key: journals/bmcbi/WonCRW08
+
+GBNet: Deciphering regulatory rules in the co-regulated genes using a Gibbs sampler enhanced Bayesian network approach.
+Li Shen,Jie Liu,Wei Wang
+2008. article: BMC Bioinformatics. key: journals/bmcbi/ShenLW08
+
+Web Discovery and Filtering Based on Textual Relevance Feedback Learning.
+Wai Lam,Wei Wang,Che-Wang Yue
+2003. article: Computational Intelligence. key: journals/ci/LamWY03
+
+Re-structuring, Re-labeling, and Re-aligning for Syntax-Based Machine Translation.
+Wei Wang,Jonathan May,Kevin Knight,Daniel Marcu
+2010. article: Computational Linguistics. key: journals/coling/WangMKM10
+
+Processing of massive audit data streams for real-time anomaly intrusion detection.
+Wei Wang 0012,Xiaohong Guan,Xiangliang Zhang
+2008. article: Computer Communications. key: journals/comcom/WangGZ08
+
+Profiling program behavior for anomaly intrusion detection based on the transition and frequency property of computer audit data.
+Wei Wang 0012,Xiaohong Guan,Xiangliang Zhang,Liwei Yang
+2006. article: Computers & Security. key: journals/compsec/WangGZY06
+
+An evidence-based iterative content trust algorithm for the credibility of online news.
+Guosun Zeng,Wei Wang
+2009. article: Concurrency and Computation: Practice and Experience. key: journals/concurrency/ZengW09
+
+Bilevel programming applied to the flow shop scheduling problem.
+John K. Karlof,Wei Wang
+1996. article: Computers & OR. key: journals/cor/KarlofW96
+
+Factorization of Language Models through Backing-Off Lattices
+Wei Wang
+2003. article: CoRR. key: journals/corr/cs-CL-0305041
+
+Statistical Machine Translation by Parsing
+I. Dan Melamed,Wei Wang
+2004. article: CoRR. key: journals/corr/cs-CL-0407005
+
+Efficient Algorithms for Node Disjoint Subgraph Homeomorphism Determination
+Yanghua Xiao,Wentao Wu,Wei Wang 0009,Zhenying He
+2007. article: CoRR. key: journals/corr/abs-0709-1227
+
+Information-theoretic limits on sparse signal recovery: Dense versus sparse measurement matrices
+Wei Wang,Martin J. Wainwright,Kannan Ramchandran
+2008. article: CoRR. key: journals/corr/abs-0806-0604
+
+Self-adaptive web intrusion detection system
+Thomas Guyet,Rene Quiniou,Wei Wang 0012,Marie-Odile Cordier
+2009. article: CoRR. key: journals/corr/abs-0907-3819
+
+Multi-View Active Learning in the Non-Realizable Case
+Wei Wang,Zhi-Hua Zhou
+2010. article: CoRR. key: journals/corr/abs-1005-5581
+
+Sequential Pattern Mining in Multi-Databases via Multiple Alignment.
+Hye-Chung Kum,Joong Hyuk Chang,Wei Wang 0010
+2006. article: Data Min. Knowl. Discov.. key: journals/datamine/KumCW06
+
+Mining Surprising Periodic Patterns.
+Jiong Yang,Wei Wang 0010,Philip S. Yu
+2004. article: Data Min. Knowl. Discov.. key: journals/datamine/YangWY04
+
+Flexible Querying of Personal Information.
+Amelie Marian,Wei Wang 0014
+2009. article: IEEE Data Eng. Bull.. key: journals/debu/MarianW09
+
+Generalization-Based Data Mining in Object-Oriented Databases Using an Object Cube Model.
+Jiawei Han,Shojiro Nishio,Hiroyuki Kawano,Wei Wang
+1998. article: Data Knowl. Eng.. key: journals/dke/HanNKW98
+
+Benchmarking the effectiveness of sequential pattern mining methods.
+Hye-Chung Kum,Joong Hyuk Chang,Wei Wang 0010
+2007. article: Data Knowl. Eng.. key: journals/dke/KumCW07
+
+Characterization of graphs with infinite cyclic edge connectivity.
+Dingjun Lou,Wei Wang
+2008. article: Discrete Mathematics. key: journals/dm/LouW08
+
+On the asymptotic behavior of graphs determined by their generalized spectra.
+Wei Wang,Cheng-Xian Xu
+2010. article: Discrete Mathematics. key: journals/dm/WangX10
+
+A sufficient condition for a family of graphs being determined by their generalized spectra.
+Wei Wang,Cheng-Xian Xu
+2006. article: Eur. J. Comb.. key: journals/ejc/WangX06a
+
+DPVK - An Eclipse Plug-in to Detect Design Patterns in Eiffel Systems.
+Wei Wang,Vassilios Tzerpos
+2004. article: Electr. Notes Theor. Comput. Sci.. key: journals/entcs/WangT04
+
+Construct support vector machine ensemble to detect traffic incident.
+Shuyan Chen,Wei Wang,Henk J. van Zuylen
+2009. article: Expert Syst. Appl.. key: journals/eswa/ChenWZ09
+
+A prediction algorithm for time series based on adaptive model selection.
+Jiangjiao Duan,Wei Wang 0009,Jianping Zeng,Dongzhan Zhang,Baile Shi
+2009. article: Expert Syst. Appl.. key: journals/eswa/DuanWZZS09
+
+Decision tree learning for freeway automatic incident detection.
+Shuyan Chen,Wei Wang
+2009. article: Expert Syst. Appl.. key: journals/eswa/ChenW09d
+
+Multi-grain hierarchical topic extraction algorithm for text mining.
+Jianping Zeng,Chengrong Wu,Wei Wang
+2010. article: Expert Syst. Appl.. key: journals/eswa/ZengWW10
+
+A comparison of outlier detection algorithms for ITS data.
+Shuyan Chen,Wei Wang,Henk J. van Zuylen
+2010. article: Expert Syst. Appl.. key: journals/eswa/ChenWZ10
+
+Using evidence based content trust model for spam detection.
+Wei Wang,Guosun Zeng,Daizhong Tang
+2010. article: Expert Syst. Appl.. key: journals/eswa/WangZT10
+
+An optimal method for prediction and adjustment on byproduct gas holder in steel industry.
+Xiaoping Zhang,Jun Zhao,Wei Wang,Liqun Cong,Weimin Feng
+2011. article: Expert Syst. Appl.. key: journals/eswa/ZhangZWCF11
+
+Semantic multi-grain mixture topic model for text analysis.
+Jianping Zeng,Jiangjiao Duan,Wei Wang,Chengrong Wu
+2011. article: Expert Syst. Appl.. key: journals/eswa/ZengDWW11
+
+Learning Portfolio Analysis and Mining for SCORM Compliant Environment.
+Jun-Ming Su,Shian-Shyong Tseng,Wei Wang,Jui-Feng Weng,Jin-Tan David Yang,Wen-Nung Tsai
+2006. article: Educational Technology & Society. key: journals/ets/SuTWWYT06
+
+Observer-based adaptive fuzzy control for SISO nonlinear systems.
+Shaocheng Tong,Han-Xiong Li,Wei Wang
+2004. article: Fuzzy Sets and Systems. key: journals/fss/TongLW04
+
+Adaptive fuzzy output tracking control for a class of uncertain nonlinear systems.
+Yan-Jun Liu,Shaocheng Tong,Wei Wang
+2009. article: Fuzzy Sets and Systems. key: journals/fss/LiuTW09
+
+On fuzzy filters of pseudo BL-algebras.
+Wei Wang,Xiao Long Xin
+2011. article: Fuzzy Sets and Systems. key: journals/fss/WangX11
+
+Improved Clonal Selection Algorithm Combined with Ant Colony Optimization.
+Shangce Gao,Wei Wang,Hongwei Dai,Fangjia Li,Zheng Tang
+2008. article: IEICE Transactions. key: journals/ieicet/GaoWDLT08
+
+An Improved Biclustering Method for Analyzing Gene Expression Profiles.
+Jiong Yang,Haixun Wang,Wei Wang 0010,Philip S. Yu
+2005. article: International Journal on Artificial Intelligence Tools. key: journals/ijait/YangWWY05
+
+A New Computational Way to Monte Carlo Global Illumination.
+Qing Xu 0002,Wei Wang,Shiqiang Bao
+2006. article: Int. J. Image Graphics. key: journals/ijig/XuWB06
+
+Internet dependency and psychosocial maturity among college students.
+Wei Wang
+2001. article: Int. J. Hum.-Comput. Stud.. key: journals/ijmms/Wang01
+
+Fast computation with neural oscillators.
+Wei Wang 0008,Jean-Jacques E. Slotine
+2006. article: Neurocomputing. key: journals/ijon/WangS06
+
+Parallel Nonnegative Matrix Factorization Algorithm on the Distributed Memory Platform.
+Chao Dong,Huijie Zhao,Wei Wang
+2010. article: International Journal of Parallel Programming. key: journals/ijpp/DongZW10
+
+Consistent data for inconsistent XML document.
+Zijing Tan,Zijun Zhang,Wei Wang 0009,Baile Shi
+2007. article: Information & Software Technology. key: journals/infsof/TanZWS07
+
+Approaches to the representations and logic operations of fuzzy concepts in the framework of axiomatic fuzzy set theory I.
+Xiaodong Liu,Tianyou Chai,Wei Wang,Wanquan Liu
+2007. article: Inf. Sci.. key: journals/isci/LiuCWL07
+
+Approaches to the representations and logic operations of fuzzy concepts in the framework of axiomatic fuzzy set theory II.
+Xiaodong Liu,Wei Wang,Tianyou Chai,Wanquan Liu
+2007. article: Inf. Sci.. key: journals/isci/LiuWCL07
+
+Adaptive fuzzy control for a class of uncertain nonaffine nonlinear systems.
+Yan-Jun Liu,Wei Wang
+2007. article: Inf. Sci.. key: journals/isci/LiuW07a
+
+A novel mobility model based on semi-random circular movement in mobile ad hoc networks.
+Wei Wang,Xiaohong Guan,Beizhan Wang,Yaping Wang
+2010. article: Inf. Sci.. key: journals/isci/WangGWW10
+
+A parallel immune algorithm for traveling salesman problem and its application on cold rolling scheduling.
+Jun Zhao,Quanli Liu,Wei Wang,Zhuoqun Wei,Peng Shi
+2011. article: Inf. Sci.. key: journals/isci/ZhaoLWWS11
+
+Identification of family-specific residue packing motifs and their use for structure-based protein function prediction: I. Method development.
+Deepak Bandyopadhyay,Jun Huan,Jan Prins,Jack Snoeyink,Wei Wang 0010,Alexander Tropsha
+2009. article: Journal of Computer-Aided Molecular Design. key: journals/jcamd/BandyopadhyayHPSWT09
+
+Identification of family-specific residue packing motifs and their use for structure-based protein function prediction: II. Case studies and applications.
+Deepak Bandyopadhyay,Jun Huan,Jan Prins,Jack Snoeyink,Wei Wang 0010,Alexander Tropsha
+2009. article: Journal of Computer-Aided Molecular Design. key: journals/jcamd/BandyopadhyayHPSWT09a
+
+Comparing Graph Representations of Protein Structure for Mining Family-Specific Residue-Based Packing Motifs.
+Jun Huan,Deepak Bandyopadhyay,Wei Wang 0010,Jack Snoeyink,Jan Prins,Alexander Tropsha
+2005. article: Journal of Computational Biology. key: journals/jcb/HuanBWSPT05
+
+Scalable molecular dynamics with NAMD.
+James C. Phillips,Rosemary Braun,Wei Wang,James Gumbart,Emad Tajkhorshid,Elizabeth Villa,Christophe Chipot,Robert D. Skeel,Laxmikant V. Kale,Klaus Schulten
+2005. article: Journal of Computational Chemistry. key: journals/jcc/PhillipsBWGTVCSKS05
+
+Hardness of k-Vertex-Connected Subgraph Augmentation Problem.
+Changcun Ma,Donghyun Kim,Yuexuan Wang,Wei Wang,Nassim Sohaee,Weili Wu
+2010. article: J. Comb. Optim.. key: journals/jco/MaKWWSW10
+
+Novel Design and Fpga Implementation of Da-rns Fir Filters.
+Wei Wang 0003,M. N. S. Swamy,M. Omair Ahmad
+2004. article: Journal of Circuits, Systems, and Computers. key: journals/jcsc/WangSA04
+
+Recent Progress on Selected Topics in Database Research - A Report by Nine Young Chinese Researchers Working in the United States.
+Zhiyuan Chen,Li Chen,Jian Pei,Yufei Tao,Haixun Wang,Wei Wang 0010,Jiong Yang,Jun Yang 0001,Donghui Zhang
+2003. article: J. Comput. Sci. Technol.. key: journals/jcst/ChenCPTWWYYZ03
+
+Efficient Computation of k-Medians over Data Streams Under Memory Constraints.
+Zhihong Chong,Jeffrey Xu Yu,Zhengjie Zhang,Xuemin Lin,Wei Wang 0011,Aoying Zhou
+2006. article: J. Comput. Sci. Technol.. key: journals/jcst/ChongYZLWZ06
+
+Chopper: Efficient Algorithm for Tree Mining.
+Chen Wang,Mingsheng Hong,Wei Wang 0009,Baile Shi
+2004. article: J. Comput. Sci. Technol.. key: journals/jcst/WangHWS04
+
+Dynamic Interval Index Structure in Constraint Database Systems.
+Wei Wang 0009,Yujun Wang,Baile Shi
+2000. article: J. Comput. Sci. Technol.. key: journals/jcst/WangWS00
+
+Extracting Frequent Connected Subgraphs from Large Graph Sets.
+Wei Wang 0009,Qingqing Yuan,Haofeng Zhou,Mingsheng Hong,Baile Shi
+2004. article: J. Comput. Sci. Technol.. key: journals/jcst/WangYZHS04
+
+Approach to the Correlation Discovery of Chinese Linguistic Parameters Based on Bayesian Method.
+Wei Wang,Lianhong Cai
+2003. article: J. Comput. Sci. Technol.. key: journals/jcst/WangC03
+
+Hybrid Nanoelectronics: Future of Computer Technology.
+Wei Wang,Ming Liu,Andrew Hsu
+2006. article: J. Comput. Sci. Technol.. key: journals/jcst/WangLH06
+
+Efficient Optimization of Multiple Subspace Skyline Queries.
+Zhenhua Huang,Jiankui Guo,Sheng-Li Sun,Wei Wang 0009
+2008. article: J. Comput. Sci. Technol.. key: journals/jcst/HuangGSW08
+
+Leakage Current Optimization Techniques During Test Based on Don't Care Bits Assignment.
+Wei Wang,Yu Hu,Yinhe Han,Xiaowei Li,You-Sheng Zhang
+2007. article: J. Comput. Sci. Technol.. key: journals/jcst/WangHHLZ07
+
+Annotation Based Query Answer over Inconsistent Database.
+Ai-Hua Wu,Zijing Tan,Wei Wang
+2010. article: J. Comput. Sci. Technol.. key: journals/jcst/WuTW10
+
+A uniqueness theorem on matrices and reconstruction.
+Wei Wang
+2009. article: J. Comb. Theory, Ser. B. key: journals/jct/Wang09
+
+Genetic algorithms for determining fuzzy measures from data.
+Wei Wang,Zhenyuan Wang,George J. Klir
+1998. article: Journal of Intelligent and Fuzzy Systems. key: journals/jifs/WangWK98
+
+Constraint-based sequential pattern mining: the pattern-growth methods.
+Jian Pei,Jiawei Han,Wei Wang
+2007. article: J. Intell. Inf. Syst.. key: journals/jiis/PeiHW07
+
+Approximate range-sum query answering on data cubes with probabilistic guarantees.
+Alfredo Cuzzocrea,Wei Wang
+2007. article: J. Intell. Inf. Syst.. key: journals/jiis/CuzzocreaW07
+
+Image Rate Based Cross Layer Optimizations for Image Delivery in Wireless Sensor Networks.
+Honggang Wang,Dongming Peng,Wei Wang 0015,Hamid Sharif
+2007. article: J. Mobile Multimedia. key: journals/jmm/WangPWS07
+
+A Novel Adaptive Distributed Cooperative Relaying MAC Protocol for Vehicular Networks.
+Ting Zhou,Hamid Sharif,Michael Hempel,Puttipong Mahasukhon,Wei Wang 0015,Tao Ma
+2011. article: IEEE Journal on Selected Areas in Communications. key: journals/jsac/ZhouSHMWM11
+
+Constructing attribute weights from computer audit data for effective intrusion detection.
+Wei Wang 0012,Xiangliang Zhang,Sylvain Gombault
+2009. article: Journal of Systems and Software. key: journals/jss/WangZG09
+
+Consistent query answers from virtually integrated XML data.
+Zijing Tan,Chengfei Liu,Wei Wang,Baile Shi
+2010. article: Journal of Systems and Software. key: journals/jss/TanLWS10
+
+Bounding non-GL2 and R.E.A.
+Klaus Ambos-Spies,Decheng Ding,Wei Wang,Liang Yu
+2009. article: J. Symb. Log.. key: journals/jsyml/Ambos-SpiesDWY09
+
+WAR: Weighted Association Rules for Item Intensities.
+Wei Wang 0010,Jiong Yang,Philip S. Yu
+2004. article: Knowl. Inf. Syst.. key: journals/kais/WangYY04
+
+Discovering High-Order Periodic Patterns.
+Jiong Yang,Wei Wang 0010,Philip S. Yu
+2004. article: Knowl. Inf. Syst.. key: journals/kais/YangWY04
+
+Efficient mining of skyline objects in subspaces over data streams.
+Zhenhua Huang,Sheng-Li Sun,Wei Wang
+2010. article: Knowl. Inf. Syst.. key: journals/kais/HuangSW10
+
+Risk and confidence analysis for fuzzy multicriteria decision making.
+Norman E. Fenton,Wei Wang
+2006. article: Knowl.-Based Syst.. key: journals/kbs/FentonW06
+
+Extracting semantic concepts from images: a decisive feature pattern mining approach.
+Wei Wang,Aidong Zhang
+2006. article: Multimedia Syst.. key: journals/mms/WangZ06
+
+Hardware Organization to Achieve High-Speed Elliptic Curve Cryptography for Mobile Devices.
+Sining Liu,Brian King,Wei Wang 0003
+2007. article: MONET. key: journals/monet/LiuKW07
+
+Hash-Based Virtual Hierarchies for Scalable Location Service in Mobile Ad-hoc Networks.
+Wei Wang,Chinya V. Ravishankar
+2009. article: MONET. key: journals/monet/WangR09
+
+Performance Study of a Mobile Multi-hop 802.11a/b Railway Network Using Passive Measurement.
+Ting Zhou,Hamid Sharif,Michael Hempel,Puttipong Mahasukhon,Wei Wang 0015,Hsiao-Hwa Chen
+2009. article: MONET. key: journals/monet/ZhouSHMWC09
+
+KemaDom: a web server for domain prediction using kernel machine with local context.
+Lusheng Chen,Wei Wang 0004,Shaoping Ling,Caiyan Jia,Fei Wang
+2006. article: Nucleic Acids Research. key: journals/nar/ChenWLJW06
+
+Text categorization based on combination of modified back propagation neural network and latent semantic analysis.
+Wei Wang,Bo Yu
+2009. article: Neural Computing and Applications. key: journals/nca/WangY09
+
+Sample average approximation of expected value constrained stochastic programs.
+Wei Wang,Shabbir Ahmed
+2008. article: Oper. Res. Lett.. key: journals/orl/WangA08
+
+A Novel Discrete Relaxation Architecture.
+Jun Gu,Wei Wang
+1992. article: IEEE Trans. Pattern Anal. Mach. Intell.. key: journals/pami/GuW92
+
+Structure-based graph distance measures of high degree of precision.
+Yanghua Xiao,Hua Dong,Wentao Wu,Momiao Xiong,Wei Wang 0009,Baile Shi
+2008. article: Pattern Recognition. key: journals/pr/XiaoDWXWS08
+
+Design and implementation of Log-Gabor filter in fingerprint image enhancement.
+Wei Wang,Jianwei Li,Feifei Huang,Hailiang Feng
+2008. article: Pattern Recognition Letters. key: journals/prl/WangLHF08
+
+Geometric Separators and Their Applications to Protein Folding in the HP-Model.
+Bin Fu,Wei Wang
+2007. article: SIAM J. Comput.. key: journals/siamcomp/FuW07
+
+BIOKDD 2005 workshop report.
+Srinivasan Parthasarathy,Wei Wang 0010,Mohammed Javeed Zaki
+2005. article: SIGKDD Explorations. key: journals/sigkdd/ParthasarathyWZ05
+
+Utility-based anonymization for privacy preservation with less information loss.
+Jian Xu,Wei Wang 0009,Jian Pei,Xiaoyuan Wang,Baile Shi,Ada Wai-Chee Fu
+2006. article: SIGKDD Explorations. key: journals/sigkdd/XuWPWSF06
+
+Mining Patterns in Long Sequential Data with Noise.
+Wei Wang 0010,Jiong Yang,Philip S. Yu
+2000. article: SIGKDD Explorations. key: journals/sigkdd/WangYY00
+
+Reminiscences on Influential Papers - Kenneth A. Ross.
+Nicolas Bruno,Samuel Madden,Wei Wang
+2004. article: SIGMOD Record. key: journals/sigmod/BrunoMW04
+
+Improved pattern recognition with complex artificial immune system.
+Wei Wang,Shangce Gao,Zheng Tang
+2009. article: Soft Comput.. key: journals/soco/WangGT09
+
+Dynamo: design, implementation, and evaluation of cooperative persistent object management in a local area network.
+Jiong Yang,Wei Wang 0010,Silvia Nittel,Richard R. Muntz,Vince Busam
+2000. article: Softw., Pract. Exper.. key: journals/spe/YangWNMB00
+
+Adaptive Method for Early Detecting Zero Quantized DCT Coefficients in H.264/AVC Video Encoding.
+Maojun Zhang,Tao Zhou,Wei Wang
+2009. article: IEEE Trans. Circuits Syst. Video Techn.. key: journals/tcsv/ZhangZW09
+
+A Theory of Phase Singularities for Image Representation and its Applications to Object Tracking and Image Matching.
+Yu Qiao,Wei Wang,Nobuaki Minematsu,Jianzhuang Liu,Mitsou Takeda,Xiaoou Tang
+2009. article: IEEE Transactions on Image Processing. key: journals/tip/QiaoWMLTT09
+
+A Graph Based Approach Toward Network Forensics Analysis.
+Wei Wang,Thomas E. Daniels
+2008. article: ACM Trans. Inf. Syst. Secur.. key: journals/tissec/WangD08
+
+On optimal permutation codes.
+Vivek K. Goyal,Serap A. Savari,Wei Wang
+2001. article: IEEE Transactions on Information Theory. key: journals/tit/GoyalSW01
+
+Information-theoretic limits on sparse signal recovery: dense versus sparse measurement matrices.
+Wei Wang,Martin J. Wainwright,Kannan Ramchandran
+2010. article: IEEE Transactions on Information Theory. key: journals/tit/WangWR10
+
+Functional neighbors: inferring relationships between nonhomologous protein families using family-specific packing motifs.
+Deepak Bandyopadhyay,Jun Huan,Jinze Liu,Jan Prins,Jack Snoeyink,Wei Wang,Alexander Tropsha
+2010. article: IEEE Transactions on Information Technology in Biomedicine. key: journals/titb/BandyopadhyayHLPSWT10
+
+Performance Analysis of Three Text-Join Algorithms.
+Weiyi Meng,Clement T. Yu,Wei Wang 0010,Naphtali Rishe
+1998. article: IEEE Trans. Knowl. Data Eng.. key: journals/tkde/MengYWR98
+
+Guest Editors' Introduction: Special Issue on Mining Biological Data.
+Wei Wang 0010,Jiong Yang
+2005. article: IEEE Trans. Knowl. Data Eng.. key: journals/tkde/WangY05
+
+An Approach to Active Spatial Data Mining Based on Statistical Information.
+Wei Wang 0010,Jiong Yang,Richard R. Muntz
+2000. article: IEEE Trans. Knowl. Data Eng.. key: journals/tkde/WangYM00
+
+Mining Asynchronous Periodic Patterns in Time Series Data.
+Jiong Yang,Wei Wang 0010,Philip S. Yu
+2003. article: IEEE Trans. Knowl. Data Eng.. key: journals/tkde/YangWY03
+
+A Low-Granularity Classifier for Data Streams with Concept Drifts and Biased Class Distribution.
+Peng Wang,Haixun Wang,Xiaochen Wu,Wei Wang 0009,Baile Shi
+2007. article: IEEE Trans. Knowl. Data Eng.. key: journals/tkde/WangWWWS07
+
+Adaptive Broadcasting for Similarity Queries in Wireless Content Delivery Systems.
+Wei Wang,Chinya V. Ravishankar
+2008. article: IEEE Trans. Knowl. Data Eng.. key: journals/tkde/WangR08
+
+Probabilistic Reverse Nearest Neighbor Queries on Uncertain Data.
+Muhammad Aamir Cheema,Xuemin Lin,Wei Wang 0011,Wenjie Zhang,Jian Pei
+2010. article: IEEE Trans. Knowl. Data Eng.. key: journals/tkde/CheemaLWZP10
+
+Power Control for Distributed MAC Protocols in Wireless Ad Hoc Networks.
+Wei Wang 0002,Vikram Srinivasan,Kee Chaing Chua
+2008. article: IEEE Trans. Mob. Comput.. key: journals/tmc/WangSC08
+
+Coverage in Hybrid Mobile Sensor Networks.
+Wei Wang 0002,Vikram Srinivasan,Kee Chaing Chua
+2008. article: IEEE Trans. Mob. Comput.. key: journals/tmc/WangSC08a
+
+Robust Routing and Scheduling in Wireless Mesh Networks under Dynamic Traffic Conditions.
+Wei Wang,Xin Liu,Dilip Krishnaswamy
+2009. article: IEEE Trans. Mob. Comput.. key: journals/tmc/WangLK09
+
+A Better Approximation Algorithm for Computing Connected Dominating Sets in Unit Ball Graphs.
+Donghyun Kim,Zhao Zhang,Xianyue Li,Wei Wang,Weili Wu,Ding-Zhu Du
+2010. article: IEEE Trans. Mob. Comput.. key: journals/tmc/KimZLWWD10
+
+Effects of Incompatible Boundary Information in EIT on the Convergence Behavior of an Iterative Algorithm.
+Mengxing Tang,Wei Wang,James Wheeler,Malcolm McCormick,Xiuzhen Dong
+2002. article: IEEE Trans. Med. Imaging. key: journals/tmi/TangWWMD02
+
+A Multiparty Videoconferencing System Over an Application-Level Multicast Protocol.
+Chong Luo,Wei Wang,Jian Tang,Jun Sun,Jiang Li
+2007. article: IEEE Transactions on Multimedia. key: journals/tmm/LuoWTSL07
+
+Energy-Constrained Distortion Reduction Optimization for Wavelet-Based Coded Image Transmission in Wireless Sensor Networks.
+Wei Wang 0015,Dongming Peng,Honggang Wang,Hamid Sharif,Hsiao-Hwa Chen
+2008. article: IEEE Transactions on Multimedia. key: journals/tmm/WangPWSC08
+
+A Multimedia Quality-Driven Network Resource Management Architecture for Wireless Sensor Networks With Stream Authentication.
+Wei Wang,Dongming Peng,Honggang Wang,Hamid Sharif,Hsiao-Hwa Chen
+2010. article: IEEE Transactions on Multimedia. key: journals/tmm/WangPWSC10
+
+Index-Based Selective Audio Encryption for Wireless Multimedia Sensor Networks.
+Honggang Wang,Michael Hempel,Dongming Peng,Wei Wang,Hamid Sharif,Hsiao-Hwa Chen
+2010. article: IEEE Transactions on Multimedia. key: journals/tmm/WangHPWSC10
+
+On Energy Efficient Encryption for Video Streaming in Wireless Sensor Networks.
+Wei Wang,Michael Hempel,Dongming Peng,Honggang Wang,Hamid Sharif,Hsiao-Hwa Chen
+2010. article: IEEE Transactions on Multimedia. key: journals/tmm/WangHPWSC10a
+
+Towards multidimensional subspace skyline analysis.
+Jian Pei,Yidong Yuan,Xuemin Lin,Wen Jin,Martin Ester,Qing Liu,Wei Wang 0011,Yufei Tao,Jeffrey Xu Yu,Qing Zhang
+2006. article: ACM Trans. Database Syst.. key: journals/tods/PeiYLJELWTYZ06
+
+Extending the lifetime of wireless sensor networks through mobile relays.
+Wei Wang 0002,Vikram Srinivasan,Kee Chaing Chua
+2008. article: IEEE/ACM Trans. Netw.. key: journals/ton/WangSC08
+
+Opportunistic energy-efficient contact probing in delay-tolerant applications.
+Wei Wang 0002,Mehul Motani,Vikram Srinivasan
+2009. article: IEEE/ACM Trans. Netw.. key: journals/ton/WangMS09
+
+The fuzzy clustering analysis based on AFS theory.
+Xiaodong Liu,Wei Wang,Tianyou Chai
+2005. article: IEEE Transactions on Systems, Man, and Cybernetics, Part B. key: journals/tsmc/LiuWC05
+
+Stability Analysis for Linear Switched Systems With Time-Varying Delay.
+Xi-Ming Sun,Wei Wang,Guo-Ping Liu,Jun Zhao
+2008. article: IEEE Transactions on Systems, Man, and Cybernetics, Part B. key: journals/tsmc/SunWLZ08
+
+A General Internal Model Approach for Motion Learning.
+Jian-Xin Xu,Wei Wang
+2008. article: IEEE Transactions on Systems, Man, and Cybernetics, Part B. key: journals/tsmc/XuW08
+
+Threshold-based probabilistic top-k dominating queries.
+Wenjie Zhang,Xuemin Lin,Ying Zhang,Jian Pei,Wei Wang 0011
+2010. article: VLDB J.. key: journals/vldb/ZhangLZPW10
+
+An adaptive approach for image encryption and secure transmission over multirate wireless sensor networks.
+Wei Wang 0015,Dongming Peng,Honggang Wang,Hamid Sharif
+2009. article: Wireless Communications and Mobile Computing. key: journals/wicomm/WangPWS09
+
+Scheduling sensor activity for information coverage of discrete targets in sensor networks.
+Bang Wang,Kee Chaing Chua,Vikram Srinivasan,Wei Wang 0002
+2009. article: Wireless Communications and Mobile Computing. key: journals/wicomm/WangCSW09
+
+IPS-MAC: an informative preamble sampling MAC protocol for wireless sensor networks.
+Farshad Ahdi,Wei Wang,Vikram Srinivasan,Kee Chaing Chua
+2010. article: Wireless Networks. key: journals/winet/AhdiWSC10
+
+Automatic Annotation and Retrieval of Images.
+Yuqing Song,Wei Wang,Aidong Zhang
+2003. article: World Wide Web. key: journals/www/SongWZ03
+
+Coding-based Join Algorithms for Structural Queries on Graph-Structured XML Document.
+Hongzhi Wang,Jianzhong Li,Wei Wang 0011,Xuemin Lin
+2008. article: World Wide Web. key: journals/www/WangLWL08
+
+An uplink resource allocation scheme for OFDMA-based cognitive radio networks.
+Wei Wang,Wenbo Wang,Qianxi Lu,Tao Peng
+2009. article: Int. J. Communication Systems. key: journals/ijcomsys/WangWLP09
+
+Utility-based resource allocation in uplink of OFDMA-based cognitive radio networks.
+Qianxi Lu,Tao Peng,Wei Wang,Wenbo Wang,Chao Hu
+2010. article: Int. J. Communication Systems. key: journals/ijcomsys/LuPWWH10
+
+Two parallel distribution algorithms for convex constrained minimization problems.
+Li-Ping Pang,Jie Shen,Wei Wang
+2007. article: Applied Mathematics and Computation. key: journals/amc/PangSW07
+
+Delay and its time-derivative dependent robust stability of neutral control system.
+Zhengrong Zhao,Wei Wang,Bin Yang
+2007. article: Applied Mathematics and Computation. key: journals/amc/ZhaoWY07
+
+A generalized (G'/G)-expansion method and its application to the (2 + 1)-dimensional Broer-Kaup equations.
+Sheng Zhang,Wei Wang,Jing-Lin Tong
+2009. article: Applied Mathematics and Computation. key: journals/amc/ZhangWT09a
+
+Microarray image compression: SLOCO and the effect of information loss.
+Rebecka Jornsten,Wei Wang,Bin Yu,Kannan Ramchandran
+2003. article: Signal Processing. key: journals/sigpro/JornstenWYR03
+
+Detection using correlation bound in a linear mixture model.
+Wei Wang 0018,Tulay Adali
+2007. article: Signal Processing. key: journals/sigpro/WangA07
+
+Robust adaptive beamforming for large-scale arrays.
+Fei Huang,Weixing Sheng,Xiaofeng Ma,Wei Wang
+2010. article: Signal Processing. key: journals/sigpro/HuangSMW10
+
+Reliable H INFINITY  filtering for discrete time-delay systems with randomly occurred nonlinearities via delay-partitioning method.
+Yisha Liu,Zidong Wang,Wei Wang
+2011. article: Signal Processing. key: journals/sigpro/LiuWW11
+
+Passive Compliance from Robot Limbs and its Usefulness in Robotic Automation.
+Marcelo H. Ang Jr.,Wei Wang,Robert N. K. Loh,Teck-Seng Low
+1997. article: Journal of Intelligent and Robotic Systems. key: journals/jirs/AngWLL97
+
+High-mobility pentacene thin-film transistors with copolymer-gate dielectric.
+Wei Wang,Jiawei Shi,Wenhai Jiang,Shuxu Guo,Hongmei Zhang,Baofu Quan,Dongge Ma
+2007. article: Microelectronics Journal. key: journals/mj/WangSJGZQM07
+
+Compact modeling of quantum effects in symmetric double-gate MOSFETs.
+Wei Wang,Huaxin Lu,Jooyoung Song,Shih-Hsien Lo,Yuan Taur
+2010. article: Microelectronics Journal. key: journals/mj/WangLSLT10
+
+Commonality and postponement in multistage assembly systems.
+Shihua Ma,Wei Wang,Liming Liu
+2002. article: European Journal of Operational Research. key: journals/eor/MaWL02
+
+Non-negative Matrix Factorization with Orthogonality Constraints and its Application to Raman Spectroscopy.
+Hualiang Li,Tulay Adali,Wei Wang 0018,Darren Emge,Andrzej Cichocki
+2007. article: VLSI Signal Processing. key: journals/vlsisp/LiAWECC07
+
+Balancing the Role of Priors in Multi-Observer Segmentation Evaluation.
+Yaoyao Zhu,Xiaolei Huang,Wei Wang,Daniel P. Lopresti,L. Rodney Long,Sameer Antani,Zhiyun Xue,George R. Thoma
+2009. article: Signal Processing Systems. key: journals/vlsisp/ZhuHWLLAXT09
+
+Enhanced CT Images by the Wavelet Transform Improving Diagnostic Accuracy of Chest Nodules.
+Xiuhua Guo,Xiangye Liu,Huan Wang,Zhigang Liang,Wei Wu,Qian He,Kuncheng Li,Wei Wang
+2011. article: J. Digital Imaging. key: journals/jdi/GuoLWLWHLW11
+
+Introduction to special issue on bioinformatics.
+Mohammed J. Zaki,George Karypis,Jiong Yang,Wei Wang 0010
+2008. article: TKDD. key: journals/tkdd/ZakiKYW08
+
+Efficient algorithms for genome-wide association study.
+Xiang Zhang,Fei Zou,Wei Wang
+2009. article: TKDD. key: journals/tkdd/ZhangZW09
+
+Predicting intrusion goal using dynamic Bayesian network with transfer probability estimation.
+Li Feng,Wei Wang,Li-na Zhu,Yi Zhang
+2009. article: J. Network and Computer Applications. key: journals/jnca/FengWZZ09
+
+Fast intrusion detection based on a non-negative matrix factorization model.
+Xiaohong Guan,Wei Wang 0012,Xiangliang Zhang
+2009. article: J. Network and Computer Applications. key: journals/jnca/GuanWZ09
+
+System deep usage in post-acceptance stage: a literature review and a new research framework.
+Wei Wang,John E. Butler
+2006. article: IJBIS. key: journals/ijbis/WangB06
+
+Data management services and transfer scheme in ChinaGrid.
+Song Wu,Hai Jin,Muzhou Xiong,Wei Wang
+2007. article: IJWGS. key: journals/ijwgs/WuJXW07
+
+PERT: a new power-efficient real-time packet delivery scheme for sensor networks.
+Shanzhong Zhu,Wei Wang,Chinya V. Ravishankar
+2008. article: IJSNet. key: journals/ijsnet/ZhuWR08
+
+Continuance Parallel Computation Grid Composed of Multi-Clusters.
+Qingkui Chen,Haifeng Wang,Wei Wang
+2010. article: JNW. key: journals/jnw/ChenWW10
+
+Subspace Partitioning for Target Detection and Identification.
+Wei Wang 0018,Tulay Adali,Darren Emge
+2009. article: IEEE Transactions on Signal Processing. key: journals/tsp/WangAE09
+
+Design of IIR orthogonal wavelet filter banks using lifting scheme.
+Xi Zhang,Wei Wang,Toshinori Yoshikawa,Yoshinori Takei
+2006. article: IEEE Transactions on Signal Processing. key: journals/tsp/ZhangWYT06
+
+Joint blind source separation by multiset canonical correlation analysis.
+Yi-Ou Li,Tulay Adali,Wei Wang 0018,Vince D. Calhoun
+2009. article: IEEE Transactions on Signal Processing. key: journals/tsp/LiAWC09
+
+Information Coverage in Randomly Deployed Wireless Sensor Networks.
+Bang Wang,Kee Chaing Chua,Vikram Srinivasan,Wei Wang 0002
+2007. article: IEEE Transactions on Wireless Communications. key: journals/twc/WangCSW07
+
+Coverage for target localization in wireless sensor networks.
+Wei Wang 0002,Vikram Srinivasan,Bang Wang,Kee Chaing Chua
+2008. article: IEEE Transactions on Wireless Communications. key: journals/twc/WangSWC08
+
+Cross-layer routing optimization in multirate wireless sensor networks for distributed sourcecoding based applications.
+Honggang Wang,Dongming Peng,Wei Wang 0015,Hamid Sharif,Hsiao-Hwa Chen
+2008. article: IEEE Transactions on Wireless Communications. key: journals/twc/WangPWSC08
+
+Image transmissions with security enhancement based on region and path diversity in wireless sensor networks.
+Honggang Wang,Dongming Peng,Wei Wang 0015,Hamid Sharif,Hsiao-Hwa Chen
+2009. article: IEEE Transactions on Wireless Communications. key: journals/twc/WangPWSC09
+
+Cross-layer multirate interaction with Distributed Source Coding in Wireless Sensor Networks.
+Wei Wang 0015,Dongming Peng,Honggang Wang,Hamid Sharif,Hsiao-Hwa Chen
+2009. article: IEEE Transactions on Wireless Communications. key: journals/twc/WangPWSC09a
+
+Geometry-based optimal power control of fading multiple access channels for maximum sum-rate in cognitive radio networks.
+Wei Wang,Wenbo Wang,Qianxi Lu,Kang G. Shin,Tao Peng
+2010. article: IEEE Transactions on Wireless Communications. key: journals/twc/WangWLSP10
+
+Comments on "Research on estimating smoothed value and differential value by using sliding mode system".
+Jing-qing Han,Wei Wang
+2005. article: IEEE Transactions on Robotics. key: journals/trob/HanW05
+
+Kalman filtering for time-delayed linear systems.
+Xiao Lu,Wei Wang
+2006. article: Science in China Series F: Information Sciences. key: journals/chinaf/LuW06
+
+Trusted dynamic level scheduling based on Bayes trust model.
+Wei Wang,Guosun Zeng
+2007. article: Science in China Series F: Information Sciences. key: journals/chinaf/WeiG07
+
+Nanoparticle-based lift-off technique for ultra-thin nanoporous film preparation.
+Wei Wang,Yu Zhao,YinHua Lei,Zhihong Li
+2008. article: Science in China Series F: Information Sciences. key: journals/chinaf/WangZLL08
+
+Exploiting remote learners in Internet environment with agents.
+Ming Li,Wei Wang,Zhihua Zhou
+2010. article: Science in China Series F: Information Sciences. key: journals/chinaf/LiWZ10
+
+Delay-dependent stability for discrete systems with large delay sequence based on switching techniques.
+Xi-Ming Sun,Guo-Ping Liu,David Rees,Wei Wang
+2008. article: Automatica. key: journals/automatica/SunLRW08
+
+Decentralized adaptive backstepping stabilization of interconnected systems with dynamic input and output interactions.
+Changyun Wen,Jing Zhou,Wei Wang 0016
+2009. article: Automatica. key: journals/automatica/WenZW09
+
+Kalman filtering for multiple time-delay systems.
+Xiao Lu,Huanshui Zhang,Wei Wang,Kok-Lay Teo
+2005. article: Automatica. key: journals/automatica/LuZWT05
+
+Adaptive backstepping control of uncertain systems with unknown input time-delay.
+Jing Zhou,Changyun Wen,Wei Wang 0016
+2009. article: Automatica. key: journals/automatica/ZhouWW09
+
+Adaptive actuator failure compensation control of uncertain nonlinear systems with guaranteed transient performance.
+Wei Wang 0016,Changyun Wen
+2010. article: Automatica. key: journals/automatica/WangW10a
+
+A Method for Surface Reconstruction Based on Support Vector Machine.
+Lianwei Zhang,Wei Wang,Yan Li,Xiaolin Liu,Meiping Shi,Hangen He
+2009. article: JCP. key: journals/jcp/ZhangWLLSH09
+
+Ed-Join: an efficient algorithm for similarity joins with edit distance constraints.
+Chuan Xiao,Wei Wang 0011,Xuemin Lin
+2008. article: PVLDB. key: journals/pvldb/XiaoWL08
+
+Mining non-redundant high order correlations in binary data.
+Xiang Zhang,Feng Pan,Wei Wang 0010,Andrew B. Nobel
+2008. article: PVLDB. key: journals/pvldb/ZhangPWN08
+
+Lazy Updates: An Efficient Technique to Continuously Monitoring Reverse kNN.
+Muhammad Aamir Cheema,Xuemin Lin,Ying Zhang,Wei Wang 0011,Wenjie Zhang
+2009. article: PVLDB. key: journals/pvldb/CheemaLZWZ09
+
+A PTAS for minimum d-hop connected dominating set in growth-bounded graphs.
+Xiaofeng Gao,Wei Wang,Zhao Zhang,Shiwei Zhu,Weili Wu
+2010. article: Optimization Letters. key: journals/ol/GaoWZZW10
+
+Minimum average routing path clustering problem in multi-hop 2-D underwater sensor networks.
+Donghyun Kim,Wei Wang,Ling Ding,Jihwan Lim,Heekuck Oh,Weili Wu
+2010. article: Optimization Letters. key: journals/ol/KimWDLOW10
+
+A framework for intrusion detection systems by social network analysis methods in ad hoc networks.
+Wei Wang,Hong Man,Yu Liu
+2009. article: Security and Communication Networks. key: journals/scn/WangML09
+
+Dynamic Integrated Algorithm for Production Scheduling Based on Iterative Search.
+Cunli Song,Xiaobing Liu,Wei Wang,Ming Huang
+2010. article: JCIT. key: journals/jcit/SongLWH10
+
+Innovative control education using a low cost intelligent robot platform.
+Wei Wang,Yan Zhuang,Wei-min Yun
+2003. article: Robotica. key: journals/robotica/WangZY03
+
+Force cooperation in a reconfigurable field multirobot system.
+Wei Wang,Houxiang Zhang,Guanghua Zong,Jianwei Zhang
+2008. article: J. Field Robotics. key: journals/jfr/WangZZZ08
+
+Preference-Based Frequent Pattern Mining.
+Moonjung Cho,Jian Pei,Haixun Wang,Wei Wang
+2005. article: IJDWM. key: journals/jdwm/ChoPWW05
+
+Progress in the development and application of computational methods for probabilistic protein design.
+Sheldon Park,Hidetoshi Kono,Wei Wang,Eric T. Boder,Jeffery G. Saven
+2005. article: Computers & Chemical Engineering. key: journals/cce/ParkKWBS05
+
+Similarity joins as stronger metric operations.
+Wei Wang
+2010. article: SIGSPATIAL Special. key: journals/sigspatial/Wang10
+
+Abnormal Sections Detection Based on Inter-Frames Information in Video Sequence.
+Wei Wang,Runsheng Wang,Wei Gao
+2009. article: I. J. Information Acquisition. key: journals/ijia/WangWG09
+
+An Approach of Exciting Events Detection in Soccer Sports Videos.
+Wei Wang,Wei Gao,Yajuan Liu,Runsheng Wang
+2010. article: I. J. Information Acquisition. key: journals/ijia/WangGLW10
+
+Countermeasures for Hardware Fault Attack in Multi-Prime RSA Cryptosystems.
+Zine-Eddine Abid,Wei Wang
+2008. article: I. J. Network Security. key: journals/ijnsec/AbidW08
+
+Effect of Inspection Error on Out-of-Control Average Run Length of CUSUM Charts.
+Yougui Wu,Yiliang Zhu,Wei Wang
+2009. article: Communications in Statistics - Simulation and Computation. key: journals/cssc/WuZW09
+
+Outdoor to indoor channel characteristics on two different floors.
+Wei Wang,Thomas Jost,Armin Dammann
+2010. article: European Transactions on Telecommunications. key: journals/ett/WangJD10
+
+Exp-function method for a nonlinear ordinary differential equation and new exact solutions of the dispersive long wave equations.
+Sheng Zhang,Jing-Lin Tong,Wei Wang
+2009. article: Computers & Mathematics with Applications. key: journals/cma/ZhangTW09
+
+E-Commerce Education In China.
+Juhua Chen,Yong Hu,Wei Wang
+2004. article: JECO. key: journals/jeco/ChenHW04
+
+Classifying Consumer Comparison Opinions to Uncover Product Strengths and Weaknesses.
+Kaiquan S. J. Xu,Wei Wang,Jimmy Ren,Jin S. Y. Xu,Long Liu,Stephen Liao
+2011. article: IJIIT. key: journals/ijiit/XuWRXLL11
+
+Discriminative Subgraph Mining for Protein Classification.
+Ning Jin,Calvin Young,Wei Wang
+2010. article: IJKDB. key: journals/ijkdb/JinYW10
+
+Study on the Software Development Based on AOP Technology.
+Wei Wang,Wenju Liu
+2009. article: Computer and Information Science. key: journals/ccsecis/WangL09
+
+Mining High-Dimensional Data.
+Wei Wang,Jiong Yang
+2010. incollection: Data Mining and Knowledge Discovery Handbook. key: reference/dmkdh/WangY10
+
+Semantic Association Analysis in Ontology-Based Information Retrieval.
+Payam M. Barnaghi,Wei Wang,Jayan C. Kurian
+2009. incollection: Handbook of Research on Digital Libraries. key: reference/dlhandbook/BarnaghiWK09
+
+Comparative Study of Sequential Pattern Mining Models.
+Hye-Chung (Monica) Kum,Susan Paulsen,Wei Wang 0010
+2005. incollection: Foundations of Data Mining and knowledge Discovery. key: series/sci/KumPW05
