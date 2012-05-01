@@ -2,9 +2,18 @@ use strict;
 use XML::Parser;
 use Getopt::Std;
 use POSIX;
-use lib '.';
+
+use constant{
+	namedisDir 					=> "/media/tough/namedis",
+	wikipediaDir 				=> "/media/first/wikipedia",
+};
+
+use lib namedisDir;
 use NLPUtil;
 use Distinct;
+
+use lib wikipediaDir;
+use ConceptNet;
 
 use constant{
 	OPTIONS => 'v:p:d:y:',
@@ -154,24 +163,26 @@ my %germanMap;
 my %frenchMap;
 my ($GERTITLES, $FRETITLES);
 
-loadVocab(\%engMap, "dic/english.dic", "common English",
+my $dicDir = namedisDir . "/dic";
+
+loadVocab(\%engMap, "$dicDir/english.dic", "common English",
 					APOSTROPHE_AFTER, NATIVEWORD);
-loadVocab(\%engMap, "dic/english-all.dic", "common English 2",
+loadVocab(\%engMap, "$dicDir/english-all.dic", "common English 2",
 					APOSTROPHE_AFTER, NATIVEWORD);
-loadVocab(\%engMap, "dic/english-academic.dic", "academic English",
+loadVocab(\%engMap, "$dicDir/english-academic.dic", "academic English",
 					APOSTROPHE_AFTER, NATIVEWORD);
-loadVocab(\%engMap, "dic/english-manual.dic", "manually-added English",
+loadVocab(\%engMap, "$dicDir/english-manual.dic", "manually-added English",
 					APOSTROPHE_AFTER, NATIVEWORD);
 
-loadVocab(\%germanMap, "dic/german.dic", "German",
+loadVocab(\%germanMap, "$dicDir/german.dic", "German",
 					, APOSTROPHE_NONE, NATIVEWORD);
-loadVocab(\%germanMap, "dic/german-manual.dic", "manually-added German",
+loadVocab(\%germanMap, "$dicDir/german-manual.dic", "manually-added German",
 					, APOSTROPHE_NONE, NATIVEWORD);
-loadVocab(\%frenchMap, "dic/french-all.dic", "French",
+loadVocab(\%frenchMap, "$dicDir/french-all.dic", "French",
 					APOSTROPHE_BEFORE, NATIVEWORD);
-loadVocab(\%engMap, "dic/french-phrase.dic", "French",
+loadVocab(\%engMap, "$dicDir/french-phrase.dic", "French",
 					APOSTROPHE_IGNORE, LOANWORD);
-loadVocab(\%frenchMap, "dic/french-phrase.dic", "French",
+loadVocab(\%frenchMap, "$dicDir/french-phrase.dic", "French",
 					APOSTROPHE_BEFORE, NATIVEWORD);
 
 loadChosenAuthors("${dirPrefix}distinct-authors.txt");

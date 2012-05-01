@@ -10,8 +10,8 @@ NLPUtil::initialize( progressDelim => "\t",
 				noLoadGram => 1 
 				   );
 
-loadChosenConfs('distinct-venues0.txt');
-loadChosenAuthors('distinct-authors.txt');
+loadChosenConfs('distinct-intermediate/distinct-venues0.txt');
+loadChosenAuthors('distinct-intermediate/distinct-authors.txt');
 
 my $DB;
 open($DB, "< dblp.extracted.txt");
@@ -78,7 +78,7 @@ print STDERR "\n";
 
 print STDERR scalar keys %venue2authors, " venues, ", scalar keys %author2venues, " authors.\n";
 
-my $VENUE_SIMI_THRES = 0.2;
+my $VENUE_SIMI_THRES = 0.1;
 
 my ($i, $j);
 
@@ -102,6 +102,8 @@ my @venueSimis;
 my $simicount;
 my $totalcount = 0;
 my $progresser = makeProgresser( vars => [ \$i, \$j, \$simicount, \$totalcount ], step => 10 );
+# $count1: the count of pubs in the first venue by all authors
+# $count2: the count of pubs in the second venue by all authors who have pubs in the first venue
 my ($count1, $count2);
 
 for($i = 0; $i < $venueGID; $i++){

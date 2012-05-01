@@ -5,7 +5,7 @@ use Getopt::Std;
 use List::Util qw(sum);
 
 use constant{
-	OPTIONS						=> "v",
+	OPTIONS						=> "vp:",
 	namedisDir 					=> "/media/tough/namedis",
 };
 
@@ -19,6 +19,14 @@ getopts(OPTIONS, \%opt);
 my $isVerbose = 0;
 if($opt{v}){
 	$isVerbose = 1;
+}
+my $dirPrefix = "";
+if(exists $opt{'p'}){
+	$dirPrefix = $opt{'p'};
+	if( $dirPrefix !~ /\/$/ ){
+		$dirPrefix .= "/";
+	}
+	print STDERR "Groundtruth file path prefix: '$dirPrefix'\n";
 }
 
 if(@ARGV < 2){
@@ -69,7 +77,7 @@ my @aUnmatchedPubCountPerClust;
 my @aCorrectPairCountPerClust;
 my @aPairCountInClust;
 
-loadGroundtruth($ARGV[0]);
+loadGroundtruth( $dirPrefix . $ARGV[0] );
 loadArnet($ARGV[1]);
 
 sub gIdentity2id
@@ -254,6 +262,8 @@ sub loadArnet
 	$arnetTotalPairCount = 0;
 	%gAuthorCountInClust = ();
 	
+	my %gAuthorCountInAllClusts = ();
+	
 	@aPublications = ("BUG");
 
 	$aIdID = 1;
@@ -397,12 +407,15 @@ sub loadArnet
 				my $gPaperID = $titleYear2IDAuVenue{$titleYear}->{pubID};
 				dumpPub( $tee, $gPublications[$gPaperID] );
 				
-				# still regards as being unmatched
+				# still regards as being unmatched. One groundtruth paper only matches one arnet paper
 				$aUnmatchedPubCountPerClust[$authorID]++;
 			}
 			else{
 				my $matchedAuthorID = $titleYear2IDAuVenue{$titleYear}->{authorID};
+				
 				$gAuthorCountInClust{$matchedAuthorID}++;
+				$gAuthorCountInAllClusts{$matchedAuthorID}++;
+				
 				# since one author is in and only in one cluster, $authorID acts as the cluster ID
 				$aMatchedPubCountPerClust[$authorID]++;
 				$gAuthorMatchedPubCount[$matchedAuthorID]++;
@@ -419,12 +432,18 @@ sub loadArnet
 		}
 	}
 	
-	print $tee scalar @aPublications - 1, " publications of ", $aIdID - 1, " authors loaded\n";
+	print $tee scalar @aPublications - 1, " pubs of ", $aIdID - 1, " Arnet authors loaded. Matched:\n";
 	
 	my @nonemptyAuthorIndices = grep { $aMatchedPubCountPerClust[$_] && $aMatchedPubCountPerClust[$_] > 0 } ( 1 .. $aIdID - 1 );
 	my @authorIndices = sort { $aMatchedPubCountPerClust[$b] <=> $aMatchedPubCountPerClust[$a] } @nonemptyAuthorIndices;
 
 	print $tee join(" | ", map { "$aIdentities[$_]: $aMatchedPubCountPerClust[$_]" } @authorIndices );
+	print $tee "\n";
+
+	print $tee "Correspond to ", scalar keys %gAuthorCountInAllClusts, " true authors:\n";
+	@authorIndices = sort { $gAuthorCountInAllClusts{$b} <=> $gAuthorCountInAllClusts{$a} } keys %gAuthorCountInAllClusts;
+
+	print $tee join(" | ", map { "$gIdentities[$_]: $gAuthorCountInAllClusts{$_}" } @authorIndices );
 	print $tee "\n\n";
 
 	$arnetTotalPairCount = sum( grep { defined } @aPairCountInClust);
@@ -445,7 +464,7 @@ sub loadArnet
 		print $tee "!!!!!! WARN: Matched groundtruth pub counts disagree: $matchedGroundtruthPubCount != $matchedGroundtruthPubCount2\n";
 	}
 
-	print $tee scalar @gPublications - 1, " groundtruth publications, $matchedGroundtruthPubCount matched, $matchedGroundtruthPubCount3 matched title-year\n";
+	print $tee scalar @gPublications - 1, " groundtruth publications, $matchedGroundtruthPubCount matched, $matchedGroundtruthPubCount3 matched title-year pair\n";
 	
 	print $tee "Groundtruth pairs total: $groundtruthTotalPairCount, between matched pubs: $matchedGroundtruthTotalPairCount\n";
 	print $tee "Arnet total pairs: $arnetTotalPairCount\n";

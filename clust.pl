@@ -7,6 +7,7 @@ use File::Basename;
 
 my $CLUST_THRES 				= 0.05;
 my $UNIGRAM_CLUST_THRES			= 0.1;
+# 1 - \theta_p
 my $COAUTHOR_ERROR_TOLERANCE	= 0.05;
 my $COAUTHOR_SAME_MN_ODDS_THRES = 1;
 
@@ -18,6 +19,7 @@ use constant{
 
 use lib namedisDir;
 use NLPUtil;
+use Distinct;
 
 use lib wikipediaDir;
 use ConceptNet;
@@ -239,7 +241,7 @@ if($iniDBFilename){
 		loadGroundtruth($iniDBFilename);
 	}
 	else{
-		loadDBFile($iniDBFilename);
+		loadDBLPFile($iniDBFilename);
 	}
 	if($clusterByCoauthorOnly){
 		if(exists $opt{'s'}){
@@ -423,7 +425,7 @@ sub batchCluster
 	}
 }
 
-sub loadDBFile
+sub loadDBLPFile
 {
 	my $title;
 	my $authorLine;
@@ -857,7 +859,10 @@ sub clusterAuthor
 		return;
 	}
 	my $name = lc($origName);
-
+	if($nameReplaceList{$name}){
+		$name = $nameReplaceList{$name};
+	}
+	
 	if(!exists $gNames{$name}){
 		print $tee "'$origName' doesn't appear in the loaded DBLP file. Abort\n";
 		return;
@@ -1017,8 +1022,8 @@ sub clusterAuthor
 	
 	if(! $isChineseName){
 		if(! $K){
-			print $tee "'$origName' doesn't appear to be a Chinese name, K has to be provided\n";
-			return;
+			print $tee "'$origName' doesn't appear to be a Chinese name, K is set to 2\n";
+			$K = 2;
 		}
 	}
 	elsif(! $K){
@@ -1028,6 +1033,8 @@ sub clusterAuthor
 		$K = min( @clusters1 - 1, $K );
 	}
 	
+	# westerners aren't provided with clustThres. Since all their estimated ambiguities are set to 2, 
+	# the threshold is just $CLUST_THRES
 	my $clustThres 	= $args{clustThres} || $CLUST_THRES;
 	
 	print $tee "Try to cluster $titleCount papers of '$origName' into $K clusters. Thres: $clustThres\n";
@@ -1164,7 +1171,7 @@ sub cmdline
 						loadGroundtruth($param2);
 					}
 					else{
-						loadDBFile($param2);
+						loadDBLPFile($param2);
 					}
 				}
 				when(/^off$/){

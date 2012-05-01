@@ -1,3 +1,5 @@
+# the earlier test data doesn't include journal names. 
+# This script is to align the newer unlabeled data with the labeled data
 use feature qw(switch say);
 use strict;
 use Getopt::Std;

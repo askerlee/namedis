@@ -44,7 +44,7 @@ our @tjNames		= ("Liping Wang", "David Brown", "David Jensen", "Gang Wu",
 @distinctNames  = map { lc($_) } @distinctNames;
 @tjNames 		= map { lc($_) } @tjNames;
 
-my %nameReplaceList = ('joseph m. hellerstein' 	=> 'joseph hellerstein', 
+our %nameReplaceList = ('joseph m. hellerstein' 	=> 'joseph hellerstein', 
 					   'joseph l. hellerstein' 	=> 'joseph hellerstein',
 					   'michael m. wagner'		=> 'michael wagner',
 					   'ajay k. gupta'			=> 'ajay gupta',
@@ -57,9 +57,9 @@ our %safeKeys = map { $_ => 1 } @safeKeys;
 
 our $maxConfIndex = -1;
 
-our $AUTHOR_PUBCOUNT_THRES = 3;
-our $VENUE_YEAR_THRES = 3;
-our $VENUE_PUB_SUM_THRES = 30;
+our $AUTHOR_PUBCOUNT_THRES = 2;
+our $VENUE_YEAR_THRES = 1;
+our $VENUE_PUB_SUM_THRES = 10;
 
 sub loadChosenConfs($)
 {

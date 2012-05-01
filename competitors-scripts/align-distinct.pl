@@ -1,10 +1,11 @@
+# Convert our labeled file into DISTINCT file format
 use feature qw(switch say);
 use strict;
 use Getopt::Std;
 use IO::Tee;
 
 use constant{
-	OPTIONS 					=> 'c:a:i:',
+	OPTIONS 					=> 'o',
 	namedisDir 					=> "/media/tough/namedis",
 	wikipediaDir 				=> "/media/first/wikipedia",
 };
@@ -16,12 +17,30 @@ use Distinct;
 use lib wikipediaDir;
 use ConceptNet;
 
-if(@ARGV != 2){
-	die "Usage: $0 reference-file labeled-file\n"
+my %opt;
+getopts(OPTIONS, \%opt);
+
+# convert the original set (10 names) of labeled file
+if($opt{'o'}){
+	my $name;
+	for $name(@distinctNames){
+		$name = lc($name);
+		loadGroundtruth("$name-labels.txt");
+	}
+	exit;
 }
 
-loadDBFile($ARGV[0]);
-loadGroundtruth($ARGV[1]);
+if(@ARGV > 2 || @ARGV == 0){
+	die "Usage: $0 [reference-file] labeled-file\n"
+}
+
+if( @ARGV == 1 ){
+	loadGroundtruth($ARGV[0]);
+}
+else{
+	loadDBFile($ARGV[0]);
+	loadGroundtruth($ARGV[1]);
+}
 
 sub loadGroundtruth
 {
@@ -124,7 +143,17 @@ sub loadGroundtruth
 
 		$authorLine = join(",", @{$thisPublication->authors} );
 		
-		if($venue && $titleVenue2key{"$year-$title-$venue"}){
+		if( $venue && $thisPublication->pubkey ){
+			$alignedCount++;
+			
+			if($identity){
+				push @{ $clusters{$identity} }, $thisPublication;
+			}
+			else{
+				$unidentifiedCount++;
+			}
+		}
+		elsif( $venue && $titleVenue2key{"$year-$title-$venue"} ){
 			$thisPublication->pubkey( $titleVenue2key{"$year-$title-$venue"}{pubkey} );
 			$alignedCount++;
 			
@@ -137,7 +166,7 @@ sub loadGroundtruth
 			
 			delete $titleVenue2key{"$year-$title-$venue"};
 		}
-		elsif($titleAuthor2venueKey{"$year-$title-$authorLine"}){
+		elsif( $titleAuthor2venueKey{"$year-$title-$authorLine"} ){
 			$thisPublication->venue( $titleAuthor2venueKey{"$year-$title-$authorLine"}{venue} );
 			$thisPublication->pubkey( $titleAuthor2venueKey{"$year-$title-$authorLine"}{pubkey} );
 			$alignedCount++;

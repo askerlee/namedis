@@ -16,6 +16,7 @@ use List::Util qw(min max sum);
 use List::MoreUtils qw(first_value);
 use IO::Tee;
 use Devel::Peek;
+use Math::GammaFunction qw/:all/;
 
 #use Win32::Sound;
 
@@ -41,8 +42,10 @@ use constant{
 
 our $KEEP_STOP_WORD_WHEN_N_NONSTOP_TOKENS = 2;
 our $USE_CSLR_VERSION = 2;
-our $CSLR_VENUE_TOP_LIKELY_FRAC = 0.6667;
-our $CSLR_COAUTHOR_TOP_LIKELY_FRAC = 0.6667;
+our $CSLR_VENUE_UNSEEN_REDUCTION_FRAC = 0.3334;
+our $CSLR_COAUTHOR_UNSEEN_REDUCTION_FRAC = 0.3334;
+our $CAT_PRIOR = 0.5;
+our $FILTER_STRONGEVI_COAUTHORS_B4_CSLR = 1;
 
 require Exporter;
 our @ISA = qw(Exporter);
@@ -63,7 +66,7 @@ our @EXPORT = qw( openLogfile setDebug
 				  getAvailName open_or_die open_or_warn
 				  topN topBottomN time2hms
 				  intersect intersectHash unionArrayToArray unionArrayToHashRef subtractSet 
-				  subtractHash dedup arrayOrFirst hashTopN schwartzianSort
+				  intersectArrayOfArray subtractHash dedup arrayOrFirst hashTopN schwartzianSort
 				  copyRefArray quoteArray mergeHash statsByValue dumpSortedHash filterHash
 				  bitmap2nums bitmap2desc
 				  f1 NChoose2 indexOfMax
@@ -97,7 +100,8 @@ our @EXPORT = qw( openLogfile setDebug
 				  %surnameProb %givennameProb
 				  %logSurnameProb %logGivennameProb
 				  %cnCoauthorCount
-				  $USE_CSLR_VERSION $CSLR_VENUE_TOP_LIKELY_FRAC $CSLR_COAUTHOR_TOP_LIKELY_FRAC
+				  $USE_CSLR_VERSION $CSLR_VENUE_UNSEEN_REDUCTION_FRAC $CSLR_COAUTHOR_UNSEEN_REDUCTION_FRAC
+				  $CAT_PRIOR
 				 );
 #				  calcGramEvidence calcWordbagSimi titleSetTermDistro $stemmer %stemCache %invStemTable
 
@@ -307,7 +311,10 @@ struct( publication => [ title => '$', year => '$', venue => '$', authors => '@'
 							isNameReverse => '$', type => '$', authorID => '$' ] );
 									# only one authorID here. means the author in question (being clustered)
 
-our %venueMap = ( 'World Wide Web' => 'WWW' );
+# standardize some venue variants
+our %venueMap = ( 'World Wide Web' => 'WWW', 
+				  'Congress on Evolutionary Computation' => 'IEEE Congress on Evolutionary Computation',
+				);
 
 our ($MORPH_OUT, $MORPH_IN);
 our $morphCallCount = 0;
@@ -2691,6 +2698,31 @@ sub subtractHash($$)
 	return %difference;
 }
 
+# Given two sets of array refs. Find if there's a shared array (by their contents) between them
+sub intersectArrayOfArray($$)
+{
+	my ($s1, $s2) = @_;
+	
+	return () if !$s1 || !$s2;
+
+	# @$s1 is always larger, so the cost of building the hash is lower
+	if(@$s1 < @$s2){
+		($s1, $s2) = ($s2, $s1);
+	}
+
+	my %set2 = map { join(",", @$_) => 1 } @$s2;
+	
+	my @joint;
+	my $ar;
+	for $ar(@$s1){
+		my $key = join(",", @$ar);
+		if(exists $set2{$key}){
+			push @joint, $ar;
+		}
+	}
+	return @joint;
+}
+
 sub unionArrayToArray
 {
 	my %set;
@@ -2832,7 +2864,8 @@ sub schwartzianSort($$$)
 	return map { $_->[0] } @array2;
 }
 
-# return $N * ($N - 1) * ... * ($N - $M + 1)
+# return $N * ($N - 1) * ... * ($N - $M + 1), or $N! / ($N - $M)!
+# UPDATE: using gamma() to generalize to the real number parameters: gamma($N + 1) / gamma($N - $M + 1)
 sub factorial($;$)
 {
 	my $N = shift;
@@ -2841,8 +2874,6 @@ sub factorial($;$)
 		$M = $N - 1;
 	}
 	
-	dieIfNotInteger($N);
-
 	if($N < 0){
 		print $tee "factorial(): '$N' < 0\n";
 		die "\n";
@@ -2851,15 +2882,9 @@ sub factorial($;$)
 	if($N == 0){
 		return 1;
 	}
-	
-	my $f = 1;
-	
-	my $i;
-	for($i = 0; $i < $M; $i++){
-		$f *= $N;
-		--$N;
-	}
-	return $f;
+
+	return gamma($N + 1) / gamma($N - $M + 1);
+
 }
 
 sub combination($$)
@@ -2874,6 +2899,7 @@ sub combination($$)
 }
 
 # return \sum_{$i=0}^{$M-1} log( $N - $i ), i.e. log($N) + log($N - 1) + ... + log($N - $M + 1)
+# takes real arguments
 sub logFactorial($;$)
 {
 	my $N = shift;
@@ -2882,8 +2908,6 @@ sub logFactorial($;$)
 		$M = $N - 1;
 	}
 	
-	dieIfNotInteger($N);
-
 	if($N < 0){
 		print $tee "logFactorial(): '$N' < 0\n";
 		die "\n";
@@ -2893,30 +2917,22 @@ sub logFactorial($;$)
 		return 0;
 	}
 	
-	my $logF = 0;
+	my $logGammaDiff = log_gamma($N + 1) - log_gamma($N - $M + 1);
 	
-	my $i;
-	for($i = 0; $i < $M; $i++){
-		$logF += log( $N );
-		--$N;
-	}
-	return $logF;
+	return $logGammaDiff;
 }
 
+# takes real arguments
 sub logCombination($$)
 {
 	my ($N, $M) = @_;
 	
-	if($N - $M + 1 > $M){
-		return logFactorial($N, $M) - logFactorial($M);
-	}
-	
-	return logFactorial($N, $N - $M) - logFactorial($N - $M);
+	return logFactorial($N, $M) - logFactorial($M);
 }
 
 # consts used in loadSimilarVenues() & expandSimilarVenues()
 our $MAX_EXPANDED_VENUE_FREQ			= 1;
-
+our $MAX_EXPANDED_VENUE_FREQ_SUM_TO_ORIGINAL_RATIO = 0.5;
 our $SIMI_VENUE_RELATIVE_FREQ_DISCOUNT	= 0.5;
 our $SIMI_VENUE_RESIDUE_DEV_THRES	= 2.5;
 our $SIMI_VENUE_REL_FREQ_THRES	= 0.2;
@@ -2961,7 +2977,10 @@ sub loadSimilarVenues
 		}
 		
 #		$similarVenues{$v1}{$v2} = $SIMI_VENUE_RELATIVE_FREQ_DISCOUNT * $relativeFreq;
-		$similarVenues{$v1}{$v2} = $SIMI_VENUE_LINREG_SIMI_DISCOUNT * $linregSimi;
+#		$similarVenues{$v1}{$v2} = $SIMI_VENUE_LINREG_SIMI_DISCOUNT * $linregSimi;
+
+		# UPDATE: remove the discount here, and put the discount in expandSimilarVenues()
+		$similarVenues{$v1}{$v2} = $linregSimi;
 		
 		$paircount++;
 		
@@ -2972,7 +2991,108 @@ sub loadSimilarVenues
 	print $tee "$paircount pairs for ", scalar keys %similarVenues, " venues are loaded\n";
 }
 
-sub expandSimilarVenues
+my $BASE_SET_EXPANSION_LEAST_SIMI = 0.2;
+my $SAMPLED_SET_EXPANSION_LEAST_SIMI = 0.3;
+
+# $vv1: venue vector 1, the vv to be expanded
+# $vv2: venue vector 2, the vv that's referred to (only expand venues in $vv2 to $vv1)
+# $simiThres: the threshold of similarity between an original venue and an expanded venue
+# if $vv1 is the base set, then $simiThres should be smaller
+# if $vv1 is the sampled set, then it should be larger
+sub expandSimilarVenues($$$)
+{
+	my ($vv1, $vv2, $simiThres) = @_;
+	
+	my (%expandedVV, %newVV);
+	
+	my ($v1, $freq1, $v2, $relativeFreq, $freq2);
+	
+	my %validSimiVenues;
+	# reweight the contributations of one venue to similar venues, to make their sum <= 1
+	# otherwise a venue may expand with too many similar venues / venues with too much weights, 
+	# which is not reasonable
+	my $venueTotalContribReweight;
+	
+	while( ($v1, $freq1) = each %$vv1 ){
+		if(! exists $similarVenues{$v1}){
+			next;
+		}
+		
+		# if $v2 already exists in $vv1, use this old freq instead of the predicted freq
+		%validSimiVenues = map { $_ => $similarVenues{$v1}{$_} } 
+							grep { ! exists $vv1->{$_} && exists $vv2->{$_} 
+									&& $similarVenues{$v1}{$_} >= $simiThres } 
+								keys %{ $similarVenues{$v1} };
+		
+		if(keys %validSimiVenues == 0){
+			next;
+		}
+				
+		while( ($v2, $relativeFreq) = each %validSimiVenues ){
+			# don't totally trust the regressed similarity. give it a discount
+			my $expandFreq = $freq1 * $relativeFreq * $SIMI_VENUE_LINREG_SIMI_DISCOUNT;
+
+			# multiple venues' effects (predictions of the same venue) don't add up. just take the max
+			if( ! exists $expandedVV{$v2} || $expandFreq > $expandedVV{$v2} ){
+				$expandedVV{$v2} = $expandFreq;
+			}
+		}
+	}
+
+	# existing venues always have their old freqs
+	%newVV = %$vv1;
+
+	my $expandedVenueCount = keys %expandedVV;
+	if($expandedVenueCount == 0){
+		if($DEBUG & DBG_EXPAND_SIMI_VENUES){
+			print $LOG "0 venues expanded, freq sum: 0\n";
+			print $LOG "The expanded venue vector:\n";
+			print $LOG dumpSortedHash($vv1, undef, undef), "\n";
+		}
+		return %newVV;
+	}
+	
+	my @expandedVenues = sort { $vv2->{$b} <=> $vv2->{$a} } keys %expandedVV;
+	
+	while( ($v1, $freq1) = each %expandedVV ){
+		# cap the expanded venue freq to $MAX_EXPANDED_VENUE_FREQ, to avoid expand too many freqs
+		if($freq1 > $MAX_EXPANDED_VENUE_FREQ){
+			$expandedVV{$v1} = $MAX_EXPANDED_VENUE_FREQ;
+		}
+	}
+
+	my %realExpandedVV;
+	
+	my $maxExpandedFreqSum = $MAX_EXPANDED_VENUE_FREQ_SUM_TO_ORIGINAL_RATIO * sum(values %$vv1);
+	my $remainedFreqSum = $maxExpandedFreqSum;
+	my $expandedVenueFreqSum = 0;
+	
+	for $v1(@expandedVenues){
+		last if $remainedFreqSum <= 0;
+		
+		$freq1 = $expandedVV{$v1};
+		$freq2 = min( $freq1, $remainedFreqSum );
+		$newVV{$v1} = $freq2;
+		$remainedFreqSum -= $freq2;
+		$expandedVenueFreqSum += $freq2;
+		
+		$realExpandedVV{$v1} = $freq2;
+	}
+	
+	my $expandedVenueFreqSum2OriginalRatio = $expandedVenueFreqSum / sum(values %$vv1);
+	
+	if($DEBUG & DBG_EXPAND_SIMI_VENUES){
+		print $LOG "$expandedVenueCount venues expanded, freq sum: $expandedVenueFreqSum, ratio: $expandedVenueFreqSum2OriginalRatio:\n";
+		print $LOG dumpSortedHash(\%realExpandedVV, undef, undef), "\n";
+		print $LOG "The old venue vector:\n";
+		print $LOG dumpSortedHash($vv1, undef, undef), "\n";
+		print $LOG "The new venue vector:\n";
+		print $LOG dumpSortedHash(\%newVV, undef, undef), "\n";
+	}
+	return %newVV;
+}
+
+sub expandSimilarVenues2
 {
 	my $vv = shift;
 	
@@ -3122,6 +3242,7 @@ sub jaccard($$$$)
 	return $similarity;
 }
 
+# the obsolete version of CSLR. Just keep it for a complete history
 sub  isSameCategorical($$$$$$$$$)
 {
 	# the priors are similar to the \alpha in Dirichlet distribution
@@ -3165,7 +3286,8 @@ sub  isSameCategorical($$$$$$$$$)
 	my $unknownSamOutcomeFreqSum = $sample{'UNKNOWN'} || 0;
 	
 	if($outcomeExpander){
-		%multinomial = &$outcomeExpander(\%multinomial);
+		%multinomial = &$outcomeExpander(\%multinomial, \%sample, $BASE_SET_EXPANSION_LEAST_SIMI);
+		%sample = &$outcomeExpander(\%sample, \%multinomial, $SAMPLED_SET_EXPANSION_LEAST_SIMI);
 	}
 
 	for $outcome1(keys %sample){
@@ -3281,7 +3403,7 @@ sub  isSameCategorical($$$$$$$$$)
 	my ($prob, $likelihoodRatio);
 	
 	# if $N is too big, use log to calc the likelihood ratio
-	if($N > 40){
+	if($N > 20){
 		my $logPolynomialCoeff = logFactorial($N);
 		my $logProb = 0;
 		
@@ -3348,29 +3470,29 @@ sub  isSameCategorical($$$$$$$$$)
 	return $likelihoodRatio;
 }
 
+# the new (currently used) version of CSLR
 # 'UNKNOWN': the venue is not given in DBLP database. It's extremely rare (1677 out of 1.5M)
 # and can be safely ignored when understanding the algorithm
 # 'UNSEEN': the venue in the sample is given, but not present in the base observation
-sub  isSameCategorical2($$$$$$$$$)
+sub isSameCategorical2($$$$$$$$$)
 {
 	# the priors are similar to the \alpha in Dirichlet distribution
-	my ($knownOutcomePrior, $unknownOutcomePrior, $unseenOutcomePrior, $topLikelyOutcomeFraction,
+	my ($knownOutcomePrior, $unknownOutcomePrior, $unseenOutcomePrior, $unseenReductionFraction,
 			$vv1, $vv2, $outcomeExpander, $minSameMnOddsRatio, $outcomeMaxCountedFreq) = @_;
 
 # $minSameMnOddsRatio:
 # if the multinomial odds ratio is smaller than this value, raise to it
 
-# $topLikelyOutcomeFraction: very important parameter. In the sample observation, only 
-# the most likely (with largest probs) this fraction of outcomes is taken into the calculation
-# of the likelihood ratio. This is to tolerate some divergence between sample distribution
-# and base distribution
-# a reasonable choice is 2/3
+# $unseenReductionFraction: very important parameter. In the sampled set, some count of
+# UNSEEN is reduced, by $unseenReductionFraction * the size of the sampled set
+# a reasonable choice is 1/3
 
 	my (%multinomial, %sample);
 	
 	# treat the bigger set as the multinomial template
 	if( sum(values %$vv1) < sum(values %$vv2)
 		  				  ||
+		sum(values %$vv1) == sum(values %$vv2) && 
 		scalar keys %$vv1 < scalar keys %$vv2			
 	 ){
 		%multinomial = %$vv2;
@@ -3387,85 +3509,44 @@ sub  isSameCategorical2($$$$$$$$$)
 	my $unseenSamOutcomeCount = 0;
 	# the sum of freqs of unseen outcomes 
 	my $unseenSamOutcomeFreqSum = 0;
-	
-	# the number of types of seen outcomes in the sample
-	my $seenOutcomeCount = 0;
-	# # the number of types of known outcomes in the sample
-	my $knownOutcomeCount = 0;
-	
+		
 	# Sam: sample
 	my $knownSamOutcomeFreqSum = 0;
-	my $sharedSamOutcomeFreqSum = 0;
 	my $knownSamOutcomeFreqSumAfterCancel;
 	my $unknownSamOutcomeFreqSum = $sample{'UNKNOWN'} || 0;
+
+	for $outcome1(keys %multinomial){
+		next if $outcome1 eq 'UNKNOWN';
+		
+		if($multinomial{$outcome1} > $outcomeMaxCountedFreq){
+			$multinomial{$outcome1} = $outcomeMaxCountedFreq;
+		}
+	}
 	
 	if($outcomeExpander){
-		%multinomial = &$outcomeExpander(\%multinomial);
+		%multinomial = &$outcomeExpander(\%multinomial, \%sample, $BASE_SET_EXPANSION_LEAST_SIMI);
+		%sample = &$outcomeExpander(\%sample, \%multinomial, $SAMPLED_SET_EXPANSION_LEAST_SIMI);
 	}
 
 	for $outcome1(keys %sample){
 		next if $outcome1 eq 'UNKNOWN';
 		
-		$knownSamOutcomeFreqSum += $sample{$outcome1};
-		$knownOutcomeCount++;
-		
 		if(! exists $multinomial{$outcome1}){
-#			$unseenVenues{$outcome1} = $sample{$outcome1};
 			$unseenSamOutcomeFreqSum += $sample{$outcome1};
-			
-			# the sum of pubs in unseen outcomes are not so important. 
-			# the number of types are a better measure of the strangeness of the sample distribution
-			# if one unseen outcome appears, it's quite likely that this outcome appears again 
-			# (the author tends to publish on the same outcome). So consider them only once
 			$unseenSamOutcomeCount++;
+			
 			delete $sample{$outcome1};
-		}
-		else{
-			$seenOutcomeCount++;
-			# shared counts are the min of the two values
-			$sharedSamOutcomeFreqSum += min( $sample{$outcome1}, $multinomial{$outcome1} );
 		}
 	}
 	
-#	if($unseenSamOutcomeCount > 0){
-#		$sample{'UNSEEN'} = $unseenSamOutcomeCount;
-#	}
 	if($unseenSamOutcomeFreqSum > 0){
 		$sample{'UNSEEN'} = $unseenSamOutcomeFreqSum;
 	}
 
-	# unknown: outcome is not given in the database
-#	if($sample{'UNKNOWN'}){
-#		# each known outcome occurrence cancels one unknown outcome occurrence
-#		my $unknownSamOutcomeFreqSumAfterCancel = $sample{'UNKNOWN'} - $knownSamOutcomeFreqSum;
-#		my $unknownSamOutcomeSumCap;
-#		if($unknownSamOutcomeFreqSumAfterCancel > 0){
-#			# why cap to $knownOutcomeCount? I couldn't remember
-#			$unknownSamOutcomeSumCap = min($unknownSamOutcomeFreqSumAfterCancel, $knownOutcomeCount);
-#			$unknownSamOutcomeSumCap = max( 1, $unknownSamOutcomeSumCap);
-#		}
-#		else{
-#			$unknownSamOutcomeSumCap = 0;
-#		}
-#		$sample{'UNKNOWN'} = $unknownSamOutcomeSumCap;
-#	}
-	
-#	if($sample{'UNSEEN'}){
-#		# each seen outcome cancels 1/2 unseen outcome. the resulted freq needs be an integer
-#		my $unseenSamOutcomeCountAfterCancellation = max( 0, $sample{'UNSEEN'}
-#													- int($seenOutcomeCount * $seenCancelUnseenRatio) );
-#		$sample{'UNSEEN'} = $unseenSamOutcomeCountAfterCancellation;
-#	}
-	
-	my $knownOutcomeSum = 0;
 	for $outcome1(keys %multinomial){
 		next if $outcome1 eq 'UNKNOWN';
 		
 		$multinomial{$outcome1} += $knownOutcomePrior;
-		if($multinomial{$outcome1} > $outcomeMaxCountedFreq){
-			$multinomial{$outcome1} = $outcomeMaxCountedFreq;
-		}
-		$knownOutcomeSum += $multinomial{$outcome1};
 	}
 
 	if($unseenSamOutcomeCount){
@@ -3497,14 +3578,17 @@ sub  isSameCategorical2($$$$$$$$$)
 		$multinomial{'UNSEEN'} = $unseenOutcomePrior;
 	}
 
+=pod
+# $extraUnseenSlotNum is DISABLED
 	# only one 'UNSEEN' is too strict. $sampleSupportElemNum is too small
 	# assume there are sqrt(seen_slot_num) unseen slots (at least one).
 	# $extraUnseenSlotNum is (Unseen_Slot_Num - 1) (at least 0).
-#	my $extraUnseenSlotNum = sqrt((scalar keys (%multinomial) - 1)) - 1;
+	my $extraUnseenSlotNum = sqrt((scalar keys (%multinomial) - 1)) - 1;
 	my $extraUnseenSlotNum = 0; #int($extraUnseenSlotNum);
-# $extraUnseenSlotNum is DISABLED
-	
 	my $s = sum(values %multinomial) + $extraUnseenSlotNum * $multinomial{'UNSEEN'};
+=cut
+	
+	my $s = sum(values %multinomial);
 
 	my $freq1;
 	
@@ -3513,41 +3597,50 @@ sub  isSameCategorical2($$$$$$$$$)
 								  # freq, prob
 		$multinomial{$outcome1} = [ $freq1, $freq1 / $s ];
 	}
-	
+
+=pod	
 	# the top $topLikelyOutcomeFraction of the outcomes comprise a new sample
-	my %sample2;	
+	my %sample;	
 	
 	my $N = sum(values %sample);
 	# round up (ceiling)
-	my $N2 = atLeast1( $topLikelyOutcomeFraction * $N, 1 );
+	my $N = atLeast1( $topLikelyOutcomeFraction * $N, 1 );
 	
-	if($N2 == $N){
-		%sample2 = %sample;
+	if($N == $N){
+		%sample = %sample;
 	}
 	else{
 		my @samOutcomes = sort { $multinomial{$b}[1] <=> $multinomial{$a}[1] } keys %sample;
 		
 		my $countedN = 0;
 		for $outcome1(@samOutcomes){
-			if( $countedN + $sample{$outcome1} < $N2 ){
-				$sample2{$outcome1} = $sample{$outcome1};
+			if( $countedN + $sample{$outcome1} < $N ){
+				$sample{$outcome1} = $sample{$outcome1};
 				$countedN += $sample{$outcome1};
 			}
 			else{
-				$sample2{$outcome1} = $N2 - $countedN;
+				$sample{$outcome1} = $N - $countedN;
 				last;
 			}
 		}
 	}
-	
+=cut
+
+	my $N = sum(values %sample);
+	my $unseenReduction = int( $N * $unseenReductionFraction );
+	if( $sample{UNSEEN} ){
+		$sample{UNSEEN} -= min( $unseenReduction, $sample{UNSEEN} );
+	}
+	$N = sum(values %sample);
+		
 	my ($prob, $likelihoodRatio);
 	
-	# if $N2 is too big, use log to calc the likelihood ratio
-	if($N2 > 40){
-		my $logPolynomialCoeff = logFactorial($N2);
+	# if $N is too big, use log to calc the likelihood ratio
+	if($N > 20){
+		my $logPolynomialCoeff = logFactorial($N);
 		my $logProb = 0;
 		
-		while( ($outcome1, $freq1) = each %sample2){
+		while( ($outcome1, $freq1) = each %sample){
 			$logPolynomialCoeff -= logFactorial($freq1);
 			$logProb += log( $multinomial{$outcome1}[1] ) * $freq1;
 		}
@@ -3555,8 +3648,9 @@ sub  isSameCategorical2($$$$$$$$$)
 		
 		my $M = keys %multinomial;
 		
-		# support of the sample is the set of all possible combinations of the $N2 sample
-		my $logSampleSupportElemNum = logCombination( $M + $extraUnseenSlotNum + $N2 - 1, $N2 );
+		# support of the sample is the set of all possible combinations of samples of size $N
+		#my $logSampleSupportElemNum = logCombination( $M + $extraUnseenSlotNum + $N - 1, $N );
+		my $logSampleSupportElemNum = logCombination( $M + $N - 1, $N );
 		
 		#dieIfNotInteger($sampleSupportElemNum, "$M,$N");
 		
@@ -3566,10 +3660,10 @@ sub  isSameCategorical2($$$$$$$$$)
 		$likelihoodRatio = exp($logLikelihoodRatio);
 	}
 	else{
-		my $polynomialCoeff = factorial($N2);
+		my $polynomialCoeff = factorial($N);
 		$prob = 1;
 		
-		while( ($outcome1, $freq1) = each %sample2){
+		while( ($outcome1, $freq1) = each %sample){
 			$polynomialCoeff /= factorial($freq1);
 			$prob *= $multinomial{$outcome1}[1] ** $freq1;
 		}
@@ -3579,11 +3673,9 @@ sub  isSameCategorical2($$$$$$$$$)
 		
 		my $M = keys %multinomial;
 		
-		# support of the sample is the set of all possible combinations of the $N2 sample
-		my $sampleSupportElemNum = combination( $M + $extraUnseenSlotNum + $N2 - 1, $N2 );
-									#factorial( $M + $N2 - 1, $M - 1 ) / factorial( $M - 1 );
-		
-		#dieIfNotInteger($sampleSupportElemNum, "$M,$N");
+		# support of the sample is the set of all possible combinations of samples of size $N
+		#my $sampleSupportElemNum = combination( $M + $extraUnseenSlotNum + $N - 1, $N );
+		my $sampleSupportElemNum = combination( $M + $N - 1, $N );
 		
 		$likelihoodRatio = $prob * $sampleSupportElemNum; 
 	}
@@ -4147,17 +4239,32 @@ sub probMergeSharingCoauthor($$$$$$)
 						$mergeReason = "Coauthor $minCoauthor has error $minError";
 					}
 					else{
-						my %clusterNames1 = filterHash( $clusterNames[$i], $coauthorFilter );
-						my %clusterNames2 = filterHash( $clusterNames[$j], $coauthorFilter );
+						my (%clusterNames1, %clusterNames2);
+						
+						if($FILTER_STRONGEVI_COAUTHORS_B4_CSLR){
+							%clusterNames1 = filterHash( $clusterNames[$i], $coauthorFilter );
+							%clusterNames2 = filterHash( $clusterNames[$j], $coauthorFilter );
+							# if too few coauthors are left, then don't filter strong evidential coauthors
+							if(keys %clusterNames1 <= 2){
+								%clusterNames1 = %{$clusterNames[$i]};
+							}
+							if(keys %clusterNames2 <= 2){
+								%clusterNames2 = %{$clusterNames[$j]};
+							}
+						}
+						else{
+							%clusterNames1 = %{$clusterNames[$i]};
+							%clusterNames2 = %{$clusterNames[$j]};
+						}
 						
 						if(keys %clusterNames1 > 1 && keys %clusterNames2 > 1){
 							my $odds;
 							if( $USE_CSLR_VERSION == 1 ){
-								$odds =  isSameCategorical(0.6, 0, 0.6, 0.5, 
+								$odds =  isSameCategorical($CAT_PRIOR, 0, $CAT_PRIOR, 0.5, 
 											\%clusterNames1, \%clusterNames2, undef, 0, 4);
 							}
 							else{
-								$odds =  isSameCategorical2(0.6, 0, 0.6, $CSLR_COAUTHOR_TOP_LIKELY_FRAC, 
+								$odds =  isSameCategorical2($CAT_PRIOR, 0, $CAT_PRIOR, $CSLR_COAUTHOR_UNSEEN_REDUCTION_FRAC, 
 											\%clusterNames1, \%clusterNames2, undef, 0, 4);
 							}
 							

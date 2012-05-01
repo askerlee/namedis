@@ -10,7 +10,7 @@ use NLPUtil;
 use Distinct;
 
 use constant{
-	OPTIONS => 'ox12ct:',
+	OPTIONS => 'ox12ct:p:',
 };
 
 my %opt;
@@ -65,7 +65,16 @@ if($opt{'t'}){
 	print STDERR "Summarize at thres $selThres\n";
 }
 
-my @resultFiles = glob("distinct-results/results*.dat");
+my $distinctResultDir = "distinct-results/";
+if(exists $opt{'p'}){
+	$distinctResultDir = $opt{'p'};
+	if( $distinctResultDir !~ /\/$/ ){
+		$distinctResultDir .= "/";
+	}
+	print STDERR "Distinct result file path: '$distinctResultDir'\n";
+}
+
+my @resultFiles = glob("${distinctResultDir}results*.dat");
 
 @resultFiles = schwartzianSort( \@resultFiles, sub{ return $_[0] =~ /(\d+)/; }, 1 );
 
@@ -119,10 +128,7 @@ for $resultFile(@resultFiles){
 			if(! defined($thres) ){
 				next;
 			}
-			
-			# wrong formula! fixed. sqrt actually favors DISTINCT
-			#$f1 = sqrt($precision * $recall);
-			
+						
 			# useless actually. only 'avg-f1' is used
 			$f1 = f1( $precision, $recall );
 			
@@ -145,6 +151,7 @@ for $resultFile(@resultFiles){
 	}
 }
 
+# find the best performance for each name and each score (actually useless)
 for $name( @testnames ){
 	for $thres( keys %{ $disName2perf{$name} } ){
 #		for $k( "precision", "recall" ){
@@ -170,7 +177,8 @@ for $name( @testnames ){
 
 my $N = @testnames;
 
-# best thres for each name respectively
+# best thres for each name respectively. NOT the default mode. 
+# The default is to output the best "unified" threshold (in terms of avg f1) for all names
 if( ! $unifiedDisThres ){
 	
 	print "                    Best Thres  Prec     Rec      F1\n";
@@ -200,10 +208,13 @@ if( ! $unifiedDisThres ){
 	# all for DISTINCT
 my ($disAvgv, %disMaxAvgv, %disMaxThres, %disAvgvByThres);
 
+for $k( "precision", "recall", "f1", 'micro-f1' ){
+	$disMaxAvgv{$k} = 0;
+}
 
+# calc the p/r and micro/macro f1 averaged on all names at each threshold
 for $thres(@thresholds){
 	for $k( "precision", "recall", "f1" ){
-		$disMaxAvgv{$k} = 0;
 		$sumv = 0;
 		for $name( @testnames ){
 			$sumv += $disName2perf{$name}{$thres}{"avg-$k"};
@@ -219,10 +230,15 @@ for $thres(@thresholds){
 	# $disAvgvByThres{$thres}{'avg-f1'} is macro-f1
 	
 	$disAvgvByThres{$thres}{'micro-f1'} = f1($disAvgvByThres{$thres}{precision}, $disAvgvByThres{$thres}{recall});
+	
+	if( $disAvgvByThres{$thres}{'micro-f1'} > $disMaxAvgv{'micro-f1'} ){
+		$disMaxAvgv{'micro-f1'}  = $disAvgvByThres{$thres}{'micro-f1'};
+		$disMaxThres{'micro-f1'} = $thres;
+	}
 }
 	
 # best thres for the maximal macro-F1 score
-$thres = $disMaxThres{f1};
+$thres = $disMaxThres{'f1'};
 
 if(! $generateLatexTable){
 	print "\nBest thres: $thres\n";
@@ -244,12 +260,12 @@ if(! $generateLatexTable){
 		print "\n";	
 	}
 	
-	print "            Average:   ";
+	print " Average (macro-F1):   ";
 	for $k( "precision", "recall", "f1" ){
 		printf "%.3f   ", $disAvgvByThres{$thres}{$k};
 	}
-	print "\n\n";
-
+	print "\n";
+	printf "         (micro-F1) \t\t       %.3f\n", $disAvgvByThres{$thres}{'micro-f1'};
 }
 
 if(@ARGV){
@@ -270,7 +286,7 @@ for($i = 0; $i < @ARGV; $i++){
 	open_or_die( $MYRESULT, "< $myresultFilename" );
 	
 	while($line = <$MYRESULT>){
-		if($line =~ /Open groundtruth file '([\w\s]+\/)?([\w\s]+)-labels.txt'/){
+		if($line =~ /Open groundtruth file '([\w\-\s]+\/)?([\w\s]+)-labels.txt'/){
 			$name = $2;
 	
 			if($myresultOnlyFinal){
@@ -318,12 +334,13 @@ if(! $generateLatexTable){
 		
 		if(! $myresultOnlyFinal){
 			print "Coauthor    ";
-			for $k( "precision", "recall", "f1" ){
-				printf "%.3f (micro-F1)\t", $myPerfSumByStage[0][$i]{$k} / $N;
+			for $k( "precision", "recall" ){
+				printf "%.3f\t", $myPerfSumByStage[0][$i]{$k} / $N;
 			}
-			# macro-f1 in a separate line
-			print "\n\t\t\t\t";
-			printf "%.3f (macro-F1)\t", f1( $myPerfSumByStage[0][$i]{precision} / $N, $myPerfSumByStage[0][$i]{recall} / $N );
+			printf "%.3f (macro-F1)\n", $myPerfSumByStage[0][$i]{f1} / $N;
+			# micro-f1 in a separate line
+			print "\t\t\t\t";
+			printf "%.3f (micro-F1)", f1( $myPerfSumByStage[0][$i]{precision} / $N, $myPerfSumByStage[0][$i]{recall} / $N );
 		}
 		
 		print "\nTitle,Venue ";
@@ -331,13 +348,14 @@ if(! $generateLatexTable){
 		for $k( "precision", "recall" ){
 			printf "%.3f\t", $myPerfSumByStage[1][$i]{$k} / $N;
 		}
-		# micro-f1, i.e. f1 of average prec & average recall
-		printf "%.3f (micro-F1)\t", f1( $myPerfSumByStage[1][$i]{precision} / $N, 
+		# macro-f1, i.e. average of the f1's
+		printf "%.3f (macro-F1)\n", $myPerfSumByStage[1][$i]{f1} / $N;
+
+		# micro-f1: f1 of average prec & average recall. In a separate line
+		print "\t\t\t\t";
+		printf "%.3f (micro-F1)", f1( $myPerfSumByStage[1][$i]{precision} / $N, 
 								$myPerfSumByStage[1][$i]{recall} / $N );
 		
-		# macro-f1 in a separate line
-		print "\n\t\t\t\t";
-		printf "%.3f (macro-F1)\t", $myPerfSumByStage[1][$i]{f1} / $N;
 		
 		print "\n\n";
 		
@@ -386,78 +404,88 @@ else{
 		# 3 baselines
 		for($i = 0; $i < @ARGV - 1; $i++){
 			for $k( "precision", "recall", "f1" ){
-				push @{ $perfByType{$k} }, sprintf "%.2f", $name2myperf[$i]{$name}{$stage}{$k} * 100;
+				push @{ $perfByType{$k} }, sprintf "%.1f", $name2myperf[$i]{$name}{$stage}{$k} * 100;
 			}
 		}
 		
 		if(! $onlyStageOne){
 			# DISTINCT
 			for $k( "precision", "recall", "f1" ){
-				push @{ $perfByType{$k} }, sprintf "%.2f", $disName2perf{$name}{$thres}{"avg-$k"} * 100;
+				push @{ $perfByType{$k} }, sprintf "%.1f", $disName2perf{$name}{$thres}{"avg-$k"} * 100;
 			}
 		}
 		
 		# our approaches
 		for $k( "precision", "recall", "f1" ){
-			push @{ $perfByType{$k} }, sprintf "%.2f", $name2myperf[$i]{$name}{$stage}{$k} * 100;
+			push @{ $perfByType{$k} }, sprintf "%.1f", $name2myperf[$i]{$name}{$stage}{$k} * 100;
 		}
 		
 		highlightAndPrint( \%perfByType );
 	}
+	# finish printing individual scores of each name
 	
 	%perfByType = ();
 	
-	printf "%20.20s\t&\t", "Avg. (micro-F1)";
+	printf "%20.20s\t&\t", "Avg. (macro-F1)";
 
+	# print scores of each method
 	for($i = 0; $i < @ARGV - 1; $i++){
 		for $k( "precision", "recall" ){
-			push @{ $perfByType{$k} }, sprintf "%.2f", $myPerfSumByStage[$stage][$i]{$k} / $N * 100;
+			push @{ $perfByType{$k} }, sprintf "%.1f", $myPerfSumByStage[$stage][$i]{$k} / $N * 100;
 		}
 		
-		push @{ $perfByType{f1} }, sprintf "%.2f", 100 * 
-				f1( $myPerfSumByStage[$stage][$i]{precision} / $N, $myPerfSumByStage[$stage][$i]{recall} / $N );
-
+		# macro F1
+		push @{ $perfByType{'f1'} }, sprintf "%.1f", $myPerfSumByStage[$stage][$i]{'f1'} / $N * 100;
 	}
 
 	if(! $onlyStageOne){
 		for $k( "precision", "recall" ){
-			push @{ $perfByType{$k} }, sprintf "%.2f", $disAvgvByThres{$thres}{$k} * 100;
+			push @{ $perfByType{$k} }, sprintf "%.1f", $disAvgvByThres{$thres}{$k} * 100;
 		}
-		push @{ $perfByType{'f1'} }, sprintf "%.2f", $disAvgvByThres{$thres}{'micro-f1'} * 100;
+		# macro F1
+		push @{ $perfByType{'f1'} }, sprintf "%.1f", $disAvgvByThres{$thres}{'f1'} * 100;
 	}
 	
+	# our CSLR + Taxo
 	for $k( "precision", "recall" ){
-		push @{ $perfByType{$k} }, sprintf "%.2f", $myPerfSumByStage[$stage][$i]{$k} / $N * 100;
+		push @{ $perfByType{$k} }, sprintf "%.1f", $myPerfSumByStage[$stage][$i]{$k} / $N * 100;
 	}
-	push @{ $perfByType{f1} }, sprintf "%.2f", 
-		100 * f1( $myPerfSumByStage[$stage][$i]{precision} / $N, $myPerfSumByStage[$stage][$i]{recall} / $N );
-	
+	push @{ $perfByType{f1} }, sprintf "%.1f", $myPerfSumByStage[$stage][$i]{'f1'} / $N * 100;
+		
 	highlightAndPrint( \%perfByType );
+	# finish printing the macro-F1 line
 	
 	%perfByType = ();
 
-	# macro-f1 in a separate line
-	printf "%20.20s\t&\t", "Avg. (macro-F1)";
+	# micro-f1 in a separate line
+	printf "%20.20s\t&\t", "Avg. (micro-F1)";
 	
-	# two blank for two compared results
+	# two blanks (for prec and recall)
 	for $k( "precision", "recall" ){
+		# for baselines and DISTINCT
 		for($i = 0; $i < @ARGV; $i++){
 			push @{ $perfByType{$k} }, "";
 		}
+		# for ours
 		if(! $onlyStageOne){
 			push @{ $perfByType{$k} }, "";
 		}
 	}
 
+	# micro F1 of baselines
 	for($i = 0; $i < @ARGV - 1; $i++){
-		push @{ $perfByType{'f1'} }, sprintf "%.2f", $myPerfSumByStage[$stage][$i]{'f1'} / $N * 100;
-	}
-		
-	if(! $onlyStageOne){
-		push @{ $perfByType{f1} }, sprintf "%.2f", 100 * $disAvgvByThres{$thres}{'avg-f1'};
+		push @{ $perfByType{f1} }, sprintf "%.1f", 100 * 
+				f1( $myPerfSumByStage[$stage][$i]{precision} / $N, $myPerfSumByStage[$stage][$i]{recall} / $N );
 	}
 	
-	push @{ $perfByType{f1} }, sprintf "%.2f", $myPerfSumByStage[$stage][$i]{'f1'} / $N * 100;
+	# micro F1 of DISTINCT
+	if(! $onlyStageOne){
+		push @{ $perfByType{f1} }, sprintf "%.1f", 100 * $disAvgvByThres{$thres}{'micro-f1'};
+	}
+	
+	# micro F1 of ours
+	push @{ $perfByType{f1} }, sprintf "%.1f", 
+		100 * f1( $myPerfSumByStage[$stage][$i]{precision} / $N, $myPerfSumByStage[$stage][$i]{recall} / $N );
 	
 	highlightAndPrint( \%perfByType );
 	

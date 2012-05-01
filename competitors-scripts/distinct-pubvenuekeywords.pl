@@ -1,8 +1,16 @@
 use strict;
-use lib '.';
-use NLPUtil;
 
+use constant{
+	namedisDir 					=> "/media/tough/namedis",
+	wikipediaDir 				=> "/media/first/wikipedia",
+};
+
+use lib namedisDir;
+use NLPUtil;
 use Distinct;
+
+use lib wikipediaDir;
+use ConceptNet;
 
 # use string format, to keep the order while sorted
 my $unknownVenueSN = "0000";

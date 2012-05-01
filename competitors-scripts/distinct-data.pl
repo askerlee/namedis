@@ -1,8 +1,16 @@
 use strict;
-use lib '.';
-use NLPUtil;
 
+use constant{
+	namedisDir 					=> "/media/tough/namedis",
+	wikipediaDir 				=> "/media/first/wikipedia",
+};
+
+use lib namedisDir;
+use NLPUtil;
 use Distinct;
+
+use lib wikipediaDir;
+use ConceptNet;
 
 use Getopt::Std;
 my %opt;
