@@ -1,0 +1,96 @@
+
+
+
+Cluster 0, 22 tuples (University of Canberra, Australia)
+dat tran, michael wagner, tongtao zheng,    "journals/prl/tranwz99"   Pattern Recognition Letters, 1999
+dat tran, michael wagner,    "conf/fuzzieee/tranw01"   FUZZ-IEEE, 2001
+dat tran, michael wagner,    "conf/afss/tranw02"   AFSS, 2002
+dat tran, michael wagner,    "conf/afss/tranw02a"   AFSS, 2002
+dat tran, michael wagner,    "conf/afss/tranw02b"   AFSS, 2002
+dat tran, michael wagner,    "journals/ijprai/tranw02"   IJPRAI, 2002
+yee w. lau, dat tran, michael wagner,    "conf/kes/lautw05"   KES, 2005
+tuan d. pham, michael wagner,    "journals/pr/phamw98"   Pattern Recognition, 1998
+tuan d. pham, michael wagner,    "journals/jaciii/phamw99"   JACIII, 1999
+tuan d. pham, michael wagner,    "journals/pr/phamw99"   Pattern Recognition, 1999
+tuan d. pham, michael wagner,    "conf/icip/phamw00"   ICIP, 2000
+tuan d. pham, michael wagner,    "conf/icpr/phamw00"   ICPR, 2000
+tuan d. pham, michael wagner,    "journals/ijprai/phamw00"   IJPRAI, 2000
+tuan d. pham, michael wagner,    "journals/pr/phamw00"   Pattern Recognition, 2000
+girija chetty, michael wagner,    "conf/dicta/chettyw05"   DICTA, 2005
+girija chetty, michael wagner,    "conf/accv/chettyw06"   ACCV, 2006
+girija chetty, michael wagner,    "conf/dicta/chettyw07"   DICTA, 2007
+girija chetty, michael wagner,    "conf/premi/chettyw07"   PReMI, 2007
+girija chetty, michael wagner,    "journals/ivc/chettyw08"   Image Vision Comput., 2008
+michael wagner, girija chetty,    "reference/bio/wagnerc09"   Encyclopedia of Biometrics, 2009
+florian metze, tim polzehl, michael wagner,    "conf/semco/metzepw09"   ICSC, 2009
+michael wagner,    "reference/bio/wagner09"   Encyclopedia of Biometrics, 2009
+
+Cluster 1, 9 tuples (Distributed Systems Group, University of Kassel, Germany)
+roland reichle, michael wagner, mohammad ullah khan, kurt geihs, jorge lorenzo, massimo valla, cristina fra, nearchos paspallis, george a. papadopoulos,    "conf/dais/reichlewkglvfpp08"   DAIS, 2008
+roland reichle, michael wagner, mohammad ullah khan, kurt geihs, massimo valla, cristina fra, nearchos paspallis, george a. papadopoulos,    "conf/percom/reichlewkgvfpp08"   PerCom, 2008
+kurt geihs, roland reichle, michael wagner, mohammad ullah khan,    "conf/dagstuhl/geihsrwk09"   Software Engineering for Self-Adaptive Systems, 2009
+alisa devlic, roland reichle, michael wagner, manuele kirsch-pinheiro, yves vanrompay, yolande berbers, massimo valla,    "conf/percom/devlicrwpvbv09"   PerCom Workshops, 2009
+kurt geihs, roland reichle, michael wagner, mohammad ullah khan,    "conf/cse/geihsrwk09"   CSE, 2009
+michael wagner, dieter hogrefe, kurt geihs, klaus david,    "journals/eceasst/wagnerhgd09"   ECEASST, 2009
+mohammad ullah khan, roland reichle, michael wagner, kurt geihs, ulrich scholz, konstantinos kakousis, george a. papadopoulos,    "journals/eceasst/khanrwgskp09"   ECEASST, 2009
+hendrik skubch, michael wagner, roland reichle, stefan triller, kurt geihs,    "conf/icaart/skubchwrtg10"   ICAART, 2010
+michael wagner,    "conf/huc/wagner10"   UbiComp, 2010
+
+Cluster 2, 6 tuples (Cincinnati Children's Hospital Research Foundation)
+jaroslaw meller, michael wagner, ron elber,    "journals/jcc/mellerwe02"   Journal of Computational Chemistry, 2002
+michael wagner, jaroslaw meller, ron elber,    "journals/mp/wagnerme04"   Math. Program., 2004
+michael wagner, rafal adamczak, aleksey a. porollo, jaroslaw meller,    "journals/jcb/wagnerapm05"   Journal of Computational Biology, 2005
+ming guo, michael wagner, constance e. west,    "conf/wsc/guoww04"   Winter Simulation Conference, 2004
+michael wagner, dayanand n. naik, alex pothen, srinivas kasukurti, raghu ram devineni, bao-ling adam, o. john semmes, george l. wright jr.,    "journals/bmcbi/wagnernpkdasw04"   BMC Bioinformatics, 2004
+johannes m. freudenberg, siva sivaganesan, michael wagner, mario medvedovic,    "journals/bmcbi/freudenbergswm10"   BMC Bioinformatics, 2010
+
+Cluster 3, 5 tuples (shared-reality.com, Germany)
+holger regenbrecht, gregory baratoff, michael wagner,    "journals/cg/regenbrechtbw01"   Computers & Graphics, 2001
+holger regenbrecht, michael wagner,    "conf/chi/regenbrechtw02"   CHI Extended Abstracts, 2002
+holger regenbrecht, michael wagner, gregory baratoff,    "journals/vr/regenbrechtwb02"   Virtual Reality, 2002
+holger regenbrecht, claudia ott, michael wagner, tim lum, petra kohler, wilhelm wilke, erich mueller,    "conf/ismar/regenbrechtowlkwm03"   ISMAR, 2003
+holger regenbrecht, tim lum, petra kohler, claudia ott, michael wagner, wilhelm wilke, erich mueller,    "journals/presence/regenbrechtlkowwm04"   Presence, 2004
+
+Cluster 4, 3 tuples (Department of Mathematics and Statistics, University of Saskatchewan, Canada)
+doug mahar, renee napier, michael wagner, william laverty, ron henderson, michael hiron,    "journals/ijmms/maharnwlhh95"   Int. J. Hum.-Comput. Stud., 1995
+renee napier, william laverty, doug mahar, ron henderson, michael hiron, michael wagner,    "journals/ijmms/napierlmhhw95"   Int. J. Hum.-Comput. Stud., 1995
+kate barrelle, william laverty, ron henderson, jon gough, michael wagner, michael hiron,    "journals/ijmms/barrellelhgwh96"   Int. J. Hum.-Comput. Stud., 1996
+
+Cluster 5, 2 tuples (Donau-Universitat Krems)
+peter parycek, johannes schneider, michael wagner,    "conf/egov/paryceksw04"   EGOV, 2004
+stephanie ludi, michael wagner,    "conf/hci/ludiw01"   HCI, 2001
+
+Cluster 6, 2 tuples (Compumedics Neuroscan, Germany)
+michael wagner, manfred fuchs, hans-aloys wischmann, ralf drenckhahn, thomas kohler,    "conf/bildmed/wagnerfwdk96"   Bildverarbeitung fur die Medizin, 1996
+andreas mang, michael wagner, jan muller, manfred fuchs, thorsten m. buzug,    "conf/bildmed/mangwmfb06"   Bildverarbeitung fur die Medizin, 2006
+
+Cluster 7, 2 tuples (Fraunhofer FOKUS, Germany)
+matthias erche, michael wagner, christian hein,    "conf/sac/erchewh07"   SAC, 2007
+christian hein, marcus engelhardt, tom ritter, michael wagner,    "journals/eceasst/heinerw09"   ECEASST, 2009
+
+Cluster 8, 2 tuples (Lehrstuhl fur Mikrobiologie, TUM, Germany)
+alexander loy, matthias horn, michael wagner,    "journals/nar/loyhw03"   Nucleic Acids Research, 2003
+alexander loy, frank maixner, michael wagner, matthias horn,    "journals/nar/loymwh07"   Nucleic Acids Research, 2007
+
+Cluster 9, 2 tuples (Robotics Institute, Carnegie Mellon University)
+eben myers, peter coppin, michael wagner, karl fischer, luisa lu, w. ronald mccloskey, david seneker,    "conf/infovis/myerscwflms04"   INFOVIS, 2004
+eben myers, peter coppin, michael wagner, luisa lu, w. ronald mccloskey, david seneker, kevin mccloskey,    "conf/visualization/myerscwlmsm05"   IEEE Visualization, 2005
+
+Cluster 10, 1 tuples (ZIH, TU Dresden, Germany)
+andreas knupfer, markus geimer, johannes spazier, joseph schuchart, michael wagner, dominic eschweiler, matthias s. muller,    "journals/procedia/knupfergsswem10"   Procedia CS, 2010
+
+Cluster 11, 1 tuples (University of Iowa)
+ray ford, michael wagner,    "journals/cl/fordw87"   Comput. Lang., 1987
+
+Cluster 12, 1 tuples (University of Technology Darmstadt, Germany)
+dirk bradler, lachezar krumov, michael wagner, jussi kangasharju,    "conf/springsim/bradlerkwk09"   SpringSim, 2009
+
+Cluster 13, 1 tuples (Cornell)
+thomas f. coleman, joseph czyzyk, chunguang sun, michael wagner, stephen j. wright,    "conf/ppsc/colemancsww97"   PPSC, 1997
+
+Cluster 14, 1 tuples (Institut fur Informatik, TUM, Germany)
+robert hockauf, wolfgang karl, markus leberecht, michael oberhuber, michael wagner,    "conf/europar/hockaufklow98"   Euro-Par, 1998
+
+Cluster 15, 1 tuples (Department of Biomedical Informatics, University of Pittsburgh)
+loren shaffer, julie funk, paivi rajala-schultz, garrick l. wallstrom, thomas wittum, michael wagner, william saville,    "conf/biosurveillance/shafferfrwwws07"   BioSurveillance, 2007
+
