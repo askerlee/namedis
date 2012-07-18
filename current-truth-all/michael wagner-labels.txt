@@ -243,3 +243,35 @@ Cluster 26, 1 papers:	University of Canberra, Australia
 Liveness Assurance in Voice Authentication
 michael wagner
 2009. Encyclopedia of Biometrics. key: reference/bio/Wagner09
+
+Cluster 27, 6 papers:	Department of Biomedical Informatics, University of Pittsburgh
+Rule-Based Anomaly Pattern Detection for Detecting Disease Outbreaks.
+weng-keen wong, andrew w. moore, gregory f. cooper, michael wagner
+2002. AAAI/IAAI. key: conf/aaai/WongMCW02
+Bayesian Network Anomaly Pattern Detection for Disease Outbreaks.
+weng-keen wong, andrew w. moore, gregory f. cooper, michael wagner
+2003. ICML. key: conf/icml/WongMCW03
+Bayesian Biosurveillance of Disease Outbreaks.
+gregory f. cooper, denver dash, john levander, weng-keen wong, william r. hogan, michael wagner
+2004. UAI. key: conf/uai/CooperDLWHW04
+What's Strange About Recent Events (WSARE): An Algorithm for the Early Detection of Disease Outbreaks.
+weng-keen wong, andrew w. moore, gregory f. cooper, michael wagner
+2005. Journal of Machine Learning Research. key: journals/jmlr/WongMCW05
+Modeling the Temporal Trend of the Daily Severity of an Outbreak Using Bayesian Networks.
+xia jiang, michael wagner, gregory f. cooper
+2008. Innovations in Bayesian Networks. key: series/sci/JiangWC08
+Bayesian prediction of an epidemic curve.
+xia jiang, garrick l. wallstrom, gregory f. cooper, michael wagner
+2009. Journal of Biomedical Informatics. key: journals/jbi/JiangWCW09
+
+Cluster 28, 3 papers:	Department of Biomedical Informatics, University of Pittsburgh
+Representative threats for research in public health surveillance.
+michael wagner, virginia dato, john n. dowling, michael allswede
+2003. Journal of Biomedical Informatics. key: journals/jbi/WagnerDDA03
+Fever detection from free-text clinical records for biosurveillance.
+wendy webber chapman, john n. dowling, michael wagner
+2004. Journal of Biomedical Informatics. key: journals/jbi/ChapmanDW04
+Classifying free-text triage chief complaints into syndromic categories with natural language processing.
+wendy webber chapman, lee m. christensen, michael wagner, peter j. haug, oleg ivanov, john n. dowling, robert t. olszewski
+2005. Artificial Intelligence in Medicine. key: journals/artmed/ChapmanCWHIDO05
+

@@ -1,0 +1,641 @@
+shaohua@lsh:~/namedis$ perl clust.pl -b current-truth-all/dev.batch -p current-truth-all -u
+Subroutine cmdline redefined at clust.pl line 1116.
+Use default IC file: /media/first/wikipedia/ic.txt
+Use default lemma cache file: /media/first/wikipedia/lemma-cache.txt
+Use new CSLR
+Use default ancestor file: /media/first/wikipedia/ancestors.txt
+Will load ancestor lists from file '/media/first/wikipedia/ancestors.txt'
+Will use unigram to measure title similarity
+Data file path prefix: 'current-truth-all/'
+Info will be logged into 'clust-180417.log'.
+407 pinyin loaded into '%pinyinNames' from '/media/tough/namedis/pinyin.txt'
+325 pinyin loaded into '%cantonpinyinNames' from '/media/tough/namedis/cantonpinyin.txt'
+Loading Chinese name ambiguity file 'current-truth-all/ambiguity.csv'...
+88072 Chinese names loaded
+358 Chinese surnames loaded
+21169 Chinese given names loaded
+Loading name coauthor stat file 'current-truth-all/coauthor-stat.txt'...
+193717 1593403    
+193717 names' coauthor stats (1593403 total) loaded
+Loading terms from '/media/tough/namedis/unigram.csv'...
+Stop at line 68032. Last loaded word: zytkow 2
+68029
+68029 terms loaded into '%gUnigrams' from '/media/tough/namedis/unigram.csv'
+Open '/media/first/wikipedia/lemma-cache.txt' to load '%lemmaLookup'...
+1074628 entries in 1081496 lines loaded from '/media/first/wikipedia/lemma-cache.txt'. 1074629 entries in '%lemmaLookup'
+Lemmatizer 'morpha' is up and running happily as process 8317
+Processing starts at 18:04:17
+Open 'venue-simi.txt' to load similar venue pairs
+228892    
+76877 pairs for 4862 venues are loaded
+Open batch file 'current-truth-all/dev.batch' to process...
+
+Info will be logged into 'liping wang-180417.log'.
+Open groundtruth file 'current-truth-all/liping wang-labels.txt' to process...
+43 publications of 12 authors loaded
+Department of Precision Instruments, Tsinghua: 14 | ITEE, University of Queensland: 12 | Graduate University for Advanced Studies, Tokyo: 5 | Department of Management Information, Shanghai Jiaotong University: 2 | [lipiwang@cityu.edu.hk] EE, CITYU HK: 2 | ME/Math, NJIT: 2 | [sheryl-78@163.com] Shanghai University of Finance & Economics: 1 | [A9000@china.com] Lab of InfoSec, USTC: 1 | CV Lab, ETH Zurich: 1 | Department ofPolymer Material, Shanghai University: 1 | [lipingw@kth.se] EE, KTH, Royal Institute of Technology: 1 | College of Renewable Energy, North China Electric Power University: 1
+Groundtruth total pairs: 170
+
+Processing author 'liping wang', true K: 12, estimated K: 17.4209461237974
+Probabilistically merge pubs of 'liping wang' according to same co-authors...
+Evidential coauthor's Chinese coauthor count threshold: 284.155
+Coauthor's ambiguity threshold (for the overestimated ambiguity): 199.156
+Done. Get 14 clusters
+14 clusters. Should be 12.
+
+Summary:
+Prec: 1. Recall: 0.8588. F1: 0.9241
+
+Clusters are saved into 'liping wang-c1.txt'
+Try to cluster 43 papers of 'liping wang' into 13 clusters. Thres: 0.174209461237974
+ Use unigram to calc title simi.
+Extract concept vectors from titles:
+Concept vectors of 44 papers extracted
+K: 14
+12 13      
+Max similar value: 0.943. Merge clusters 1(13) and 11(1) to 15(14).
+1: Department of Precision Instruments, Tsinghua: 13
+11: Department of Precision Instruments, Tsinghua: 1
+Clustering stops at: 18:04:44. Used time: 0h0m1s
+Clusters are saved into 'liping wang-c2.txt'
+13 clusters. Should be 12.
+
+Summary:
+Prec: 1. Recall: 0.9353. F1: 0.9666
+
+Info will be logged into 'david brown-180417.log'.
+Open groundtruth file 'current-truth-all/david brown-labels.txt' to process...
+54 publications of 22 authors loaded
+Computational Neuroscience Laboratory, Cambridge: 18 | University of Portsmouth, UK: 6 | University of Alabama: 4 | Worcester Polytechnic Institute: 4 | National Center for Atmospheric Research, Boulder: 2 | University of Houston-Downtown: 2 | Universidade do Porto, Portugal: 2 | Ithaca College, NY: 2 | Maine School of Science and Mathematics, Limestone: 1 | Wake Forest University: 1 | Depts. of Electrical Engineering, TAMU: 1 | D'Amour Center for Cancer Care, MA: 1 | Statistical Disclosure Control Centre, Office for National Statistics, London,: 1 | Chairman, Motorola: 1 | Google: 1 | Bob Jones University: 1 | The Nottingham Trent University, UK: 1 | Solaris Engineering group, Sun Microsystems.: 1 | IBM Mid-Hudson Valley Programming Laboratory: 1 | University of Southampton: 1 | Colorado College: 1 | Lancaster University: 1
+Groundtruth total pairs: 184
+
+Processing author 'david brown', true K: 22, estimated K: 0
+Warn: 'david brown' doesn't look like a Chinese name
+Merge pubs of 'david brown' according to same co-authors...
+Done. Get 24 clusters
+24 clusters. Should be 22.
+
+Summary:
+Prec: 1. Recall: 0.9728. F1: 0.9862
+
+Clusters are saved into 'david brown-c1.txt'
+Try to cluster 54 papers of 'david brown' into 2 clusters. Thres: 0.1
+ Use unigram to calc title simi.
+Extract concept vectors from titles:
+Concept vectors of 55 papers extracted
+K: 24
+22 23      
+Max similar value: 0.421. Merge clusters 5(2) and 17(1) to 25(3).
+5: University of Houston-Downtown: 2
+17: Google: 1
+K: 23
+21 22      
+Max similar value: 0.385. Merge clusters 4(2) and 24(1) to 26(3).
+4: National Center for Atmospheric Research, Boulder: 2
+24: Lancaster University: 1
+K: 22
+20 21      
+Max similar value: 0.305. Merge clusters 3(4) and 21(1) to 27(5).
+3: University of Alabama: 4
+21: IBM Mid-Hudson Valley Programming Laboratory: 1
+K: 21
+19 20      
+Max similar value: 0.27. Merge clusters 9(1) and 19(1) to 28(2).
+9: Worcester Polytechnic Institute: 1
+19: The Nottingham Trent University, UK: 1
+K: 20
+18 19      
+Max similar value: 0.247. Merge clusters 28(2) and 12(1) to 29(3).
+28: The Nottingham Trent University, UK: 1   Worcester Polytechnic Institute: 1
+12: Depts. of Electrical Engineering, TAMU: 1
+K: 19
+17 18      
+Max similar value: 0.105. Merge clusters 2(6) and 25(3) to 30(9).
+2: University of Portsmouth, UK: 6
+25: University of Houston-Downtown: 2   Google: 1
+K: 18
+16 17      
+Clustering stops at: 18:04:48. Used time: 0h0m4s
+Max similar value: 0.07519. Clusters 29(3) and 23(1) not merged.
+29: The Nottingham Trent University, UK: 1   Worcester Polytechnic Institute: 1   Depts. of Electrical Engineering, TAMU: 1
+23: Colorado College: 1
+Clusters are saved into 'david brown-c2.txt'
+18 clusters. Should be 22.
+
+Summary:
+Prec: 0.8606. Recall: 0.9728. F1: 0.9133
+
+Info will be logged into 'david jensen-180417.log'.
+Open groundtruth file 'current-truth-all/david jensen-labels.txt' to process...
+51 publications of 3 authors loaded
+UMass: 49 | Rockwell Collins [a supplier to the military]: 1 | IBM Thomas J. Watson Research Center: 1
+Groundtruth total pairs: 1176
+
+Processing author 'david jensen', true K: 3, estimated K: 0
+Warn: 'david jensen' doesn't look like a Chinese name
+Merge pubs of 'david jensen' according to same co-authors...
+Done. Get 14 clusters
+14 clusters. Should be 3.
+
+Summary:
+Prec: 1. Recall: 0.432. F1: 0.6033
+
+Clusters are saved into 'david jensen-c1.txt'
+Try to cluster 51 papers of 'david jensen' into 2 clusters. Thres: 0.1
+ Use unigram to calc title simi.
+Extract concept vectors from titles:
+Concept vectors of 52 papers extracted
+K: 14
+12 13      
+Max similar value: 2.634. Merge clusters 2(5) and 3(2) to 15(7).
+2: UMass: 5
+3: UMass: 2
+K: 13
+11 12      
+Max similar value: 2.441. Merge clusters 1(32) and 9(1) to 16(33).
+1: UMass: 32
+9: UMass: 1
+K: 12
+10 11      
+Max similar value: 1.923. Merge clusters 16(33) and 12(1) to 17(34).
+16: UMass: 33
+12: UMass: 1
+K: 11
+9 10      
+Max similar value: 1.118. Merge clusters 17(34) and 15(7) to 18(41).
+17: UMass: 34
+15: UMass: 7
+K: 10
+8 9      
+Max similar value: 0.775. Merge clusters 18(41) and 5(1) to 19(42).
+18: UMass: 41
+5: UMass: 1
+K: 9
+7 8      
+Max similar value: 0.65. Merge clusters 8(1) and 10(1) to 20(2).
+8: UMass: 1
+10: UMass: 1
+K: 8
+6 7      
+Max similar value: 0.527. Merge clusters 19(42) and 14(1) to 21(43).
+19: UMass: 42
+14: UMass: 1
+K: 7
+5 6      
+Max similar value: 0.396. Merge clusters 6(1) and 20(2) to 22(3).
+6: UMass: 1
+20: UMass: 2
+K: 6
+4 5      
+Max similar value: 0.135. Merge clusters 21(43) and 22(3) to 23(46).
+21: UMass: 43
+22: UMass: 3
+K: 5
+3 4      
+Clustering stops at: 18:04:49. Used time: 0h0m1s
+Max similar value: 0.09797. Clusters 23(46) and 4(2) not merged.
+23: UMass: 46
+4: UMass: 2
+Clusters are saved into 'david jensen-c2.txt'
+5 clusters. Should be 3.
+
+Summary:
+Prec: 1. Recall: 0.881. F1: 0.9367
+
+Info will be logged into 'gang wu-180417.log'.
+Open groundtruth file 'current-truth-all/gang wu-labels.txt' to process...
+105 publications of 25 authors loaded
+ECE, UCSB: 19 | UESTC, China: 13 | NOKIA, Shanghai [was in Philips Research Asia, Shanghai]: 12 | University of Alberta, Canada: 10 | Southeast University, China: 8 | Department of Automation, USTC, China: 5 | Department of Chemistry, New York University: 4 | Fair Isaac Corporation, San Diego: 3 | University of Toronto: 3 | Stony Brook University: 3 | National University of Defense Technology, China: 3 | University of Maryland at Baltimore County: 3 | Communications Research Laboratory, Yokosuka, Japan: 3 | Xuzhou Normal University: 3 | Institute of Automation, CAS, China: 2 | Shanghai Jiao Tong University: 2 | Northeastern University: 1 | Beijing University of Technology: 1 | Fudan: 1 | Panasonic R&D Center of China, Beijing Laboratory: 1 | USTC: 1 | University of New South Wales: 1 | Microsoft adCenter: 1 | Tsinghua University: 1 | Key Laboratory of Computational Biology, CAS-MPG PICB: 1
+Groundtruth total pairs: 427
+
+Processing author 'gang wu', true K: 25, estimated K: 14.0294437695295
+Probabilistically merge pubs of 'gang wu' according to same co-authors...
+Evidential coauthor's Chinese coauthor count threshold: 347.522
+Coauthor's ambiguity threshold (for the overestimated ambiguity): 92.256
+Done. Get 38 clusters
+38 clusters. Should be 25.
+
+Summary:
+Prec: 1. Recall: 0.7845. F1: 0.8793
+
+Clusters are saved into 'gang wu-c1.txt'
+Try to cluster 105 papers of 'gang wu' into 14.0294437695295 clusters. Thres: 0.140294437695295
+ Use unigram to calc title simi.
+Extract concept vectors from titles:
+Concept vectors of 106 papers extracted
+K: 38
+36 37      
+Max similar value: 2.34. Merge clusters 2(11) and 31(1) to 39(12).
+2: UESTC, China: 11
+31: NOKIA, Shanghai [was in Philips Research Asia, Shanghai]: 1
+K: 37
+35 36      
+Max similar value: 1.654. Merge clusters 39(12) and 4(10) to 40(22).
+39: UESTC, China: 11   NOKIA, Shanghai [was in Philips Research Asia, Shanghai]: 1
+4: NOKIA, Shanghai [was in Philips Research Asia, Shanghai]: 10
+K: 36
+34 35      
+Max similar value: 0.971. Merge clusters 35(1) and 38(1) to 41(2).
+35: Xuzhou Normal University: 1
+38: Xuzhou Normal University: 1
+K: 35
+33 34      
+Max similar value: 1.245. Merge clusters 41(2) and 37(1) to 42(3).
+41: Xuzhou Normal University: 2
+37: Xuzhou Normal University: 1
+K: 34
+32 33      
+Max similar value: 0.952. Merge clusters 13(2) and 33(1) to 43(3).
+13: University of Maryland at Baltimore County: 2
+33: University of Maryland at Baltimore County: 1
+K: 33
+31 32      
+Max similar value: 0.898. Merge clusters 1(18) and 14(2) to 44(20).
+1: ECE, UCSB: 18
+14: Institute of Automation, CAS, China: 2
+K: 32
+30 31      
+Max similar value: 0.795. Merge clusters 43(3) and 34(1) to 45(4).
+43: University of Maryland at Baltimore County: 3
+34: Key Laboratory of Computational Biology, CAS-MPG PICB: 1
+K: 31
+29 30      
+Max similar value: 0.504. Merge clusters 44(20) and 21(1) to 46(21).
+44: ECE, UCSB: 18   Institute of Automation, CAS, China: 2
+21: Panasonic R&D Center of China, Beijing Laboratory: 1
+K: 30
+28 29      
+Max similar value: 0.495. Merge clusters 10(3) and 24(1) to 47(4).
+10: Stony Brook University: 3
+24: USTC: 1
+K: 29
+27 28      
+Max similar value: 0.311. Merge clusters 6(7) and 30(1) to 48(8).
+6: Southeast University, China: 7
+30: Southeast University, China: 1
+K: 28
+26 27      
+Max similar value: 0.295. Merge clusters 46(21) and 28(1) to 49(22).
+46: ECE, UCSB: 18   Institute of Automation, CAS, China: 2   Panasonic R&D Center of China, Beijing Laboratory: 1
+28: ECE, UCSB: 1
+K: 27
+25 26      
+Max similar value: 0.258. Merge clusters 47(4) and 32(1) to 50(5).
+47: Stony Brook University: 3   USTC: 1
+32: Shanghai Jiao Tong University: 1
+K: 26
+24 25      
+Max similar value: 0.255. Merge clusters 11(3) and 18(1) to 51(4).
+11: National University of Defense Technology, China: 3
+18: Communications Research Laboratory, Yokosuka, Japan: 1
+K: 25
+23 24      
+Max similar value: 0.227. Merge clusters 15(2) and 16(1) to 52(3).
+15: Department of Automation, USTC, China: 2
+16: Northeastern University: 1
+K: 24
+22 23      
+Max similar value: 0.204. Merge clusters 12(3) and 52(3) to 53(6).
+12: Department of Automation, USTC, China: 3
+52: Department of Automation, USTC, China: 2   Northeastern University: 1
+K: 23
+21 22      
+Max similar value: 0.193. Merge clusters 51(4) and 19(1) to 54(5).
+51: National University of Defense Technology, China: 3   Communications Research Laboratory, Yokosuka, Japan: 1
+19: Communications Research Laboratory, Yokosuka, Japan: 1
+K: 22
+20 21      
+Max similar value: 0.19. Merge clusters 40(22) and 50(5) to 55(27).
+40: UESTC, China: 11   NOKIA, Shanghai [was in Philips Research Asia, Shanghai]: 11
+50: Stony Brook University: 3   USTC: 1   Shanghai Jiao Tong University: 1
+K: 21
+19 20      
+Max similar value: 0.188. Merge clusters 23(1) and 42(3) to 56(4).
+23: Shanghai Jiao Tong University: 1
+42: Xuzhou Normal University: 3
+K: 20
+18 19      
+Max similar value: 0.166. Merge clusters 45(4) and 29(1) to 57(5).
+45: University of Maryland at Baltimore County: 3   Key Laboratory of Computational Biology, CAS-MPG PICB: 1
+29: Tsinghua University: 1
+K: 19
+17 18      
+Max similar value: 0.156. Merge clusters 54(5) and 26(1) to 58(6).
+54: National University of Defense Technology, China: 3   Communications Research Laboratory, Yokosuka, Japan: 2
+26: Communications Research Laboratory, Yokosuka, Japan: 1
+K: 18
+16 17      
+Clustering stops at: 18:05:13. Used time: 0h0m23s
+Max similar value: 0.12841. Clusters 55(27) and 36(1) not merged.
+55: UESTC, China: 11   NOKIA, Shanghai [was in Philips Research Asia, Shanghai]: 11   Stony Brook University: 3   USTC: 1   Shanghai Jiao Tong University: 1
+36: NOKIA, Shanghai [was in Philips Research Asia, Shanghai]: 1
+Clusters are saved into 'gang wu-c2.txt'
+18 clusters. Should be 25.
+
+Summary:
+Prec: 0.5447. Recall: 0.8993. F1: 0.6784
+
+Info will be logged into 'xiaodong wang-180417.log'.
+Open groundtruth file 'current-truth-all/xiaodong wang-labels.txt' to process...
+282 publications of 25 authors loaded
+EE, Columbia University: 187 | Lab of Parallel, National University of Defense Technology, China: 21 | Math, Zhejiang Normal University: 20 | Office of the Chief Scientist of Qualcomm Inc: 9 | CS, Fuzhou University: 6 | College of Automation, Northwestern Polytechnical University, China: 4 | EE, Princeton: 4 | Beijing Normal University: 3 | CS, UIC: 3 | Dept. of Precision Machinery, USTC: 2 | EECS, University of Tennessee: 2 | IA, CAS: 2 | University of Mannheim: 2 | Hebei University of Technology: 2 | BUAA: 2 | EE, Ocean University of China: 2 | Washington University School of Medicine St Louis: 2 | ME, University of Alberta: 2 | SL Power Electronics Corp.: 1 | Tianjin University: 1 | CS, SUNY Binghamton: 1 | Changchun Institute of Optics, CAS: 1 | MEE, Qingdao University: 1 | Max-Planck-Institut fur Informatik: 1 | Physics, New Jersey Institute of Technology: 1
+Groundtruth total pairs: 17869
+
+Processing author 'xiaodong wang', true K: 25, estimated K: 18.981715512788
+Probabilistically merge pubs of 'xiaodong wang' according to same co-authors...
+Evidential coauthor's Chinese coauthor count threshold: 260.392
+Coauthor's ambiguity threshold (for the overestimated ambiguity): 78.418
+Done. Get 43 clusters
+43 clusters. Should be 25.
+
+Summary:
+Prec: 1. Recall: 0.7048. F1: 0.8268
+
+Clusters are saved into 'xiaodong wang-c1.txt'
+Try to cluster 282 papers of 'xiaodong wang' into 18.981715512788 clusters. Thres: 0.18981715512788
+ Use unigram to calc title simi.
+Extract concept vectors from titles:
+Concept vectors of 283 papers extracted
+K: 43
+41 42      
+Max similar value: 62.171. Merge clusters 1(156) and 8(3) to 44(159).
+1: EE, Columbia University: 156
+8: EE, Columbia University: 3
+K: 42
+40 41      
+Max similar value: 43.151. Merge clusters 44(159) and 17(2) to 45(161).
+44: EE, Columbia University: 159
+17: EE, Columbia University: 2
+K: 41
+39 40      
+Max similar value: 24.611. Merge clusters 45(161) and 13(3) to 46(164).
+45: EE, Columbia University: 161
+13: EE, Columbia University: 3
+K: 40
+38 39      
+Max similar value: 20.975. Merge clusters 46(164) and 23(2) to 47(166).
+46: EE, Columbia University: 164
+23: EE, Columbia University: 2
+K: 39
+37 38      
+Max similar value: 20.431. Merge clusters 47(166) and 14(3) to 48(169).
+47: EE, Columbia University: 166
+14: EE, Columbia University: 3
+K: 38
+36 37      
+Max similar value: 12.823. Merge clusters 48(169) and 37(1) to 49(170).
+48: EE, Columbia University: 169
+37: EE, Columbia University: 1
+K: 37
+35 36      
+Max similar value: 12.782. Merge clusters 49(170) and 4(9) to 50(179).
+49: EE, Columbia University: 170
+4: Office of the Chief Scientist of Qualcomm Inc: 9
+K: 36
+34 35      
+Max similar value: 10.085. Merge clusters 50(179) and 38(1) to 51(180).
+50: EE, Columbia University: 170   Office of the Chief Scientist of Qualcomm Inc: 9
+38: EE, Columbia University: 1
+K: 35
+33 34      
+Max similar value: 6.91. Merge clusters 51(180) and 35(1) to 52(181).
+51: EE, Columbia University: 171   Office of the Chief Scientist of Qualcomm Inc: 9
+35: EE, Columbia University: 1
+K: 34
+32 33      
+Max similar value: 5.602. Merge clusters 52(181) and 42(1) to 53(182).
+52: EE, Columbia University: 172   Office of the Chief Scientist of Qualcomm Inc: 9
+42: EE, Columbia University: 1
+K: 33
+31 32      
+Max similar value: 5.324. Merge clusters 53(182) and 40(1) to 54(183).
+53: EE, Columbia University: 173   Office of the Chief Scientist of Qualcomm Inc: 9
+40: EE, Columbia University: 1
+K: 32
+30 31      
+Max similar value: 4.279. Merge clusters 54(183) and 41(1) to 55(184).
+54: EE, Columbia University: 174   Office of the Chief Scientist of Qualcomm Inc: 9
+41: EE, Columbia University: 1
+K: 31
+29 30      
+Max similar value: 4.122. Merge clusters 55(184) and 6(6) to 56(190).
+55: EE, Columbia University: 175   Office of the Chief Scientist of Qualcomm Inc: 9
+6: EE, Columbia University: 6
+K: 30
+28 29      
+Max similar value: 1.827. Merge clusters 56(190) and 29(1) to 57(191).
+56: EE, Columbia University: 181   Office of the Chief Scientist of Qualcomm Inc: 9
+29: EE, Columbia University: 1
+K: 29
+27 28      
+Max similar value: 1.678. Merge clusters 57(191) and 7(2) to 58(193).
+57: EE, Columbia University: 182   Office of the Chief Scientist of Qualcomm Inc: 9
+7: EE, Columbia University: 2
+K: 28
+26 27      
+Max similar value: 0.845. Merge clusters 11(3) and 32(1) to 59(4).
+11: Beijing Normal University: 3
+32: ME, University of Alberta: 1
+K: 27
+25 26      
+Max similar value: 0.817. Merge clusters 58(193) and 39(1) to 60(194).
+58: EE, Columbia University: 184   Office of the Chief Scientist of Qualcomm Inc: 9
+39: EE, Columbia University: 1
+K: 26
+24 25      
+Max similar value: 0.684. Merge clusters 15(2) and 43(1) to 61(3).
+15: Dept. of Precision Machinery, USTC: 2
+43: Physics, New Jersey Institute of Technology: 1
+K: 25
+23 24      
+Max similar value: 0.675. Merge clusters 60(194) and 30(1) to 62(195).
+60: EE, Columbia University: 185   Office of the Chief Scientist of Qualcomm Inc: 9
+30: EE, Columbia University: 1
+K: 24
+22 23      
+Max similar value: 0.594. Merge clusters 62(195) and 16(2) to 63(197).
+62: EE, Columbia University: 186   Office of the Chief Scientist of Qualcomm Inc: 9
+16: EECS, University of Tennessee: 2
+K: 23
+21 22      
+Max similar value: 0.555. Merge clusters 63(197) and 26(1) to 64(198).
+63: EE, Columbia University: 186   Office of the Chief Scientist of Qualcomm Inc: 9   EECS, University of Tennessee: 2
+26: EE, Columbia University: 1
+K: 22
+20 21      
+Max similar value: 0.509. Merge clusters 3(20) and 18(2) to 65(22).
+3: Math, Zhejiang Normal University: 20
+18: IA, CAS: 2
+K: 21
+19 20      
+Max similar value: 0.376. Merge clusters 21(2) and 28(1) to 66(3).
+21: BUAA: 2
+28: Tianjin University: 1
+K: 20
+18 19      
+Max similar value: 0.314. Merge clusters 9(4) and 61(3) to 67(7).
+9: College of Automation, Northwestern Polytechnical University, China: 4
+61: Dept. of Precision Machinery, USTC: 2   Physics, New Jersey Institute of Technology: 1
+K: 19
+17 18      
+Max similar value: 0.289. Merge clusters 65(22) and 59(4) to 68(26).
+65: Math, Zhejiang Normal University: 20   IA, CAS: 2
+59: Beijing Normal University: 3   ME, University of Alberta: 1
+Clustering stops at: 18:05:53. Used time: 0h0m39s
+Clusters are saved into 'xiaodong wang-c2.txt'
+18 clusters. Should be 25.
+
+Summary:
+Prec: 0.8894. Recall: 0.9999. F1: 0.9414
+
+Info will be logged into 'tao peng-180417.log'.
+Open groundtruth file 'current-truth-all/tao peng-labels.txt' to process...
+53 publications of 11 authors loaded
+BUPT: 22 | University of Melbourne: 8 | Jilin University: 8 | Wuhan University of Science and Engineering: 4 | Center for Bioimage informatics, CMU: 3 | MSE, HUST: 2 | Lab of SE, Wuhan University: 2 | Unit 73011 of PLA, Huzhou: 1 | Beijing Institute of Technology: 1 | CS, HUST: 1 | Institute of Process Engineering, CAS: 1
+Groundtruth total pairs: 298
+
+Processing author 'tao peng', true K: 11, estimated K: 5.54235187745632
+Probabilistically merge pubs of 'tao peng' according to same co-authors...
+Evidential coauthor's Chinese coauthor count threshold: 895.2
+Coauthor's ambiguity threshold (for the overestimated ambiguity): 250.936
+Done. Get 11 clusters
+11 clusters. Should be 11.
+
+Summary:
+Prec: 1. Recall: 1. F1: 1
+
+Clusters are saved into 'tao peng-c1.txt'
+Try to cluster 53 papers of 'tao peng' into 5.54235187745632 clusters. Thres: 0.1
+ Use unigram to calc title simi.
+Extract concept vectors from titles:
+Concept vectors of 54 papers extracted
+K: 11
+9 10      
+Max similar value: 0.304. Merge clusters 4(4) and 7(1) to 12(5).
+4: Wuhan University of Science and Engineering: 4
+7: Unit 73011 of PLA, Huzhou: 1
+K: 10
+8 9      
+Max similar value: 0.235. Merge clusters 6(2) and 8(1) to 13(3).
+6: Lab of SE, Wuhan University: 2
+8: Beijing Institute of Technology: 1
+K: 9
+7 8      
+Max similar value: 0.177. Merge clusters 13(3) and 9(1) to 14(4).
+13: Lab of SE, Wuhan University: 2   Beijing Institute of Technology: 1
+9: CS, HUST: 1
+K: 8
+6 7      
+Max similar value: 0.12. Merge clusters 1(22) and 14(4) to 15(26).
+1: BUPT: 22
+14: Lab of SE, Wuhan University: 2   CS, HUST: 1   Beijing Institute of Technology: 1
+K: 7
+5 6      
+Clustering stops at: 18:05:54. Used time: 0h0m1s
+Max similar value: 0.08573. Clusters 5(2) and 11(3) not merged.
+5: MSE, HUST: 2
+11: Center for Bioimage informatics, CMU: 3
+Clusters are saved into 'tao peng-c2.txt'
+7 clusters. Should be 11.
+
+Summary:
+Prec: 0.7544. Recall: 1. F1: 0.86
+
+Info will be logged into 'peng cheng-180417.log'.
+Open groundtruth file 'current-truth-all/peng cheng-labels.txt' to process...
+49 publications of 14 authors loaded
+GRASP lab, University of Pennsylvania: 13 | Institute of Information and Communication Engineering, Zhejiang University: 12 | EE, Shanghai Jiao Tong University: 7 | Nagoya Gakuin University: 4 | Southwest University, China: 2 | Department of Information Technology and Media, Mid Sweden University: 2 | Department of Automation, Tsinghua: 2 | Harbin Engineering University: 1 | University of Wollongong: 1 | Huazhong Normal University: 1 | UIUC: 1 | Changchun Taxation College: 1 | Department of Automatic Control, Beihang: 1 | Institute of Industrial Process Control, Zhejiang University: 1
+Groundtruth total pairs: 174
+
+Processing author 'peng cheng', true K: 14, estimated K: 5.36114587328187
+Probabilistically merge pubs of 'peng cheng' according to same co-authors...
+Evidential coauthor's Chinese coauthor count threshold: 895.2
+Coauthor's ambiguity threshold (for the overestimated ambiguity): 291.786
+Done. Get 17 clusters
+17 clusters. Should be 14.
+
+Summary:
+Prec: 1. Recall: 0.931. F1: 0.9643
+
+Clusters are saved into 'peng cheng-c1.txt'
+Try to cluster 49 papers of 'peng cheng' into 5.36114587328187 clusters. Thres: 0.1
+ Use unigram to calc title simi.
+Extract concept vectors from titles:
+Concept vectors of 50 papers extracted
+K: 17
+15 16      
+Max similar value: 3.126. Merge clusters 2(12) and 12(1) to 18(13).
+2: Institute of Information and Communication Engineering, Zhejiang University: 12
+12: EE, Shanghai Jiao Tong University: 1
+K: 16
+14 15      
+Max similar value: 1.227. Merge clusters 18(13) and 14(1) to 19(14).
+18: Institute of Information and Communication Engineering, Zhejiang University: 12   EE, Shanghai Jiao Tong University: 1
+14: EE, Shanghai Jiao Tong University: 1
+K: 15
+13 14      
+Max similar value: 0.934. Merge clusters 16(1) and 17(1) to 20(2).
+16: Department of Automatic Control, Beihang: 1
+17: Institute of Industrial Process Control, Zhejiang University: 1
+K: 14
+12 13      
+Max similar value: 0.487. Merge clusters 19(14) and 3(5) to 21(19).
+19: Institute of Information and Communication Engineering, Zhejiang University: 12   EE, Shanghai Jiao Tong University: 2
+3: EE, Shanghai Jiao Tong University: 5
+K: 13
+11 12      
+Max similar value: 0.311. Merge clusters 9(1) and 20(2) to 22(3).
+9: Huazhong Normal University: 1
+20: Institute of Industrial Process Control, Zhejiang University: 1   Department of Automatic Control, Beihang: 1
+K: 12
+10 11      
+Max similar value: 0.242. Merge clusters 11(1) and 15(1) to 23(2).
+11: Department of Automation, Tsinghua: 1
+15: Department of Automation, Tsinghua: 1
+K: 11
+9 10      
+Max similar value: 0.211. Merge clusters 21(19) and 6(2) to 24(21).
+21: Institute of Information and Communication Engineering, Zhejiang University: 12   EE, Shanghai Jiao Tong University: 7
+6: Department of Information Technology and Media, Mid Sweden University: 2
+K: 10
+8 9      
+Max similar value: 0.179. Merge clusters 22(3) and 13(1) to 25(4).
+22: Institute of Industrial Process Control, Zhejiang University: 1   Department of Automatic Control, Beihang: 1   Huazhong Normal University: 1
+13: Changchun Taxation College: 1
+K: 9
+7 8      
+Max similar value: 0.173. Merge clusters 24(21) and 7(1) to 26(22).
+24: Institute of Information and Communication Engineering, Zhejiang University: 12   EE, Shanghai Jiao Tong University: 7   Department of Information Technology and Media, Mid Sweden University: 2
+7: Harbin Engineering University: 1
+K: 8
+6 7      
+Max similar value: 0.119. Merge clusters 26(22) and 23(2) to 27(24).
+26: Institute of Information and Communication Engineering, Zhejiang University: 12   EE, Shanghai Jiao Tong University: 7   Department of Information Technology and Media, Mid Sweden University: 2   Harbin Engineering University: 1
+23: Department of Automation, Tsinghua: 2
+K: 7
+5 6      
+Clustering stops at: 18:05:57. Used time: 0h0m3s
+Max similar value: 0.09123. Clusters 27(24) and 25(4) not merged.
+27: Institute of Information and Communication Engineering, Zhejiang University: 12   EE, Shanghai Jiao Tong University: 7   Department of Information Technology and Media, Mid Sweden University: 2   Department of Automation, Tsinghua: 2   Harbin Engineering University: 1
+25: Institute of Industrial Process Control, Zhejiang University: 1   Department of Automatic Control, Beihang: 1   Huazhong Normal University: 1   Changchun Taxation College: 1
+Clusters are saved into 'peng cheng-c2.txt'
+7 clusters. Should be 14.
+
+Summary:
+Prec: 0.4741. Recall: 1. F1: 0.6433
+
+
+7 names are clustered
+
+Average:
+
+                    Precision	Recall	F1
+Coauthor 0		1.000	0.812	0.883	
+
+Title,Venue 0		0.789	0.955	0.849	
+
+'morpha' called 1 times
+'morpha' killed
+
+Exit at 18:05:57, 100 secs elapsed
+shaohua@lsh:~/namedis$ 

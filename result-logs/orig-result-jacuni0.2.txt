@@ -1,0 +1,586 @@
+shaohua@lsh:~/namedis$ perl clust.pl -b original.batch -p original-truth-10 -t 0.2 -u -j0.03,0.04
+Subroutine cmdline redefined at clust.pl line 1116.
+Use default IC file: /media/first/wikipedia/ic.txt
+Use default lemma cache file: /media/first/wikipedia/lemma-cache.txt
+Use new CSLR
+Use default ancestor file: /media/first/wikipedia/ancestors.txt
+Will load ancestor lists from file '/media/first/wikipedia/ancestors.txt'
+Will use Jaccard similarity
+Will use unigram to measure title similarity
+Will use base clustering thershold 0.2
+Data file path prefix: 'original-truth-10/'
+Info will be logged into 'clust-140032.log'.
+407 pinyin loaded into '%pinyinNames' from '/media/tough/namedis/pinyin.txt'
+325 pinyin loaded into '%cantonpinyinNames' from '/media/tough/namedis/cantonpinyin.txt'
+Loading Chinese name ambiguity file 'original-truth-10/ambiguity.csv'...
+34482 Chinese names loaded
+323 Chinese surnames loaded
+12136 Chinese given names loaded
+Loading name coauthor stat file 'original-truth-10/coauthor-stat.txt'...
+84532 558668    
+84532 names' coauthor stats (558668 total) loaded
+Loading terms from '/media/tough/namedis/unigram.csv'...
+Stop at line 68032. Last loaded word: zytkow 2
+68029
+68029 terms loaded into '%gUnigrams' from '/media/tough/namedis/unigram.csv'
+Open '/media/first/wikipedia/lemma-cache.txt' to load '%lemmaLookup'...
+1074628 entries in 1081496 lines loaded from '/media/first/wikipedia/lemma-cache.txt'. 1074629 entries in '%lemmaLookup'
+Lemmatizer 'morpha' is up and running happily as process 31436
+Processing starts at 14:00:32
+Open 'venue-simi.txt' to load similar venue pairs
+228892    
+76877 pairs for 4862 venues are loaded
+Open batch file 'original.batch' to process...
+
+Info will be logged into 'hui fang-140032.log'.
+Open groundtruth file 'original-truth-10/hui fang-labels.txt' to process...
+9 publications of 3 authors loaded
+[UIUC, student of C. Zhai]: 4 | [U of Bradford]: 3 | [UIUC, student of J. C. Hart]: 2
+Groundtruth total pairs: 10
+
+Processing author 'hui fang', true K: 3, estimated K: 1.62
+Using Jaccard simi for coauthors. Thres: 0.03 - 0.03
+Using Jaccard simi for venues. Thres: 0.04 - 0.04
+Merge pubs of 'hui fang' by co-authors using Jaccard similarity, thres 0.03...
+Done. Get 3 clusters
+3 clusters. Should be 3.
+
+Summary:
+Prec: 1. Recall: 1. F1: 1
+
+Try to cluster 9 papers of 'hui fang' into 1.62 clusters. Thres: 0.2
+ Use unigram to calc title simi.
+Extract concept vectors from titles:
+Concept vectors of 10 papers extracted
+venueJacThres: 0.04.
+K: 3
+1 2      
+Clustering stops at: 14:00:56. Used time: 0h0m0s
+3 clusters. Should be 3.
+
+Summary:
+Prec: 1. Recall: 1. F1: 1
+
+Info will be logged into 'ajay gupta-140032.log'.
+Open groundtruth file 'original-truth-10/ajay gupta-labels.txt' to process...
+16 publications of 4 authors loaded
+[IBM India Research Laboratory]: 6 | [Western Michigan University]: 5 | [Stony Brook]: 3 | yin's cluster 3: 2
+Groundtruth total pairs: 29
+
+Processing author 'ajay gupta', true K: 4, estimated K: 0
+Warn: 'ajay gupta' doesn't look like a Chinese name
+Using Jaccard simi for coauthors. Thres: 0.03 - 0.03
+Using Jaccard simi for venues. Thres: 0.04 - 0.04
+Merge pubs of 'ajay gupta' according to same co-authors...
+Done. Get 5 clusters
+5 clusters. Should be 4.
+
+Summary:
+Prec: 1. Recall: 0.931. F1: 0.9643
+
+Try to cluster 16 papers of 'ajay gupta' into 2 clusters. Thres: 0.2
+ Use unigram to calc title simi.
+Extract concept vectors from titles:
+Concept vectors of 17 papers extracted
+venueJacThres: 0.04.
+K: 5
+3 4      
+Clustering stops at: 14:00:56. Used time: 0h0m0s
+Max similar value: 0.04995. Clusters 2(1) and 3(2) not merged.
+2: [Stony Brook]: 1
+3: [Stony Brook]: 2
+5 clusters. Should be 4.
+
+Summary:
+Prec: 1. Recall: 0.931. F1: 0.9643
+
+Info will be logged into 'joseph hellerstein-140032.log'.
+Open groundtruth file 'original-truth-10/joseph hellerstein-labels.txt' to process...
+151 publications of 2 authors loaded
+CS, Berkeley: 85 | Google, Inc [was in IBM T. J. Watson Research Center]: 66
+Groundtruth total pairs: 5715
+
+Processing author 'joseph hellerstein', true K: 2, estimated K: 0
+Warn: 'joseph hellerstein' doesn't look like a Chinese name
+Using Jaccard simi for coauthors. Thres: 0.03 - 0.03
+Using Jaccard simi for venues. Thres: 0.04 - 0.04
+Merge pubs of 'joseph hellerstein' according to same co-authors...
+Done. Get 38 clusters
+38 clusters. Should be 2.
+
+Summary:
+Prec: 1. Recall: 0.4696. F1: 0.6391
+
+Try to cluster 151 papers of 'joseph hellerstein' into 2 clusters. Thres: 0.2
+ Use unigram to calc title simi.
+Extract concept vectors from titles:
+Concept vectors of 152 papers extracted
+venueJacThres: 0.04.
+K: 38
+36 37      
+Max similar value: 45.225. Merge clusters 32(1) and 33(1) to 39(2).
+32: Google, Inc [was in IBM T. J. Watson Research Center]: 1
+33: Google, Inc [was in IBM T. J. Watson Research Center]: 1
+K: 37
+35 36      
+Max similar value: 25.85. Merge clusters 23(1) and 24(1) to 40(2).
+23: Google, Inc [was in IBM T. J. Watson Research Center]: 1
+24: Google, Inc [was in IBM T. J. Watson Research Center]: 1
+K: 36
+34 35      
+Max similar value: 20.868. Merge clusters 31(1) and 39(2) to 41(3).
+31: Google, Inc [was in IBM T. J. Watson Research Center]: 1
+39: Google, Inc [was in IBM T. J. Watson Research Center]: 2
+K: 35
+33 34      
+Max similar value: 19.162. Merge clusters 25(1) and 27(1) to 42(2).
+25: Google, Inc [was in IBM T. J. Watson Research Center]: 1
+27: Google, Inc [was in IBM T. J. Watson Research Center]: 1
+K: 34
+32 33      
+Max similar value: 34.414. Merge clusters 40(2) and 42(2) to 43(4).
+40: Google, Inc [was in IBM T. J. Watson Research Center]: 2
+42: Google, Inc [was in IBM T. J. Watson Research Center]: 2
+K: 33
+31 32      
+Max similar value: 17.679. Merge clusters 20(2) and 43(4) to 44(6).
+20: Google, Inc [was in IBM T. J. Watson Research Center]: 2
+43: Google, Inc [was in IBM T. J. Watson Research Center]: 4
+K: 32
+30 31      
+Max similar value: 16.73. Merge clusters 17(7) and 41(3) to 45(10).
+17: Google, Inc [was in IBM T. J. Watson Research Center]: 7
+41: Google, Inc [was in IBM T. J. Watson Research Center]: 3
+K: 31
+29 30      
+Max similar value: 18.827. Merge clusters 45(10) and 44(6) to 46(16).
+45: Google, Inc [was in IBM T. J. Watson Research Center]: 10
+44: Google, Inc [was in IBM T. J. Watson Research Center]: 6
+K: 30
+28 29      
+Max similar value: 6.966. Merge clusters 46(16) and 19(3) to 47(19).
+46: Google, Inc [was in IBM T. J. Watson Research Center]: 16
+19: Google, Inc [was in IBM T. J. Watson Research Center]: 3
+K: 29
+27 28      
+Max similar value: 6.241. Merge clusters 15(22) and 47(19) to 48(41).
+15: Google, Inc [was in IBM T. J. Watson Research Center]: 22
+47: Google, Inc [was in IBM T. J. Watson Research Center]: 19
+K: 28
+26 27      
+Max similar value: 4.287. Merge clusters 18(1) and 22(1) to 49(2).
+18: Google, Inc [was in IBM T. J. Watson Research Center]: 1
+22: Google, Inc [was in IBM T. J. Watson Research Center]: 1
+K: 27
+25 26      
+Max similar value: 3.098. Merge clusters 48(41) and 34(1) to 50(42).
+48: Google, Inc [was in IBM T. J. Watson Research Center]: 41
+34: Google, Inc [was in IBM T. J. Watson Research Center]: 1
+K: 26
+24 25      
+Max similar value: 3.074. Merge clusters 50(42) and 16(13) to 51(55).
+50: Google, Inc [was in IBM T. J. Watson Research Center]: 42
+16: Google, Inc [was in IBM T. J. Watson Research Center]: 13
+K: 25
+23 24      
+Max similar value: 4.622. Merge clusters 1(69) and 51(55) to 52(124).
+1: CS, Berkeley: 69
+51: Google, Inc [was in IBM T. J. Watson Research Center]: 55
+K: 24
+22 23      
+Max similar value: 2.971. Merge clusters 49(2) and 26(1) to 53(3).
+49: Google, Inc [was in IBM T. J. Watson Research Center]: 2
+26: Google, Inc [was in IBM T. J. Watson Research Center]: 1
+K: 23
+21 22      
+Max similar value: 1.068. Merge clusters 52(124) and 14(1) to 54(125).
+52: CS, Berkeley: 69   Google, Inc [was in IBM T. J. Watson Research Center]: 55
+14: CS, Berkeley: 1
+K: 22
+20 21      
+Max similar value: 1.052. Merge clusters 54(125) and 10(1) to 55(126).
+54: CS, Berkeley: 70   Google, Inc [was in IBM T. J. Watson Research Center]: 55
+10: CS, Berkeley: 1
+K: 21
+19 20      
+Max similar value: 0.588. Merge clusters 55(126) and 2(1) to 56(127).
+55: CS, Berkeley: 71   Google, Inc [was in IBM T. J. Watson Research Center]: 55
+2: CS, Berkeley: 1
+K: 20
+18 19      
+Max similar value: 0.586. Merge clusters 56(127) and 53(3) to 57(130).
+56: CS, Berkeley: 72   Google, Inc [was in IBM T. J. Watson Research Center]: 55
+53: Google, Inc [was in IBM T. J. Watson Research Center]: 3
+K: 19
+17 18      
+Max similar value: 0.554. Merge clusters 57(130) and 3(3) to 58(133).
+57: CS, Berkeley: 72   Google, Inc [was in IBM T. J. Watson Research Center]: 58
+3: CS, Berkeley: 3
+K: 18
+16 17      
+Max similar value: 0.461. Merge clusters 58(133) and 12(1) to 59(134).
+58: CS, Berkeley: 75   Google, Inc [was in IBM T. J. Watson Research Center]: 58
+12: CS, Berkeley: 1
+K: 17
+15 16      
+Max similar value: 0.44. Merge clusters 59(134) and 13(1) to 60(135).
+59: CS, Berkeley: 76   Google, Inc [was in IBM T. J. Watson Research Center]: 58
+13: CS, Berkeley: 1
+K: 16
+14 15      
+Max similar value: 0.428. Merge clusters 60(135) and 11(1) to 61(136).
+60: CS, Berkeley: 77   Google, Inc [was in IBM T. J. Watson Research Center]: 58
+11: CS, Berkeley: 1
+K: 15
+13 14      
+Max similar value: 0.41. Merge clusters 61(136) and 28(1) to 62(137).
+61: CS, Berkeley: 78   Google, Inc [was in IBM T. J. Watson Research Center]: 58
+28: Google, Inc [was in IBM T. J. Watson Research Center]: 1
+K: 14
+12 13      
+Max similar value: 0.266. Merge clusters 62(137) and 7(1) to 63(138).
+62: CS, Berkeley: 78   Google, Inc [was in IBM T. J. Watson Research Center]: 59
+7: CS, Berkeley: 1
+K: 13
+11 12      
+Clustering stops at: 14:01:20. Used time: 0h0m24s
+Max similar value: 0.12232. Clusters 63(138) and 8(1) not merged.
+63: CS, Berkeley: 79   Google, Inc [was in IBM T. J. Watson Research Center]: 59
+8: CS, Berkeley: 1
+13 clusters. Should be 2.
+
+Summary:
+Prec: 0.507. Recall: 0.8387. F1: 0.6319
+
+Info will be logged into 'rakesh kumar-140032.log'.
+Open groundtruth file 'original-truth-10/rakesh kumar-labels.txt' to process...
+36 publications of 2 authors loaded
+[Sarnoff Corp]: 28 | [UCSD]: 8
+Groundtruth total pairs: 406
+
+Processing author 'rakesh kumar', true K: 2, estimated K: 0
+Warn: 'rakesh kumar' doesn't look like a Chinese name
+Using Jaccard simi for coauthors. Thres: 0.03 - 0.03
+Using Jaccard simi for venues. Thres: 0.04 - 0.04
+Merge pubs of 'rakesh kumar' according to same co-authors...
+Done. Get 2 clusters
+2 clusters. Should be 2.
+
+Summary:
+Prec: 1. Recall: 1. F1: 1
+
+Try to cluster 36 papers of 'rakesh kumar' into 2 clusters. Thres: 0.2
+ Use unigram to calc title simi.
+Extract concept vectors from titles:
+Concept vectors of 37 papers extracted
+venueJacThres: 0.04.
+Clustering stops at: 14:01:20. Used time: 0h0m0s
+2 clusters. Should be 2.
+
+Summary:
+Prec: 1. Recall: 1. F1: 1
+
+Info will be logged into 'michael wagner-140032.log'.
+Open groundtruth file 'original-truth-10/michael wagner-labels.txt' to process...
+29 publications of 5 authors loaded
+[University of Canberra, AUS]: 18 | [shared reality]: 4 | [Cincinnati Children's Hospital Research Foundation]: 3 | [U Pitt]: 2 | yin's cluster 6: 2
+Groundtruth total pairs: 164
+
+Processing author 'michael wagner', true K: 5, estimated K: 0
+Warn: 'michael wagner' doesn't look like a Chinese name
+Using Jaccard simi for coauthors. Thres: 0.03 - 0.03
+Using Jaccard simi for venues. Thres: 0.04 - 0.04
+Merge pubs of 'michael wagner' according to same co-authors...
+Done. Get 8 clusters
+8 clusters. Should be 5.
+
+Summary:
+Prec: 1. Recall: 0.3415. F1: 0.5091
+
+Try to cluster 29 papers of 'michael wagner' into 2 clusters. Thres: 0.2
+ Use unigram to calc title simi.
+Extract concept vectors from titles:
+Concept vectors of 30 papers extracted
+venueJacThres: 0.04.
+K: 8
+6 7      
+Max similar value: 10.784. Merge clusters 2(7) and 3(7) to 9(14).
+2: [University of Canberra, AUS]: 7
+3: [University of Canberra, AUS]: 7
+K: 7
+5 6      
+Clustering stops at: 14:01:20. Used time: 0h0m0s
+Max similar value: 0.07196. Clusters 9(14) and 5(3) not merged.
+9: [University of Canberra, AUS]: 14
+5: [University of Canberra, AUS]: 3
+7 clusters. Should be 5.
+
+Summary:
+Prec: 1. Recall: 0.6402. F1: 0.7807
+
+Info will be logged into 'bing liu-140032.log'.
+Open groundtruth file 'original-truth-10/bing liu-labels.txt' to process...
+89 publications of 6 authors loaded
+[UIC]: 75 | [Fudan U]: 4 | [Huazhong U of Sci and Tech]: 3 | [Nanyang Tech U]: 3 | [Virginia Polytechnic Institute and State University]: 2 | [Chinese Acad of Sci]: 2
+Groundtruth total pairs: 2789
+
+Processing author 'bing liu', true K: 6, estimated K: 6.90731541701171
+Using Jaccard simi for coauthors. Thres: 0.03 - 0.03
+Using Jaccard simi for venues. Thres: 0.04 - 0.04
+Merge pubs of 'bing liu' by co-authors using Jaccard similarity, thres 0.03...
+Done. Get 22 clusters
+22 clusters. Should be 6.
+
+Summary:
+Prec: 1. Recall: 0.5052. F1: 0.6713
+
+Try to cluster 88 papers of 'bing liu' into 6.90731541701171 clusters. Thres: 0.2
+ Use unigram to calc title simi.
+Extract concept vectors from titles:
+Concept vectors of 89 papers extracted
+venueJacThres: 0.04.
+K: 22
+20 21      
+Max similar value: 63.15. Merge clusters 2(1) and 15(1) to 23(2).
+2: [UIC]: 1
+15: [UIC]: 1
+K: 21
+19 20      
+Max similar value: 63.075. Merge clusters 18(1) and 19(1) to 24(2).
+18: [Huazhong U of Sci and Tech]: 1
+19: [Huazhong U of Sci and Tech]: 1
+K: 20
+18 19      
+Max similar value: 69.579. Merge clusters 17(1) and 24(2) to 25(3).
+17: [Huazhong U of Sci and Tech]: 1
+24: [Huazhong U of Sci and Tech]: 2
+K: 19
+17 18      
+Max similar value: 38.325. Merge clusters 13(1) and 14(1) to 26(2).
+13: [UIC]: 1
+14: [UIC]: 1
+K: 18
+16 17      
+Max similar value: 7.067. Merge clusters 1(53) and 3(7) to 27(60).
+1: [UIC]: 53
+3: [UIC]: 7
+K: 17
+15 16      
+Max similar value: 2.165. Merge clusters 27(60) and 26(2) to 28(62).
+27: [UIC]: 60
+26: [UIC]: 2
+K: 16
+14 15      
+Max similar value: 2.206. Merge clusters 28(62) and 23(2) to 29(64).
+28: [UIC]: 62
+23: [UIC]: 2
+K: 15
+13 14      
+Max similar value: 1.774. Merge clusters 29(64) and 11(1) to 30(65).
+29: [UIC]: 64
+11: [UIC]: 1
+K: 14
+12 13      
+Max similar value: 1.653. Merge clusters 30(65) and 12(1) to 31(66).
+30: [UIC]: 65
+12: [UIC]: 1
+K: 13
+11 12      
+Max similar value: 1.192. Merge clusters 31(66) and 7(1) to 32(67).
+31: [UIC]: 66
+7: [UIC]: 1
+K: 12
+10 11      
+Max similar value: 0.931. Merge clusters 32(67) and 5(2) to 33(69).
+32: [UIC]: 67
+5: [UIC]: 2
+K: 11
+9 10      
+Max similar value: 0.202. Merge clusters 20(2) and 22(3) to 34(5).
+20: [Chinese Acad of Sci]: 2
+22: [Nanyang Tech U]: 3
+K: 10
+8 9      
+Clustering stops at: 14:01:26. Used time: 0h0m5s
+Max similar value: 0.1506. Clusters 33(69) and 21(3) not merged.
+33: [UIC]: 69
+21: [Fudan U]: 3
+10 clusters. Should be 6.
+
+Summary:
+Prec: 0.9975. Recall: 0.8455. F1: 0.9152
+
+Info will be logged into 'jim smith-140032.log'.
+Open groundtruth file 'original-truth-10/jim smith-labels.txt' to process...
+19 publications of 3 authors loaded
+[University of Newcastle upon Tyne]: 11 | [U of the west England]: 6 | [Somewhere in Austrilia]: 2
+Groundtruth total pairs: 71
+
+Processing author 'jim smith', true K: 3, estimated K: 0
+Warn: 'jim smith' doesn't look like a Chinese name
+Using Jaccard simi for coauthors. Thres: 0.03 - 0.03
+Using Jaccard simi for venues. Thres: 0.04 - 0.04
+Merge pubs of 'jim smith' according to same co-authors...
+Done. Get 7 clusters
+7 clusters. Should be 3.
+
+Summary:
+Prec: 1. Recall: 0.8028. F1: 0.8906
+
+Try to cluster 19 papers of 'jim smith' into 2 clusters. Thres: 0.2
+ Use unigram to calc title simi.
+Extract concept vectors from titles:
+Concept vectors of 20 papers extracted
+venueJacThres: 0.04.
+K: 7
+5 6      
+Max similar value: 2.65. Merge clusters 1(2) and 5(1) to 8(3).
+1: [U of the west England]: 2
+5: [U of the west England]: 1
+K: 6
+4 5      
+Clustering stops at: 14:01:26. Used time: 0h0m0s
+Max similar value: 0.13702. Clusters 8(3) and 4(1) not merged.
+8: [U of the west England]: 3
+4: [U of the west England]: 1
+6 clusters. Should be 3.
+
+Summary:
+Prec: 1. Recall: 0.831. F1: 0.9077
+
+Info will be logged into 'lei wang-140032.log'.
+Open groundtruth file 'original-truth-10/lei wang-labels.txt' to process...
+55 publications of 13 authors loaded
+[Nanyang Tech U]: 16 | yin's cluster 24: 9 | [UT Dallas]: 6 | [Xi'an U of tech]: 4 | yin's cluster 28: 4 | [USC]: 2 | yin's cluster 4: 2 | [WUSTL, from Harvard]: 2 | [UNC]: 2 | [PKU]: 2 | yin's cluster 25: 2 | yin's cluster 27: 2 | [U of Cincinnati]: 2
+Groundtruth total pairs: 191
+
+Processing author 'lei wang', true K: 13, estimated K: 22.3378589567142
+Using Jaccard simi for coauthors. Thres: 0.03 - 0.03
+Using Jaccard simi for venues. Thres: 0.04 - 0.04
+Merge pubs of 'lei wang' by co-authors using Jaccard similarity, thres 0.03...
+Done. Get 18 clusters
+18 clusters. Should be 13.
+
+Summary:
+Prec: 1. Recall: 0.6702. F1: 0.8025
+
+Try to cluster 55 papers of 'lei wang' into 17 clusters. Thres: 0.446757179134284
+ Use unigram to calc title simi.
+Extract concept vectors from titles:
+Concept vectors of 56 papers extracted
+venueJacThres: 0.04.
+K: 18
+16 17      
+Max similar value: 5.209. Merge clusters 10(8) and 11(1) to 19(9).
+10: yin's cluster 24: 8
+11: yin's cluster 24: 1
+Clustering stops at: 14:01:27. Used time: 0h0m1s
+17 clusters. Should be 13.
+
+Summary:
+Prec: 1. Recall: 0.712. F1: 0.8318
+
+Info will be logged into 'wei wang-140032.log'.
+Open groundtruth file 'original-truth-10/wei wang-labels.txt' to process...
+140 publications of 14 authors loaded
+[UNC]: 56 | [Fudan]: 31 | yin's cluster 3: 19 | [SUNY Buffalo]: 5 | [NUS]: 5 | [Harbin Engineering U]: 5 | yin's cluster 4: 3 | [Zhejiang U]: 3 | [Nanjing Normal U]: 3 | [Ningbo U of Tech]: 2 | [Purdue]: 2 | [Chongqing U]: 2 | [Beijing U of Telecom]: 2 | [SUNY Binghamton]: 2
+Groundtruth total pairs: 2220
+
+Processing author 'wei wang', true K: 14, estimated K: 49.434480648367
+Using Jaccard simi for coauthors. Thres: 0.03 - 0.03
+Using Jaccard simi for venues. Thres: 0.04 - 0.04
+Merge pubs of 'wei wang' by co-authors using Jaccard similarity, thres 0.03...
+Done. Get 18 clusters
+18 clusters. Should be 14.
+
+Summary:
+Prec: 0.6048. Recall: 0.836. F1: 0.7018
+
+Try to cluster 140 papers of 'wei wang' into 17 clusters. Thres: 0.98868961296734
+ Use unigram to calc title simi.
+Extract concept vectors from titles:
+Concept vectors of 141 papers extracted
+venueJacThres: 0.04.
+K: 18
+16 17      
+Max similar value: 21.35. Merge clusters 2(1) and 3(1) to 19(2).
+2: [UNC]: 1
+3: [UNC]: 1
+Clustering stops at: 14:01:28. Used time: 0h0m1s
+17 clusters. Should be 14.
+
+Summary:
+Prec: 0.6049. Recall: 0.8365. F1: 0.7021
+
+Info will be logged into 'bin yu-140032.log'.
+Open groundtruth file 'original-truth-10/bin yu-labels.txt' to process...
+44 publications of 5 authors loaded
+yin's cluster 0: 16 | [postdoc at CMU, PhD from NCSU]: 13 | [MSU]: 7 | [CS UIUC]: 6 | [Dalian U of Tech]: 2
+Groundtruth total pairs: 235
+
+Processing author 'bin yu', true K: 5, estimated K: 8.7
+Using Jaccard simi for coauthors. Thres: 0.03 - 0.03
+Using Jaccard simi for venues. Thres: 0.04 - 0.04
+Merge pubs of 'bin yu' by co-authors using Jaccard similarity, thres 0.03...
+Done. Get 14 clusters
+14 clusters. Should be 5.
+
+Summary:
+Prec: 1. Recall: 0.5234. F1: 0.6872
+
+Try to cluster 44 papers of 'bin yu' into 8.7 clusters. Thres: 0.2
+ Use unigram to calc title simi.
+Extract concept vectors from titles:
+Concept vectors of 45 papers extracted
+venueJacThres: 0.04.
+K: 14
+12 13      
+Max similar value: 25.731. Merge clusters 1(6) and 5(1) to 15(7).
+1: yin's cluster 0: 6
+5: yin's cluster 0: 1
+K: 13
+11 12      
+Max similar value: 15.067. Merge clusters 15(7) and 2(2) to 16(9).
+15: yin's cluster 0: 7
+2: yin's cluster 0: 2
+K: 12
+10 11      
+Max similar value: 13.927. Merge clusters 3(3) and 7(1) to 17(4).
+3: yin's cluster 0: 3
+7: yin's cluster 0: 1
+K: 11
+9 10      
+Max similar value: 2.395. Merge clusters 16(9) and 10(6) to 18(15).
+16: yin's cluster 0: 9
+10: [MSU]: 6
+K: 10
+8 9      
+Max similar value: 0.471. Merge clusters 18(15) and 11(1) to 19(16).
+18: yin's cluster 0: 9   [MSU]: 6
+11: [MSU]: 1
+K: 9
+7 8      
+Clustering stops at: 14:01:29. Used time: 0h0m1s
+Max similar value: 0.19061. Clusters 19(16) and 6(1) not merged.
+19: yin's cluster 0: 9   [MSU]: 7
+6: yin's cluster 0: 1
+9 clusters. Should be 5.
+
+Summary:
+Prec: 0.707. Recall: 0.6468. F1: 0.6756
+
+
+10 names are clustered
+
+Average:
+
+                    Precision	Recall	F1
+Coauthor 0.03		0.960	0.708	0.787	
+
+Title,Venue 0.04		0.882	0.828	0.841	
+
+'morpha' called 1 times
+'morpha' killed
+
+Exit at 14:01:29, 57 secs elapsed
+shaohua@lsh:~/namedis$ 
