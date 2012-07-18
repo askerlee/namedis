@@ -10,6 +10,6 @@ Given two sets of categorical data, previous methods of name disambiguation use 
 
 We evaluate our system on two test sets extracted from the January 2011 dump of DBLP. Experiments show that our method significantly outperform one baseline method (by 4-5%), a representative previous method DISTINCT (by 5-6%) and a well-known system Arnetminer (http://arnetminer.org) (by 6-19%) in terms of macro-average F1 scores.
 
-The whole system is implemented in Perl. It has totally around 20,000 lines of code. The complete set of source code, as well as the labeled data (All publications of 15 names. 5 are used as development set, 10 are used as test set) are here.
+The whole system is implemented in Perl. It has totally around 20,000 lines of code. The complete set of source code, as well as the labeled data (All publications of 15 names. 5 are used as development set, 10 are used as test set) are freely downloadable here.
 
-The paper titled Author Name Disambiguation using a Categorical Distribution Similarity has been accepted by ECML-PKDD 2012.
+The paper titled "Author Name Disambiguation using a Categorical Distribution Similarity" has been accepted by ECML/PKDD 2012.
