@@ -1,0 +1,30 @@
+Jim Smith
+52696
+
+Cluster 0, 6 tuples (U of the west England)
+terence c. fogarty, jim smith,    "conf/ppsn/smithf96"   ppsn, 1996
+jim smith, frank vavak,    "conf/foga/smithv98"   foga, 1999
+robert e. smith, jim smith,    "conf/foga/smiths98"   foga, 1999
+jim smith, terence c. fogarty,    "conf/aisb/smithf96"   evolutionary computing, aisb workshop, 1996
+jim smith, terence c. fogarty,    "conf/aisb/smithf95"   evolutionary computing, aisb workshop, 1995
+jim smith, terence c. fogarty,    "journals/soco/smithf97"   soft comput., 1997
+jim smith, steve cayzer, tim kovacs, james a. r. marshall,    "conf/icaris/cayzersmk05"   dexa workshops, 2005
+jim smith,    "conf/ppsn/smith02"   ppsn, 2002
+
+Cluster 1, 11 tuples (University of Newcastle upon Tyne)
+sandra de f. mendes sampaio, jim smith, norman w. paton, paul watson,    "conf/europar/sampaiospw01"   euro-par, 2001
+jim smith, paul watson, sandra de f. mendes sampaio, norman w. paton,    "conf/europar/smithwsp02"   euro-par, 2002
+jim smith, paul watson,    "conf/ideas/smithw05"   ideas, 2005
+paul watson, jim smith, norman w. paton, sandra de f. mendes sampaio,    "conf/dexaw/sampaiospw01"   dexa workshops, 2001
+sandra de f. mendes sampaio, jim smith, paul watson, norman w. paton,    "conf/dexaw/sampaiopws99"   dexa workshop, 1999
+sandra de f. mendes sampaio, norman w. paton, paul watson, jim smith,    "conf/oois/sampaiopsw02"   oois, 2002
+anastasios gounaris, paul watson, norman w. paton, rizos sakellariou, jim smith, alvaro a. a. fernandes,    "conf/grid/smithgwpfs02"   grid, 2002
+jim smith, sandra de f. mendes sampaio, norman w. paton, paul watson,    "conf/cikm/smithwsp00"   cikm, 2000
+jim smith, norman w. paton, alvaro a. a. fernandes, paul watson, rizos sakellariou, anastasios gounaris,    "conf/dmg/gounarisspsfw05"   dmg, 2005
+jim smith, paul watson, norman w. paton, sandra de f. mendes sampaio,    "journals/dpd/smithswp04"   distributed and parallel databases, 2004
+m. nedim alpdemir, norman w. paton, jim smith, arijit mukherjee, paul watson, alvaro a. a. fernandes, anastasios gounaris,    "conf/icsoc/alpdemirmpwfgs03"   icsoc, 2003
+
+Cluster 3, 2 tuples (Somewhere in Austrilia)
+purnendu mandal, peter e. d. love, zahir irani, jim smith,    "conf/icstm/lovemsitf00"   icstm, 2000
+peter e. d. love, jim smith,    "conf/icstm/smithlw00"   icstm, 2000
+

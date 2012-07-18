@@ -1,0 +1,158 @@
+
+
+
+Cluster 0, 85 tuples (CS, Berkeley)
+alexander aiken, jennifer widom, joseph hellerstein,    "conf/sigmod/aikenwh92"   SIGMOD Conference, 1992
+hamid pirahesh, joseph hellerstein, waqar hasan,    "conf/sigmod/piraheshhh92"   SIGMOD Conference, 1992
+joseph hellerstein, michael stonebraker,    "conf/sigmod/hellersteins93"   SIGMOD Conference, 1993
+joseph hellerstein, jeffrey f. naughton, avi pfeffer,    "conf/vldb/hellersteinnp95"   VLDB, 1995
+alexander aiken, joseph hellerstein, jennifer widom,    "journals/tods/aikenhw95"   ACM Trans. Database Syst., 1995
+praveen seshadri, joseph hellerstein, hamid pirahesh, t. y. cliff leung, raghu ramakrishnan, divesh srivastava, peter j. stuckey, s. sudarshan,    "conf/sigmod/seshadrihplrsss96"   SIGMOD Conference, 1996
+joseph hellerstein, jeffrey f. naughton,    "conf/sigmod/hellersteinn96"   SIGMOD Conference, 1996
+marcel kornacker, c. mohan, joseph hellerstein,    "conf/sigmod/kornackermh97"   SIGMOD Conference, 1997
+andrea c. arpaci-dusseau, remzi h. arpaci-dusseau, david e. culler, joseph hellerstein, david a. patterson,    "conf/sigmod/arpaci-dusseauachp97"   SIGMOD Conference, 1997
+joseph hellerstein, peter j. haas, helen j. wang,    "conf/sigmod/hellersteinhw97"   SIGMOD Conference, 1997
+daniel barbara, william dumouchel, christos faloutsos, peter j. haas, joseph hellerstein, yannis e. ioannidis, h. v. jagadish, theodore johnson, raymond t. ng, viswanath poosala, kenneth a. ross, kenneth c. sevcik,    "journals/debu/barbaradfhhijjnprs97"   IEEE Data Eng. Bull., 1997
+chris olston, michael stonebraker, alexander aiken, joseph hellerstein,    "conf/vl/olstonsah98"   VL, 1998
+ron avnur, joseph hellerstein, bruce lo, chris olston, bhaskaran raman, vijayshankar raman, tali roth, kirk wylie,    "conf/sigmod/avnurhlorrrw98"   SIGMOD Conference, 1998
+marcel kornacker, mehul a. shah, joseph hellerstein,    "conf/sigmod/kornackersh98"   SIGMOD Conference, 1998
+remzi h. arpaci-dusseau, andrea c. arpaci-dusseau, david e. culler, joseph hellerstein, david a. patterson,    "conf/hpca/arpaci-dusseauachp98"   HPCA, 1998
+philip a. bernstein, michael l. brodie, stefano ceri, david j. dewitt, michael j. franklin, hector garcia-molina, jim gray, gerald held, joseph hellerstein, h. v. jagadish, michael lesk, david maier, jeffrey f. naughton, hamid pirahesh, michael stonebraker, jeffrey d. ullman,    "journals/corr/cs-db-9811013"   CoRR, 1998
+philip a. bernstein, michael l. brodie, stefano ceri, david j. dewitt, michael j. franklin, hector garcia-molina, jim gray, gerald held, joseph hellerstein, h. v. jagadish, michael lesk, david maier, jeffrey f. naughton, hamid pirahesh, michael stonebraker, jeffrey d. ullman,    "journals/sigmod/bernsteinbcdfgghhjlmnpsu98"   SIGMOD Record, 1998
+kimberly keeton, david a. patterson, joseph hellerstein,    "journals/sigmod/keetonph98"   SIGMOD Record, 1998
+remzi h. arpaci-dusseau, eric anderson, noah treuhaft, david e. culler, joseph hellerstein, david a. patterson, katherine a. yelick,    "conf/iopads/arpaci-dusseauatchpy99"   IOPADS, 1999
+vijayshankar raman, bhaskaran raman, joseph hellerstein,    "conf/vldb/ramanrh99"   VLDB, 1999
+joseph hellerstein, ron avnur, andy chou, christian hidber, chris olston, vijayshankar raman, tali roth, peter j. haas,    "journals/computer/hellersteinachorrh99"   IEEE Computer, 1999
+peter j. haas, joseph hellerstein,    "conf/sigmod/haash99"   SIGMOD Conference, 1999
+joseph hellerstein, michael stonebraker, rick caccia,    "journals/debu/hellersteinsc99"   IEEE Data Eng. Bull., 1999
+ron avnur, joseph hellerstein,    "conf/sigmod/hellersteina00"   SIGMOD Conference, 2000
+steven d. gribble, eric a. brewer, joseph hellerstein, david e. culler,    "conf/osdi/gribblebhc00"   OSDI, 2000
+joseph hellerstein, ron avnur, vijayshankar raman,    "journals/datamine/hellersteinar00"   Data Min. Knowl. Discov., 2000
+joseph hellerstein, michael j. franklin, sirish chandrasekaran, amol deshpande, kris hildrum, samuel madden, vijayshankar raman, mehul a. shah,    "journals/debu/hellersteinfcdhmrs00"   IEEE Data Eng. Bull., 2000
+vijayshankar raman, bhaskaran raman, joseph hellerstein,    "journals/vldb/ramanrh00"   VLDB J., 2000
+michael stonebraker, joseph hellerstein,    "conf/sigmod/stonebrakerh01"   SIGMOD Conference, 2001
+vijayshankar raman, joseph hellerstein,    "conf/vldb/ramanh01"   VLDB, 2001
+peter j. haas, joseph hellerstein,    "conf/sigmod/haash01"   SIGMOD Conference, 2001
+mehul a. shah, samuel madden, michael j. franklin, joseph hellerstein,    "journals/sigmod/shahmfh01"   SIGMOD Record, 2001
+amol deshpande, joseph hellerstein,    "conf/icde/deshpandeh02"   ICDE, 2002
+matthew harren, joseph hellerstein, ryan huebsch, boon thau loo, scott shenker, ion stoica,    "conf/iptps/harrenhhlss02"   IPTPS, 2002
+samuel madden, michael j. franklin, joseph hellerstein, wei hong,    "conf/osdi/maddenfhh02"   OSDI, 2002
+joseph hellerstein, jennifer widom,    "conf/sigmod/hellersteinw02"   SIGMOD Conference, 2002
+samuel madden, joseph hellerstein,    "conf/sigmod/maddenh02"   SIGMOD Conference, 2002
+samuel madden, mehul a. shah, joseph hellerstein, vijayshankar raman,    "conf/sigmod/maddenshr02"   SIGMOD Conference, 2002
+vijayshankar raman, joseph hellerstein,    "conf/sigmod/ramanh02"   SIGMOD Conference, 2002
+vijayshankar raman, amol deshpande, joseph hellerstein,    "conf/icde/ramandh03"   ICDE, 2003
+mehul a. shah, joseph hellerstein, sirish chandrasekaran, michael j. franklin,    "conf/icde/shahhcf03"   ICDE, 2003
+joseph hellerstein, wei hong, samuel madden, kyle stanek,    "conf/ipsn/hellersteinhms03"   IPSN, 2003
+jinyang li, boon thau loo, joseph hellerstein, m. frans kaashoek, david r. karger, robert morris,    "conf/iptps/lilhkkm03"   IPTPS, 2003
+sirish chandrasekaran, owen cooper, amol deshpande, michael j. franklin, joseph hellerstein, wei hong, sailesh krishnamurthy, samuel madden, frederick reiss, mehul a. shah,    "conf/sigmod/chandrasekarancdfhhkmrs03"   SIGMOD Conference, 2003
+samuel madden, michael j. franklin, joseph hellerstein, wei hong,    "conf/sigmod/maddenfhh03"   SIGMOD Conference, 2003
+ryan huebsch, joseph hellerstein, nick lanham, boon thau loo, scott shenker, ion stoica,    "conf/vldb/huebschhllss03"   VLDB, 2003
+serge abiteboul, rakesh agrawal, philip a. bernstein, michael j. carey, stefano ceri, w. bruce croft, david j. dewitt, michael j. franklin, hector garcia-molina, dieter gawlick, jim gray, laura m. haas, alon y. halevy, joseph hellerstein, yannis e. ioannidis, martin l. kersten, michael j. pazzani, michael lesk, david maier, jeffrey f. naughton, hans-jorg schek, timos k. sellis, avi silberschatz, michael stonebraker, richard t. snodgrass, jeffrey d. ullman, gerhard weikum, jennifer widom, stanley b. zdonik,    "journals/corr/cs-db-0310006"   CoRR, 2003
+marcel kornacker, mehul a. shah, joseph hellerstein,    "journals/debu/kornackersh03"   IEEE Data Eng. Bull., 2003
+sailesh krishnamurthy, sirish chandrasekaran, owen cooper, amol deshpande, michael j. franklin, joseph hellerstein, wei hong, samuel madden, frederick reiss, mehul a. shah,    "journals/debu/krishnamurthyccdfhhmrs03"   IEEE Data Eng. Bull., 2003
+joseph hellerstein, wei hong, samuel madden,    "journals/sigmod/hellersteinhm03"   SIGMOD Record, 2003
+boon thau loo, ryan huebsch, ion stoica, joseph hellerstein,    "conf/iptps/loohsh04"   IPTPS, 2004
+sriram ramabhadran, sylvia ratnasamy, joseph hellerstein, scott shenker,    "conf/podc/ramabhadranrhs04"   PODC, 2004
+brent n. chun, joseph hellerstein, ryan huebsch, shawn r. jeffery, boon thau loo, sam mardanbeigi, timothy roscoe, sean c. rhea, scott shenker, ion stoica,    "conf/sigmod/chunrhhjlmrss04"   SIGMOD Conference, 2004
+mehul a. shah, joseph hellerstein, eric a. brewer,    "conf/sigmod/shahhb04"   SIGMOD Conference, 2004
+amol deshpande, joseph hellerstein,    "conf/vldb/deshpandeh04"   VLDB, 2004
+amol deshpande, carlos guestrin, samuel madden, joseph hellerstein, wei hong,    "conf/vldb/deshpandegmhh04"   VLDB, 2004
+sailesh krishnamurthy, michael j. franklin, joseph hellerstein, garrett jacobson,    "conf/vldb/krishnamurthyfhj04"   VLDB, 2004
+boon thau loo, joseph hellerstein, ryan huebsch, scott shenker, ion stoica,    "conf/vldb/loohhss04"   VLDB, 2004
+johannes gehrke, joseph hellerstein,    "journals/vldb/gehrkeh04"   VLDB J., 2004
+frederick reiss, joseph hellerstein,    "conf/icde/reissh05"   ICDE, 2005
+yatin chawathe, sriram ramabhadran, sylvia ratnasamy, anthony lamarca, scott shenker, joseph hellerstein,    "conf/sigcomm/chawatherrlsh05"   SIGCOMM, 2005
+boon thau loo, joseph hellerstein, ion stoica, raghu ramakrishnan,    "conf/sigcomm/loohsr05"   SIGCOMM, 2005
+wei xu, joseph hellerstein, bill kramer, david a. patterson,    "conf/dsom/xuhkp05"   DSOM, 2005
+boon thau loo, tyson condie, joseph hellerstein, petros maniatis, timothy roscoe, ion stoica,    "conf/sosp/loochmrs05"   SOSP, 2005
+serge abiteboul, rakesh agrawal, philip a. bernstein, michael j. carey, stefano ceri, w. bruce croft, david j. dewitt, michael j. franklin, hector garcia-molina, dieter gawlick, jim gray, laura m. haas, alon y. halevy, joseph hellerstein, yannis e. ioannidis, martin l. kersten, michael j. pazzani, michael lesk, david maier, jeffrey f. naughton, hans-jorg schek, timos k. sellis, avi silberschatz, michael stonebraker, richard t. snodgrass, jeffrey d. ullman, gerhard weikum, jennifer widom, stanley b. zdonik,    "journals/cacm/abiteboulabcccdfggghhhikplmnsssssuwwz05"   Commun. ACM, 2005
+joseph hellerstein, vern paxson, larry l. peterson, timothy roscoe, scott shenker, david wetherall,    "journals/debu/hellersteinpprsw05"   IEEE Data Eng. Bull., 2005
+david j. dewitt, michael j. carey, joseph hellerstein,    "journals/sigmod/dewittch05"   SIGMOD Record, 2005
+yvonne coady, russ cox, john detreville, peter druschel, joseph hellerstein, andrew hume, kimberly keeton, thu nguyen, christopher small, lex stein, andrew warfield,    "conf/hotos/coadycddhhknssw05"   HotOS, 2005
+samuel madden, michael j. franklin, joseph hellerstein, wei hong,    "journals/tods/maddenfhh05"   ACM Trans. Database Syst., 2005
+amol deshpande, carlos guestrin, samuel madden, joseph hellerstein, wei hong,    "journals/vldb/deshpandegmhh05"   VLDB J., 2005
+chad carson, megan thomas, serge belongie, joseph hellerstein, jitendra malik,    "conf/visual/carsontbhm99"   VISUAL, 1999
+megan thomas, chad carson, joseph hellerstein,    "conf/icde/thomasch00"   ICDE, 2000
+megan thomas, joseph hellerstein,    "conf/dexa/thomash02"   DEXA, 2002
+joseph hellerstein, elias koutsoupias, christos h. papadimitriou,    "conf/pods/hellersteinkp97"   PODS, 1997
+joseph hellerstein, elias koutsoupias, daniel p. miranker, christos h. papadimitriou, vasilis samoladas,    "journals/jacm/hellersteinkmps02"   J. ACM, 2002
+joseph hellerstein, lisa hellerstein, george kollios,    "conf/icdt/hellersteinhk99"   ICDT, 1999
+joseph hellerstein,    "conf/ngits/hellerstein97"   NGITS, 1997
+joseph hellerstein,    "conf/sigmod/hellerstein00"   SIGMOD Conference, 2000
+joseph hellerstein,    "conf/sigmod/hellerstein94"   SIGMOD Conference, 1994
+sara mcmains, joseph hellerstein, carlo h. sequin,    "conf/sma/mcmainshs01"   Symposium on Solid Modeling and Applications, 2001
+joseph hellerstein,    "conf/vldb/hellerstein04"   VLDB, 2004
+joseph hellerstein,    "journals/debu/hellerstein97"   IEEE Data Eng. Bull., 1997
+anastassia ailamaki, joseph hellerstein,    "journals/sigmod/ailamakih03"   SIGMOD Record, 2003
+joseph hellerstein,    "journals/sigmod/hellerstein03"   SIGMOD Record, 2003
+joseph hellerstein,    "journals/tods/hellerstein98"   ACM Trans. Database Syst., 1998
+
+Cluster 1, 66 tuples (Google, Inc [was in IBM T. J. Watson Research Center])
+joseph hellerstein, t. s. jayram, irina rish,    "conf/aaai/hellersteinjr00"   AAAI/IAAI, 2000
+joseph hellerstein, t. s. jayram, mark s. squillante,    "conf/mascots/hellersteinjs00"   MASCOTS, 2000
+joseph hellerstein, neha gandhi, sujay s. parekh,    "conf/cmg/hellersteingp01"   Int. CMG Conference, 2001
+sujay s. parekh, neha gandhi, joseph hellerstein, dawn m. tilbury, t. s. jayram, joseph p. bigus,    "journals/rts/parekhghtjb02"   Real-Time Systems, 2002
+yixin diao, joseph hellerstein, sujay s. parekh,    "conf/dsom/diaohp02"   DSOM, 2002
+yixin diao, neha gandhi, joseph hellerstein, sujav parekh, dawn m. tilbury,    "conf/noms/diaoghpt02"   NOMS, 2002
+alexander keller, gautam kar, heiko ludwig, asit dan, joseph hellerstein,    "conf/noms/kellerkldh02"   NOMS, 2002
+yixin diao, joseph hellerstein, sujay s. parekh,    "journals/ibmsj/diaohp02"   IBM Systems Journal, 2002
+yixin diao, frank eskesen, steve froehlich, joseph hellerstein, lisa spainhower, maheswaran surendra,    "conf/dsom/diaoefhss03"   DSOM, 2003
+sujay s. parekh, kevin rose, joseph hellerstein, sam lightstone, matthew huras, victor chang,    "conf/dsom/parekhrhlhc03"   DSOM, 2003
+ed lassettre, david w. coleman, yixin diao, steve froehlich, joseph hellerstein, lawrence s. hsiung, todd w. mummert, mukund raghavachari, geoffrey parker, lance russell, maheswaran surendra, veronica tseng, noshir wadia, pery ye,    "conf/dsom/lassettrecdfhhmrprstwy03"   DSOM, 2003
+yixin diao, frank eskesen, steve froehlich, joseph hellerstein, alexander keller, lisa spainhower, maheswaran surendra,    "conf/im/diaoefhkss03"   Integrated Network Management, 2003
+xue liu, lui sha, yixin diao, steve froehlich, joseph hellerstein, sujay s. parekh,    "conf/iwqos/liusdfhp03"   IWQoS, 2003
+yixin diao, joseph hellerstein, sujay s. parekh, joseph p. bigus,    "journals/ibmsj/diaohpb03"   IBM Systems Journal, 2003
+aaron b. brown, joseph hellerstein,    "conf/sigopse/brownh04"   ACM SIGOPS European Workshop, 2004
+alexander keller, joseph hellerstein, joel l. wolf, kun-lung wu, vijaya krishnan,    "conf/noms/kellerhwwk04"   NOMS, 2004
+yixin diao, joseph hellerstein, sujay s. parekh, rean griffith, gail e. kaiser, dan b. phung,    "conf/ecbs/diaohpgkp05"   ECBS, 2005
+aaron b. brown, joseph hellerstein,    "conf/hotos/brownh05"   HotOS, 2005
+aaron b. brown, alexander keller, joseph hellerstein,    "conf/im/brownkh05"   Integrated Network Management, 2005
+joseph hellerstein, kaan katircioglu, maheswaran surendra,    "conf/im/hellersteinks05"   Integrated Network Management, 2005
+yixin diao, joseph hellerstein, sujay s. parekh, rean griffith, gail e. kaiser, dan b. phung,    "journals/jsac/diaohpgkp05"   IEEE Journal on Selected Areas in Communications, 2005
+joseph hellerstein, kaan katircioglu, maheswaran surendra,    "journals/jsac/hellersteinks05"   IEEE Journal on Selected Areas in Communications, 2005
+sheng ma, joseph hellerstein,    "conf/dsom/mah99"   DSOM, 1999
+joseph hellerstein, sheng ma,    "conf/cmg/hellersteinm00"   Int. CMG Conference, 2000
+david j. taylor, nagui halim, joseph hellerstein, sheng ma,    "conf/dsom/taylorhhm00"   DSOM, 2000
+sheng ma, joseph hellerstein,    "conf/icde/mah01"   ICDE, 2001
+sheng ma, joseph hellerstein,    "conf/icdm/mah01"   ICDM, 2001
+chang-shing perng, haixun wang, sheng ma, joseph hellerstein,    "conf/icdm/perngwmh01"   ICDM, 2001
+sheng ma, joseph hellerstein, chang-shing perng, genady grabarnik,    "conf/icdm/mahpg02"   ICDM, 2002
+chang-shing perng, haixun wang, sheng ma, joseph hellerstein,    "conf/icdm/perngwmh02"   ICDM, 2002
+feng liang, sheng ma, joseph hellerstein,    "conf/sdm/liangmh02"   SDM, 2002
+joseph hellerstein, sheng ma, chang-shing perng,    "journals/ibmsj/hellersteinmp02"   IBM Systems Journal, 2002
+ricardo vilalta, chidanand apte, joseph hellerstein, sheng ma, sholom m. weiss,    "journals/ibmsj/vilaltaahmw02"   IBM Systems Journal, 2002
+chang-shing perng, haixun wang, sheng ma, joseph hellerstein,    "journals/sigkdd/perngwmh02"   SIGKDD Explorations, 2002
+chang-shing perng, david thoenen, genady grabarnik, sheng ma, joseph hellerstein,    "conf/kdd/perngtgmh03"   KDD, 2003
+robert f. berry, joseph hellerstein,    "conf/cmg/berryh89"   Int. CMG Conference, 1989
+robert f. berry, joseph hellerstein,    "conf/cmg/berryh90"   Int. CMG Conference, 1990
+robert f. berry, joseph hellerstein, paul van leer,    "conf/cmg/berryhl91"   Int. CMG Conference, 1991
+joseph hellerstein, paul van leer, robert f. berry,    "conf/cmg/hellersteinlb91"   Int. CMG Conference, 1991
+robert f. berry, joseph hellerstein,    "conf/sigmetrics/berryh91"   SIGMETRICS, 1991
+robert f. berry, joseph hellerstein,    "conf/sigmetrics/berryh92"   SIGMETRICS, 1992
+joseph hellerstein, robert f. berry,    "conf/cmg/hellersteinb97"   Int. CMG Conference, 1997
+joseph hellerstein, david a. klein, keith r. milliken,    "conf/cmg/hellersteinkm89"   Int. CMG Conference, 1989
+joseph hellerstein, fan zhang, perwez shahabuddin,    "conf/cmg/hellersteinzs98"   Int. CMG Conference, 1998
+fan zhang, joseph hellerstein,    "conf/mascots/zhangh00"   MASCOTS, 2000
+joseph hellerstein, fan zhang, perwez shahabuddin,    "journals/cn/hellersteinzs01"   Computer Networks, 2001
+joseph hellerstein, mark m. maccabee, w. nathaniel mills iii, john turek,    "conf/icdcs/hellersteinmmt99"   ICDCS, 1999
+joseph hellerstein, w. nathaniel mills iii,    "conf/cmg/hellersteinm00a"   Int. CMG Conference, 2000
+joseph hellerstein,    "conf/aaai/hellerstein90"   AAAI, 1990
+joseph hellerstein,    "conf/cmg/hellerstein92"   Int. CMG Conference, 1992
+joseph hellerstein,    "conf/cmg/hellerstein94"   Int. CMG Conference, 1994
+joseph hellerstein,    "conf/cmg/hellerstein95"   Int. CMG Conference, 1995
+joseph hellerstein,    "conf/cmg/hellerstein96"   Int. CMG Conference, 1996
+joseph hellerstein,    "conf/cmg/hellerstein97"   Int. CMG Conference, 1997
+joseph hellerstein, david hart, po yue,    "conf/cmg/hellersteinhy99"   Int. CMG Conference, 1999
+joseph hellerstein,    "conf/im/hellerstein05a"   Integrated Network Management, 2005
+joseph hellerstein,    "conf/lcn/hellerstein04"   LCN, 2004
+alan g. ganek, cristiane p. hilkner, john w. sweitzer, brent a. miller, joseph hellerstein,    "conf/nca/ganekhsmh04"   NCA, 2004
+joseph hellerstein,    "conf/sigmetrics/hellerstein89"   SIGMETRICS, 1989
+joseph hellerstein,    "conf/sigmetrics/hellerstein94"   SIGMETRICS, 1994
+joseph hellerstein,    "conf/sigmetrics/hellerstein96"   SIGMETRICS, 1996
+dongxu shen, joseph hellerstein,    "conf/noms/shenh00"   NOMS, 2000
+paul brasil, joseph hellerstein, hanan lutfiyya,    "journals/jnsm/brasilhl98"   J. Network Syst. Manage., 1998
+joseph hellerstein,    "journals/jnsm/hellerstein03"   J. Network Syst. Manage., 2003
+joseph hellerstein,    "journals/tkde/hellerstein95"   IEEE Trans. Knowl. Data Eng., 1995
+joseph hellerstein,    "journals/tse/hellerstein93"   IEEE Trans. Software Eng., 1993
+
