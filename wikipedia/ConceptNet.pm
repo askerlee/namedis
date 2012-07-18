@@ -210,7 +210,7 @@ our @EXPORT = qw(@conceptNet @revConceptNet @terms @ICs
 				calcConceptVectorSimi calcTitleSetSimi calcTermCloseness mergeNearbyTerms
 				compactConceptVector titleSetToVector emptyConceptVecSimiCache
 				dumpConceptVec dumpConceptVenueVec dumpTitleset dumpSimiTuple
-				updateYearRange removeOverlapTerms
+				updateYearRange removeOverlapTerms sharedCoauthorBoostStage2
 				
 				dfsPostorder breadthFirst dfsPreorder dfsRemoveCycle bfsExhaustAncestors
 				leastCommonSubsumer
@@ -4906,6 +4906,7 @@ sub unigramMatchTitle($$)
 
 	my (@lemmaIDs, @stopwordGapNums, @stopwordGapWeights, @words);
 	extractTitleTokens($title, \@lemmaIDs, \@stopwordGapNums, \@stopwordGapWeights);
+	@lemmaIDs = grep { $lemmaCache[$_]->[1] != STOPWORD } @lemmaIDs;
 	@words = map { $lemmaCache[$_]->[0] } @lemmaIDs;
 
 	my %matches;
@@ -5575,7 +5576,9 @@ sub dumpSimiTuple($$)
 	my $tuple = shift;
 	my $useUnigram = shift;
 	
-	my ( $maxsimi, $ICSum, $ICSumThres, $sharedVenues, $venueBoost, $sharedTermSimiSum, $sharedTerms, 
+	my ( $maxsimi, $ICSum, $ICSumThres, $sharedVenues, $venueBoost, 
+		$coauthorBoost, $strongestCoauthor, 
+		$sharedTermSimiSum, $sharedTerms, 
 		$maxDiffTermSimi, $freqSumThres, $freqThres1, $freqThres2, $freqThres, 
 		$lcs, $lcsSimi, $attenuation, $leastDepth, 
 		$concept1, $w1, $concept2, $w2, $yearDiff ) = @$tuple;
@@ -5616,8 +5619,12 @@ sub dumpSimiTuple($$)
 		print $LOG "\n";
 	}
 	
-	print $LOG scalar keys %$sharedVenues, " shared venues, boost: $venueBoost. ", 
+	print $LOG scalar keys %$sharedVenues, " shared venues, venue boost: $venueBoost. ", 
 				dumpSortedHash($sharedVenues, undef, undef), "\n";
+				
+	if( $coauthorBoost > 1 ){
+		print $LOG "Coauthor boost: $coauthorBoost, by '$strongestCoauthor'\n";
+	}
 }
 
 sub calcTermCloseness($$$)
@@ -5809,7 +5816,7 @@ sub calcConceptVectorSimi($$$$$$$)
 {
 	# $no1 & $no2 are concept vec UID (unique in one clustering trial)
 	# cv_vv*: [ concept vector, venue vector ]
-	# cluster*: paper numbers in this cluster. 
+	# $cluster1(2): ref to an array of paper numbers in this cluster
 	# paper titles, etc. can be retrieved in $context->{pubset} using this number
 	my ($context, $no1, $cv_vv1, $cluster1, $no2, $cv_vv2, $cluster2) = @_;
 
@@ -6081,18 +6088,22 @@ sub calcConceptVectorSimi($$$$$$$)
 				$maxsimi = $emptyConceptVecSimiPrior;
 			}
 		}
-		$maxsimi *= $venueBoost;
+		
+		my ($coauthorBoost, $strongestCoauthor) = sharedCoauthorBoostStage2($context, $cluster1, $cluster2);
+		
+		$maxsimi *= $venueBoost * $coauthorBoost;
 				
-		unshift @closestTuple, ($maxsimi, $ICSum, $ICSumThres, \%sharedVenues, $venueBoost, 
+		unshift @closestTuple, ( $maxsimi, $ICSum, $ICSumThres, \%sharedVenues, $venueBoost, 
+									$coauthorBoost, $strongestCoauthor, 
 									$sharedTermSimiSum, \@sharedTerms, $maxDiffTermSimi,
-									$freqSumThres, $freqThres1, $freqThres2, $freqThres);
+									$freqSumThres, $freqThres1, $freqThres2, $freqThres );
 									
 		$ConceptVecSimiCache{$uuid} = [ @closestTuple ];
 	}
 			# place holder. $_ is useless anyway
 #	($maxsimi, $_, $_, $sharedTermSimiSum, $_, $maxDiffTermSimi, $lcs, $lcsSimi, $attenuation, 
 #			$leastDepth, $concept1, $w1, $concept2, $w2, $yearDiff) = @closestTuple;
-
+	
 	if($DEBUG & DBG_CALC_SIMI){
 		print $LOG "Vec $no1 $no2: simi = $maxsimi\n";
 
@@ -6285,12 +6296,65 @@ sub calcTitleSetSimi($$$$$)
 
 	my ($conceptVec1, $conceptVec2);
 
+	# $conceptVec1(2) contains its venue vector
 	$conceptVec1 = titleSetToVector($context, $c1, 1);
-	$conceptVec2 = titleSetToVector($context, $c1, 2);
+	$conceptVec2 = titleSetToVector($context, $c2, 2);
 
+	# similarity of titles and venues combined
 	my $simi = calcConceptVectorSimi( $ancestorTree, $no1, $conceptVec1, $c1, $no2, $conceptVec2, $c2 );
-
+	
 	return $simi;
+}
+
+sub sharedCoauthorBoostStage2($$$)
+{
+	my ($context, $c1, $c2) = @_;
+	
+	# we assume a non-Chinese $focusName won't suffer from the ambiguity caused by a coauthor
+	# collaborating with more than one author having $focusName. 
+	# So in stage 2, two clusters won't share any coauthor, no need for a further check
+	my $focusName = $context->{focusName};
+	if( ! exists $chnNameAmbig{$focusName} ){
+		return (1, undef);
+	}
+	
+	my $title_Coauthors = $context->{title_Coauthors};
+	
+	my $coauthorsHash1 = unionArrayToHashRef( @$title_Coauthors[@$c1] );
+	my $coauthorsHash2 = unionArrayToHashRef( @$title_Coauthors[@$c2] );
+	delete $coauthorsHash1->{$focusName};
+	delete $coauthorsHash2->{$focusName};
+	my @sharedCoauthors = intersectHash( $coauthorsHash1, $coauthorsHash2 );
+
+	# two clusters don't share any coauthor
+	if( @sharedCoauthors == 0 ){
+		return (1, undef);
+	}
+	
+	my $authorAmbig = overestimateAmbig($focusName);
+	
+	my $maxEvidenceBoost = 1;
+	my $strongestCoauthorName;
+	my $coauthorName;
+	my $coauthorAmbig;
+	my ( $evidenceBoost1, $evidenceBoost2 );
+	for $coauthorName(@sharedCoauthors){
+		$evidenceBoost1 = $ambigSumTotal / ( $cnCoauthorCount{$coauthorName} + 1 ) / $authorAmbig;
+		$coauthorAmbig = overestimateAmbig($coauthorName);
+		if( $coauthorAmbig > 0 ){
+			$evidenceBoost2 = $ambigSumTotal / ( $cnCoauthorCount{$focusName} + 1 ) / $coauthorAmbig;
+			# $evidenceBoost1 is the min of the two evidence boosts
+			if( $evidenceBoost2 < $evidenceBoost1 ){
+				$evidenceBoost1 = $evidenceBoost2;
+			}
+		}
+		if( $evidenceBoost1 > $maxEvidenceBoost ){
+			$maxEvidenceBoost = $evidenceBoost1;
+			$strongestCoauthorName = $coauthorName;
+		}
+	}
+		
+	return ($maxEvidenceBoost, $strongestCoauthorName);	
 }
 
 sub cmdline

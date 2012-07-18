@@ -37,7 +37,7 @@ use constant{
 
 	# ';' separates the prog name with params, to facilitate 'open2' later
 #	MORPHA_CMDLINE => 'c:/wikipedia/morpha;-u',
-	MORPHA_CMDLINE => '/home/shaohua/morpha;-u',
+	MORPHA_CMDLINE => './morpha;-u',
 };
 
 our $KEEP_STOP_WORD_WHEN_N_NONSTOP_TOKENS = 2;
@@ -99,7 +99,7 @@ our @EXPORT = qw( openLogfile setDebug
 				  %chnNameAmbig %surnameAmbig %givennameAmbig
 				  %surnameProb %givennameProb
 				  %logSurnameProb %logGivennameProb
-				  %cnCoauthorCount
+				  %cnCoauthorCount $ambigSumTotal
 				  $USE_CSLR_VERSION $CSLR_VENUE_UNSEEN_REDUCTION_FRAC $CSLR_COAUTHOR_UNSEEN_REDUCTION_FRAC
 				  $CAT_PRIOR
 				 );
@@ -223,7 +223,7 @@ our %logSurnameProb;
 our %logGivennameProb;
 
 our $chnNameAmbigLoaded = 0;
-our $coauthorsLoaded = 0;
+our $coauthorStatLoaded = 0;
 
 our %cnCoauthorCount;
 our %name2coauthors;
@@ -497,6 +497,7 @@ sub makeProgresser
 			return
 			sub
 			{
+				# &$progresser(1); print with newline, finalize the progresser()
 				if($_[0]){
 					print STDERR "\r$$indicator    \n";
 					return;
@@ -518,6 +519,7 @@ sub makeProgresser
 			return
 			sub
 			{
+				# &$progresser(1); print with newline, finalize the progresser()
 				if($_[0]){
 					print STDERR "\r", join(" ", map { $$_ } @varrefs), "    \n";
 					return;
@@ -1259,6 +1261,7 @@ sub memsize
 
 =cut
 
+# provide $origname as the template, and return a new name if $origname is used by a file
 sub getAvailName($)
 {
 	my $origname = shift;
@@ -1994,7 +1997,7 @@ sub loadNameCoauthors($)
 	&$progresser(1);
 	
 	print $tee "$nameCount names' coauthor stats ($coauthorSum total) loaded\n";
-	$coauthorsLoaded = 1;
+	$coauthorStatLoaded = 1;
 }
 
 sub removeStopWords
@@ -2120,6 +2123,14 @@ sub lemmatize
 					$lemma = uc($_);
 					$suffix = SUFFIX_NONE;
 				}
+				
+				# if the decapped word is a stop word, no further check is needed
+				# if not checked before lemmatize0(), "using" and "based" will become normal words
+				when( exists $stopwords{$decapWord}){
+					$lemma = $decapWord;
+					$suffix = STOPWORD;
+				}
+				
 				default{
 					$lemma = lemmatize0($decapWord);
 					# if lengths are the same, they should be just different at the case. ignorable
@@ -2141,12 +2152,7 @@ sub lemmatize
 						}
 					}
 					else{
-						if($stopwords{$lemma}){
-							$suffix = STOPWORD;
-						}
-						else{
-							$suffix = SUFFIX_NONE;
-						}
+						$suffix = SUFFIX_NONE;
 					}
 				}
 			}
@@ -2737,6 +2743,9 @@ sub unionArrayToArray
 	return keys %set;
 }
 
+# Do a union on all elements in the array refs in @_
+# Return a hash ref whose keys are the elements, 
+# and the values are the keys' frequency sum in all array elements
 sub unionArrayToHashRef
 {
 	my %set;
@@ -3704,7 +3713,7 @@ sub isSameCategorical2($$$$$$$$$)
 
 sub clusterAuthors
 {
-	die "Coauthor stat file hasn't been loaded\n" if !$coauthorsLoaded;
+	die "Coauthor stat file hasn't been loaded\n" if !$coauthorStatLoaded;
 
 	my @authors = @_;
 	
@@ -3895,7 +3904,9 @@ sub dumpPubCluster($$$$)
 sub mergeSharingCoauthor($$$)
 {
 	# $name is not used in this sub
-	my ($name, $origClusters, $title_Coauthors) = @_;
+	my ($origClusters, $title_Coauthors, $context) = @_;
+
+	my $name = $context->{focusName};
 
 	my @clusters = copyRefArray($origClusters);	# deep copy, avoid modifying $origClusters
 	my @clusterNames = map { unionArrayToHashRef( @$title_Coauthors[@$_] ) } @clusters;
@@ -3929,10 +3940,11 @@ sub mergeSharingCoauthor($$$)
 	return @clusters;
 }
 
-sub seedMergeSharingCoauthor($$$$$)
+sub seedMergeSharingCoauthor($$$$)
 {
-	my ($name, $ionClusters, $seedClusters, $title_Coauthors, $context) = @_;
+	my ($ionClusters, $seedClusters, $title_Coauthors, $context) = @_;
 
+	my $name = $context->{focusName};
 	my $pubset = $context->{pubset};
 	my $gIdentities = $context->{gIdentities};
 	
@@ -4080,10 +4092,11 @@ sub overestimateAmbig($)
 	return atLeast1( $ambig, 1 );
 }
 
+# the chance that two clusters belong to different authors if they share a coauthor $coauthorName
 sub coauthorEvidenceError($$)
 {
 	my ($authorName, $coauthorName) = @_;
-	die "Coauthor stat file hasn't been loaded\n" if !$coauthorsLoaded;
+	die "Coauthor stat file hasn't been loaded\n" if !$coauthorStatLoaded;
 	
 	if( ! exists $chnNameAmbig{$authorName} ){
 		return 0;
@@ -4091,8 +4104,8 @@ sub coauthorEvidenceError($$)
 	
 	# if ! exists $cnCoauthorCount{$coauthorName}, $authorName must be a western name.
 	# otherwise at least $authorName is $coauthorName's Chinese coauthor
-	# actually this condition should never be satisfied, cuz probMergeSharingCoauthor won't be
-	# conducted on western names
+	# actually this condition should never be satisfied, 
+	# cuz in clust.pl probMergeSharingCoauthor won't be done on a western focus name
 	# Likewise for $authorName
 	if( ! exists $cnCoauthorCount{$authorName} || ! exists $cnCoauthorCount{$coauthorName} ){
 		return 0;
@@ -4117,11 +4130,14 @@ sub coauthorEvidenceError($$)
 	# and $error2 = 0
 	$coauthorAmbig = overestimateAmbig($coauthorName);
 
+	# the error brought by the ambiguity of the coauthor. Refer to coauthorEvidenceThresToCoauthorAmbiguityThres()
 	$error2 = ( $cnCoauthorCount{$authorName} + 1 ) * $coauthorAmbig / $ambigSumTotal / 2;
 	
 	return max($error1, $error2);
 }
 
+# calc the threshold of the count of its Chinese coauthors a shared coauthor need, 
+# to be a strong coauthor w.r.t $authorName
 sub coauthorEvidenceThresToCnCountThres($$)
 {
 	my ($authorName, $errorThres) = @_;
@@ -4136,7 +4152,7 @@ sub coauthorEvidenceThresToCnCountThres($$)
 # it's the "dual" of coauthorEvidenceThresToCnCountThres()
 # test how likely $authorName chooses two coauthors with the same name
 # Rationale: different coauthors always collaborate with different namesakes
-# so the coauthor ambiguity needs to be blow certain threshold
+# so the coauthor ambiguity needs to be below certain threshold
 # it's motivated by the bad case of "tao peng" (ambiguous coauthor name "wei wang")
 sub coauthorEvidenceThresToCoauthorAmbiguityThres($$)
 {
@@ -4154,10 +4170,11 @@ sub coauthorEvidenceThresToCoauthorAmbiguityThres($$)
 	return $coauthorAmbigThres;
 }
 
-sub probMergeSharingCoauthor($$$$$$)
+sub probMergeSharingCoauthor($$$$$)
 {
-	my ($name, $origClusters, $title_Coauthors, $errorTolerance, $sameMnOddsThres, $context) = @_;
+	my ($origClusters, $title_Coauthors, $errorTolerance, $sameMnOddsThres, $context) = @_;
 
+	my $name = $context->{focusName};
 	my $pubset = $context->{pubset};
 	my $gIdentities = $context->{gIdentities};
 
@@ -4186,7 +4203,7 @@ sub probMergeSharingCoauthor($$$$$$)
 	print $tee "Evidential coauthor's Chinese coauthor count threshold: $cnCoauthorCountThres\n";
 	print $tee "Coauthor's ambiguity threshold (for the overestimated ambiguity): $coauthorAmbiguityThres\n";
 
-	# filter less-collaborateive coauthors, and remained coauthors are for likelihood ratio test
+	# filter less-collaborateive coauthors. Remained coauthors are used for likelihood ratio test
 	my $coauthorFilter = sub{ if( ! exists $cnCoauthorCount{$_[0]} ){
 								# print STDERR "Warn: '$_[0]' doesn't exist in \%cnCoauthorCount or \%chnNameAmbig\n";
 								return 1;
@@ -4324,10 +4341,11 @@ sub probMergeSharingCoauthor($$$$$$)
 	return @clusters;
 }
 
-sub jaccardMergeSharingCoauthor($$$$$)
+sub jaccardMergeSharingCoauthor($$$$)
 {
-	my ($name, $origClusters, $title_Coauthors, $simiThres, $context) = @_;
+	my ($origClusters, $title_Coauthors, $simiThres, $context) = @_;
 
+	my $name = $context->{focusName};
 	my $pubset = $context->{pubset};
 	my $gIdentities = $context->{gIdentities};
 
@@ -4370,8 +4388,8 @@ sub jaccardMergeSharingCoauthor($$$$$)
 					my $sizei = @{ $clusters[$i] };
 					my $sizej = @{ $clusters[$j] };
 					$mergeReason = "Clusters $i($sizei) & $j($sizej): simi $simi";
-					print $LOG dumpSortedHash($clusterNames[$i], undef, undef);
-					print $LOG dumpSortedHash($clusterNames[$i], undef, undef);
+					print $LOG dumpSortedHash($clusterNames[$i], undef, undef), "\n";
+					print $LOG dumpSortedHash($clusterNames[$j], undef, undef), "\n";
 				}
 			}
 			if( $mergeable ){

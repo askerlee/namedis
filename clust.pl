@@ -6,10 +6,10 @@ use List::Util qw(min max sum);
 use File::Basename;
 
 my $CLUST_THRES 				= 0.05;
-my $UNIGRAM_CLUST_THRES			= 0.1;
+my $UNIGRAM_CLUST_THRES			= 0.2;
 # 1 - \theta_p
 my $COAUTHOR_ERROR_TOLERANCE	= 0.05;
-my $COAUTHOR_SAME_MN_ODDS_THRES = 1;
+my $COAUTHOR_SAME_CAT_ODDS_THRES = 1;
 
 use constant{
 	OPTIONS 					=> 'c:a:i:1s:b:j:ud:t:p:A:v:',
@@ -161,7 +161,11 @@ if(exists $opt{'p'}){
 }
 
 my $iniAuthorName;
+# if not in batch mode, $ALLLOG is $tee
+# if in batch mode: during initialization, $ALLLOG is $tee, i.e. Tee($LOG, STDERR)
+# when clustering begins, $ALLLOG is Tee($tee, $CLUSTLOG), i.e. Tee($LOG, STDERR, $CLUSTLOG)
 my $ALLLOG;
+my $CLUSTLOG;
 
 if($iniDBFilename){
 	$iniAuthorName = basename( $iniDBFilename );
@@ -172,7 +176,8 @@ else{
 	openLogfile();
 }
 
-$ALLLOG = $LOG;
+$CLUSTLOG = $LOG;
+$ALLLOG = $tee;
 
 my $DEBUG = ConceptNet::DBG_CALC_MATCH_WEIGHT 
 							| 
@@ -283,7 +288,7 @@ elsif($groundtruthLoaded){
 	clusterAuthor( origName => $iniAuthorName, jaccardThres => $jaccardThres, useUnigram => $useUnigram );
 }
 
-print "\n";
+print STDERR "\n";
 cmdline();
 
 my $useTrueK = 0;
@@ -322,11 +327,12 @@ sub batchCluster
 {
 	my $batchFilename = shift;
 	my $BATCH;
-	print $tee "Open batch file '$batchFilename' to process...\n";
+	
+	print $ALLLOG "Open batch file '$batchFilename' to process...\n";
 	
 	open_or_die($BATCH, "< $batchFilename");
 	
-	print $tee "\n";
+	print $ALLLOG "\n";
 	
 	my $line;
 	my ($name, $clustThres, $trueK, $K);
@@ -340,17 +346,8 @@ sub batchCluster
 		trim($line);
 		next if !$line || $line =~ /^#/;
 		
-		# hui fang	8
-		($name, $trueK) = split /\t/, $line;
-
-		# don't use the human-labeled K. This is more fair
-		if(!$useTrueK){
-			($clustThres, $K) = calcKClustThres($name);
-		}
-		else{
-			$K = $trueK;
-			$clustThres = calcKClustThres( $name, $K );
-		}
+		# each line a name
+		$name = $line;
 		
 #		$clustThres = trunc(2, $clustThres);
 #		$clustThres = $CLUST_THRES;
@@ -361,11 +358,23 @@ sub batchCluster
 		
 		if( ! $jaccardThres || ! $clusterByCoauthorOnly ){
 			openLogfile($name);
+			$ALLLOG = new IO::Tee($tee, $CLUSTLOG);
 		}
 		
 		loadGroundtruth($labelFilename);
+
+		$trueK = $gIdID - 1;
 		
-		print $tee "Processing author '$name', true K: $trueK, estimated K: ", 
+		# don't use the human-labeled K. This is more fair
+		if( ! $useTrueK ){
+			($clustThres, $K) = calcKClustThres($name);
+		}
+		else{
+			$K = $trueK;
+			$clustThres = calcKClustThres( $name, $K );
+		}
+		
+		print $ALLLOG "Processing author '$name', true K: $trueK, estimated K: ", 
 						($chnNameAmbig{$name} || 0 ) * $ambiguityScale, "\n";
 		
 		clusterAuthor(origName => $name, K => $K, clustThres => $clustThres, quiet => 1,
@@ -375,7 +384,7 @@ sub batchCluster
 		$nameCount++;
 	}
 
-	print $tee "\n$nameCount names are clustered\n";
+	print $ALLLOG "\n$nameCount names are clustered\n";
 	
 	my (%perfSum1, %perfSum2);
 	my $k;
@@ -396,32 +405,32 @@ sub batchCluster
 		}
 	}
 
-	print "\nAverage:\n\n";
-	print "                    Precision\tRecall\tF1\n";
-	print "Coauthor ";
+	print $ALLLOG "\nAverage:\n\n";
+	print $ALLLOG "                    Precision\tRecall\tF1\n";
+	print $ALLLOG "Coauthor ";
 	
 	for $thres( sort { $a <=> $b } keys %perfSum1 ){
-		print $thres, "\t\t";
+		print $ALLLOG $thres, "\t\t";
 		
 		for $k( "precision", "recall", "f1" ){
-			printf "%.3f\t", $perfSum1{$thres}{$k} / $nameCount;
+			printf $ALLLOG "%.3f\t", $perfSum1{$thres}{$k} / $nameCount;
 		}
-		print "\n";
+		print $ALLLOG "\n";
 	}
 	
 	if( $clusterByCoauthorOnly ){
 		return;
 	}
 	
-	print "\nTitle,Venue ";
+	print $ALLLOG "\nTitle,Venue ";
 	
 	for $thres( sort { $a <=> $b } keys %perfSum2 ){
-		print $thres, "\t\t";
+		print $ALLLOG $thres, "\t\t";
 
 		for $k( "precision", "recall", "f1" ){
-			printf "%.3f\t", $perfSum2{$thres}{$k} / $nameCount;
+			printf $ALLLOG "%.3f\t", $perfSum2{$thres}{$k} / $nameCount;
 		}
-		print "\n";
+		print $ALLLOG "\n";
 	}
 }
 
@@ -434,7 +443,7 @@ sub loadDBLPFile
 	my $thisPublication;
 
 	my $dblpFilename = shift;
-	print $tee "Open file '$dblpFilename' to process...\n";
+	print $ALLLOG "Open file '$dblpFilename' to process...\n";
 
 	my $DB;
 	if(! open_or_warn($DB, "< $dblpFilename")){
@@ -473,8 +482,8 @@ sub loadDBLPFile
 		progress2();
 	}
 	
-	print $tee "\n";
-	print $tee scalar @gPublications - 1, " publications loaded.\n\n";
+	print $ALLLOG "\n";
+	print $ALLLOG scalar @gPublications - 1, " publications loaded.\n\n";
 }
 
 sub identity2id
@@ -492,7 +501,7 @@ sub identity2id
 sub loadGroundtruth
 {
 	my $truthFilename = shift;
-	print $tee "Open groundtruth file '$truthFilename' to process...\n";
+	print $ALLLOG "Open groundtruth file '$truthFilename' to process...\n";
 
 	my $DB;
 	if(! open_or_warn($DB, "< $truthFilename")){
@@ -532,7 +541,7 @@ sub loadGroundtruth
 		trim($line);
 		if(!$line){
 			if($readcount != $clustSize){
-				print $tee $DB->input_line_number, ": Cluster size $clustSize != $readcount (read count)\nStop reading the file.\n";
+				print $ALLLOG $DB->input_line_number, ": Cluster size $clustSize != $readcount (read count)\nStop reading the file.\n";
 				return 0;
 			}
 			$readcount = 0;
@@ -560,7 +569,7 @@ sub loadGroundtruth
 				next;
 			}
 			else{
-				print $tee "$.: Unknown cluster heading:\n$line\nStop reading the file.\n";
+				print $ALLLOG "$.: Unknown cluster heading:\n$line\nStop reading the file.\n";
 				return 0;
 			}
 		}
@@ -602,18 +611,18 @@ sub loadGroundtruth
 		}
 	}
 	
-	print $tee scalar @gPublications - 1, " publications of ", $gIdID - 1, " authors loaded\n";
+	print $ALLLOG scalar @gPublications - 1, " publications of ", $gIdID - 1, " authors loaded\n";
 	
 	my @authorIndices = sort { $gAuthorPubCount[$b] <=> $gAuthorPubCount[$a] } ( 1 .. $gIdID - 1 );
 
-	print $tee join(" | ", map { "$gIdentities[$_]: $gAuthorPubCount[$_]" } @authorIndices );
-	print $tee "\n";
+	print $ALLLOG join(" | ", map { "$gIdentities[$_]: $gAuthorPubCount[$_]" } @authorIndices );
+	print $ALLLOG "\n";
 
 	my $i;
 	for($i = 1; $i < $gIdID; $i++){
 		$groundtruthTotalPairCount += NChoose2( $gAuthorPubCount[$i] );
 	}
-	print $tee "Groundtruth total pairs: $groundtruthTotalPairCount\n\n";
+	print $ALLLOG "Groundtruth total pairs: $groundtruthTotalPairCount\n\n";
 }
 
 sub loadDistinctLabels
@@ -645,7 +654,7 @@ sub loadDistinctLabels
 		}
 	}
 	
-	print $tee scalar @seedClusterKeys, " seed clusters loaded\n";
+	print $ALLLOG scalar @seedClusterKeys, " seed clusters loaded\n";
 	return @seedClusterKeys;
 }
 
@@ -671,7 +680,7 @@ sub saveClusters($$$$$$)
 	
 	my $CLUST;
 	
-	print $tee "Clusters are saved into '$clustFilename'\n";
+	print $ALLLOG "Clusters are saved into '$clustFilename'\n";
 	open_or_die($CLUST, "> $clustFilename");
 	
 	my $CC = @$pClusters;
@@ -731,19 +740,16 @@ sub calcPerf($$$$$$;$)
 		$pub = $pubset->[$i];
 
 		if(! $pub->authorID){
-			print $tee "Author ID of publication $i is not assigned:\n";
-			dumpPub($tee, $pub);
-			print $tee "You forgot to load the groundtruth file?\n";
+			print $ALLLOG "Author ID of publication $i is not assigned:\n";
+			dumpPub($ALLLOG, $pub);
+			print $ALLLOG "You forgot to load the groundtruth file?\n";
 
 			$groundtruthLoaded = 0;
 			return 0;
 		}
 	}
 	
-	print $tee "$CC clusters. Should be ", $gIdID - 1, ".\n\n";
-	if($batchMode){
-		print $ALLLOG "$CC clusters. Should be ", $gIdID - 1, ".\n\n";
-	}
+	print $ALLLOG "$CC clusters. Should be ", $gIdID - 1, ".\n\n";
 	
 	my $c;
 	my $N;
@@ -774,13 +780,8 @@ sub calcPerf($$$$$$;$)
 		$N = @{$c};
 		$clustPairCount = NChoose2($N);
 		$actualTotalPairCount += $clustPairCount;
-		
-		if(!$batchMode){
-			print $tee "Cluster $no: $N papers, $clustPairCount pairs.\n";
-		}
-		else{
-			print $LOG "Cluster $no: $N papers, $clustPairCount pairs.\n";
-		}
+
+		print $ALLLOG "Cluster $no: $N papers, $clustPairCount pairs.\n";
 		
 		@clustAuthorPubCount = $gIdID x (0);
 		
@@ -792,14 +793,8 @@ sub calcPerf($$$$$$;$)
 		my @authorIndices = sort { $clustAuthorPubCount[$b] <=> $clustAuthorPubCount[$a] }
 								grep { defined( $clustAuthorPubCount[$_] ) } ( 1 .. $gIdID - 1 );
 
-		if(!$batchMode){
-			print $tee join(" | ", map { "$gIdentities[$_]: $clustAuthorPubCount[$_]" } @authorIndices );
-			print $tee "\n";
-		}
-		else{
-			print $LOG join(" | ", map { "$gIdentities[$_]: $clustAuthorPubCount[$_]" } @authorIndices );
-			print $LOG "\n";
-		}
+		print $ALLLOG join(" | ", map { "$gIdentities[$_]: $clustAuthorPubCount[$_]" } @authorIndices );
+		print $ALLLOG "\n";
 		
 		$clustRightPairCount = 0;
 		$clustWrongPairCount = 0;
@@ -817,14 +812,8 @@ sub calcPerf($$$$$$;$)
 			die;
 		}
 
-		if(!$batchMode){
-			print $tee "$clustRightPairCount right pairs, $clustWrongPairCount wrong\n";
-			print $tee "\n";
-		}
-		else{
-			print $LOG "$clustRightPairCount right pairs, $clustWrongPairCount wrong\n";
-			print $LOG "\n";
-		}
+		print $ALLLOG "$clustRightPairCount right pairs, $clustWrongPairCount wrong\n";
+		print $ALLLOG "\n";
 					
 		$totalRightPairCount += $clustRightPairCount;
 		$totalWrongPairCount += $clustWrongPairCount;
@@ -836,13 +825,10 @@ sub calcPerf($$$$$$;$)
 
 	($precision, $recall, $f1) = trunc(4, $precision, $recall, $f1);
 
-	print $tee "Summary:\n";
-	print $tee "Prec: $precision. Recall: $recall. F1: $f1\n\n";
+	print $ALLLOG "Summary:\n";
+	print $ALLLOG "Prec: $precision. Recall: $recall. F1: $f1\n\n";
 	
-	if($batchMode){
-		print $ALLLOG "Summary:\n";
-		print $ALLLOG "Prec: $precision. Recall: $recall. F1: $f1\n\n";
-		
+	if($batchMode){		
 		$name2myperf{$focusName}{$stage}{$thres}{precision} = $precision;
 		$name2myperf{$focusName}{$stage}{$thres}{recall} = $recall;
 		$name2myperf{$focusName}{$stage}{$thres}{f1} = $f1;
@@ -855,7 +841,7 @@ sub clusterAuthor
 	
 	my $origName = $args{origName};
 	if(!$origName){
-		print $tee "The author name to cluster is not given, abort\n";
+		print $ALLLOG "The author name to cluster is not given, abort\n";
 		return;
 	}
 	my $name = lc($origName);
@@ -864,7 +850,7 @@ sub clusterAuthor
 	}
 	
 	if(!exists $gNames{$name}){
-		print $tee "'$origName' doesn't appear in the loaded DBLP file. Abort\n";
+		print $ALLLOG "'$origName' doesn't appear in the loaded DBLP file. Abort\n";
 		return;
 	}
 
@@ -872,7 +858,7 @@ sub clusterAuthor
 	
 	if(!exists $chnNameAmbig{$name}){
 		$isChineseName = 0;
-		print $tee "Warn: '$origName' doesn't look like a Chinese name\n";
+		print $ALLLOG "Warn: '$origName' doesn't look like a Chinese name\n";
 	}
 	
 #	my @coauthorBlacklist;
@@ -895,14 +881,14 @@ sub clusterAuthor
 			if(! $maxCoauthorJacThres){
 				$maxCoauthorJacThres = $minCoauthorJacThres;
 			}
-			print $tee "Using Jaccard simi for coauthors. Thres: $minCoauthorJacThres - $maxCoauthorJacThres\n";
+			print $ALLLOG "Using Jaccard simi for coauthors. Thres: $minCoauthorJacThres - $maxCoauthorJacThres\n";
 		}
 		if($venueJacThres){
 			($minVenueJacThres, $maxVenueJacThres) = split /-/, $venueJacThres;
 			if(! $maxVenueJacThres){
 				$maxVenueJacThres = $minVenueJacThres;
 			}
-			print $tee "Using Jaccard simi for venues. Thres: $minVenueJacThres - $maxVenueJacThres\n";
+			print $ALLLOG "Using Jaccard simi for venues. Thres: $minVenueJacThres - $maxVenueJacThres\n";
 		}
 	}
 		
@@ -939,7 +925,9 @@ sub clusterAuthor
 	my @title_Coauthors = ("BUG");	# place holder, catch bug if accessed
 	push @title_Coauthors, map { [ @{ $gPublications[$_]->authors } ] } @pubIDs;
 
-	my %context = (	 titles =>	\@titles,
+	my %context = (	 
+					 focusName => $name,
+					 titles =>	\@titles,
 					 identities => \@identities,
 					 years => \@years,
 					 pubset => \@pubset,
@@ -952,9 +940,7 @@ sub clusterAuthor
 	my @seedClusters;
 	my @unknownKeys;
 
-	if($batchMode){
-		print $ALLLOG "Try to merge $titleCount papers of '$origName' by coauthorship\n";
-	}
+	print $ALLLOG "Try to merge $titleCount papers of '$origName' by coauthorship\n";
 	
 	# seeds are to assist in building the ground truth file.
 	# they are not used in the testing. otherwise it's cheating
@@ -962,20 +948,20 @@ sub clusterAuthor
 		for $seedClusterKey(@$seedClusterKeys){
 			@unknownKeys = grep { ! exists $pubkey2sn{$_} } @$seedClusterKey;
 			if(@unknownKeys){
-				print $tee "Unknown pubkeys:\n", join(", ", @unknownKeys), "\n";
+				print $ALLLOG "Unknown pubkeys:\n", join(", ", @unknownKeys), "\n";
 				exit;
 			}
 			push @seedClusters, [ map { $pubkey2sn{$_} } @$seedClusterKey ];
 		}
-		@clusters1 = seedMergeSharingCoauthor( $name, \@clusters, \@seedClusters,
+		@clusters1 = seedMergeSharingCoauthor( \@clusters, \@seedClusters,
 						\@title_Coauthors, \%context );
 	}
 	else{
 		#@clusters1 = mergeSharingCoauthor($name, \@clusters, \@title_Coauthors);
 		if( $isChineseName ){
 			if( ! $minCoauthorJacThres ){
-				@clusters1 = probMergeSharingCoauthor( $name, \@clusters, \@title_Coauthors, 
-													$COAUTHOR_ERROR_TOLERANCE, $COAUTHOR_SAME_MN_ODDS_THRES,
+				@clusters1 = probMergeSharingCoauthor( \@clusters, \@title_Coauthors, 
+													$COAUTHOR_ERROR_TOLERANCE, $COAUTHOR_SAME_CAT_ODDS_THRES,
 													\%context );
 				#    ( $pClusters, $pClusterNos, $pubset, $batchMode, $focusName, $stage, $thres )									
 				calcPerf( \@clusters1, undef, \@pubset, $batchMode, $name, 0, 0 );
@@ -983,19 +969,16 @@ sub clusterAuthor
 			}
 			else{
 				for($thres = $minCoauthorJacThres; $thres <= $maxCoauthorJacThres; $thres += $stepDelta){
-					@clusters1 = jaccardMergeSharingCoauthor( $name, \@clusters, \@title_Coauthors, 
+					@clusters1 = jaccardMergeSharingCoauthor( \@clusters, \@title_Coauthors, 
 																$thres, \%context );
 					calcPerf( \@clusters1, undef, \@pubset, 1, $name, 0, $thres );
-					
-					if(! $batchMode){
-						saveClusters("$origName-c1.txt", \@clusters1, undef, undef, \@pubset, $useUnigram);
-					}
+					saveClusters("$origName-c1.txt", \@clusters1, undef, undef, \@pubset, $useUnigram);
 				}
 			}
 		}
 		else{
 			# non-Chinese names, merge by coauthors directly, no threshold.
-			@clusters1 = mergeSharingCoauthor($name, \@clusters, \@title_Coauthors);
+			@clusters1 = mergeSharingCoauthor( \@clusters, \@title_Coauthors, \%context );
 			
 			if($minCoauthorJacThres){
 				# fill in the slots of all thres values. for the convenience of summarization
@@ -1022,7 +1005,7 @@ sub clusterAuthor
 	
 	if(! $isChineseName){
 		if(! $K){
-			print $tee "'$origName' doesn't appear to be a Chinese name, K is set to 2\n";
+			print $ALLLOG "'$origName' doesn't appear to be a Chinese name, K is set to 2\n";
 			$K = 2;
 		}
 	}
@@ -1037,23 +1020,20 @@ sub clusterAuthor
 	# the threshold is just $CLUST_THRES
 	my $clustThres 	= $args{clustThres} || $CLUST_THRES;
 	
-	print $tee "Try to cluster $titleCount papers of '$origName' into $K clusters. Thres: $clustThres\n";
-	if($batchMode){
-		print $ALLLOG "Try to cluster $titleCount papers of '$origName' into $K clusters. Thres: $clustThres\n";
-	}
+	print $ALLLOG "Try to cluster $titleCount papers of '$origName' into $K clusters. Thres: $clustThres\n";
 	
 	if($useUnigram){
-		print $tee " Use unigram to calc title simi.\n"
+		print $ALLLOG "Use unigram to calc title simi.\n"
 	}
 	else{
-		print $tee "\n";
+		print $ALLLOG "\n";
 	}
 	
 	my @title_ConceptVectors = ("BUG");
 	
 	my %matchTerms;
 	
-	print STDERR "Extract concept vectors from titles:\n";
+	print $ALLLOG "Extract concept vectors from titles:\n";
 	
 	for($pubsn = 1; $pubsn < @titles; $pubsn++){
 		print STDERR "\r$pubsn\r";
@@ -1067,8 +1047,9 @@ sub clusterAuthor
 		
 		push @title_ConceptVectors, { %matchTerms };
 	}
-	print STDERR "Concept vectors of $pubsn papers extracted\n";
-		
+	print $ALLLOG "Concept vectors of $pubsn papers extracted\n";
+	
+	$context{title_Coauthors} = \@title_Coauthors;
 	$context{title_ConceptVectors} = \@title_ConceptVectors;
 	$context{ancestorTree} = \@ancestorTree;
 	$context{emptyConceptVecSimiPrior} = $clustThres / 2;
@@ -1083,7 +1064,7 @@ sub clusterAuthor
 			$context{venueJacThres} = $thres;
 
 			if($venueJacThres){
-				print $tee "venueJacThres: $thres.\n";
+				print $ALLLOG "venueJacThres: $thres.\n";
 			}
 			
 			my ($pClusters, $pClusterVecs, $pClusterNos) = agglomerative($K, $clustThres, \%context, \&calcConceptVectorSimi, 
@@ -1117,7 +1098,7 @@ sub cmdline
 	my ( $K, $name, $clustThres );
 	my $input;
 	
-	my $terminal = Term::ReadLine->new();
+	my $terminal = Term::ReadLine->new('clust');
 	my $prompt = "CMD>";
 
 	while(1){
@@ -1188,10 +1169,10 @@ sub cmdline
 					}
 					eval $param2;
 					if($@){
-						print STDERR "$@\n";
+						print $ALLLOG "$@\n";
 					}
 					else{
-						print STDERR "\n";
+						print $ALLLOG "\n";
 					}
 				}
 				when(/^m$/){
@@ -1206,7 +1187,7 @@ sub cmdline
 						print STDERR "Title doesn't contain any valid word.\n";
 						break;
 					}
-					print $tee "Keywords: ",
+					print $ALLLOG "Keywords: ",
 								quoteArray(map { $lemmaCache[$_]->[0] } @lemmaIDs), "\n\n";
 	
 					my %maxMatchFreqs = matchTitle(\@ancestorTree, 1, $title, 0.3, 0);
@@ -1216,7 +1197,7 @@ sub cmdline
 										} keys %maxMatchFreqs;
 					my $posting;
 					for $posting(@postings){
-						print $tee "$terms[$posting], $maxMatchFreqs{$posting}->[0]: ",
+						print $ALLLOG "$terms[$posting], $maxMatchFreqs{$posting}->[0]: ",
 							quoteArray( map { $lemmaCache[ $lemmaIDs[$_] ]->[0] } 
 											@{ $maxMatchFreqs{$posting}->[1] } ),
 									"\n";
@@ -1225,10 +1206,10 @@ sub cmdline
 				when(/^uni$/){
 					$useUnigram = ! $useUnigram;
 					if($useUnigram){
-						print $tee "Unigram on.\n";
+						print $ALLLOG "Unigram on.\n";
 					}
 					else{
-						print $tee "Unigram off.\n";
+						print $ALLLOG "Unigram off.\n";
 					}
 				}
 			}

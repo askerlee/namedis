@@ -65,7 +65,7 @@ if($opt{'t'}){
 	print STDERR "Summarize at thres $selThres\n";
 }
 
-my $distinctResultDir = "distinct-results/";
+my $distinctResultDir = "distinct-results/current/";
 if(exists $opt{'p'}){
 	$distinctResultDir = $opt{'p'};
 	if( $distinctResultDir !~ /\/$/ ){
@@ -452,7 +452,7 @@ else{
 	}
 	push @{ $perfByType{f1} }, sprintf "%.1f", $myPerfSumByStage[$stage][$i]{'f1'} / $N * 100;
 		
-	highlightAndPrint( \%perfByType );
+	highlightAndPrint( \%perfByType, 'macro' => 1 );
 	# finish printing the macro-F1 line
 	
 	%perfByType = ();
@@ -491,9 +491,13 @@ else{
 	
 }
 
+# input: one line (one name, or one average score) of all competitors
+# output: add LaTeX markers to make the line a table row
+# %args: only 1: 'macro', i.e. this line is the macro-average scores, so underline the F1 scores
 sub highlightAndPrint
 {
 	my $perfByType = shift;
+	my %args = @_;
 	
 	my $i;
 	for $k( "precision", "recall", "f1" ){
@@ -513,6 +517,10 @@ sub highlightAndPrint
 	for( $i = 0; $i < @{ $perfByType->{ "precision" } }; $i++ ){
 		for $k( "precision", "recall", "f1" ){
 			push @fields, $perfByType->{$k}->[$i];
+		}
+		# a dirty hack
+		if($args{macro}){
+			$fields[-1] = "\\underline{" . $fields[-1] . "}";
 		}
 	}
 	
